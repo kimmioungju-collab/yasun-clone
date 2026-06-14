@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T12:03:40.484533+09:00",
+ "updated": "2026-06-14T12:07:00.230043+09:00",
  "quotes": {
   "k200": {
    "price": 1291.32,
@@ -692,7 +692,7 @@
    ]
   },
   "btc": {
-   "price": 64473.14,
+   "price": 64469.89,
    "prev": 64412.65,
    "spark": [
     64390.1406,
@@ -731,12 +731,13 @@
     64476.3594,
     64455.0,
     64456.2812,
-    64484.0508,
-    64473.1406
+    64466.7188,
+    64472.6992,
+    64469.8906
    ]
   },
   "eth": {
-   "price": 1681.81,
+   "price": 1681.51,
    "prev": 1680.1036,
    "spark": [
     1678.78,
@@ -770,13 +771,14 @@
     1682.95,
     1682.16,
     1682.87,
-    1682.11,
+    1681.95,
     1681.12,
     1682.09,
     1681.33,
     1681.51,
-    1682.1899,
-    1681.8101
+    1681.55,
+    1681.89,
+    1681.51
    ]
   }
  },
@@ -784,72 +786,86 @@
   {
    "title": "[마켓스토리] '수익률 1등' 코스피, MSCI '선진지수 후보'에 다시 오르나",
    "source": "연합뉴스",
-   "time": "2026-06-14T07:05:00+09:00"
+   "time": "2026-06-14T07:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uN3d2VUpVTFRIZVhMZUtZY08yd2hMWmZhYnlxNFhISEUxVXpZM2pjanFQZWE5NEx2RUhVM19NcUtGMEhBRjVTdTA1S0pzem5PRUcyUlZDcExONnRUVzNZSNIBYEFVX3lxTE9uN3d2VUpVTFRIZVhMZUtZY08yd2hMWmZhYnlxNFhISEUxVXpZM2pjanFQZWE5NEx2RUhVM19NcUtGMEhBRjVTdTA1S0pzem5PRUcyUlZDcExONnRUVzNZSA?oc=5"
   },
   {
    "title": "코스피 8000의 두 얼굴… 신고가보다 신저가 종목 더 많았다 - 조선비즈",
    "source": "Chosunbiz",
-   "time": "2026-06-14T10:07:00+09:00"
+   "time": "2026-06-14T10:07:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFJKS1QwVzVlQ1pIYTI3SFlWcmlNYy1aeG9McnpZX0JNYU9vMnp0SHYtbDhkUXotLTFfeFFJN3l0S3N6V3dkWEJNUVhVdEpSWGlST1lZSy1yVEpaU1A3OU1EMlZ6WVVxMGxlT1dYckluZ0x5SUZuN0hRRFlCTWtfUHVsTjAzWDDSAZsBQVVfeXFMUC1raXZZWTFwQ0FJRW8wcmx0VkFlWFV6REVMR2tSaWVhTzVmSGVxYklhaGhhaXN2WFY0WWRJa25FOUhCa19ReGFhVVNKd0Jnei13VTBxRE5mbkhSQnFOYlBjaDBQTWdaTUU2UHB5WUk2U2RZNHNpbllZSml5N2otVF9tdlhsQkFyNnYySGxDR0VPc0lVUWJ5Yjhxc0U?oc=5"
   },
   {
    "title": "금융당국, 증시 변동성 확대에 금융·증권사 집중 점검",
    "source": "서울경제TV",
-   "time": "2026-06-14T08:00:05+09:00"
+   "time": "2026-06-14T08:00:05+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IU0dnOFhzcG5jLS1MdFZEdl8wSWVHT1ZWbDZlMUFGSDFuS1RxV1hRYU9QOUNPUDFuVTlMbnRwVFdlNlkwQkl6NHpvUm82M3pLOGFLYkhEaDhEWHRCNmc5dm9fWTg?oc=5"
   },
   {
    "title": "비트코인·금값 ′뚝′…약세장 언제 끝날까",
    "source": "연합뉴스TV",
-   "time": "2026-06-13T19:43:54+09:00"
+   "time": "2026-06-13T19:43:54+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DcFRiVnNPamtrZE43Rm9Rcm1aR2ZDR3l2N1cxZ3pmc3pqTnNoR3VMX2pKeVJSeXctb0hqSm02SUE4ZFZ1NjZhT1NlMVYtUGFJZHUzV2diUHB4VW1WbDFLbi03WkIwclE?oc=5"
   },
   {
    "title": "[시론] 환율 1500원대 고착화 경계해야",
    "source": "경북신문",
-   "time": "2026-06-14T10:36:11+09:00"
+   "time": "2026-06-14T10:36:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yeXhMQ3dsVVVyVDVKQmZzTEJ0YlpiYktNUjVlODlhTUg3Ni0wRGNfUGtQZkJJZTdxUDRYcFYwcnRFSUEzTGlYLTNtTGYwSWJUeHpBUFFvWGE?oc=5"
   },
   {
    "title": "(주간증시전망)전쟁 우려 덜고 AI 랠리 재시동…FOMC는 변수",
    "source": "뉴스토마토",
-   "time": "2026-06-14T06:00:02+09:00"
+   "time": "2026-06-14T06:00:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNlh2Um5yUGNSaXZyNFlnbmNnMzNqcHg3N0p1ZFdLQTdYTGFMRmNtNDdzTHE5X2k3Mi1mRlF2b3ZNWXJtZUY4R0c2ZVVUdWpFdThMdkpsTDhLZ1UteXp3Qg?oc=5"
   },
   {
    "title": "靑 \"환율 좀 안정돼야…대미투자 펀드 논의에 도움\"",
    "source": "v.daum.net",
-   "time": "2026-06-14T03:27:00+09:00"
+   "time": "2026-06-14T03:27:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnZzYzVW5vbHJrLXpmdEsxN0xscWtHZEpYdWdXRnB0YV9SNEVlOWhKcEVWTVZjXzc2WEZ0al9kQmpCYy12QjZQM2JTR1BuTlU?oc=5"
   },
   {
    "title": "“종전 사인 한다며?”…월요일 기다리는 개미들, 코스피 9000 재도전",
    "source": "매일경제",
-   "time": "2026-06-14T10:31:02+09:00"
+   "time": "2026-06-14T10:31:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvbnVLQno3OHFwRFpIN3JnUkRBSjN6dGQxbVBJMllOUlFkcFZSelBPZ0VYOTI5VTcxRHcxWFRPMWpYYVhIbWczY0hUWnNXNVkxb0E?oc=5"
   },
   {
    "title": "스페이스X 첫날 축제 끝났다…이번 주가 진짜 승부처인 이유",
    "source": "글로벌이코노믹",
-   "time": "2026-06-14T07:51:33+09:00"
+   "time": "2026-06-14T07:51:33+09:00",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzA2TkdxV1NYU2trU1JrNlU0OFJKNjZiODdURzJaTkJQRnBTTVBld1J6aTlYVGNvaE83Sy1Mb3FzaXY4VGNsd1dqQjFSd0lQMHRfdDN5SVRJSzFCZWJaYU5nMDJXRGhQekZ1QXlMczdwdDNRaDJaNGZrenllcWEtRHFUM3J5TkU?oc=5"
   },
   {
    "title": "[주간증시전망] ‘롤러코스터’ 코스피…외인 매수 속 연준 매파 경계",
    "source": "브릿지경제",
-   "time": "2026-06-14T10:43:00+09:00"
+   "time": "2026-06-14T10:43:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUHQwcVVVVlZLZ2NhNGJEbF9kY3NPbTRhZ3lHdmRlV1d5djExaVEyUDhvT1NKNjZRazg3LVNGS1BQZHlJUzJfQ0lwRmh1Nlhmd2VHZEJ5Q0Fvdw?oc=5"
   },
   {
    "title": "한국 증시 랠리, MSCI 선진국 시장 편입 기대감 고조",
    "source": "Investing.com 한국어",
-   "time": "2026-06-14T10:19:00+09:00"
+   "time": "2026-06-14T10:19:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LV1ZDcW8xUC1TQUliLWFNdmFQYWZZZ05abDlnOEtqYlVRSHF2Nm5MSUo3anh2OGpGSVBreHliTjlDOWpZM0J1RE1MR0JMc256UHVVNVVKV3RkZmxYdWJ3aENGWlRlYjNiY0taOEFJX2w?oc=5"
   },
   {
    "title": "靑 \"환율은 안정돼야\"…대미투자 앞두고 외환시장 관리 의지 시사",
    "source": "연합인포맥스",
-   "time": "2026-06-13T20:19:00+09:00"
-  },
-  {
-   "title": "오락가락 코스피에 골드만삭스 \"기술적 조정\"",
-   "source": "더구루",
-   "time": "2026-06-14T00:00:24+09:00"
+   "time": "2026-06-13T20:19:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtdWJZOUlQSmFpNnhROXpaLVN0SzNuN01Wcld4eUdzOTJMN0JhYmRsb0RCU0lWMVAzcEU2SVdMNm1KOHRIX3VBNk9RSEpURXhacldBSWR2cHZSVFotYXgtMGhwR1BFRkwyUGNidFlTQ3k?oc=5"
   },
   {
    "title": "\"12만달러가 꿈이 됐다\"…비트코인 반토막 6만달러 붕괴, 기관도 탈출",
    "source": "조선일보",
-   "time": "2026-06-13T23:41:00+09:00"
+   "time": "2026-06-13T23:41:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hT3lVYm01OGFuWGNLM0IzT3pFTjZoeVE5Nm92OXRjN18wcWxNbUFIcGJsN1o5R0piZk90aTcycDh4ZC1nYXZ0eUcyX1RzbDNQUnZrOGNiOWRESTdiQmN1OVp2QTc5dElqcFE?oc=5"
+  },
+  {
+   "title": "증시 활황에 매도대금담보대출 ‘쑥’…증권사 넉 달 만에 536억 벌었다",
+   "source": "v.daum.net",
+   "time": "2026-06-14T10:28:32+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tbVhmWWJiX3FWMjdBUEllS1A4YXBvMl84MkxxZjN1YXRoYVM5bGZMNE5OeTl6ZnVidjJYNjZVWnpUT3Jxd2dXZ3BmUUJUYjQ?oc=5"
   }
  ]
 }

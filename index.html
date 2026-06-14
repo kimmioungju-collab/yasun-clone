@@ -363,7 +363,7 @@ async function pollData(){
     });
     if(Array.isArray(d.news)&&d.news.length){
       newsItems=d.news.map(n=>{const tg=newsTag(n.title);
-        return {tag:tg[0],label:tg[1],txt:n.title+(n.source?(' · '+n.source):''),t:n.time?new Date(n.time):new Date()};});
+        return {tag:tg[0],label:tg[1],txt:n.title,source:n.source||'',url:n.url||'',t:n.time?new Date(n.time):new Date()};});
       renderNews();
     }
     if(d.updated){const el=document.getElementById('dataUpdated');
@@ -478,8 +478,11 @@ function renderNews(){
   document.getElementById('flashTxt').textContent=newsItems[0]?newsItems[0].txt:'';
   document.getElementById('newsList').innerHTML=newsItems.map(n=>{
     const ago=timeAgo(n.t);
-    return `<div class="news-item"><span class="tag ${n.tag}">${n.label}</span>
-      <div class="body"><div class="t">${n.txt}</div><div class="meta">야선뉴스 · ${ago}</div></div></div>`;
+    const src=n.source||'야선뉴스';
+    const open=n.url?` onclick="window.open('${n.url}','_blank','noopener')" style="cursor:pointer"`:'';
+    const arrow=n.url?'<span style="float:right;color:var(--txt3)">원문 ↗</span>':'';
+    return `<div class="news-item"${open}><span class="tag ${n.tag}">${n.label}</span>
+      <div class="body"><div class="t">${n.txt}</div><div class="meta">${src} · ${ago}${arrow}</div></div></div>`;
   }).join('');
 }
 function timeAgo(d){const s=Math.floor((Date.now()-d)/1000);if(s<60)return s+'초 전';if(s<3600)return Math.floor(s/60)+'분 전';return Math.floor(s/3600)+'시간 전';}

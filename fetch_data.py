@@ -75,8 +75,10 @@ def fetch_news(limit=14):
         t = re.search(r"<title>(.*?)</title>", it, re.S)
         p = re.search(r"<pubDate>(.*?)</pubDate>", it, re.S)
         src = re.search(r"<source[^>]*>(.*?)</source>", it, re.S)
+        lk = re.search(r"<link>(.*?)</link>", it, re.S)
         if not t:
             continue
+        link = html.unescape(lk.group(1)).strip() if lk else ""
         title = html.unescape(t.group(1)).strip()
         # 구글뉴스는 " - 출처" 접미사를 붙임 → 분리
         source = html.unescape(src.group(1)).strip() if src else ""
@@ -89,7 +91,7 @@ def fetch_news(limit=14):
                 pub = dt.replace(tzinfo=timezone.utc).astimezone(KST).isoformat()
             except Exception:
                 pub = ""
-        out.append({"title": title, "source": source, "time": pub})
+        out.append({"title": title, "source": source, "time": pub, "url": link})
     return out
 
 def main():
