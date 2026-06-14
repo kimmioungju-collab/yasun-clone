@@ -419,14 +419,14 @@ const arr  = n => n>=0 ? '▲' : '▼';
 
 /* ---- 종목 마스터 (야선지지 구성과 동일 카테고리) ---- */
 const ASSETS = [
-  {key:'k200',  nm:'코스피200 야간선물', badge:'야선', base:351.20, vol:0.9,  dec:2, tv:'KRX:KOSPI200'},
-  {key:'kq150', nm:'코스닥150 야간선물', badge:'야선', base:1342.5, vol:1.4,  dec:1, tv:'KRX:KOSDAQ150'},
+  {key:'k200',  nm:'코스피200 야간선물', badge:'야선', base:351.20, vol:0.9,  dec:2, tv:'KRX:069500'},
+  {key:'kq150', nm:'코스닥150 야간선물', badge:'야선', base:1342.5, vol:1.4,  dec:1, tv:'KRX:229200'},
   {key:'kospi', nm:'코스피 종합지수',    badge:'지수', base:2685.4, vol:0.6,  dec:2, tv:'KRX:KOSPI'},
   {key:'kosdaq',nm:'코스닥 종합지수',    badge:'지수', base:842.7,  vol:0.8,  dec:2, tv:'KRX:KOSDAQ'},
   {key:'nq',    nm:'나스닥100 선물',     badge:'선물', base:21450,  vol:0.7,  dec:1, tv:'CME_MINI:NQ1!'},
   {key:'es',    nm:'S&P500 선물',        badge:'선물', base:5985,   vol:0.5,  dec:2, tv:'CME_MINI:ES1!'},
   {key:'ndx',   nm:'나스닥 종합지수',    badge:'지수', base:19200,  vol:0.6,  dec:1, tv:'NASDAQ:IXIC'},
-  {key:'sox',   nm:'필라델피아 반도체',  badge:'지수', base:5120,   vol:1.1,  dec:1, tv:'NASDAQ:SOX'},
+  {key:'sox',   nm:'필라델피아 반도체',  badge:'지수', base:5120,   vol:1.1,  dec:1, tv:'NASDAQ:SOXX'},
   {key:'nikkei',nm:'니케이 225',         badge:'지수', base:38900,  vol:0.6,  dec:0, tv:'TVC:NI225'},
   {key:'wti',   nm:'WTI 원유',           badge:'원자재', base:71.4, vol:1.0,  dec:2, tv:'TVC:USOIL'},
   {key:'brent', nm:'브렌트유',           badge:'원자재', base:74.8, vol:1.0,  dec:2, tv:'TVC:UKOIL'},
@@ -553,7 +553,7 @@ function renderTicker(){
 
 /* ===================== 실시간 차트 (TradingView) ===================== */
 const CHART_TABS=[
-  ['KRX:KOSPI200','코스피200'],['KRX:KOSDAQ150','코스닥150'],['CME_MINI:NQ1!','나스닥100'],
+  ['KRX:069500','코스피200'],['KRX:229200','코스닥150'],['CME_MINI:NQ1!','나스닥100'],
   ['CME_MINI:ES1!','S&P500'],['TVC:USOIL','WTI원유'],['TVC:GOLD','금'],
   ['BINANCE:BTCUSDT','비트코인'],['BINANCE:ETHUSDT','이더리움'],['FX_IDC:USDKRW','원/달러'],
 ];
@@ -885,7 +885,7 @@ function loadWidgets(){
   // macro mini chart
   tvScript('tvMacroChart','https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js',
     {colorTheme:'dark',dateRange:'1D',locale:'kr',width:'100%',height:'460',showChart:true,
-     tabs:[{title:'지수',symbols:[{s:'KRX:KOSPI200',d:'코스피200'},{s:'CME_MINI:NQ1!',d:'나스닥100'},{s:'CME_MINI:ES1!',d:'S&P500'},{s:'TVC:NI225',d:'니케이'}]},
+     tabs:[{title:'지수',symbols:[{s:'KRX:069500',d:'코스피200'},{s:'CME_MINI:NQ1!',d:'나스닥100'},{s:'CME_MINI:ES1!',d:'S&P500'},{s:'TVC:NI225',d:'니케이'}]},
            {title:'원자재·FX',symbols:[{s:'TVC:USOIL',d:'WTI'},{s:'TVC:GOLD',d:'금'},{s:'FX_IDC:USDKRW',d:'원/달러'},{s:'BINANCE:BTCUSDT',d:'비트코인'}]}]});
 }
 
@@ -915,7 +915,7 @@ function boot(){
   newsItems=[]; renderNews();        // 실제 뉴스는 pollData가 채움
   PRED_ASSETS.forEach(([k])=>newRound(k)); renderPred();
   calcFee(); renderFX(); renderPopular(); renderMock();
-  loadChart('KRX:KOSPI200','코스피200'); loadWidgets();
+  loadChart('KRX:069500','코스피200'); loadWidgets();
 
   // 테스트매매 컨트롤
   document.getElementById('mkBuy').onclick=()=>{document.getElementById('mkSide').value='long';mockOpen();};
