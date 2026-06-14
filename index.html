@@ -211,7 +211,7 @@
     </section>
 
     <section class="section" id="chat" style="margin:0">
-      <div class="sec-head"><h2><span class="bar"></span>롱숏 채팅 <span class="pill" style="background:#3a2a12;color:#f0b75a">데모</span></h2><span class="more" id="chatOnline">0명 접속</span></div>
+      <div class="sec-head"><h2><span class="bar"></span>롱숏 채팅 <span class="pill">실시간</span></h2><span class="more" id="chatOnline">0명 접속</span></div>
       <div class="panel chat">
         <div class="ls-bar"><div class="long" id="lsLong">롱 50%</div><div class="short" id="lsShort">숏 50%</div></div>
         <div class="chat-msgs" id="chatMsgs"></div>
@@ -281,7 +281,7 @@
 
   <!-- ===== 리더보드 ===== -->
   <section class="section" id="lb">
-    <div class="sec-head"><h2><span class="bar"></span>리더보드 <span class="pill" style="background:#3a2a12;color:#f0b75a">데모</span></h2><span class="more">예측 라운드 누적 수익률 TOP</span></div>
+    <div class="sec-head"><h2><span class="bar"></span>리더보드 <span class="pill">실시간</span></h2><span class="more">예측 라운드 누적 수익률 TOP</span></div>
     <div class="panel">
       <table class="lb"><thead><tr><th>순위</th><th>트레이더</th><th style="text-align:right">승률</th><th style="text-align:right">누적 P</th><th style="text-align:right">수익률</th></tr></thead>
       <tbody id="lbBody"></tbody></table>
@@ -296,7 +296,25 @@
 </footer>
 
 <script src="https://s3.tradingview.com/tv.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-database-compat.js"></script>
 <script>
+/* ===================== Firebase 실시간 백엔드 ===================== */
+const FB_CONFIG = {
+  apiKey: "AIzaSyB7PSanj7ujgF174weWRYJ6KMAlHBWbrNE",
+  authDomain: "work-schedule-dash-4ceb2.firebaseapp.com",
+  databaseURL: "https://work-schedule-dash-4ceb2-default-rtdb.firebaseio.com",
+  projectId: "work-schedule-dash-4ceb2",
+  appId: "1:377057549914:web:4cab16e837a2f84a93c263"
+};
+let DB=null, FB_OK=false;
+try{ firebase.initializeApp(FB_CONFIG); DB=firebase.database(); FB_OK=true; }catch(e){ console.warn('firebase init 실패',e); }
+// 익명 사용자 식별 + 닉네임(로컬 저장)
+const MY_UID = localStorage.getItem('ys_uid') || ('u'+Math.random().toString(36).slice(2,10));
+localStorage.setItem('ys_uid', MY_UID);
+let MY_NICK = localStorage.getItem('ys_nick') || ('익명'+Math.floor(1000+Math.random()*9000));
+localStorage.setItem('ys_nick', MY_NICK);
+
 /* ===================== 야선지지 클론 — 프론트 로직 ===================== */
 const KRW = n => n.toLocaleString('ko-KR',{maximumFractionDigits:0});
 const F2  = n => n.toLocaleString('ko-KR',{minimumFractionDigits:2,maximumFractionDigits:2});
@@ -504,30 +522,41 @@ let online=0;
 function addMsg(who,pos,tx){
   const box=document.getElementById('chatMsgs');
   const d=document.createElement('div');d.className='msg';
-  d.innerHTML=`<span class="who ${pos}">${who}</span><span class="pos ${pos}">${pos==='l'?'롱':'숏'}</span><span class="tx">${esc(tx)}</span>`;
+  d.innerHTML=`<span class="who ${pos}">${esc(who)}</span><span class="pos ${pos}">${pos==='l'?'롱':'숏'}</span><span class="tx">${esc(tx)}</span>`;
   box.appendChild(d);box.scrollTop=box.scrollHeight;
   while(box.children.length>120)box.removeChild(box.firstChild);
 }
-function esc(s){return s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
-let longCount=52,shortCount=48;
+function esc(s){return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+let longCount=0,shortCount=0;
 function updateLS(){
-  // 가격 모멘텀에 약하게 연동
-  const m=live.k200.chgPct; if(Math.random()<0.5){ (m>=0?longCount++:shortCount++);}
-  const tot=longCount+shortCount, lp=Math.round(longCount/tot*100);
-  document.getElementById('lsLong').style.flex=lp; document.getElementById('lsShort').style.flex=100-lp;
+  const tot=longCount+shortCount||1, lp=Math.round(longCount/tot*100);
+  document.getElementById('lsLong').style.flex=lp||1; document.getElementById('lsShort').style.flex=(100-lp)||1;
   document.getElementById('lsLong').textContent='롱 '+lp+'%';
   document.getElementById('lsShort').textContent='숏 '+(100-lp)+'%';
 }
-function chatLoop(){
-  const pos=Math.random()<(longCount/(longCount+shortCount))?'l':'s';
-  const nick=NICKS[Math.floor(Math.random()*NICKS.length)];
-  const tx=NEWS_TAIL.concat(['지금 들어간다','존버 가즈아','손절각이다','이거 추세 살아있다','분할매수 중','난 관망','곧 정산이다']) ;
-  addMsg(nick,pos,tx[Math.floor(Math.random()*tx.length)]);
+/* 실시간 채팅/롱숏/접속자 (Firebase RTDB) */
+const seenMsg=new Set();
+function initRealtimeChat(){
+  if(!FB_OK){ document.getElementById('chatOnline').textContent='오프라인'; return; }
+  DB.ref('chat').orderByChild('t').limitToLast(60).on('child_added',s=>{
+    const m=s.val(); if(!m||seenMsg.has(s.key)) return; seenMsg.add(s.key);
+    addMsg(m.who||'익명', m.pos==='s'?'s':'l', m.tx||'');
+  });
+  DB.ref('longshort').on('value',s=>{
+    const v=s.val()||{}; longCount=+v.long||0; shortCount=+v.short||0; updateLS();
+  });
+  const meRef=DB.ref('online/'+MY_UID);
+  meRef.set(Date.now()); meRef.onDisconnect().remove();
+  DB.ref('online').on('value',s=>{ online=s.numChildren();
+    document.getElementById('chatOnline').textContent=KRW(online)+'명 접속'; });
 }
 function sendChat(){
   const i=document.getElementById('chatInput'); const v=i.value.trim(); if(!v)return;
-  addMsg('나',chatPos,v); i.value='';
-  (chatPos==='l'?longCount++:shortCount++); updateLS();
+  i.value='';
+  if(FB_OK){
+    DB.ref('chat').push({who:MY_NICK,pos:chatPos,tx:v.slice(0,200),t:Date.now()});
+    DB.ref('longshort/'+(chatPos==='l'?'long':'short')).transaction(c=>(c||0)+1);
+  }else{ addMsg(MY_NICK,chatPos,v); }
 }
 
 /* ===================== 예측 라운드 ===================== */
@@ -568,6 +597,9 @@ function predTick(){
       const p=preds[k],diff=live[k].price-p.start,winUp=diff>=0;
       if(p.pick){ const win=(p.pick==='l')===winUp; myPoints+=win?100:-50;
         localStorage.setItem('yspoints',myPoints);
+        myGames++; if(win)myWins++;
+        localStorage.setItem('ys_games',myGames); localStorage.setItem('ys_wins',myWins);
+        saveScore();
         pushNews('hot','정산',`예측 라운드 정산: ${PRED_ASSETS.find(x=>x[0]===k)[1]} ${winUp?'롱':'숏'} 승 — 당신은 ${win?'+100P 적중!':'−50P'}`);
       }
       newRound(k);
@@ -598,16 +630,33 @@ function calcFee(){
     <div class="row"><span>수익률(증거금 대비)</span><span class="v ${cls(roi)}">${sign(roi)}${roi.toFixed(2)}%</span></div>`;
 }
 
-/* ===================== 리더보드 ===================== */
-function renderLB(){
-  const rows=NICKS.map((n,i)=>({n, w:55+Math.floor(Math.random()*40), p:50000-i*2700+Math.floor(Math.random()*3000), r:(120-i*9+Math.random()*10)}))
-    .sort((a,b)=>b.p-a.p);
-  document.getElementById('lbBody').innerHTML=rows.map((r,i)=>`
-    <tr><td><span class="rank ${i<3?'r'+(i+1):''}">${i+1}</span></td>
-    <td style="font-weight:700">${r.n}</td>
-    <td class="num">${r.w}%</td>
-    <td class="num">${KRW(r.p)} P</td>
-    <td class="num ${cls(r.r)}">${sign(r.r)}${r.r.toFixed(1)}%</td></tr>`).join('');
+/* ===================== 리더보드 (Firebase 실시간) ===================== */
+let myGames=parseInt(localStorage.getItem('ys_games')||'0');
+let myWins=parseInt(localStorage.getItem('ys_wins')||'0');
+function saveScore(){
+  if(!FB_OK) return;
+  DB.ref('leaderboard/'+MY_UID).set({name:MY_NICK,points:myPoints,games:myGames,wins:myWins,t:Date.now()});
+}
+function renderLBRows(rows){
+  if(!rows.length){ document.getElementById('lbBody').innerHTML=
+    '<tr><td colspan="5" style="text-align:center;color:var(--txt3);padding:18px">아직 예측 라운드 참가자가 없습니다. 첫 도전자가 되어보세요!</td></tr>'; return; }
+  document.getElementById('lbBody').innerHTML=rows.map((r,i)=>{
+    const w=r.games?Math.round(r.wins/r.games*100):0;
+    const roi=((r.points-1000)/1000*100);
+    const me=(r.uid===MY_UID)?' style="background:rgba(255,206,58,.08)"':'';
+    return `<tr${me}><td><span class="rank ${i<3?'r'+(i+1):''}">${i+1}</span></td>
+    <td style="font-weight:700">${esc(r.name||'익명')}${r.uid===MY_UID?' (나)':''}</td>
+    <td class="num">${w}%</td>
+    <td class="num">${KRW(r.points)} P</td>
+    <td class="num ${cls(roi)}">${sign(roi)}${roi.toFixed(1)}%</td></tr>`;}).join('');
+}
+function initRealtimeLB(){
+  if(!FB_OK){ renderLBRows([]); return; }
+  DB.ref('leaderboard').on('value',s=>{
+    const v=s.val()||{}; const rows=Object.entries(v).map(([uid,d])=>({uid,...d}))
+      .sort((a,b)=>(b.points||0)-(a.points||0)).slice(0,20);
+    renderLBRows(rows);
+  });
 }
 
 /* ===================== TradingView 위젯 (히트맵/캘린더/매크로) ===================== */
@@ -640,7 +689,12 @@ function initNav(){
     a.classList.add('active');
     document.getElementById(a.dataset.go).scrollIntoView({behavior:'smooth',block:'start'});
   });
-  document.getElementById('loginBtn').onclick=()=>alert('야선지지 클론 데모입니다. 로그인 없이 모든 기능을 체험할 수 있어요.');
+  document.getElementById('loginBtn').onclick=()=>{
+    const n=prompt('채팅·리더보드에서 사용할 닉네임을 입력하세요',MY_NICK);
+    if(n&&n.trim()){ MY_NICK=n.trim().slice(0,16); localStorage.setItem('ys_nick',MY_NICK);
+      document.getElementById('loginBtn').textContent=MY_NICK; saveScore(); }
+  };
+  document.getElementById('loginBtn').textContent=MY_NICK;
   document.getElementById('joinBtn').onclick=()=>document.getElementById('pred').scrollIntoView({behavior:'smooth'});
   document.getElementById('posL').onclick=()=>{chatPos='l';posL.classList.add('la');posS.classList.remove('sa');};
   document.getElementById('posS').onclick=()=>{chatPos='s';posS.classList.add('sa');posL.classList.remove('la');};
@@ -651,24 +705,21 @@ function initNav(){
 
 function boot(){
   initNav(); buildChartTabs();
-  // seed
-  CHAT_SEED.forEach(([p,t])=>addMsg(NICKS[Math.floor(Math.random()*NICKS.length)],p,t));
-  NEWS_SEED.forEach(n=>newsItems.push({tag:n[0],label:n[1],txt:n[2],t:new Date(Date.now()-Math.random()*900000)}));
-  newsItems.sort((a,b)=>b.t-a.t); renderNews();
+  newsItems=[]; renderNews();        // 실제 뉴스는 pollData가 채움
   PRED_ASSETS.forEach(([k])=>newRound(k)); renderPred();
-  renderLB(); calcFee();
+  calcFee();
   loadChart('KRX:KOSPI200','코스피200'); loadWidgets();
-  online=1240+Math.floor(Math.random()*800);
-  document.getElementById('chatOnline').textContent=KRW(online)+'명 접속';
+
+  initRealtimeChat();                // 실시간 채팅/롱숏/접속자
+  initRealtimeLB();                  // 실시간 리더보드
+  updateLS();
 
   pollBinance().then(()=>{renderMarket();renderTicker();});
-  pollData();                       // 실제 시세/뉴스 즉시 로드
+  pollData();                        // 실제 시세/뉴스 즉시 로드
   setInterval(tick,1500);
   setInterval(pollBinance,8000);
-  setInterval(pollData,30000);       // 실데이터 30초마다 재확인
-  setInterval(chatLoop,2600);
+  setInterval(pollData,30000);        // 실데이터 30초마다 재확인
   setInterval(predTick,1000);
-  setInterval(()=>{online+=Math.floor((Math.random()-0.45)*8);document.getElementById('chatOnline').textContent=KRW(Math.max(900,online))+'명 접속';},5000);
 }
 window.addEventListener('load',boot);
 
