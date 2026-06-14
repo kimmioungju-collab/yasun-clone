@@ -33,5 +33,8 @@ jobs:
             echo "변경 없음"
           else
             git commit -m "chore: update market data $(date -u +%FT%TZ)"
-            git push
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin main && git push && break
+              echo "재시도 $i"; sleep 3
+            done
           fi
