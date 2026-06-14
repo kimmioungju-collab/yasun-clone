@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T13:15:15.994686+09:00",
+ "updated": "2026-06-14T15:56:04.421687+09:00",
  "quotes": {
   "k200": {
    "price": 1291.32,
@@ -451,41 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64469.28,
+   "price": 64255.06,
    "prev": 64412.65,
    "spark": [
-    64506.1719,
-    64591.3789,
-    64600.1797,
-    64638.0,
-    64623.6016,
-    64627.3086,
-    64557.3984,
-    64544.0117,
-    64538.0,
-    64600.7109,
-    64598.0391,
-    64569.3398,
-    64568.8594,
-    64556.0391,
-    64587.9414,
-    64608.0195,
-    64541.7109,
-    64515.3203,
-    64528.0,
-    64502.0117,
-    64482.8789,
-    64476.3594,
-    64455.0,
-    64456.2812,
-    64466.7188,
-    64480.9492,
-    64465.8398,
-    64494.8203,
-    64491.1484,
-    64501.1484,
-    64485.7109,
-    64453.9414,
     64457.1484,
     64452.4688,
     64484.6211,
@@ -493,45 +461,45 @@
     64501.1719,
     64479.5117,
     64469.2812,
-    64469.2812
+    64486.4883,
+    64467.4688,
+    64440.9492,
+    64435.1719,
+    64402.6211,
+    64364.6289,
+    64360.2695,
+    64318.9414,
+    64310.1016,
+    64344.1602,
+    64338.0,
+    64349.7188,
+    64323.8789,
+    64315.9883,
+    64276.8711,
+    64287.2617,
+    64333.7188,
+    64329.2812,
+    64340.1484,
+    64348.6719,
+    64330.3906,
+    64398.8398,
+    64440.8516,
+    64444.3594,
+    64409.4688,
+    64345.4805,
+    64350.3789,
+    64285.9219,
+    64223.9883,
+    64224.2695,
+    64237.0312,
+    64240.7305,
+    64255.0586
    ]
   },
   "eth": {
-   "price": 1680.08,
+   "price": 1675.91,
    "prev": 1680.1036,
    "spark": [
-    1680.72,
-    1683.88,
-    1683.7,
-    1687.5,
-    1686.79,
-    1685.91,
-    1684.63,
-    1683.8199,
-    1683.75,
-    1685.38,
-    1684.91,
-    1683.4,
-    1683.14,
-    1683.61,
-    1684.27,
-    1684.74,
-    1682.95,
-    1682.16,
-    1682.87,
-    1681.95,
-    1681.12,
-    1682.09,
-    1681.33,
-    1681.51,
-    1681.55,
-    1681.64,
-    1681.4,
-    1681.51,
-    1681.8,
-    1681.87,
-    1681.79,
-    1680.05,
     1679.1899,
     1680.24,
     1680.7,
@@ -539,7 +507,39 @@
     1680.9301,
     1679.84,
     1680.28,
-    1680.08
+    1680.6801,
+    1680.63,
+    1679.8101,
+    1679.14,
+    1677.6801,
+    1676.55,
+    1677.0601,
+    1676.73,
+    1677.11,
+    1677.66,
+    1677.8101,
+    1677.1899,
+    1676.1899,
+    1676.3101,
+    1674.98,
+    1674.16,
+    1676.9,
+    1677.13,
+    1677.45,
+    1677.71,
+    1677.1,
+    1678.99,
+    1680.54,
+    1680.59,
+    1679.37,
+    1678.01,
+    1678.46,
+    1677.3,
+    1675.9399,
+    1676.12,
+    1675.61,
+    1675.39,
+    1675.91
    ]
   },
   "eurkrw": {
@@ -684,6 +684,7 @@
    "price": 160.185,
    "prev": 159.915,
    "spark": [
+    160.197,
     160.187,
     160.195,
     160.209,
@@ -722,7 +723,6 @@
     160.213,
     160.192,
     160.207,
-    160.185,
     160.185
    ]
   },
@@ -780,10 +780,28 @@
  },
  "news": [
   {
+   "title": "“종전 사인 한다며?”…월요일 기다리는 개미들, 코스피 9000 재도전",
+   "source": "매일경제",
+   "time": "2026-06-14T10:31:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvbnVLQno3OHFwRFpIN3JnUkRBSjN6dGQxbVBJMllOUlFkcFZSelBPZ0VYOTI5VTcxRHcxWFRPMWpYYVhIbWczY0hUWnNXNVkxb0E?oc=5"
+  },
+  {
    "title": "[마켓스토리] '수익률 1등' 코스피, MSCI '선진지수 후보'에 다시 오르나",
    "source": "연합뉴스",
    "time": "2026-06-14T07:05:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uN3d2VUpVTFRIZVhMZUtZY08yd2hMWmZhYnlxNFhISEUxVXpZM2pjanFQZWE5NEx2RUhVM19NcUtGMEhBRjVTdTA1S0pzem5PRUcyUlZDcExONnRUVzNZSNIBYEFVX3lxTE9uN3d2VUpVTFRIZVhMZUtZY08yd2hMWmZhYnlxNFhISEUxVXpZM2pjanFQZWE5NEx2RUhVM19NcUtGMEhBRjVTdTA1S0pzem5PRUcyUlZDcExONnRUVzNZSA?oc=5"
+  },
+  {
+   "title": "코스피 8000인데···신고가보다 신저가 종목 더 많았다",
+   "source": "경향신문",
+   "time": "2026-06-14T13:31:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EbzZCcklhRHJlOXVjWmtET2Y5MERQbXdGZ3NOOV9YeGVYT0dybnJ6U1VXZVJaclAtSU9KcENjbHZZT3JQbGpBd2lzMF9mSWZXUGRsQzRrWFZtd9IBX0FVX3lxTE5fTGdudDBENDY4NDFmRzBTWjZBYmxFMmk0UU56YUxwUmVzRnRhZzBjVUJpb2J3NS1pWWFyaVhGZ1BaMG9SYkM4Y3R0QzJTdFFCS3VXNVpLbkpCUGxSd2xv?oc=5"
+  },
+  {
+   "title": "스페이스X 나스닥 입성…\"AI 인프라 기업으로 봐야\"",
+   "source": "v.daum.net",
+   "time": "2026-06-14T14:37:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PTmMwV2ZfTUY1UUQ3aDdKX2RFSGkzNXhicjJTLS1Na1c3TEItQS1EQUlObTJNejlWTE02T01sNGs2X3Fic0pwRDFjNUVkUDA?oc=5"
   },
   {
    "title": "\"12만달러가 꿈이 됐다\"…비트코인 반토막 6만달러 붕괴, 기관도 탈출",
@@ -798,10 +816,28 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IU0dnOFhzcG5jLS1MdFZEdl8wSWVHT1ZWbDZlMUFGSDFuS1RxV1hRYU9QOUNPUDFuVTlMbnRwVFdlNlkwQkl6NHpvUm82M3pLOGFLYkhEaDhEWHRCNmc5dm9fWTg?oc=5"
   },
   {
+   "title": "사이드카 6연발 '아찔'…반도체 레버리지가 삼킨 韓증시",
+   "source": "대한경제",
+   "time": "2026-06-14T14:59:57+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15RE1zck52V1FKaDk5cW9iTVFrMktlbDdzVkx0MXNETE93RkFwRS1EZ2t6NFM5WmJkXzVJWlYzUjFnTmF3d28wbnI5azVFdWkyX2xLOUdOdllPYUs5ei1oTlkwNUtoTFNJc0ZpS0p1OEFRVlNn?oc=5"
+  },
+  {
+   "title": "8000선 회복한 코스피…“상승 탄력 vs 추가 조정”",
+   "source": "마켓인",
+   "time": "2026-06-14T13:51:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3Smx1aFhOQVVuTFM5Q29raEdpc3hzd3Izekd2NXY2TVNlNzF6YS0ySXNyYlg3S1d1cEdoZ3p2ZmwxMGc4d3V4eUh3d2l5REtmdTVieklBcURVVS1vVnJWb2ktd0VLeUd4dm9LMGd5cnhvZFk?oc=5"
+  },
+  {
    "title": "[시론] 환율 1500원대 고착화 경계해야",
    "source": "경북신문",
    "time": "2026-06-14T10:36:11+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yeXhMQ3dsVVVyVDVKQmZzTEJ0YlpiYktNUjVlODlhTUg3Ni0wRGNfUGtQZkJJZTdxUDRYcFYwcnRFSUEzTGlYLTNtTGYwSWJUeHpBUFFvWGE?oc=5"
+  },
+  {
+   "title": "환율 하루 변동폭 10.1원에…기업 달러예금 3년 5개월만 최대",
+   "source": "중앙일보",
+   "time": "2026-06-14T15:47:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MMzQ3R1ppNnlwM3pvVzJOTXhuaFVNMFo2TWhOMEVxUUdoV1lEVjNYVWx0SERqcUk3UHNJU29PLUxrYl9LTklZWGRhbWRlV3BIZDNGMDlB?oc=5"
   },
   {
    "title": "비트코인·금값 ′뚝′…약세장 언제 끝날까",
@@ -810,58 +846,22 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DcFRiVnNPamtrZE43Rm9Rcm1aR2ZDR3l2N1cxZ3pmc3pqTnNoR3VMX2pKeVJSeXctb0hqSm02SUE4ZFZ1NjZhT1NlMVYtUGFJZHUzV2diUHB4VW1WbDFLbi03WkIwclE?oc=5"
   },
   {
-   "title": "[가상자산 나침반] 물가 충격 넘긴 비트코인…이번 주 ‘워시의 첫 FOMC’가 방향 가른다",
-   "source": "v.daum.net",
-   "time": "2026-06-14T12:28:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwVkpxX0J3UWVpcElIV1RUcUdEckdnTjFlQlVNMEJMUU5lM0xadDVPUDUyVm5EaEZlSjFZeTVGSnR3a21CQWVCMEVCeXZYUEE?oc=5"
-  },
-  {
-   "title": "(주간증시전망)전쟁 우려 덜고 AI 랠리 재시동…FOMC는 변수",
-   "source": "뉴스토마토",
-   "time": "2026-06-14T06:00:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNlh2Um5yUGNSaXZyNFlnbmNnMzNqcHg3N0p1ZFdLQTdYTGFMRmNtNDdzTHE5X2k3Mi1mRlF2b3ZNWXJtZUY4R0c2ZVVUdWpFdThMdkpsTDhLZ1UteXp3Qg?oc=5"
-  },
-  {
-   "title": "“종전 사인 한다며?”…월요일 기다리는 개미들, 코스피 9000 재도전",
-   "source": "매일경제",
-   "time": "2026-06-14T10:31:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvbnVLQno3OHFwRFpIN3JnUkRBSjN6dGQxbVBJMllOUlFkcFZSelBPZ0VYOTI5VTcxRHcxWFRPMWpYYVhIbWczY0hUWnNXNVkxb0E?oc=5"
-  },
-  {
-   "title": "스페이스X 첫날 축제 끝났다…이번 주가 진짜 승부처인 이유",
-   "source": "글로벌이코노믹",
-   "time": "2026-06-14T07:51:33+09:00",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzA2TkdxV1NYU2trU1JrNlU0OFJKNjZiODdURzJaTkJQRnBTTVBld1J6aTlYVGNvaE83Sy1Mb3FzaXY4VGNsd1dqQjFSd0lQMHRfdDN5SVRJSzFCZWJaYU5nMDJXRGhQekZ1QXlMczdwdDNRaDJaNGZrenllcWEtRHFUM3J5TkU?oc=5"
-  },
-  {
-   "title": "한국 증시 랠리, MSCI 선진국 시장 편입 기대감 고조",
-   "source": "Investing.com 한국어",
-   "time": "2026-06-14T10:19:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LV1ZDcW8xUC1TQUliLWFNdmFQYWZZZ05abDlnOEtqYlVRSHF2Nm5MSUo3anh2OGpGSVBreHliTjlDOWpZM0J1RE1MR0JMc256UHVVNVVKV3RkZmxYdWJ3aENGWlRlYjNiY0taOEFJX2w?oc=5"
-  },
-  {
-   "title": "[주간증시전망] ‘롤러코스터’ 코스피…외인 매수 속 연준 매파 경계",
-   "source": "브릿지경제",
-   "time": "2026-06-14T10:43:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUHQwcVVVVlZLZ2NhNGJEbF9kY3NPbTRhZ3lHdmRlV1d5djExaVEyUDhvT1NKNjZRazg3LVNGS1BQZHlJUzJfQ0lwRmh1Nlhmd2VHZEJ5Q0Fvdw?oc=5"
-  },
-  {
    "title": "코스피 8000의 두 얼굴… 신고가보다 신저가 종목 더 많았다 - 조선비즈",
    "source": "Chosunbiz",
    "time": "2026-06-14T10:07:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFJKS1QwVzVlQ1pIYTI3SFlWcmlNYy1aeG9McnpZX0JNYU9vMnp0SHYtbDhkUXotLTFfeFFJN3l0S3N6V3dkWEJNUVhVdEpSWGlST1lZSy1yVEpaU1A3OU1EMlZ6WVVxMGxlT1dYckluZ0x5SUZuN0hRRFlCTWtfUHVsTjAzWDDSAZsBQVVfeXFMUC1raXZZWTFwQ0FJRW8wcmx0VkFlWFV6REVMR2tSaWVhTzVmSGVxYklhaGhhaXN2WFY0WWRJa25FOUhCa19ReGFhVVNKd0Jnei13VTBxRE5mbkhSQnFOYlBjaDBQTWdaTUU2UHB5WUk2U2RZNHNpbllZSml5N2otVF9tdlhsQkFyNnYySGxDR0VPc0lVUWJ5Yjhxc0U?oc=5"
   },
   {
-   "title": "靑 \"환율 좀 안정돼야…대미투자 펀드 논의에 도움\"",
-   "source": "v.daum.net",
-   "time": "2026-06-14T03:27:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnZzYzVW5vbHJrLXpmdEsxN0xscWtHZEpYdWdXRnB0YV9SNEVlOWhKcEVWTVZjXzc2WEZ0al9kQmpCYy12QjZQM2JTR1BuTlU?oc=5"
+   "title": "1500원대 환율 지속···당국, ‘환전 요청’에도 기업 달러예금 3년5개월만 최대",
+   "source": "경향신문",
+   "time": "2026-06-14T14:35:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Tb3c3VHRTZlVjS0dzbUY1VjNleXdQazhKd3pWYUNsb1VjQUZOMTl4b2VxR1V0UjI1MFhEQnpqd1Zob2RydVNOWFlaOWFfZFFSTnBHckUtaGpTZ9IBX0FVX3lxTE9Yb1pwN0sxaXhaalJDekE1Tk11bDBhazR2cmZhMlRtcGV2TnJNX3c3dXhVMmozSFpwMTlrNVZrdVBTNVAxYlVWMjZzNTc4SmtYT1BVTE9CX0dlVDY3a3k0?oc=5"
   },
   {
-   "title": "코스피 불장에 농특세도 급증…정부, 농어촌기본소득 확대 검토",
-   "source": "경북신문",
-   "time": "2026-06-14T10:15:58+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0VjliUGdONWRwSFZIdkx4UnVLX2NGNGFwMDd3TkhFNFVhOHdKVWkzOGNlN0hxRjBGTkhJS2tDUlFyS2RZNlBrT3pDbHhMUER0T0dUTjNrdmY?oc=5"
+   "title": "\"슬슬 주식하기 어렵네\"…높아진 변동성에 증시 자금 일제히 '감소'",
+   "source": "v.daum.net",
+   "time": "2026-06-14T15:05:48+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BSHM5b3pTa3pfRV9kXzBlZXVONVNpWTctaUVpVE93LV9McTdIX2FrcjBJRVNJTXdXXzNpUC1DZVQ3MHlGWlFfM0V5allueUU?oc=5"
   }
  ]
 }
