@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-15T02:46:16.692400+09:00",
+ "updated": "2026-06-15T04:00:49.094889+09:00",
  "quotes": {
   "k200": {
    "price": 1291.32,
@@ -451,23 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63820.86,
+   "price": 63786.11,
    "prev": 64412.65,
    "spark": [
-    63885.9883,
-    63908.1211,
-    63866.0703,
-    63892.7188,
-    63944.3398,
-    64095.8516,
-    64080.1992,
-    64072.5312,
-    64009.1719,
-    64041.1484,
-    64016.9609,
-    63976.0898,
-    64021.4883,
-    63995.9414,
     64022.5781,
     64029.2305,
     63986.1797,
@@ -492,28 +478,28 @@
     63902.4219,
     63748.0117,
     63802.8086,
-    63786.1484,
-    63820.8594
+    63756.1797,
+    63712.8906,
+    63696.5703,
+    63743.8711,
+    63701.9805,
+    63689.5898,
+    63655.9883,
+    63697.4102,
+    63682.4297,
+    63703.5586,
+    63743.3086,
+    63736.2109,
+    63729.5508,
+    63759.6602,
+    63772.8281,
+    63786.1094
    ]
   },
   "eth": {
-   "price": 1663.11,
+   "price": 1661.09,
    "prev": 1680.1036,
    "spark": [
-    1655.09,
-    1655.14,
-    1656.41,
-    1657.37,
-    1658.66,
-    1660.89,
-    1662.5,
-    1662.01,
-    1660.61,
-    1662.25,
-    1662.16,
-    1661.3101,
-    1662.0,
-    1662.01,
     1662.89,
     1663.1801,
     1662.13,
@@ -538,8 +524,22 @@
     1664.71,
     1660.64,
     1663.1899,
-    1662.65,
-    1663.11
+    1660.8199,
+    1660.98,
+    1660.89,
+    1662.08,
+    1660.77,
+    1661.17,
+    1658.8,
+    1659.08,
+    1658.5699,
+    1658.65,
+    1660.1,
+    1660.0,
+    1659.36,
+    1660.45,
+    1660.8199,
+    1661.09
    ]
   },
   "eurkrw": {
@@ -822,22 +822,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EbzZCcklhRHJlOXVjWmtET2Y5MERQbXdGZ3NOOV9YeGVYT0dybnJ6U1VXZVJaclAtSU9KcENjbHZZT3JQbGpBd2lzMF9mSWZXUGRsQzRrWFZtd9IBX0FVX3lxTE5fTGdudDBENDY4NDFmRzBTWjZBYmxFMmk0UU56YUxwUmVzRnRhZzBjVUJpb2J3NS1pWWFyaVhGZ1BaMG9SYkM4Y3R0QzJTdFFCS3VXNVpLbkpCUGxSd2xv?oc=5"
   },
   {
-   "title": "[Weekly Coin] 종전 '임박'에도 힘쓰지 못한 비트코인",
-   "source": "시사저널e",
-   "time": "2026-06-14T13:09:33+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90M2laMmNHUk1JQ0tpWS1hZWJwVVpFQkRCT0tNTnpUSXRKR0NzN2xXN3dwb0FjUGZ2R0N2Wm0zVXZRbXRFZ0RuVF81dkxfNnEzQTZWZVlBYmZMNG54YldRMVhtSUptRWZoVFg0N1FWRUY3Z9IBdkFVX3lxTE5ONk1STkF1REFmSy1aMm9zVWgyVkRTelFRNDBvNm1uQ0gtS01tdUp0ZDVJQjVZTmsyNFQtZVFpVFJxdDk0TzU2U3VBbUdJcVpTM0tzenJ1ZU1mUFNTeXhTZDA4RDktM0p6VmFXRFNhWFZGRFRELUE?oc=5"
+   "title": "코스피 급락 범인은 '외국인' 아닌 '레버리지ETF'",
+   "source": "연합인포맥스",
+   "time": "2026-06-11T09:18:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jR1RtMXJ0cWU0MnIwQVluel9jSWpwUlZKUG11S0ZyeERtZGpwZGhCYVEtUXZsZ2VBeDYtQ1NjQ1lYYUt4WDV2VFFQTV9WcC15S1lNU3RRTUJMOFdXUF9NSWJ5LXZCaEFDbmV0SjY0bXA?oc=5"
+  },
+  {
+   "title": "종전 기대감에 국제유가 3개월새 최저… 환율 상승세도 꺾일듯",
+   "source": "동아일보",
+   "time": "2026-06-15T00:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrV0puSWY0UFZKdnQ4cHloNUJLRFc3a3RHRkp4WVBVMlh4b0VrVk9QSnI3VGdDOGxPaHUtcHd6Q21kOWdENnQ0SW1vMTFiSmVZcVJrb3pHMWV3cDZfNWk4NlotaERYOFJGTzVnWGgtYVctc1hPWmfSAWZBVV95cUxPN2VOcnViX2hMNEU1emwyU092M25XTm5kUm43Z3pOOTYtLU52Wlp4THVpVDJ3TTdDZDFsMzdDS3R1dkdvY1BRM2laTWhEU3l3b1RmaEhianlBQUJBTDRXT1FpNm8tcUE?oc=5"
   },
   {
    "title": "코스피 8000의 두 얼굴… 신고가보다 신저가 종목 더 많았다 - 조선비즈",
    "source": "Chosunbiz",
    "time": "2026-06-14T10:07:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFJKS1QwVzVlQ1pIYTI3SFlWcmlNYy1aeG9McnpZX0JNYU9vMnp0SHYtbDhkUXotLTFfeFFJN3l0S3N6V3dkWEJNUVhVdEpSWGlST1lZSy1yVEpaU1A3OU1EMlZ6WVVxMGxlT1dYckluZ0x5SUZuN0hRRFlCTWtfUHVsTjAzWDDSAZsBQVVfeXFMUC1raXZZWTFwQ0FJRW8wcmx0VkFlWFV6REVMR2tSaWVhTzVmSGVxYklhaGhhaXN2WFY0WWRJa25FOUhCa19ReGFhVVNKd0Jnei13VTBxRE5mbkhSQnFOYlBjaDBQTWdaTUU2UHB5WUk2U2RZNHNpbllZSml5N2otVF9tdlhsQkFyNnYySGxDR0VPc0lVUWJ5Yjhxc0U?oc=5"
-  },
-  {
-   "title": "코스피 급락 범인은 '외국인' 아닌 '레버리지ETF'",
-   "source": "연합인포맥스",
-   "time": "2026-06-11T09:18:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jR1RtMXJ0cWU0MnIwQVluel9jSWpwUlZKUG11S0ZyeERtZGpwZGhCYVEtUXZsZ2VBeDYtQ1NjQ1lYYUt4WDV2VFFQTV9WcC15S1lNU3RRTUJMOFdXUF9NSWJ5LXZCaEFDbmV0SjY0bXA?oc=5"
   },
   {
    "title": "[김동호의 일본 읽기] 체질 바꾼 일본 증시",
