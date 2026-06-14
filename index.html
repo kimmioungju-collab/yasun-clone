@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>야선지지 — 트레이딩 필수 터미널</title>
+<style>
+  :root{
+    --bg:#0a0e17; --bg2:#0e1320; --panel:#121826; --panel2:#161d2e;
+    --border:#1f2937; --border2:#283346;
+    --txt:#e6edf6; --txt2:#9aa7bd; --txt3:#647089;
+    --up:#ff4d5e; --down:#3b82f6; --accent:#ffce3a; --accent2:#5b8cff;
+    --green:#22c55e; --radius:12px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{background:var(--bg);color:var(--txt);font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Pretendard","Segoe UI",Roboto,sans-serif;font-size:14px;line-height:1.45;-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  ::-webkit-scrollbar{width:8px;height:8px}
+  ::-webkit-scrollbar-thumb{background:#2a3346;border-radius:8px}
+  ::-webkit-scrollbar-track{background:transparent}
+
+  /* ===== top nav ===== */
+  header{position:sticky;top:0;z-index:50;background:rgba(10,14,23,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--border)}
+  .nav{display:flex;align-items:center;gap:18px;max-width:1480px;margin:0 auto;padding:0 18px;height:56px}
+  .logo{display:flex;align-items:center;gap:9px;font-weight:800;font-size:18px;letter-spacing:-.5px;white-space:nowrap}
+  .logo .dot{width:11px;height:11px;border-radius:50%;background:var(--up);box-shadow:0 0 12px var(--up);animation:pulse 2s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  .logo b{color:var(--accent)}
+  nav.menu{display:flex;gap:3px;flex:1;overflow-x:auto;scrollbar-width:none}
+  nav.menu::-webkit-scrollbar{display:none}
+  nav.menu a{padding:8px 12px;border-radius:8px;color:var(--txt2);font-weight:600;white-space:nowrap;transition:.15s;cursor:pointer}
+  nav.menu a:hover{color:var(--txt);background:var(--panel2)}
+  nav.menu a.active{color:var(--accent);background:rgba(255,206,58,.08)}
+  .nav-right{display:flex;gap:8px;align-items:center}
+  .btn{padding:8px 14px;border-radius:8px;font-weight:700;cursor:pointer;border:1px solid var(--border2);background:var(--panel2);color:var(--txt);transition:.15s;white-space:nowrap}
+  .btn:hover{border-color:var(--accent)}
+  .btn.primary{background:var(--accent);color:#1a1206;border-color:var(--accent)}
+  .btn.primary:hover{filter:brightness(1.08)}
+
+  /* ===== ticker strip ===== */
+  .tickerbar{border-bottom:1px solid var(--border);background:var(--bg2);overflow:hidden;white-space:nowrap}
+  .ticker-track{display:inline-flex;gap:0;padding:9px 0;animation:scroll 60s linear infinite}
+  .tickerbar:hover .ticker-track{animation-play-state:paused}
+  @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+  .tk{display:inline-flex;align-items:center;gap:8px;padding:0 18px;border-right:1px solid var(--border);font-size:13px}
+  .tk .nm{color:var(--txt2);font-weight:600}
+  .tk .pr{font-weight:700;font-variant-numeric:tabular-nums}
+  .tk .ch{font-weight:700;font-size:12px;font-variant-numeric:tabular-nums}
+  .up{color:var(--up)} .down{color:var(--down)}
+
+  main{max-width:1480px;margin:0 auto;padding:18px}
+  .section{margin-bottom:26px;scroll-margin-top:72px}
+  .sec-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+  .sec-head h2{font-size:18px;font-weight:800;letter-spacing:-.4px;display:flex;align-items:center;gap:8px}
+  .sec-head h2 .bar{width:4px;height:18px;background:var(--accent);border-radius:3px}
+  .sec-head .more{color:var(--txt3);font-size:13px;font-weight:600;cursor:pointer}
+  .sec-head .more:hover{color:var(--accent)}
+
+  .panel{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden}
+
+  /* hero market cards */
+  .mkt-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(168px,1fr));gap:10px}
+  .mcard{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);padding:13px 14px;cursor:pointer;transition:.15s;position:relative;overflow:hidden}
+  .mcard:hover{border-color:var(--border2);transform:translateY(-2px)}
+  .mcard .nm{color:var(--txt2);font-size:12.5px;font-weight:600;display:flex;align-items:center;gap:6px}
+  .mcard .nm .badge{font-size:9px;padding:1px 5px;border-radius:4px;background:#2a3346;color:var(--txt3);font-weight:700}
+  .mcard .pr{font-size:20px;font-weight:800;margin-top:7px;font-variant-numeric:tabular-nums}
+  .mcard .ch{font-size:12.5px;font-weight:700;margin-top:3px;font-variant-numeric:tabular-nums}
+  .mcard .spark{position:absolute;right:0;bottom:0;width:60%;height:34px;opacity:.5}
+
+  /* layout split */
+  .split{display:grid;grid-template-columns:1fr 380px;gap:16px}
+  @media(max-width:1080px){.split{grid-template-columns:1fr}}
+
+  /* chart panel */
+  .chart-wrap{height:520px;background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden}
+  .chart-tabs{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:10px}
+  .chart-tabs button{padding:6px 12px;border-radius:8px;border:1px solid var(--border);background:var(--panel);color:var(--txt2);font-weight:700;cursor:pointer;font-size:12.5px}
+  .chart-tabs button.active{background:var(--accent);color:#1a1206;border-color:var(--accent)}
+
+  /* news */
+  .news-list{max-height:520px;overflow-y:auto}
+  .news-item{padding:12px 14px;border-bottom:1px solid var(--border);display:flex;gap:10px;cursor:pointer;transition:.12s}
+  .news-item:hover{background:var(--panel2)}
+  .news-item .tag{flex-shrink:0;font-size:10px;font-weight:800;padding:3px 7px;border-radius:5px;height:fit-content}
+  .tag.hot{background:rgba(255,77,94,.15);color:var(--up)}
+  .tag.mkt{background:rgba(91,140,255,.15);color:var(--accent2)}
+  .tag.glb{background:rgba(34,197,94,.13);color:var(--green)}
+  .news-item .body .t{font-weight:600;font-size:13.5px;line-height:1.4}
+  .news-item .body .meta{color:var(--txt3);font-size:11.5px;margin-top:4px}
+  .news-flash{display:flex;align-items:center;gap:7px;padding:9px 14px;background:rgba(255,77,94,.07);border-bottom:1px solid var(--border)}
+  .news-flash .live{font-size:10px;font-weight:800;color:var(--up);border:1px solid var(--up);padding:1px 6px;border-radius:5px;animation:pulse 1.5s infinite}
+
+  /* chat */
+  .chat{display:flex;flex-direction:column;height:520px}
+  .ls-bar{display:flex;height:40px;font-weight:800;font-size:13px}
+  .ls-bar .long{background:rgba(255,77,94,.18);color:var(--up);display:flex;align-items:center;justify-content:center;gap:6px;transition:.5s}
+  .ls-bar .short{background:rgba(59,130,246,.18);color:var(--down);display:flex;align-items:center;justify-content:center;gap:6px;transition:.5s}
+  .chat-msgs{flex:1;overflow-y:auto;padding:10px 12px;display:flex;flex-direction:column;gap:9px}
+  .msg{font-size:13px}
+  .msg .who{font-weight:700;font-size:12px}
+  .msg .who.l{color:var(--up)} .msg .who.s{color:var(--down)}
+  .msg .tx{color:var(--txt);margin-left:2px}
+  .msg .pos{font-size:9px;font-weight:800;padding:1px 5px;border-radius:4px;margin-left:5px}
+  .pos.l{background:rgba(255,77,94,.18);color:var(--up)} .pos.s{background:rgba(59,130,246,.18);color:var(--down)}
+  .chat-input{display:flex;gap:8px;padding:10px;border-top:1px solid var(--border)}
+  .chat-input input{flex:1;background:var(--bg2);border:1px solid var(--border2);border-radius:8px;padding:9px 12px;color:var(--txt);font-size:13px;outline:none}
+  .chat-input input:focus{border-color:var(--accent)}
+  .seg{display:flex;border:1px solid var(--border2);border-radius:8px;overflow:hidden}
+  .seg button{padding:0 10px;background:var(--bg2);border:none;color:var(--txt2);font-weight:800;cursor:pointer;font-size:12px}
+  .seg button.la{background:var(--up);color:#fff}
+  .seg button.sa{background:var(--down);color:#fff}
+
+  /* prediction */
+  .pred{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:680px){.pred{grid-template-columns:1fr}}
+  .pred-card{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);padding:16px}
+  .pred-card h3{font-size:15px;font-weight:800;display:flex;align-items:center;justify-content:space-between}
+  .countdown{font-variant-numeric:tabular-nums;color:var(--accent);font-weight:800;font-size:13px}
+  .pred-price{font-size:26px;font-weight:800;margin:10px 0;font-variant-numeric:tabular-nums}
+  .pred-btns{display:flex;gap:8px;margin-top:10px}
+  .pbtn{flex:1;padding:14px;border-radius:10px;border:2px solid;font-weight:800;cursor:pointer;font-size:15px;background:transparent;transition:.15s}
+  .pbtn.long{border-color:var(--up);color:var(--up)} .pbtn.long:hover{background:rgba(255,77,94,.12)}
+  .pbtn.short{border-color:var(--down);color:var(--down)} .pbtn.short:hover{background:rgba(59,130,246,.12)}
+  .pbtn.picked{filter:brightness(1.2);box-shadow:0 0 0 3px rgba(255,206,58,.25) inset}
+  .pred-bar{display:flex;height:8px;border-radius:5px;overflow:hidden;margin-top:12px;background:var(--down)}
+  .pred-bar .lfill{background:var(--up);transition:.4s}
+  .pmeta{display:flex;justify-content:space-between;font-size:11.5px;color:var(--txt3);margin-top:6px}
+
+  /* fee calc */
+  .calc{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  @media(max-width:680px){.calc{grid-template-columns:1fr}}
+  .field{margin-bottom:12px}
+  .field label{display:block;color:var(--txt2);font-size:12.5px;font-weight:600;margin-bottom:5px}
+  .field input,.field select{width:100%;background:var(--bg2);border:1px solid var(--border2);border-radius:8px;padding:10px 12px;color:var(--txt);font-size:14px;outline:none}
+  .field input:focus,.field select:focus{border-color:var(--accent)}
+  .calc-out{background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:16px}
+  .calc-out .row{display:flex;justify-content:space-between;padding:9px 0;border-bottom:1px dashed var(--border);font-size:13.5px}
+  .calc-out .row:last-child{border-bottom:none}
+  .calc-out .row .v{font-weight:800;font-variant-numeric:tabular-nums}
+  .calc-out .big{font-size:20px;color:var(--accent)}
+
+  /* leaderboard */
+  table.lb{width:100%;border-collapse:collapse}
+  table.lb th,table.lb td{padding:11px 14px;text-align:left;border-bottom:1px solid var(--border);font-size:13.5px}
+  table.lb th{color:var(--txt3);font-weight:700;font-size:12px}
+  table.lb td.num{font-variant-numeric:tabular-nums;text-align:right;font-weight:700}
+  .rank{display:inline-flex;width:24px;height:24px;align-items:center;justify-content:center;border-radius:6px;font-weight:800;font-size:12px;background:var(--panel2)}
+  .rank.r1{background:linear-gradient(135deg,#ffd700,#b8860b);color:#1a1206}
+  .rank.r2{background:linear-gradient(135deg,#d4d4d8,#71717a);color:#1a1206}
+  .rank.r3{background:linear-gradient(135deg,#cd7f32,#8b5a2b);color:#fff}
+
+  .tv-box{border-radius:var(--radius);overflow:hidden;border:1px solid var(--border);background:var(--panel)}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:900px){.grid2{grid-template-columns:1fr}}
+  footer{border-top:1px solid var(--border);margin-top:30px;padding:24px 18px;color:var(--txt3);font-size:12.5px;text-align:center;line-height:1.9}
+  footer b{color:var(--txt2)}
+  .pill{display:inline-block;font-size:10px;font-weight:800;padding:2px 7px;border-radius:6px;background:rgba(255,206,58,.12);color:var(--accent);margin-left:6px}
+  .hint{color:var(--txt3);font-size:12px;margin-top:6px}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="nav">
+    <div class="logo"><span class="dot"></span><span>야선<b>지지</b></span></div>
+    <nav class="menu" id="menu">
+      <a data-go="chart" class="active">실시간 차트</a>
+      <a data-go="news">속보 뉴스룸</a>
+      <a data-go="chat">롱숏 채팅</a>
+      <a data-go="heatmap">매매동향</a>
+      <a data-go="pred">예측 라운드</a>
+      <a data-go="macro">매크로</a>
+      <a data-go="fee">수수료 계산기</a>
+      <a data-go="lb">리더보드</a>
+    </nav>
+    <div class="nav-right">
+      <button class="btn" id="loginBtn">로그인</button>
+      <button class="btn primary" id="joinBtn">시작하기</button>
+    </div>
+  </div>
+</header>
+
+<!-- live ticker strip -->
+<div class="tickerbar"><div class="ticker-track" id="tickerTrack"></div></div>
+
+<main>
+  <!-- ===== 지금 시장 ===== -->
+  <section class="section" id="market">
+    <div class="sec-head"><h2><span class="bar"></span>지금 시장 <span class="pill">실시간</span></h2>
+      <span class="more" id="mktTime">--:--:--</span></div>
+    <div class="mkt-grid" id="mktGrid"></div>
+  </section>
+
+  <!-- ===== 실시간 차트 ===== -->
+  <section class="section" id="chart">
+    <div class="sec-head"><h2><span class="bar"></span>실시간 차트</h2>
+      <span class="more">한국·글로벌 1m 봉</span></div>
+    <div class="chart-tabs" id="chartTabs"></div>
+    <div class="chart-wrap"><div id="tvchart" style="height:100%"></div></div>
+  </section>
+
+  <!-- ===== 속보 + 채팅 split ===== -->
+  <div class="split">
+    <section class="section" id="news" style="margin:0">
+      <div class="sec-head"><h2><span class="bar"></span>속보 뉴스룸</h2><span class="more" id="newsCnt">0건</span></div>
+      <div class="panel">
+        <div class="news-flash"><span class="live">LIVE</span><span id="flashTxt" style="font-size:12.5px;color:var(--txt2)">실시간 속보를 수신 중입니다…</span></div>
+        <div class="news-list" id="newsList"></div>
+      </div>
+    </section>
+
+    <section class="section" id="chat" style="margin:0">
+      <div class="sec-head"><h2><span class="bar"></span>롱숏 채팅</h2><span class="more" id="chatOnline">0명 접속</span></div>
+      <div class="panel chat">
+        <div class="ls-bar"><div class="long" id="lsLong">롱 50%</div><div class="short" id="lsShort">숏 50%</div></div>
+        <div class="chat-msgs" id="chatMsgs"></div>
+        <div class="chat-input">
+          <div class="seg"><button id="posL" class="la">롱</button><button id="posS">숏</button></div>
+          <input id="chatInput" placeholder="시장 의견을 남겨보세요…" maxlength="120">
+          <button class="btn primary" id="sendBtn">전송</button>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ===== 매매동향 / 히트맵 ===== -->
+  <section class="section" id="heatmap">
+    <div class="sec-head"><h2><span class="bar"></span>매매동향 히트맵</h2><span class="more">시총 TOP · 섹터 순환</span></div>
+    <div class="grid2">
+      <div class="tv-box"><div id="tvHeatStock" style="height:420px"></div></div>
+      <div class="tv-box"><div id="tvHeatCrypto" style="height:420px"></div></div>
+    </div>
+  </section>
+
+  <!-- ===== 예측 라운드 ===== -->
+  <section class="section" id="pred">
+    <div class="sec-head"><h2><span class="bar"></span>예측 라운드 <span class="pill">베타</span></h2><span class="more">5분 단위 정산 · 포인트 적립</span></div>
+    <div class="pred" id="predGrid"></div>
+    <div class="hint">⏱️ 각 라운드 종료 시 시작가 대비 등락 방향을 맞히면 포인트가 적립됩니다. (모의 · 실제 자금 아님)</div>
+  </section>
+
+  <!-- ===== 매크로 대시보드 ===== -->
+  <section class="section" id="macro">
+    <div class="sec-head"><h2><span class="bar"></span>매크로 대시보드</h2><span class="more">경제지표 캘린더 · 글로벌 지수</span></div>
+    <div class="grid2">
+      <div class="tv-box"><div id="tvCal" style="height:460px"></div></div>
+      <div class="tv-box"><div id="tvMacroChart" style="height:460px"></div></div>
+    </div>
+  </section>
+
+  <!-- ===== 수수료 계산기 ===== -->
+  <section class="section" id="fee">
+    <div class="sec-head"><h2><span class="bar"></span>수수료 계산기</h2><span class="more">선물 · 주식 손익 정산</span></div>
+    <div class="panel" style="padding:18px">
+      <div class="calc">
+        <div>
+          <div class="field"><label>상품</label>
+            <select id="fProduct">
+              <option value="k200">코스피200 선물 (1틱 5만원, 0.05p)</option>
+              <option value="kq150">코스닥150 선물 (1틱 2만원, 0.10p)</option>
+              <option value="nq">나스닥100 (MNQ) 선물</option>
+              <option value="stock">국내 주식</option>
+            </select>
+          </div>
+          <div class="field"><label>진입가</label><input id="fEntry" type="number" value="350.00" step="0.01"></div>
+          <div class="field"><label>청산가</label><input id="fExit" type="number" value="352.50" step="0.01"></div>
+          <div class="field"><label>계약수 / 수량</label><input id="fQty" type="number" value="1"></div>
+          <div class="field"><label>포지션</label>
+            <select id="fSide"><option value="long">롱 (매수)</option><option value="short">숏 (매도)</option></select>
+          </div>
+          <div class="field"><label>수수료율 (편도, %)</label><input id="fFee" type="number" value="0.0033" step="0.0001"></div>
+        </div>
+        <div>
+          <div class="calc-out" id="calcOut"></div>
+          <div class="hint">국내 주식 매도 시 거래세(0.18%)가 자동 반영됩니다. 선물은 거래승수 기준으로 손익을 계산합니다.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== 리더보드 ===== -->
+  <section class="section" id="lb">
+    <div class="sec-head"><h2><span class="bar"></span>리더보드</h2><span class="more">예측 라운드 누적 수익률 TOP</span></div>
+    <div class="panel">
+      <table class="lb"><thead><tr><th>순위</th><th>트레이더</th><th style="text-align:right">승률</th><th style="text-align:right">누적 P</th><th style="text-align:right">수익률</th></tr></thead>
+      <tbody id="lbBody"></tbody></table>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div><b>야선지지</b> — 코스피200·코스닥150 야간선물 · 나스닥/S&P500 선물 · WTI/금/코인 실시간 터미널</div>
+  <div>실시간 차트 · 속보 뉴스룸 · 롱숏 채팅 · 매매동향 · 예측 라운드 · 수수료 계산기</div>
+  <div style="margin-top:8px;color:var(--txt3)">⚠️ 본 사이트는 야선지지(yasun.gg) 디자인·기능을 재현한 클론 데모입니다. 투자 권유가 아니며 모든 데이터는 참고용입니다.</div>
+</footer>
+
+<script src="https://s3.tradingview.com/tv.js"></script>
+<script>
+/* ===================== 야선지지 클론 — 프론트 로직 ===================== */
+const KRW = n => n.toLocaleString('ko-KR',{maximumFractionDigits:0});
+const F2  = n => n.toLocaleString('ko-KR',{minimumFractionDigits:2,maximumFractionDigits:2});
+const sign = n => (n>=0?'+':'') ;
+const cls  = n => n>=0 ? 'up' : 'down';   // 한국식: 상승=빨강(up), 하락=파랑(down)
+const arr  = n => n>=0 ? '▲' : '▼';
+
+/* ---- 종목 마스터 (야선지지 구성과 동일 카테고리) ---- */
+const ASSETS = [
+  {key:'k200',  nm:'코스피200 야간선물', badge:'야선', base:351.20, vol:0.9,  dec:2, tv:'KRX:KOSPI200'},
+  {key:'kq150', nm:'코스닥150 야간선물', badge:'야선', base:1342.5, vol:1.4,  dec:1, tv:'KRX:KOSDAQ150'},
+  {key:'kospi', nm:'코스피 종합지수',    badge:'지수', base:2685.4, vol:0.6,  dec:2, tv:'KRX:KOSPI'},
+  {key:'kosdaq',nm:'코스닥 종합지수',    badge:'지수', base:842.7,  vol:0.8,  dec:2, tv:'KRX:KOSDAQ'},
+  {key:'nq',    nm:'나스닥100 선물',     badge:'선물', base:21450,  vol:0.7,  dec:1, tv:'CME_MINI:NQ1!'},
+  {key:'es',    nm:'S&P500 선물',        badge:'선물', base:5985,   vol:0.5,  dec:2, tv:'CME_MINI:ES1!'},
+  {key:'ndx',   nm:'나스닥 종합지수',    badge:'지수', base:19200,  vol:0.6,  dec:1, tv:'NASDAQ:IXIC'},
+  {key:'sox',   nm:'필라델피아 반도체',  badge:'지수', base:5120,   vol:1.1,  dec:1, tv:'NASDAQ:SOX'},
+  {key:'nikkei',nm:'니케이 225',         badge:'지수', base:38900,  vol:0.6,  dec:0, tv:'TVC:NI225'},
+  {key:'wti',   nm:'WTI 원유',           badge:'원자재', base:71.4, vol:1.0,  dec:2, tv:'TVC:USOIL'},
+  {key:'gold',  nm:'금 선물',            badge:'원자재', base:2648, vol:0.6,  dec:1, tv:'TVC:GOLD'},
+  {key:'silver',nm:'은 선물',            badge:'원자재', base:30.8, vol:1.2,  dec:2, tv:'TVC:SILVER'},
+  {key:'gas',   nm:'천연가스',           badge:'원자재', base:3.05, vol:2.0,  dec:3, tv:'NYMEX:NG1!'},
+  {key:'vix',   nm:'VIX 변동성',         badge:'지수', base:15.2,   vol:3.0,  dec:2, tv:'TVC:VIX'},
+  {key:'usdkrw',nm:'원/달러 환율',       badge:'FX',  base:1388,    vol:0.3,  dec:1, tv:'FX_IDC:USDKRW'},
+  {key:'btc',   nm:'비트코인', badge:'코인', base:96000, vol:1.5, dec:0, tv:'BINANCE:BTCUSDT', binance:'BTCUSDT'},
+  {key:'eth',   nm:'이더리움', badge:'코인', base:3350,  vol:2.0, dec:0, tv:'BINANCE:ETHUSDT', binance:'ETHUSDT'},
+];
+const live = {};   // key -> {price, prev, chgPct}
+ASSETS.forEach(a=>{ live[a.key]={price:a.base, open:a.base, chgPct:0, hist:[]}; });
+
+/* ---- 시뮬레이션: 비트/이더는 실제 Binance, 나머지는 랜덤워크 ---- */
+function tick(){
+  ASSETS.forEach(a=>{
+    if(a.binance) return; // 실데이터로 갱신
+    const L=live[a.key];
+    const drift=(Math.random()-0.5)*a.vol*0.0016;
+    L.price = Math.max(a.base*0.5, L.price*(1+drift));
+    L.chgPct = (L.price/L.open-1)*100;
+    L.hist.push(L.price); if(L.hist.length>40)L.hist.shift();
+  });
+  renderMarket(); renderTicker(); updateLS();
+}
+async function pollBinance(){
+  try{
+    const syms=ASSETS.filter(a=>a.binance).map(a=>a.binance);
+    const url='https://api.binance.com/api/v3/ticker/24hr?symbols='+encodeURIComponent(JSON.stringify(syms));
+    const r=await fetch(url); const d=await r.json();
+    d.forEach(t=>{
+      const a=ASSETS.find(x=>x.binance===t.symbol); if(!a)return;
+      const L=live[a.key]; L.price=parseFloat(t.lastPrice); L.chgPct=parseFloat(t.priceChangePercent);
+      L.hist.push(L.price); if(L.hist.length>40)L.hist.shift();
+    });
+  }catch(e){ /* 네트워크 차단 시 시뮬레이션 유지 */
+    ASSETS.filter(a=>a.binance).forEach(a=>{
+      const L=live[a.key]; const drift=(Math.random()-0.5)*a.vol*0.0016;
+      L.price=L.price*(1+drift); L.chgPct=(L.price/L.open-1)*100;
+    });
+  }
+}
+
+/* ---- 스파크라인 ---- */
+function spark(hist,up){
+  if(hist.length<2)return'';
+  const w=100,h=34,mn=Math.min(...hist),mx=Math.max(...hist),rg=(mx-mn)||1;
+  const pts=hist.map((v,i)=>`${(i/(hist.length-1))*w},${h-((v-mn)/rg)*h}`).join(' ');
+  const c=up?'#ff4d5e':'#3b82f6';
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><polyline points="${pts}" fill="none" stroke="${c}" stroke-width="1.6"/></svg>`;
+}
+
+/* ---- 마켓 카드 ---- */
+function renderMarket(){
+  const el=document.getElementById('mktGrid');
+  el.innerHTML=ASSETS.map(a=>{
+    const L=live[a.key], up=L.chgPct>=0;
+    return `<div class="mcard" data-tv="${a.tv}" data-nm="${a.nm}">
+      <div class="nm">${a.nm}<span class="badge">${a.badge}</span></div>
+      <div class="pr">${F2v(L.price,a.dec)}</div>
+      <div class="ch ${cls(L.chgPct)}">${arr(L.chgPct)} ${sign(L.chgPct)}${L.chgPct.toFixed(2)}%</div>
+      ${spark(L.hist,up)}</div>`;
+  }).join('');
+  el.querySelectorAll('.mcard').forEach(c=>c.onclick=()=>loadChart(c.dataset.tv,c.dataset.nm));
+  document.getElementById('mktTime').textContent=new Date().toLocaleTimeString('ko-KR');
+}
+function F2v(n,dec){ return n.toLocaleString('ko-KR',{minimumFractionDigits:dec,maximumFractionDigits:dec}); }
+
+/* ---- 상단 티커 스트립 ---- */
+function renderTicker(){
+  const one=ASSETS.map(a=>{
+    const L=live[a.key];
+    return `<span class="tk"><span class="nm">${a.nm.replace(' 야간선물','').replace(' 종합지수','').replace(' 선물','')}</span>
+      <span class="pr">${F2v(L.price,a.dec)}</span>
+      <span class="ch ${cls(L.chgPct)}">${arr(L.chgPct)}${Math.abs(L.chgPct).toFixed(2)}%</span></span>`;
+  }).join('');
+  document.getElementById('tickerTrack').innerHTML=one+one;
+}
+
+/* ===================== 실시간 차트 (TradingView) ===================== */
+const CHART_TABS=[
+  ['KRX:KOSPI200','코스피200'],['KRX:KOSDAQ150','코스닥150'],['CME_MINI:NQ1!','나스닥100'],
+  ['CME_MINI:ES1!','S&P500'],['TVC:USOIL','WTI원유'],['TVC:GOLD','금'],
+  ['BINANCE:BTCUSDT','비트코인'],['BINANCE:ETHUSDT','이더리움'],['FX_IDC:USDKRW','원/달러'],
+];
+let tvWidget=null;
+function loadChart(sym,label){
+  document.getElementById('tvchart').innerHTML='';
+  tvWidget=new TradingView.widget({
+    autosize:true,symbol:sym,interval:'1',timezone:'Asia/Seoul',theme:'dark',
+    style:'1',locale:'kr',container_id:'tvchart',hide_side_toolbar:false,
+    allow_symbol_change:true,studies:['Volume@tv-basicstudies'],
+    backgroundColor:'#0e1320',gridColor:'rgba(40,51,70,0.4)'
+  });
+  document.querySelectorAll('#chartTabs button').forEach(b=>b.classList.toggle('active',b.dataset.s===sym));
+}
+function buildChartTabs(){
+  document.getElementById('chartTabs').innerHTML=CHART_TABS.map((t,i)=>
+    `<button data-s="${t[0]}" class="${i===0?'active':''}">${t[1]}</button>`).join('');
+  document.querySelectorAll('#chartTabs button').forEach(b=>b.onclick=()=>loadChart(b.dataset.s,b.textContent));
+}
+
+/* ===================== 속보 뉴스룸 ===================== */
+const NEWS_SEED=[
+  ['hot','속보','美 11월 CPI 전년比 2.9%…예상치 부합, 나스닥 선물 강세 전환'],
+  ['mkt','시장','코스피200 야간선물 0.8% 상승 출발, 외국인 순매수 유입'],
+  ['glb','글로벌','연준 위원 "추가 인하 신중"…달러 인덱스 104선 회복'],
+  ['hot','속보','엔비디아 시간외 +3%, AI 반도체 수요 가이던스 상향'],
+  ['mkt','시장','코스닥150 반도체·2차전지 동반 강세, 거래대금 급증'],
+  ['glb','글로벌','WTI 원유 71달러 회복…OPEC+ 감산 연장 관측'],
+  ['hot','속보','비트코인 9.6만달러 돌파, 현물 ETF 자금 순유입 지속'],
+  ['mkt','시장','삼성전자·SK하이닉스 야간 호가 강세, HBM 모멘텀 부각'],
+  ['glb','글로벌','일본은행 금리 동결…엔/달러 153엔대 등락'],
+  ['hot','속보','테슬라 자율주행 업데이트 발표에 시간외 +4%'],
+];
+const NEWS_TAIL=[
+  '금 선물 사상 최고가 경신, 안전자산 선호 강화','국채 10년물 금리 하락 전환',
+  '반도체 섹터 자금 순환, 장비주 강세','원/달러 환율 1,380원대 등락',
+  '코인 도미넌스 비트 54%대 유지','중국 부양책 기대에 항셍 강세',
+  '유럽 증시 동반 상승 출발','VIX 하락, 위험선호 회복 신호',
+];
+let newsItems=[];
+function pushNews(tag,label,txt){
+  newsItems.unshift({tag,label,txt,t:new Date()});
+  if(newsItems.length>60)newsItems.pop();
+  renderNews();
+}
+function renderNews(){
+  document.getElementById('newsCnt').textContent=newsItems.length+'건';
+  document.getElementById('flashTxt').textContent=newsItems[0]?newsItems[0].txt:'';
+  document.getElementById('newsList').innerHTML=newsItems.map(n=>{
+    const ago=timeAgo(n.t);
+    return `<div class="news-item"><span class="tag ${n.tag}">${n.label}</span>
+      <div class="body"><div class="t">${n.txt}</div><div class="meta">야선뉴스 · ${ago}</div></div></div>`;
+  }).join('');
+}
+function timeAgo(d){const s=Math.floor((Date.now()-d)/1000);if(s<60)return s+'초 전';if(s<3600)return Math.floor(s/60)+'분 전';return Math.floor(s/3600)+'시간 전';}
+function newsLoop(){
+  const pool=[['hot','속보'],['mkt','시장'],['glb','글로벌']][Math.floor(Math.random()*3)];
+  const txt=NEWS_TAIL[Math.floor(Math.random()*NEWS_TAIL.length)];
+  pushNews(pool[0],pool[1],txt);
+}
+
+/* ===================== 롱숏 채팅 ===================== */
+const NICKS=['단타왕','존버맨','갤주','선물러','코린이','반도체불패','야선지킴이','숏충이','롱가즈아','김선물','나스닥귀신','코스피200','떡상기원','물린개미','고래추적'];
+const CHAT_SEED=[
+  ['l','나스닥 선물 살아나는데 야선도 따라가자'],['s','이거 갭 메우러 간다 숏 잡음'],
+  ['l','외인 순매수 들어왔다 롱'],['s','CPI 발표 전까지 관망이 답'],
+  ['l','반도체 강하다 코스닥150 롱 홀딩'],['s','VIX 너무 낮음 변동성 터질 듯'],
+];
+let chatPos='l';
+let online=0;
+function addMsg(who,pos,tx){
+  const box=document.getElementById('chatMsgs');
+  const d=document.createElement('div');d.className='msg';
+  d.innerHTML=`<span class="who ${pos}">${who}</span><span class="pos ${pos}">${pos==='l'?'롱':'숏'}</span><span class="tx">${esc(tx)}</span>`;
+  box.appendChild(d);box.scrollTop=box.scrollHeight;
+  while(box.children.length>120)box.removeChild(box.firstChild);
+}
+function esc(s){return s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+let longCount=52,shortCount=48;
+function updateLS(){
+  // 가격 모멘텀에 약하게 연동
+  const m=live.k200.chgPct; if(Math.random()<0.5){ (m>=0?longCount++:shortCount++);}
+  const tot=longCount+shortCount, lp=Math.round(longCount/tot*100);
+  document.getElementById('lsLong').style.flex=lp; document.getElementById('lsShort').style.flex=100-lp;
+  document.getElementById('lsLong').textContent='롱 '+lp+'%';
+  document.getElementById('lsShort').textContent='숏 '+(100-lp)+'%';
+}
+function chatLoop(){
+  const pos=Math.random()<(longCount/(longCount+shortCount))?'l':'s';
+  const nick=NICKS[Math.floor(Math.random()*NICKS.length)];
+  const tx=NEWS_TAIL.concat(['지금 들어간다','존버 가즈아','손절각이다','이거 추세 살아있다','분할매수 중','난 관망','곧 정산이다']) ;
+  addMsg(nick,pos,tx[Math.floor(Math.random()*tx.length)]);
+}
+function sendChat(){
+  const i=document.getElementById('chatInput'); const v=i.value.trim(); if(!v)return;
+  addMsg('나',chatPos,v); i.value='';
+  (chatPos==='l'?longCount++:shortCount++); updateLS();
+}
+
+/* ===================== 예측 라운드 ===================== */
+const PRED_ASSETS=[['k200','코스피200 야선'],['btc','비트코인'],['nq','나스닥100'],['gold','금']];
+let preds={};
+let myPoints=parseInt(localStorage.getItem('yspoints')||'1000');
+function newRound(key){
+  preds[key]={start:live[key].price,end:Date.now()+5*60*1000,pick:null,longBet:40+Math.floor(Math.random()*20)};
+}
+function renderPred(){
+  document.getElementById('predGrid').innerHTML=PRED_ASSETS.map(([k,nm])=>{
+    const p=preds[k], L=live[k], a=ASSETS.find(x=>x.key===k);
+    const left=Math.max(0,Math.floor((p.end-Date.now())/1000));
+    const mm=String(Math.floor(left/60)).padStart(2,'0'),ss=String(left%60).padStart(2,'0');
+    const diff=L.price-p.start, up=diff>=0;
+    return `<div class="pred-card" data-k="${k}">
+      <h3>${nm}<span class="countdown">⏱ ${mm}:${ss}</span></h3>
+      <div class="pred-price ${cls(diff)}">${F2v(L.price,a.dec)} <span style="font-size:13px">${arr(diff)} ${sign(diff)}${F2v(Math.abs(diff),a.dec)}</span></div>
+      <div style="font-size:11.5px;color:var(--txt3)">시작가 ${F2v(p.start,a.dec)}</div>
+      <div class="pred-btns">
+        <button class="pbtn long ${p.pick==='l'?'picked':''}" data-p="l">롱 ▲</button>
+        <button class="pbtn short ${p.pick==='s'?'picked':''}" data-p="s">숏 ▼</button>
+      </div>
+      <div class="pred-bar"><div class="lfill" style="width:${p.longBet}%"></div></div>
+      <div class="pmeta"><span class="up">롱 ${p.longBet}%</span><span class="down">숏 ${100-p.longBet}%</span></div>
+    </div>`;
+  }).join('')+`<div style="grid-column:1/-1;text-align:right;color:var(--txt2);font-weight:700">내 포인트: <span style="color:var(--accent)">${KRW(myPoints)} P</span></div>`;
+  document.querySelectorAll('.pred-card').forEach(c=>{
+    c.querySelectorAll('.pbtn').forEach(b=>b.onclick=()=>{
+      const k=c.dataset.k; if(preds[k].pick)return;
+      preds[k].pick=b.dataset.p; renderPred();
+    });
+  });
+}
+function predTick(){
+  PRED_ASSETS.forEach(([k])=>{
+    if(Date.now()>=preds[k].end){
+      const p=preds[k],diff=live[k].price-p.start,winUp=diff>=0;
+      if(p.pick){ const win=(p.pick==='l')===winUp; myPoints+=win?100:-50;
+        localStorage.setItem('yspoints',myPoints);
+        pushNews('hot','정산',`예측 라운드 정산: ${PRED_ASSETS.find(x=>x[0]===k)[1]} ${winUp?'롱':'숏'} 승 — 당신은 ${win?'+100P 적중!':'−50P'}`);
+      }
+      newRound(k);
+    }
+  });
+  renderPred();
+}
+
+/* ===================== 수수료 계산기 ===================== */
+const MULT={k200:{m:250000,tax:0},kq150:{m:10000,tax:0},nq:{m:2*1330,tax:0},stock:{m:1,tax:0.0018}};
+function calcFee(){
+  const prod=fProduct.value, entry=+fEntry.value, exit=+fExit.value, qty=+fQty.value,
+        side=fSide.value, feeRate=+fFee.value/100;
+  const cfg=MULT[prod];
+  const entryVal=entry*cfg.m*qty, exitVal=exit*cfg.m*qty;
+  const gross=(side==='long'?(exit-entry):(entry-exit))*cfg.m*qty;
+  const fee=(entryVal+exitVal)*feeRate;
+  const tax= prod==='stock' ? exitVal*cfg.tax : 0;
+  const net=gross-fee-tax;
+  const roi= entryVal? net/entryVal*100 : 0;
+  document.getElementById('calcOut').innerHTML=`
+    <div class="row"><span>총 진입금액</span><span class="v">${KRW(entryVal)} 원</span></div>
+    <div class="row"><span>총 청산금액</span><span class="v">${KRW(exitVal)} 원</span></div>
+    <div class="row"><span>매매 손익(세전)</span><span class="v ${cls(gross)}">${sign(gross)}${KRW(gross)} 원</span></div>
+    <div class="row"><span>수수료(왕복)</span><span class="v down">−${KRW(fee)} 원</span></div>
+    <div class="row"><span>거래세</span><span class="v down">−${KRW(tax)} 원</span></div>
+    <div class="row"><span>실현 손익(순)</span><span class="v big ${cls(net)}">${sign(net)}${KRW(net)} 원</span></div>
+    <div class="row"><span>수익률(증거금 대비)</span><span class="v ${cls(roi)}">${sign(roi)}${roi.toFixed(2)}%</span></div>`;
+}
+
+/* ===================== 리더보드 ===================== */
+function renderLB(){
+  const rows=NICKS.map((n,i)=>({n, w:55+Math.floor(Math.random()*40), p:50000-i*2700+Math.floor(Math.random()*3000), r:(120-i*9+Math.random()*10)}))
+    .sort((a,b)=>b.p-a.p);
+  document.getElementById('lbBody').innerHTML=rows.map((r,i)=>`
+    <tr><td><span class="rank ${i<3?'r'+(i+1):''}">${i+1}</span></td>
+    <td style="font-weight:700">${r.n}</td>
+    <td class="num">${r.w}%</td>
+    <td class="num">${KRW(r.p)} P</td>
+    <td class="num ${cls(r.r)}">${sign(r.r)}${r.r.toFixed(1)}%</td></tr>`).join('');
+}
+
+/* ===================== TradingView 위젯 (히트맵/캘린더/매크로) ===================== */
+function tvScript(container,src,cfg){
+  const c=document.getElementById(container); c.innerHTML='';
+  const wrap=document.createElement('div'); wrap.className='tradingview-widget-container';
+  const inner=document.createElement('div'); inner.className='tradingview-widget-container__widget'; inner.style.height='100%';
+  wrap.appendChild(inner);
+  const s=document.createElement('script'); s.src=src; s.async=true; s.type='text/javascript';
+  s.innerHTML=JSON.stringify(cfg); wrap.appendChild(s); c.appendChild(wrap);
+}
+function loadWidgets(){
+  tvScript('tvHeatStock','https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js',
+    {dataSource:'SPX500',blockSize:'market_cap_basic',blockColor:'change',grouping:'sector',locale:'kr',symbolUrl:'',colorTheme:'dark',hasTopBar:true,isDataSetEnabled:false,isZoomEnabled:true,hasSymbolTooltip:true,width:'100%',height:'420'});
+  tvScript('tvHeatCrypto','https://s3.tradingview.com/external-embedding/embed-widget-crypto-coins-heatmap.js',
+    {dataSource:'Crypto',blockSize:'market_cap_calc',blockColor:'24h_close_change|5',locale:'kr',colorTheme:'dark',width:'100%',height:'420'});
+  tvScript('tvCal','https://s3.tradingview.com/external-embedding/embed-widget-events.js',
+    {colorTheme:'dark',isTransparent:false,locale:'kr',countryFilter:'us,kr,jp,cn,eu',importanceFilter:'0,1',width:'100%',height:'460'});
+  // macro mini chart
+  tvScript('tvMacroChart','https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js',
+    {colorTheme:'dark',dateRange:'1D',locale:'kr',width:'100%',height:'460',showChart:true,
+     tabs:[{title:'지수',symbols:[{s:'KRX:KOSPI200',d:'코스피200'},{s:'CME_MINI:NQ1!',d:'나스닥100'},{s:'CME_MINI:ES1!',d:'S&P500'},{s:'TVC:NI225',d:'니케이'}]},
+           {title:'원자재·FX',symbols:[{s:'TVC:USOIL',d:'WTI'},{s:'TVC:GOLD',d:'금'},{s:'FX_IDC:USDKRW',d:'원/달러'},{s:'BINANCE:BTCUSDT',d:'비트코인'}]}]});
+}
+
+/* ===================== 네비게이션 / 부트 ===================== */
+function initNav(){
+  document.querySelectorAll('#menu a').forEach(a=>a.onclick=()=>{
+    document.querySelectorAll('#menu a').forEach(x=>x.classList.remove('active'));
+    a.classList.add('active');
+    document.getElementById(a.dataset.go).scrollIntoView({behavior:'smooth',block:'start'});
+  });
+  document.getElementById('loginBtn').onclick=()=>alert('야선지지 클론 데모입니다. 로그인 없이 모든 기능을 체험할 수 있어요.');
+  document.getElementById('joinBtn').onclick=()=>document.getElementById('pred').scrollIntoView({behavior:'smooth'});
+  document.getElementById('posL').onclick=()=>{chatPos='l';posL.classList.add('la');posS.classList.remove('sa');};
+  document.getElementById('posS').onclick=()=>{chatPos='s';posS.classList.add('sa');posL.classList.remove('la');};
+  document.getElementById('sendBtn').onclick=sendChat;
+  document.getElementById('chatInput').addEventListener('keydown',e=>{if(e.key==='Enter')sendChat();});
+  ['fProduct','fEntry','fExit','fQty','fSide','fFee'].forEach(id=>document.getElementById(id).addEventListener('input',calcFee));
+}
+
+function boot(){
+  initNav(); buildChartTabs();
+  // seed
+  CHAT_SEED.forEach(([p,t])=>addMsg(NICKS[Math.floor(Math.random()*NICKS.length)],p,t));
+  NEWS_SEED.forEach(n=>newsItems.push({tag:n[0],label:n[1],txt:n[2],t:new Date(Date.now()-Math.random()*900000)}));
+  newsItems.sort((a,b)=>b.t-a.t); renderNews();
+  PRED_ASSETS.forEach(([k])=>newRound(k)); renderPred();
+  renderLB(); calcFee();
+  loadChart('KRX:KOSPI200','코스피200'); loadWidgets();
+  online=1240+Math.floor(Math.random()*800);
+  document.getElementById('chatOnline').textContent=KRW(online)+'명 접속';
+
+  pollBinance().then(()=>{renderMarket();renderTicker();});
+  setInterval(tick,1500);
+  setInterval(pollBinance,8000);
+  setInterval(newsLoop,9000);
+  setInterval(chatLoop,2600);
+  setInterval(predTick,1000);
+  setInterval(()=>{online+=Math.floor((Math.random()-0.45)*8);document.getElementById('chatOnline').textContent=KRW(Math.max(900,online))+'명 접속';},5000);
+}
+window.addEventListener('load',boot);
+
+</script>
+</body>
+</html>
