@@ -157,6 +157,50 @@
   footer b{color:var(--txt2)}
   .pill{display:inline-block;font-size:10px;font-weight:800;padding:2px 7px;border-radius:6px;background:rgba(255,206,58,.12);color:var(--accent);margin-left:6px}
   .hint{color:var(--txt3);font-size:12px;margin-top:6px}
+
+  /* 환율 카드 */
+  .fx-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px}
+  .fx-card{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);padding:13px 14px;position:relative;overflow:hidden}
+  .fx-card .fx-nm{color:var(--txt2);font-size:12.5px;font-weight:600;display:flex;align-items:center;gap:6px}
+  .fx-card .fx-code{font-size:9px;padding:1px 5px;border-radius:4px;background:#2a3346;color:var(--txt3);font-weight:700}
+  .fx-card .fx-pr{font-size:21px;font-weight:800;margin-top:7px;font-variant-numeric:tabular-nums}
+  .fx-card .ch{font-size:12.5px;font-weight:700;margin-top:3px;font-variant-numeric:tabular-nums}
+  .fx-card .spark{position:absolute;right:0;bottom:0;width:55%;height:30px;opacity:.45}
+
+  /* 24h 인기 종목 */
+  .pop-list .pop-row{display:grid;grid-template-columns:34px 1fr auto auto;align-items:center;gap:10px;padding:11px 14px;border-bottom:1px solid var(--border);cursor:pointer;transition:.12s}
+  .pop-list .pop-row:last-child{border-bottom:none}
+  .pop-list .pop-row:hover{background:var(--panel2)}
+  .pop-rank{display:inline-flex;width:24px;height:24px;align-items:center;justify-content:center;border-radius:6px;font-weight:800;font-size:12px;background:var(--panel2);color:var(--txt2)}
+  .pop-rank.top{background:linear-gradient(135deg,#ffce3a,#b8860b);color:#1a1206}
+  .pop-nm{font-weight:700;font-size:13.5px;display:flex;align-items:center;gap:6px}
+  .pop-nm .badge{font-size:9px;padding:1px 5px;border-radius:4px;background:#2a3346;color:var(--txt3);font-weight:700}
+  .pop-pr{font-weight:700;font-variant-numeric:tabular-nums;text-align:right}
+  .pop-row .ch{font-weight:800;font-size:12.5px;text-align:right;min-width:92px;font-variant-numeric:tabular-nums}
+
+  /* 도미넌스 */
+  .dom-list{padding:6px 4px}
+  .dom-row{display:grid;grid-template-columns:84px 1fr 52px;align-items:center;gap:10px;padding:9px 14px}
+  .dom-nm{font-weight:700;font-size:13px}
+  .dom-bar{height:10px;background:var(--bg2);border-radius:6px;overflow:hidden}
+  .dom-fill{height:100%;border-radius:6px;transition:width .6s}
+  .dom-pct{font-weight:800;font-variant-numeric:tabular-nums;text-align:right;font-size:13px}
+
+  /* 테스트매매 */
+  .mk-wrap{display:grid;grid-template-columns:300px 1fr;gap:16px}
+  @media(max-width:780px){.mk-wrap{grid-template-columns:1fr}}
+  .mk-stat{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap}
+  .mk-stat .box{flex:1;min-width:120px;background:var(--bg2);border:1px solid var(--border);border-radius:10px;padding:11px 13px}
+  .mk-stat .box .k{color:var(--txt3);font-size:11.5px;font-weight:600}
+  .mk-stat .box .v{font-weight:800;font-size:17px;margin-top:3px;font-variant-numeric:tabular-nums}
+  .mk-pos{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:11px 13px;border-bottom:1px solid var(--border)}
+  .mk-pos:last-child{border-bottom:none}
+  .mk-close{margin-top:4px;padding:3px 10px;font-size:11px;border-radius:6px;border:1px solid var(--border2);background:var(--panel2);color:var(--txt);cursor:pointer}
+  .mk-close:hover{border-color:var(--up)}
+  .mk-btns{display:flex;gap:8px;margin-top:6px}
+  .mk-btns button{flex:1;padding:12px;border-radius:9px;border:2px solid;font-weight:800;cursor:pointer;font-size:14px;background:transparent}
+  .mk-btns .buy{border-color:var(--up);color:var(--up)} .mk-btns .buy:hover{background:rgba(255,77,94,.12)}
+  .mk-btns .sell{border-color:var(--down);color:var(--down)} .mk-btns .sell:hover{background:rgba(59,130,246,.12)}
 </style>
 </head>
 <body>
@@ -166,11 +210,14 @@
     <div class="logo"><span class="dot"></span><span>야선<b>지지</b></span></div>
     <nav class="menu" id="menu">
       <a data-go="chart" class="active">실시간 차트</a>
+      <a data-go="fx">환율</a>
+      <a data-go="popular">인기 종목</a>
       <a data-go="news">속보 뉴스룸</a>
       <a data-go="chat">롱숏 채팅</a>
       <a data-go="heatmap">매매동향</a>
       <a data-go="pred">예측 라운드</a>
       <a data-go="macro">매크로</a>
+      <a data-go="mock">테스트매매</a>
       <a data-go="fee">수수료 계산기</a>
       <a data-go="lb">리더보드</a>
     </nav>
@@ -191,6 +238,29 @@
       <span class="more"><span id="dataUpdated" style="color:var(--green)">실시세 수신 중…</span> · <span id="mktTime">--:--:--</span></span></div>
     <div class="mkt-grid" id="mktGrid"></div>
   </section>
+
+  <!-- ===== 환율 ===== -->
+  <section class="section" id="fx">
+    <div class="sec-head"><h2><span class="bar"></span>환율 <span class="pill">실시간</span></h2>
+      <span class="more">주요 통화 · 달러 인덱스</span></div>
+    <div class="fx-grid" id="fxGrid"></div>
+  </section>
+
+  <!-- ===== 24h 인기 + 도미넌스 split ===== -->
+  <div class="split">
+    <section class="section" id="popular" style="margin:0">
+      <div class="sec-head"><h2><span class="bar"></span>🔥 24시간 인기 종목</h2><span class="more">등락률 변동 TOP</span></div>
+      <div class="panel pop-list" id="popList"></div>
+    </section>
+
+    <section class="section" id="dominance" style="margin:0">
+      <div class="sec-head"><h2><span class="bar"></span>시장 도미넌스 <span class="pill">실시간</span></h2></div>
+      <div class="panel">
+        <div class="dom-list" id="domList"><div style="padding:14px;color:var(--txt3);text-align:center">도미넌스 수신 중…</div></div>
+        <div style="padding:9px 14px;border-top:1px solid var(--border);color:var(--txt3);font-size:11.5px" id="domMeta">—</div>
+      </div>
+    </section>
+  </div>
 
   <!-- ===== 실시간 차트 ===== -->
   <section class="section" id="chart">
@@ -246,6 +316,31 @@
     <div class="grid2">
       <div class="tv-box"><div id="tvCal" style="height:460px"></div></div>
       <div class="tv-box"><div id="tvMacroChart" style="height:460px"></div></div>
+    </div>
+  </section>
+
+  <!-- ===== 테스트매매 ===== -->
+  <section class="section" id="mock">
+    <div class="sec-head"><h2><span class="bar"></span>테스트매매 <span class="pill">모의</span></h2><span class="more">실시세 기반 · 가상 자금 1천만원</span></div>
+    <div class="panel" style="padding:18px">
+      <div class="mk-wrap">
+        <div>
+          <div class="field"><label>자산</label><select id="mkAsset"></select></div>
+          <div class="field"><label>투입 금액 (원)</label><input id="mkAmt" type="number" value="1000000" step="100000"></div>
+          <select id="mkSide" style="display:none"><option value="long">long</option><option value="short">short</option></select>
+          <div class="mk-btns"><button class="buy" id="mkBuy">매수 (롱) ▲</button><button class="sell" id="mkSell">매도 (숏) ▼</button></div>
+          <button class="btn" id="mkReset" style="width:100%;margin-top:8px">잔고 초기화</button>
+          <div class="hint">실제 시세 변동에 따라 평가손익이 갱신됩니다. 청산 시 손익이 잔고에 반영됩니다. (왕복 수수료 0.1% 반영)</div>
+        </div>
+        <div>
+          <div class="mk-stat">
+            <div class="box"><div class="k">가용 잔고</div><div class="v" id="mkBal">—</div></div>
+            <div class="box"><div class="k">총 평가자산</div><div class="v" id="mkEquity">—</div></div>
+            <div class="box"><div class="k">누적 수익률</div><div class="v" id="mkRoi">0.00%</div></div>
+          </div>
+          <div class="panel" style="background:var(--bg2)"><div id="mkPos"></div></div>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -334,6 +429,7 @@ const ASSETS = [
   {key:'sox',   nm:'필라델피아 반도체',  badge:'지수', base:5120,   vol:1.1,  dec:1, tv:'NASDAQ:SOX'},
   {key:'nikkei',nm:'니케이 225',         badge:'지수', base:38900,  vol:0.6,  dec:0, tv:'TVC:NI225'},
   {key:'wti',   nm:'WTI 원유',           badge:'원자재', base:71.4, vol:1.0,  dec:2, tv:'TVC:USOIL'},
+  {key:'brent', nm:'브렌트유',           badge:'원자재', base:74.8, vol:1.0,  dec:2, tv:'TVC:UKOIL'},
   {key:'gold',  nm:'금 선물',            badge:'원자재', base:2648, vol:0.6,  dec:1, tv:'TVC:GOLD'},
   {key:'silver',nm:'은 선물',            badge:'원자재', base:30.8, vol:1.2,  dec:2, tv:'TVC:SILVER'},
   {key:'gas',   nm:'천연가스',           badge:'원자재', base:3.05, vol:2.0,  dec:3, tv:'NYMEX:NG1!'},
@@ -344,6 +440,18 @@ const ASSETS = [
 ];
 const live = {};   // key -> {price, prev, chgPct}
 ASSETS.forEach(a=>{ live[a.key]={price:a.base, open:a.base, chgPct:0, hist:[]}; });
+
+/* ---- 환율(FX) 전용 페어 (data.json에서 실시세 수신) ---- */
+const FX_PAIRS=[
+  {key:'usdkrw',nm:'미국 달러',  code:'USD/KRW',dec:1},
+  {key:'eurkrw',nm:'유로',       code:'EUR/KRW',dec:1},
+  {key:'jpykrw',nm:'일본 엔(100)',code:'JPY/KRW',dec:2,x100:true},
+  {key:'cnykrw',nm:'중국 위안',  code:'CNY/KRW',dec:2},
+  {key:'usdjpy',nm:'달러/엔',    code:'USD/JPY',dec:2},
+  {key:'eurusd',nm:'유로/달러',  code:'EUR/USD',dec:4},
+  {key:'dxy',   nm:'달러 인덱스',code:'DXY',    dec:2},
+];
+FX_PAIRS.forEach(f=>{ if(!live[f.key]) live[f.key]={price:0,open:0,chgPct:0,hist:[]}; });
 
 /* ---- 실데이터: data.json(Yahoo Finance) + 코인 Binance 실시간 ---- */
 const dataLoaded = {};   // 실제 시세를 수신한 key 표시
@@ -357,7 +465,7 @@ function tick(){
     L.chgPct = (L.price/L.open-1)*100;
     L.hist.push(L.price); if(L.hist.length>40)L.hist.shift();
   });
-  renderMarket(); renderTicker(); updateLS();
+  renderMarket(); renderTicker(); updateLS(); renderPopular(); renderMock();
 }
 
 /* ---- 실제 시세/뉴스 폴링 (GitHub Actions가 5분마다 data.json 갱신) ---- */
@@ -386,7 +494,7 @@ async function pollData(){
     }
     if(d.updated){const el=document.getElementById('dataUpdated');
       if(el) el.textContent='실시세 갱신 '+new Date(d.updated).toLocaleTimeString('ko-KR');}
-    renderMarket(); renderTicker();
+    renderMarket(); renderTicker(); renderFX(); renderPopular(); renderMock();
   }catch(e){ /* 실패 시 직전 값/시뮬 유지 */ }
 }
 async function pollBinance(){
@@ -659,6 +767,105 @@ function initRealtimeLB(){
   });
 }
 
+/* ===================== 환율 섹션 ===================== */
+function renderFX(){
+  const el=document.getElementById('fxGrid'); if(!el)return;
+  el.innerHTML=FX_PAIRS.map(f=>{
+    const L=live[f.key]; if(!L||!L.price)return'';
+    const v=f.x100?L.price*100:L.price, up=L.chgPct>=0;
+    return `<div class="fx-card">
+      <div class="fx-nm">${f.nm}<span class="fx-code">${f.code}</span></div>
+      <div class="fx-pr">${F2v(v,f.dec)}</div>
+      <div class="ch ${cls(L.chgPct)}">${arr(L.chgPct)} ${sign(L.chgPct)}${L.chgPct.toFixed(2)}%</div>
+      ${spark(L.hist,up)}</div>`;
+  }).join('');
+}
+
+/* ===================== 24시간 인기 종목 (등락률 순위) ===================== */
+function renderPopular(){
+  const el=document.getElementById('popList'); if(!el)return;
+  const rows=ASSETS.map(a=>({a,L:live[a.key]}))
+    .filter(x=>dataLoaded[x.a.key]||x.a.binance)
+    .sort((p,q)=>Math.abs(q.L.chgPct)-Math.abs(p.L.chgPct)).slice(0,8);
+  if(!rows.length){ el.innerHTML='<div style="padding:14px;color:var(--txt3);text-align:center">실시세 수신 대기 중…</div>'; return; }
+  el.innerHTML=rows.map((x,i)=>{
+    const a=x.a,L=x.L;
+    return `<div class="pop-row" data-tv="${a.tv}" data-nm="${a.nm}">
+      <span class="pop-rank ${i<3?'top':''}">${i+1}</span>
+      <span class="pop-nm">${a.nm}<span class="badge">${a.badge}</span></span>
+      <span class="pop-pr">${F2v(L.price,a.dec)}</span>
+      <span class="ch ${cls(L.chgPct)}">${arr(L.chgPct)} ${sign(L.chgPct)}${L.chgPct.toFixed(2)}%</span></div>`;
+  }).join('');
+  el.querySelectorAll('.pop-row').forEach(c=>c.onclick=()=>loadChart(c.dataset.tv,c.dataset.nm));
+}
+
+/* ===================== 시장 도미넌스 (CoinGecko 실데이터) ===================== */
+async function pollDominance(){
+  try{
+    const r=await fetch('https://api.coingecko.com/api/v3/global');
+    const d=(await r.json()).data, mc=d.market_cap_percentage;
+    const order=[['btc','비트코인','#f7931a'],['eth','이더리움','#627eea'],['usdt','테더','#26a17b'],
+                 ['bnb','BNB','#f3ba2f'],['sol','솔라나','#9945ff'],['xrp','리플','#23292f']];
+    const el=document.getElementById('domList'); if(!el)return;
+    el.innerHTML=order.filter(([k])=>mc[k]!=null).map(([k,nm,c])=>{
+      const p=mc[k];
+      return `<div class="dom-row"><span class="dom-nm">${nm}</span>
+        <div class="dom-bar"><div class="dom-fill" style="width:${Math.min(100,p)}%;background:${c}"></div></div>
+        <span class="dom-pct">${p.toFixed(1)}%</span></div>`;
+    }).join('');
+    const cap=d.total_market_cap.usd, vol=d.total_volume.usd;
+    const m=document.getElementById('domMeta');
+    if(m)m.textContent='총 시총 $'+(cap/1e12).toFixed(2)+'T · 24h 거래량 $'+(vol/1e9).toFixed(0)+'B · 코인 '+d.active_cryptocurrencies.toLocaleString()+'종';
+  }catch(e){ /* 차단 시 직전 값 유지 */ }
+}
+
+/* ===================== 테스트매매 (모의 · 실시세 기반) ===================== */
+const MOCK_START=10000000, MOCK_FEE=0.0005;
+let mockBal=parseFloat(localStorage.getItem('ys_mock_bal')||MOCK_START);
+let mockPos=JSON.parse(localStorage.getItem('ys_mock_pos')||'[]');
+function mockSave(){localStorage.setItem('ys_mock_bal',mockBal);localStorage.setItem('ys_mock_pos',JSON.stringify(mockPos));}
+function mockAssets(){return ASSETS.filter(a=>dataLoaded[a.key]||a.binance);}
+function mockPnl(p,price){
+  const dir=p.side==='long'?1:-1, gross=p.amt*dir*(price/p.entry-1), fee=p.amt*MOCK_FEE*2;
+  return gross-fee;
+}
+function mockOpen(){
+  const k=document.getElementById('mkAsset').value, side=document.getElementById('mkSide').value, amt=+document.getElementById('mkAmt').value;
+  const L=live[k]; if(!L||!L.price){alert('시세 수신 후 다시 시도하세요');return;}
+  if(!amt||amt<=0){alert('투입 금액을 입력하세요');return;}
+  if(amt>mockBal){alert('가용 잔고가 부족합니다');return;}
+  mockPos.push({id:Date.now(),k,side,entry:L.price,amt,t:Date.now()});
+  mockBal-=amt; mockSave(); renderMock();
+}
+function mockClose(id){
+  const i=mockPos.findIndex(p=>p.id===id); if(i<0)return;
+  const p=mockPos[i],L=live[p.k];
+  mockBal+=p.amt+mockPnl(p,L.price); mockPos.splice(i,1); mockSave(); renderMock();
+}
+function mockReset(){ if(!confirm('잔고를 1천만원으로 초기화할까요?'))return;
+  mockBal=MOCK_START; mockPos=[]; mockSave(); renderMock(); }
+function renderMock(){
+  const sel=document.getElementById('mkAsset'); if(!sel)return;
+  const opts=mockAssets();
+  if(sel.options.length!==opts.length) sel.innerHTML=opts.map(a=>`<option value="${a.key}">${a.nm}</option>`).join('');
+  let eq=mockBal, html='';
+  mockPos.forEach(p=>{
+    const a=ASSETS.find(x=>x.key===p.k),L=live[p.k]; if(!a||!L)return;
+    const pnl=mockPnl(p,L.price), roi=pnl/p.amt*100; eq+=p.amt+pnl;
+    html+=`<div class="mk-pos"><div><b>${a.nm}</b> <span class="pos ${p.side==='long'?'l':'s'}">${p.side==='long'?'롱':'숏'}</span>
+      <div style="font-size:11px;color:var(--txt3)">진입 ${F2v(p.entry,a.dec)} · 현재 ${F2v(L.price,a.dec)} · 투입 ${KRW(p.amt)}원</div></div>
+      <div style="text-align:right"><div class="${cls(pnl)}" style="font-weight:800">${sign(pnl)}${KRW(Math.round(pnl))}원</div>
+      <div class="${cls(roi)}" style="font-size:11.5px">${sign(roi)}${roi.toFixed(2)}%</div>
+      <button class="mk-close" data-close="${p.id}">청산</button></div></div>`;
+  });
+  document.getElementById('mkBal').textContent=KRW(Math.round(mockBal))+' 원';
+  document.getElementById('mkEquity').textContent=KRW(Math.round(eq))+' 원';
+  const roi=(eq/MOCK_START-1)*100, re=document.getElementById('mkRoi');
+  re.textContent=sign(roi)+roi.toFixed(2)+'%'; re.className='v '+cls(roi);
+  document.getElementById('mkPos').innerHTML=html||'<div style="color:var(--txt3);padding:16px;text-align:center">보유 포지션이 없습니다. 자산·금액을 정하고 매수/매도로 모의 포지션을 열어보세요.</div>';
+  document.querySelectorAll('.mk-close').forEach(b=>b.onclick=()=>mockClose(+b.dataset.close));
+}
+
 /* ===================== TradingView 위젯 (히트맵/캘린더/매크로) ===================== */
 function tvScript(container,src,cfg){
   const c=document.getElementById(container); c.innerHTML='';
@@ -707,8 +914,13 @@ function boot(){
   initNav(); buildChartTabs();
   newsItems=[]; renderNews();        // 실제 뉴스는 pollData가 채움
   PRED_ASSETS.forEach(([k])=>newRound(k)); renderPred();
-  calcFee();
+  calcFee(); renderFX(); renderPopular(); renderMock();
   loadChart('KRX:KOSPI200','코스피200'); loadWidgets();
+
+  // 테스트매매 컨트롤
+  document.getElementById('mkBuy').onclick=()=>{document.getElementById('mkSide').value='long';mockOpen();};
+  document.getElementById('mkSell').onclick=()=>{document.getElementById('mkSide').value='short';mockOpen();};
+  document.getElementById('mkReset').onclick=mockReset;
 
   initRealtimeChat();                // 실시간 채팅/롱숏/접속자
   initRealtimeLB();                  // 실시간 리더보드
@@ -716,9 +928,11 @@ function boot(){
 
   pollBinance().then(()=>{renderMarket();renderTicker();});
   pollData();                        // 실제 시세/뉴스 즉시 로드
+  pollDominance();                   // 시장 도미넌스 실데이터
   setInterval(tick,1500);
   setInterval(pollBinance,8000);
   setInterval(pollData,30000);        // 실데이터 30초마다 재확인
+  setInterval(pollDominance,60000);   // 도미넌스 1분마다
   setInterval(predTick,1000);
 }
 window.addEventListener('load',boot);

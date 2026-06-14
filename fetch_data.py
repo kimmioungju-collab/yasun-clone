@@ -20,6 +20,7 @@ SYMBOLS = {
     "sox":    "^SOX",
     "nikkei": "^N225",
     "wti":    "CL=F",
+    "brent":  "BZ=F",      # 브렌트유
     "gold":   "GC=F",
     "silver": "SI=F",
     "gas":    "NG=F",
@@ -27,6 +28,13 @@ SYMBOLS = {
     "usdkrw": "KRW=X",
     "btc":    "BTC-USD",
     "eth":    "ETH-USD",
+    # ---- 환율(FX) 전용 페어 ----
+    "eurkrw": "EURKRW=X",
+    "jpykrw": "JPYKRW=X",
+    "cnykrw": "CNYKRW=X",
+    "usdjpy": "JPY=X",
+    "eurusd": "EURUSD=X",
+    "dxy":    "DX-Y.NYB",  # 달러 인덱스
 }
 
 def http_get(url, timeout=15):
