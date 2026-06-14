@@ -188,7 +188,7 @@
   <!-- ===== 지금 시장 ===== -->
   <section class="section" id="market">
     <div class="sec-head"><h2><span class="bar"></span>지금 시장 <span class="pill">실시간</span></h2>
-      <span class="more" id="mktTime">--:--:--</span></div>
+      <span class="more"><span id="dataUpdated" style="color:var(--green)">실시세 수신 중…</span> · <span id="mktTime">--:--:--</span></span></div>
     <div class="mkt-grid" id="mktGrid"></div>
   </section>
 
@@ -211,7 +211,7 @@
     </section>
 
     <section class="section" id="chat" style="margin:0">
-      <div class="sec-head"><h2><span class="bar"></span>롱숏 채팅</h2><span class="more" id="chatOnline">0명 접속</span></div>
+      <div class="sec-head"><h2><span class="bar"></span>롱숏 채팅 <span class="pill" style="background:#3a2a12;color:#f0b75a">데모</span></h2><span class="more" id="chatOnline">0명 접속</span></div>
       <div class="panel chat">
         <div class="ls-bar"><div class="long" id="lsLong">롱 50%</div><div class="short" id="lsShort">숏 50%</div></div>
         <div class="chat-msgs" id="chatMsgs"></div>
@@ -281,7 +281,7 @@
 
   <!-- ===== 리더보드 ===== -->
   <section class="section" id="lb">
-    <div class="sec-head"><h2><span class="bar"></span>리더보드</h2><span class="more">예측 라운드 누적 수익률 TOP</span></div>
+    <div class="sec-head"><h2><span class="bar"></span>리더보드 <span class="pill" style="background:#3a2a12;color:#f0b75a">데모</span></h2><span class="more">예측 라운드 누적 수익률 TOP</span></div>
     <div class="panel">
       <table class="lb"><thead><tr><th>순위</th><th>트레이더</th><th style="text-align:right">승률</th><th style="text-align:right">누적 P</th><th style="text-align:right">수익률</th></tr></thead>
       <tbody id="lbBody"></tbody></table>
@@ -327,17 +327,49 @@ const ASSETS = [
 const live = {};   // key -> {price, prev, chgPct}
 ASSETS.forEach(a=>{ live[a.key]={price:a.base, open:a.base, chgPct:0, hist:[]}; });
 
-/* ---- 시뮬레이션: 비트/이더는 실제 Binance, 나머지는 랜덤워크 ---- */
+/* ---- 실데이터: data.json(Yahoo Finance) + 코인 Binance 실시간 ---- */
+const dataLoaded = {};   // 실제 시세를 수신한 key 표시
 function tick(){
   ASSETS.forEach(a=>{
-    if(a.binance) return; // 실데이터로 갱신
-    const L=live[a.key];
+    if(a.binance) return;        // 코인은 Binance 실시간으로 갱신
+    if(dataLoaded[a.key]) return;// 실데이터 수신분은 시뮬로 덮지 않음
+    const L=live[a.key];          // (아직 data.json 미수신분만 임시 시뮬)
     const drift=(Math.random()-0.5)*a.vol*0.0016;
     L.price = Math.max(a.base*0.5, L.price*(1+drift));
     L.chgPct = (L.price/L.open-1)*100;
     L.hist.push(L.price); if(L.hist.length>40)L.hist.shift();
   });
   renderMarket(); renderTicker(); updateLS();
+}
+
+/* ---- 실제 시세/뉴스 폴링 (GitHub Actions가 5분마다 data.json 갱신) ---- */
+function newsTag(t){
+  if(/속보|급등|급락|돌파|사상|최고|폭|발표/.test(t)) return ['hot','속보'];
+  if(/나스닥|연준|FOMC|달러|엔|글로벌|미국|중국|일본|유럽|OPEC/.test(t)) return ['glb','글로벌'];
+  return ['mkt','시장'];
+}
+async function pollData(){
+  try{
+    const r=await fetch('data.json?t='+Date.now(),{cache:'no-store'});
+    if(!r.ok) throw 0;
+    const d=await r.json();
+    Object.entries(d.quotes||{}).forEach(([k,q])=>{
+      const L=live[k]; if(!L||q.price==null) return;
+      L.price=q.price;
+      L.open=(q.prev!=null?q.prev:q.price);
+      L.chgPct=(L.price/L.open-1)*100;
+      if(q.spark&&q.spark.length) L.hist=q.spark.slice(-40);
+      dataLoaded[k]=true;
+    });
+    if(Array.isArray(d.news)&&d.news.length){
+      newsItems=d.news.map(n=>{const tg=newsTag(n.title);
+        return {tag:tg[0],label:tg[1],txt:n.title+(n.source?(' · '+n.source):''),t:n.time?new Date(n.time):new Date()};});
+      renderNews();
+    }
+    if(d.updated){const el=document.getElementById('dataUpdated');
+      if(el) el.textContent='실시세 갱신 '+new Date(d.updated).toLocaleTimeString('ko-KR');}
+    renderMarket(); renderTicker();
+  }catch(e){ /* 실패 시 직전 값/시뮬 유지 */ }
 }
 async function pollBinance(){
   try{
@@ -627,9 +659,10 @@ function boot(){
   document.getElementById('chatOnline').textContent=KRW(online)+'명 접속';
 
   pollBinance().then(()=>{renderMarket();renderTicker();});
+  pollData();                       // 실제 시세/뉴스 즉시 로드
   setInterval(tick,1500);
   setInterval(pollBinance,8000);
-  setInterval(newsLoop,9000);
+  setInterval(pollData,30000);       // 실데이터 30초마다 재확인
   setInterval(chatLoop,2600);
   setInterval(predTick,1000);
   setInterval(()=>{online+=Math.floor((Math.random()-0.45)*8);document.getElementById('chatOnline').textContent=KRW(Math.max(900,online))+'명 접속';},5000);
