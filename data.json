@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T23:35:41.936654+09:00",
+ "updated": "2026-06-15T01:09:35.652455+09:00",
  "quotes": {
   "k200": {
    "price": 1291.32,
@@ -451,74 +451,55 @@
    ]
   },
   "btc": {
-   "price": 63941.91,
+   "price": 64017.01,
    "prev": 64412.65,
    "spark": [
-    64522.8711,
-    64546.3203,
-    64588.1094,
-    64583.8906,
-    64575.1016,
-    64594.9297,
-    64555.9883,
-    64506.0703,
-    64507.9883,
-    64456.4609,
-    64438.0,
-    64432.0117,
-    64458.8086,
-    64428.8516,
-    64355.3281,
-    64298.0,
-    64322.0,
-    64296.25,
-    64270.7109,
     64294.2188,
-    64294.2305,
-    64308.0,
+    64298.9688,
+    64302.3086,
     64324.5117,
     64288.9883,
-    64294.7305,
-    64248.0117,
-    64264.25,
+    64294.75,
+    64249.9609,
+    64252.3516,
     64259.3906,
-    64328.6211,
+    64327.0195,
     64273.7891,
-    64269.4883,
-    64276.1016,
-    64292.3086,
+    64278.9883,
+    64285.0586,
+    64304.75,
     64265.9219,
     64273.0391,
     64263.6602,
-    64231.1719,
-    64126.0,
-    63961.9883,
-    63941.9102
+    64235.6914,
+    64124.9219,
+    63975.9414,
+    63885.9883,
+    63908.1211,
+    63866.0703,
+    63892.7188,
+    63944.3398,
+    64095.8516,
+    64080.1992,
+    64072.5312,
+    64009.1719,
+    64041.1484,
+    64016.9609,
+    63976.0898,
+    64021.4883,
+    63995.9414,
+    64022.5781,
+    64029.2305,
+    63986.1797,
+    63985.3086,
+    64028.1211,
+    64017.0117
    ]
   },
   "eth": {
-   "price": 1657.04,
+   "price": 1663.04,
    "prev": 1680.1036,
    "spark": [
-    1673.16,
-    1673.66,
-    1675.3101,
-    1675.0,
-    1674.6,
-    1674.33,
-    1673.92,
-    1672.55,
-    1673.13,
-    1671.96,
-    1672.16,
-    1672.41,
-    1673.3101,
-    1671.98,
-    1669.59,
-    1667.5699,
-    1667.53,
-    1666.78,
-    1664.9,
     1665.7,
     1665.89,
     1666.3199,
@@ -539,7 +520,26 @@
     1665.8,
     1664.0,
     1656.87,
-    1657.04
+    1655.09,
+    1655.22,
+    1656.41,
+    1657.37,
+    1658.66,
+    1660.89,
+    1662.5,
+    1661.6801,
+    1660.61,
+    1662.25,
+    1662.16,
+    1661.3101,
+    1662.0,
+    1662.01,
+    1662.89,
+    1663.1801,
+    1662.13,
+    1662.52,
+    1663.26,
+    1663.04
    ]
   },
   "eurkrw": {
@@ -828,21 +828,27 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFJKS1QwVzVlQ1pIYTI3SFlWcmlNYy1aeG9McnpZX0JNYU9vMnp0SHYtbDhkUXotLTFfeFFJN3l0S3N6V3dkWEJNUVhVdEpSWGlST1lZSy1yVEpaU1A3OU1EMlZ6WVVxMGxlT1dYckluZ0x5SUZuN0hRRFlCTWtfUHVsTjAzWDDSAZsBQVVfeXFMUC1raXZZWTFwQ0FJRW8wcmx0VkFlWFV6REVMR2tSaWVhTzVmSGVxYklhaGhhaXN2WFY0WWRJa25FOUhCa19ReGFhVVNKd0Jnei13VTBxRE5mbkhSQnFOYlBjaDBQTWdaTUU2UHB5WUk2U2RZNHNpbllZSml5N2otVF9tdlhsQkFyNnYySGxDR0VPc0lVUWJ5Yjhxc0U?oc=5"
   },
   {
-   "title": "[Weekly Coin] 종전 '임박'에도 힘쓰지 못한 비트코인",
-   "source": "시사저널e",
-   "time": "2026-06-14T13:09:33+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90M2laMmNHUk1JQ0tpWS1hZWJwVVpFQkRCT0tNTnpUSXRKR0NzN2xXN3dwb0FjUGZ2R0N2Wm0zVXZRbXRFZ0RuVF81dkxfNnEzQTZWZVlBYmZMNG54YldRMVhtSUptRWZoVFg0N1FWRUY3Z9IBdkFVX3lxTE5ONk1STkF1REFmSy1aMm9zVWgyVkRTelFRNDBvNm1uQ0gtS01tdUp0ZDVJQjVZTmsyNFQtZVFpVFJxdDk0TzU2U3VBbUdJcVpTM0tzenJ1ZU1mUFNTeXhTZDA4RDktM0p6VmFXRFNhWFZGRFRELUE?oc=5"
-  },
-  {
    "title": "롤러코스피에 올라탄 빚투… ‘대출 조이기’ 통할까 [주말 Q&A]",
    "source": "더스쿠프",
    "time": "2026-06-14T17:49:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHb2ZpRWNPekJvLUI0WnJ0eUx2MmhXZmpzUlNmNVZ6UEdTT3g3Mm1la2JNRDdGMEI5WmtzYlNURm9QTDU2bDlUSFNkLWlwbWRscjZYNXdTWUwzZTZHLWlENnIxUG9peGZjcXFheEl3?oc=5"
   },
   {
+   "title": "코스피 급락 범인은 '외국인' 아닌 '레버리지ETF'",
+   "source": "연합인포맥스",
+   "time": "2026-06-11T09:18:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jR1RtMXJ0cWU0MnIwQVluel9jSWpwUlZKUG11S0ZyeERtZGpwZGhCYVEtUXZsZ2VBeDYtQ1NjQ1lYYUt4WDV2VFFQTV9WcC15S1lNU3RRTUJMOFdXUF9NSWJ5LXZCaEFDbmV0SjY0bXA?oc=5"
+  },
+  {
+   "title": "[김동호의 일본 읽기] 체질 바꾼 일본 증시",
+   "source": "중앙일보",
+   "time": "2026-06-15T00:02:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03NktXOGV2NmVCR0RYT1ltWjR4WXBRNlRNUlhsdUVGMWlLc1NBYUltbVBfYmZ5Q3VId2RlbUNSMi01NmtWRnhvbGU4WTFWYnpBdDdqREV3?oc=5"
+  },
+  {
    "title": "[기획] 기업은 꼭 쥐고 개미 다시 미국행… ‘令 안 서는’ 환율대책",
    "source": "v.daum.net",
-   "time": "2026-06-14T18:31:21+09:00",
+   "time": "2026-06-14T18:31:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PenpmdURUV1lINXVQZXc4RFRPUFBsMmJpeGdld1FpaUxPSXRwU1NPdEwxU3VNNGtmU3hMMWFHcW9PQ2dXVV9PWkV3QmE3aTA?oc=5"
   },
   {
@@ -852,16 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CaktvbkdxWVB0dlZMdHFwejNwZ3BCQ2Y4SUNqbGJObkNoN0hEVW9TQXNybDZXVXJHQm1ybDhDWEZHbXcyUGtNT3hSVWFXU0VjSi02R2lQVXgxd9IBVEFVX3lxTE1ZNDFYT0tCOThEMkp2akwxQkx1STFRby03dHBfcWlvQWcyNkpDWUpBb0RGaGxZclpGTUxlUEktcVdMQzkyZTd4Q2pKendLTUs5ZVptQg?oc=5"
   },
   {
-   "title": "[표] 외국환율고시표",
-   "source": "매일경제 마켓",
-   "time": "2026-06-14T17:45:51+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUy1aYWF0dkZrbGpHb0pqY3lPUjVYM3JDUTZ1TGNxNERObk9xOC1NanVwVzVVbnY0NFNGUTN1ZjZvUU4zN3VfeHNoS1pjVzlmaEE?oc=5"
-  },
-  {
-   "title": "환율 하루 변동폭 10.1원에…기업 달러예금 3년 5개월만 최대",
-   "source": "중앙일보",
-   "time": "2026-06-14T15:47:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MMzQ3R1ppNnlwM3pvVzJOTXhuaFVNMFo2TWhOMEVxUUdoV1lEVjNYVWx0SERqcUk3UHNJU29PLUxrYl9LTklZWGRhbWRlV3BIZDNGMDlB?oc=5"
+   "title": "1500원대 환율 지속···당국, ‘환전 요청’에도 기업 달러예금 3년5개월만 최대",
+   "source": "경향신문",
+   "time": "2026-06-14T14:35:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Tb3c3VHRTZlVjS0dzbUY1VjNleXdQazhKd3pWYUNsb1VjQUZOMTl4b2VxR1V0UjI1MFhEQnpqd1Zob2RydVNOWFlaOWFfZFFSTnBHckUtaGpTZ9IBX0FVX3lxTE9Yb1pwN0sxaXhaalJDekE1Tk11bDBhazR2cmZhMlRtcGV2TnJNX3c3dXhVMmozSFpwMTlrNVZrdVBTNVAxYlVWMjZzNTc4SmtYT1BVTE9CX0dlVDY3a3k0?oc=5"
   }
  ]
 }
