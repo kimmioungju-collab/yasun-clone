@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T12:07:00.230043+09:00",
+ "updated": "2026-06-14T12:07:17.675087+09:00",
  "quotes": {
   "k200": {
    "price": 1291.32,
@@ -692,52 +692,52 @@
    ]
   },
   "btc": {
-   "price": 64469.89,
+   "price": 64469.74,
    "prev": 64412.65,
    "spark": [
-    64390.1406,
-    64386.9219,
+    64390.3984,
+    64383.75,
     64398.0,
-    64377.3906,
-    64438.1992,
-    64431.6211,
-    64511.0195,
-    64534.9688,
-    64533.4805,
+    64377.3789,
+    64436.5898,
+    64428.4297,
+    64511.0117,
+    64528.9609,
+    64535.7812,
     64530.5195,
     64514.9297,
-    64532.2812,
-    64506.1719,
-    64591.3789,
-    64600.1797,
+    64524.3086,
+    64511.2617,
+    64587.9609,
+    64605.3203,
     64638.0,
-    64623.6016,
-    64627.3086,
+    64623.5703,
+    64622.0312,
     64557.3984,
-    64544.0117,
+    64544.0195,
     64538.0,
     64600.7109,
-    64598.0391,
-    64569.3398,
-    64568.8594,
+    64598.7383,
+    64545.9883,
+    64568.8203,
     64556.0391,
     64587.9414,
-    64608.0195,
-    64541.7109,
+    64580.0,
+    64534.8906,
     64515.3203,
     64528.0,
     64502.0117,
-    64482.8789,
+    64482.8906,
     64476.3594,
     64455.0,
     64456.2812,
-    64466.7188,
-    64472.6992,
-    64469.8906
+    64466.7109,
+    64469.8984,
+    64469.7383
    ]
   },
   "eth": {
-   "price": 1681.51,
+   "price": 1681.9,
    "prev": 1680.1036,
    "spark": [
     1678.78,
@@ -771,14 +771,14 @@
     1682.95,
     1682.16,
     1682.87,
-    1681.95,
+    1682.11,
     1681.12,
     1682.09,
     1681.33,
     1681.51,
     1681.55,
-    1681.89,
-    1681.51
+    1681.51,
+    1681.9
    ]
   }
  },
@@ -838,16 +838,16 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzA2TkdxV1NYU2trU1JrNlU0OFJKNjZiODdURzJaTkJQRnBTTVBld1J6aTlYVGNvaE83Sy1Mb3FzaXY4VGNsd1dqQjFSd0lQMHRfdDN5SVRJSzFCZWJaYU5nMDJXRGhQekZ1QXlMczdwdDNRaDJaNGZrenllcWEtRHFUM3J5TkU?oc=5"
   },
   {
-   "title": "[주간증시전망] ‘롤러코스터’ 코스피…외인 매수 속 연준 매파 경계",
-   "source": "브릿지경제",
-   "time": "2026-06-14T10:43:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUHQwcVVVVlZLZ2NhNGJEbF9kY3NPbTRhZ3lHdmRlV1d5djExaVEyUDhvT1NKNjZRazg3LVNGS1BQZHlJUzJfQ0lwRmh1Nlhmd2VHZEJ5Q0Fvdw?oc=5"
-  },
-  {
    "title": "한국 증시 랠리, MSCI 선진국 시장 편입 기대감 고조",
    "source": "Investing.com 한국어",
    "time": "2026-06-14T10:19:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LV1ZDcW8xUC1TQUliLWFNdmFQYWZZZ05abDlnOEtqYlVRSHF2Nm5MSUo3anh2OGpGSVBreHliTjlDOWpZM0J1RE1MR0JMc256UHVVNVVKV3RkZmxYdWJ3aENGWlRlYjNiY0taOEFJX2w?oc=5"
+  },
+  {
+   "title": "[주간증시전망] ‘롤러코스터’ 코스피…외인 매수 속 연준 매파 경계",
+   "source": "브릿지경제",
+   "time": "2026-06-14T10:43:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUHQwcVVVVlZLZ2NhNGJEbF9kY3NPbTRhZ3lHdmRlV1d5djExaVEyUDhvT1NKNjZRazg3LVNGS1BQZHlJUzJfQ0lwRmh1Nlhmd2VHZEJ5Q0Fvdw?oc=5"
   },
   {
    "title": "靑 \"환율은 안정돼야\"…대미투자 앞두고 외환시장 관리 의지 시사",
