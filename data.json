@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-15T04:00:49.094889+09:00",
+ "updated": "2026-06-15T05:22:54.352893+09:00",
  "quotes": {
   "k200": {
    "price": 1291.32,
@@ -187,12 +187,12 @@
   },
   "nq": {
    "price": 29662.0,
-   "prev": 29464.75,
+   "prev": 29662.0,
    "spark": []
   },
   "es": {
    "price": 7435.0,
-   "prev": 7396.0,
+   "prev": 7435.0,
    "spark": []
   },
   "ndx": {
@@ -335,27 +335,27 @@
   },
   "wti": {
    "price": 84.88,
-   "prev": 87.71,
+   "prev": 84.88,
    "spark": []
   },
   "brent": {
    "price": 87.33,
-   "prev": 90.38,
+   "prev": 87.33,
    "spark": []
   },
   "gold": {
    "price": 4238.8,
-   "prev": 4114.0,
+   "prev": 4238.8,
    "spark": []
   },
   "silver": {
    "price": 67.974,
-   "prev": 64.001,
+   "prev": 67.974,
    "spark": []
   },
   "gas": {
    "price": 3.12,
-   "prev": 3.087,
+   "prev": 3.12,
    "spark": []
   },
   "vix": {
@@ -451,95 +451,95 @@
    ]
   },
   "btc": {
-   "price": 63786.11,
+   "price": 63867.75,
    "prev": 64412.65,
    "spark": [
-    64022.5781,
-    64029.2305,
-    63986.1797,
-    63985.3086,
-    63989.2812,
-    64068.8789,
-    64051.3906,
-    64132.4688,
-    64105.8008,
-    64142.0391,
-    64126.1289,
-    64123.9688,
-    63975.9609,
-    63924.0195,
-    63912.5117,
-    63969.7188,
-    63900.6289,
-    63922.6992,
-    63915.8906,
+    63922.6914,
+    63918.7305,
     63890.0195,
-    63861.6719,
-    63902.4219,
-    63748.0117,
+    63861.6797,
+    63906.0391,
+    63748.0,
     63802.8086,
     63756.1797,
     63712.8906,
-    63696.5703,
-    63743.8711,
-    63701.9805,
-    63689.5898,
-    63655.9883,
+    63696.5781,
+    63743.8594,
+    63704.0117,
+    63691.1797,
+    63659.9883,
     63697.4102,
-    63682.4297,
-    63703.5586,
+    63682.4219,
+    63703.5703,
     63743.3086,
     63736.2109,
-    63729.5508,
+    63729.5391,
     63759.6602,
-    63772.8281,
-    63786.1094
+    63775.7109,
+    63781.0312,
+    63732.9297,
+    63746.2891,
+    63812.8008,
+    63774.9297,
+    63766.2891,
+    63786.1602,
+    63774.9219,
+    63725.7617,
+    63734.1992,
+    63743.9883,
+    63762.6289,
+    63792.8086,
+    63780.9688,
+    63779.8008,
+    63803.0508,
+    63859.4219,
+    63867.75
    ]
   },
   "eth": {
-   "price": 1661.09,
+   "price": 1665.13,
    "prev": 1680.1036,
    "spark": [
-    1662.89,
-    1663.1801,
-    1662.13,
-    1662.52,
-    1661.54,
-    1664.4301,
-    1664.25,
-    1666.25,
-    1666.5,
-    1667.1801,
-    1666.0601,
-    1665.92,
-    1660.91,
-    1659.52,
-    1659.89,
-    1662.79,
-    1662.17,
     1663.36,
-    1663.9,
-    1664.0,
+    1664.02,
+    1663.99,
     1662.97,
     1664.71,
     1660.64,
-    1663.1899,
-    1660.8199,
+    1662.97,
+    1660.8,
     1660.98,
-    1660.89,
-    1662.08,
+    1660.9,
+    1662.13,
     1660.77,
     1661.17,
     1658.8,
-    1659.08,
-    1658.5699,
+    1659.0,
     1658.65,
-    1660.1,
-    1660.0,
+    1658.77,
+    1660.11,
+    1660.01,
     1659.36,
     1660.45,
-    1660.8199,
-    1661.09
+    1660.72,
+    1661.12,
+    1661.63,
+    1663.98,
+    1666.03,
+    1665.55,
+    1665.24,
+    1665.92,
+    1665.66,
+    1664.53,
+    1664.4301,
+    1664.37,
+    1664.09,
+    1663.4399,
+    1662.48,
+    1662.21,
+    1663.14,
+    1664.64,
+    1665.13
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 160.185,
+   "price": 160.112,
    "prev": 159.915,
    "spark": [
     160.197,
@@ -798,16 +798,22 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Yejk4QjFPSlB4YndwNGxxcnYzS2RUY0hjOEl4S2hoQ25FbjlIRW1Fd24zYlZaX2Z2TzgwdkFfRW9OOHJ6SUJmQm5BZzNzNlk?oc=5"
   },
   {
-   "title": "[마켓스토리] '수익률 1등' 코스피, MSCI '선진지수 후보'에 다시 오르나",
-   "source": "연합뉴스",
-   "time": "2026-06-14T07:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uN3d2VUpVTFRIZVhMZUtZY08yd2hMWmZhYnlxNFhISEUxVXpZM2pjanFQZWE5NEx2RUhVM19NcUtGMEhBRjVTdTA1S0pzem5PRUcyUlZDcExONnRUVzNZSNIBYEFVX3lxTE9uN3d2VUpVTFRIZVhMZUtZY08yd2hMWmZhYnlxNFhISEUxVXpZM2pjanFQZWE5NEx2RUhVM19NcUtGMEhBRjVTdTA1S0pzem5PRUcyUlZDcExONnRUVzNZSA?oc=5"
+   "title": "금리 아닌 '워시의 입'에 쏠린 시선… 코스피·환율 가를 3대 뇌관",
+   "source": "글로벌이코노믹",
+   "time": "2026-06-15T04:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUEJTT1haUVZFbGNQOUhOTUt6azBYb3hhMVVOTDNHZnltQU8xbjlveV95MHEyNjV2RzQtRmZmbDhEcU5WM3pqQ0JNLUVqZEhwX2hOQXRyaGhBVDh0VzJUNG1HRkl0VmgxZDk5NzRWUVR1bkE2QmRaTUtBeHYyUzVmWHNDT0RaaTA?oc=5"
   },
   {
    "title": "[자막뉴스] 코스피 8,000의 역설? 증시 호황이 불지른 대한민국 자산 계급도",
    "source": "YTN",
    "time": "2026-06-14T19:21:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HMnFBbXhFdmF4djhzdHNtVU9yZXFRYTJPUTBseloxTjlyVEdQWnZDNElJOHJ3ZFJ3SENWX0pHcjF5eGJIcGNqQm9GMWdKYTVzdl96Rjk1YzFEUnA5cEE?oc=5"
+  },
+  {
+   "title": "[마켓스토리] '수익률 1등' 코스피, MSCI '선진지수 후보'에 다시 오르나",
+   "source": "연합뉴스",
+   "time": "2026-06-14T07:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uN3d2VUpVTFRIZVhMZUtZY08yd2hMWmZhYnlxNFhISEUxVXpZM2pjanFQZWE5NEx2RUhVM19NcUtGMEhBRjVTdTA1S0pzem5PRUcyUlZDcExONnRUVzNZSNIBYEFVX3lxTE9uN3d2VUpVTFRIZVhMZUtZY08yd2hMWmZhYnlxNFhISEUxVXpZM2pjanFQZWE5NEx2RUhVM19NcUtGMEhBRjVTdTA1S0pzem5PRUcyUlZDcExONnRUVzNZSA?oc=5"
   },
   {
    "title": "'롤러코스피' 불안하다면…안전자산 달러 투자해볼까",
@@ -828,10 +834,10 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jR1RtMXJ0cWU0MnIwQVluel9jSWpwUlZKUG11S0ZyeERtZGpwZGhCYVEtUXZsZ2VBeDYtQ1NjQ1lYYUt4WDV2VFFQTV9WcC15S1lNU3RRTUJMOFdXUF9NSWJ5LXZCaEFDbmV0SjY0bXA?oc=5"
   },
   {
-   "title": "종전 기대감에 국제유가 3개월새 최저… 환율 상승세도 꺾일듯",
-   "source": "동아일보",
-   "time": "2026-06-15T00:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrV0puSWY0UFZKdnQ4cHloNUJLRFc3a3RHRkp4WVBVMlh4b0VrVk9QSnI3VGdDOGxPaHUtcHd6Q21kOWdENnQ0SW1vMTFiSmVZcVJrb3pHMWV3cDZfNWk4NlotaERYOFJGTzVnWGgtYVctc1hPWmfSAWZBVV95cUxPN2VOcnViX2hMNEU1emwyU092M25XTm5kUm43Z3pOOTYtLU52Wlp4THVpVDJ3TTdDZDFsMzdDS3R1dkdvY1BRM2laTWhEU3l3b1RmaEhianlBQUJBTDRXT1FpNm8tcUE?oc=5"
+   "title": "[Weekly Coin] 종전 '임박'에도 힘쓰지 못한 비트코인",
+   "source": "시사저널e",
+   "time": "2026-06-14T13:09:33+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90M2laMmNHUk1JQ0tpWS1hZWJwVVpFQkRCT0tNTnpUSXRKR0NzN2xXN3dwb0FjUGZ2R0N2Wm0zVXZRbXRFZ0RuVF81dkxfNnEzQTZWZVlBYmZMNG54YldRMVhtSUptRWZoVFg0N1FWRUY3Z9IBdkFVX3lxTE5ONk1STkF1REFmSy1aMm9zVWgyVkRTelFRNDBvNm1uQ0gtS01tdUp0ZDVJQjVZTmsyNFQtZVFpVFJxdDk0TzU2U3VBbUdJcVpTM0tzenJ1ZU1mUFNTeXhTZDA4RDktM0p6VmFXRFNhWFZGRFRELUE?oc=5"
   },
   {
    "title": "코스피 8000의 두 얼굴… 신고가보다 신저가 종목 더 많았다 - 조선비즈",
@@ -856,12 +862,6 @@
    "source": "한국경제",
    "time": "2026-06-14T19:17:30+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CaktvbkdxWVB0dlZMdHFwejNwZ3BCQ2Y4SUNqbGJObkNoN0hEVW9TQXNybDZXVXJHQm1ybDhDWEZHbXcyUGtNT3hSVWFXU0VjSi02R2lQVXgxd9IBVEFVX3lxTE1ZNDFYT0tCOThEMkp2akwxQkx1STFRby03dHBfcWlvQWcyNkpDWUpBb0RGaGxZclpGTUxlUEktcVdMQzkyZTd4Q2pKendLTUs5ZVptQg?oc=5"
-  },
-  {
-   "title": "[기획] 기업은 꼭 쥐고 개미 다시 미국행… ‘令 안 서는’ 환율대책",
-   "source": "v.daum.net",
-   "time": "2026-06-14T18:31:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PenpmdURUV1lINXVQZXc4RFRPUFBsMmJpeGdld1FpaUxPSXRwU1NPdEwxU3VNNGtmU3hMMWFHcW9PQ2dXVV9PWkV3QmE3aTA?oc=5"
   }
  ]
 }
