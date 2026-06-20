@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T00:15:43.728042+09:00",
+ "updated": "2026-06-21T01:53:49.226132+09:00",
  "quotes": {
   "k200": {
    "price": 1459.48,
@@ -738,29 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63976.0,
+   "price": 63949.51,
    "prev": 63484.438,
    "spark": [
-    63633.6094,
-    63719.5,
-    63690.3008,
-    63687.4219,
-    63683.8008,
-    63674.5,
-    63629.5195,
-    63544.0586,
-    63561.9805,
-    63544.3594,
-    63532.3398,
-    63594.4492,
-    63566.0195,
-    63573.0391,
-    63524.5195,
-    63487.8008,
-    63277.2109,
-    63286.5781,
-    63296.6406,
-    63385.8594,
     63389.7695,
     63430.0195,
     63317.7109,
@@ -780,33 +760,33 @@
     63965.6992,
     63823.9492,
     63929.25,
-    63976.0
+    64162.0195,
+    64164.0,
+    64124.1211,
+    64055.4805,
+    64059.9883,
+    64050.75,
+    64083.25,
+    64035.9883,
+    64086.0586,
+    63950.6992,
+    63974.6094,
+    63935.8711,
+    63962.5898,
+    63981.8906,
+    63929.7109,
+    63878.8086,
+    63979.4883,
+    63935.9688,
+    63949.4297,
+    63966.0586,
+    63949.5117
    ]
   },
   "eth": {
-   "price": 1734.33,
+   "price": 1731.57,
    "prev": 1709.681,
    "spark": [
-    1726.58,
-    1727.63,
-    1728.23,
-    1727.2,
-    1727.41,
-    1727.5601,
-    1725.91,
-    1723.4,
-    1723.78,
-    1723.9399,
-    1724.12,
-    1725.12,
-    1724.3,
-    1725.34,
-    1722.5,
-    1722.01,
-    1714.2,
-    1713.01,
-    1715.16,
-    1716.28,
     1716.8199,
     1717.78,
     1715.4399,
@@ -826,7 +806,27 @@
     1734.7,
     1730.53,
     1733.79,
-    1734.33
+    1742.2,
+    1741.86,
+    1740.51,
+    1738.9,
+    1738.8,
+    1737.24,
+    1737.5699,
+    1736.77,
+    1738.5,
+    1735.5,
+    1735.38,
+    1734.39,
+    1734.61,
+    1733.48,
+    1731.88,
+    1730.99,
+    1732.3,
+    1730.55,
+    1732.1801,
+    1732.34,
+    1731.5699
    ]
   },
   "eurkrw": {
@@ -1114,16 +1114,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9STTFjY05zSUx2TFZ3T3ZOX0FUNWZDbUFmM2Y4RjVIU1l4UTZVVUU2Smd0VnE4cFFkaHM0b1pXczlQOVdDOGQ4NWg4ZUpjM21mOWFNa0tzdTcwWnPSAWBBVV95cUxNc1luNnZqbzlBUllJSllVRjM5NE4xX09OX0lJcFBndG40LTlXVUtKY2RTbjFtUEtpdS1wX2MwT1BSZzFvZ2xzQi1hU0gwNklzVWlXd0JlM3hsQ2p6NW9rSXA?oc=5"
   },
   {
-   "title": "\"과장님도 부장님도 한대요\"…코스피 광풍이 불러온 '100조 빚투' 괜찮을까[주末머니]",
-   "source": "v.daum.net",
-   "time": "2026-06-20T17:13:41+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BTk03djZNNE5ldFZ1WDJlb3hiSkQyTEY0VDMxRDlPVkNSNW14T3NNQmprZVF5Z28zX2NZVmR3R1dsZk10TlRZOGhTRzZCbk0?oc=5"
-  },
-  {
    "title": "\"코스피 9000에서 시작해도 늦지 않다\"... 30년 데이터의 결론",
    "source": "조선일보",
    "time": "2026-06-19T06:45:06+09:00",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3BQRVVBUWhaanR1d21POUp4WlJWb3NqQU51ZWpLU1dTTUJDeTg4WWYyTVZ1RGhoRG4tNG4zMEhGOTYwRGdhRUctcEJSYV9Oal9kS1UxeGZId3FhaWd0WDFSdl8xOWZkaVhFNzA3aWVpNTA0SnlTLXZsTlZ2ZG9JeUxUTVM4Y2lEcEZwU1J3?oc=5"
+  },
+  {
+   "title": "\"과장님도 부장님도 한대요\"…코스피 광풍이 불러온 '100조 빚투' 괜찮을까[주末머니]",
+   "source": "v.daum.net",
+   "time": "2026-06-20T17:13:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BTk03djZNNE5ldFZ1WDJlb3hiSkQyTEY0VDMxRDlPVkNSNW14T3NNQmprZVF5Z28zX2NZVmR3R1dsZk10TlRZOGhTRzZCbk0?oc=5"
   },
   {
    "title": "코스피지수 강세가 원화 약세로 이어진 이유: BofA 분석",
@@ -1132,16 +1132,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00LVdYWFliQWZMbjR4eUxYOWJ5NEFGWGM2UlB1Um5qZ1NKUkhteGQyV2VpSVpBZG9GdzBLbVNnZTA5V1FkcmM3OGpYMi1McEg5NTU5M1BNVm5pSi1KWTd1Y2FqRVBhSnVmVk1TQjlGcFM?oc=5"
   },
   {
-   "title": "격차 커지는 코스피·코스닥…내달 30주년 행사에 쏠린 눈 |",
-   "source": "연합인포맥스",
-   "time": "2026-06-20T09:08:33+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DN2JrS3F1c0NFVlY0VUhsOWVsNDNzdWNRNHdOZFJ5Um5TTGJfWHVCTm9JSVpLaFpuYVBsUmpxbFRiOV9mV0JNbFRLMFZfYk95UU8tZWNIZ0lqMzFhVTViWXUxb2I2b3N6anFidzg3ak5xYU9U?oc=5"
-  },
-  {
    "title": "1만피 임박한 코스피 \"8월말~9월초 변곡점 올 수도\"",
    "source": "더구루",
    "time": "2026-06-21T00:00:15+09:00",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NRndlTXFxaW40VGs0R1VnNWtBSlZCNDllUXN5azZsRmE3dzNDemszbHg1eGZVTFV5dHlpcDBFRU0zMmJvbnlqNkN5RnAzTDlZay1aaTBHcjdaclRNZGdsQnkxRQ?oc=5"
+  },
+  {
+   "title": "격차 커지는 코스피·코스닥…내달 30주년 행사에 쏠린 눈 |",
+   "source": "연합인포맥스",
+   "time": "2026-06-20T09:08:33+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DN2JrS3F1c0NFVlY0VUhsOWVsNDNzdWNRNHdOZFJ5Um5TTGJfWHVCTm9JSVpLaFpuYVBsUmpxbFRiOV9mV0JNbFRLMFZfYk95UU8tZWNIZ0lqMzFhVTViWXUxb2I2b3N6anFidzg3ak5xYU9U?oc=5"
   },
   {
    "title": "2029년엔 신고가 vs 더 떨어진다…반토막 난 비트코인의 미래",
@@ -1174,22 +1174,22 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zN1JBRHJnM2VCUHVjbkpJLVFQb1Q0RjZPQ1Z4SDVYVkxIdWpCN0xGQXF6Q3FqZTNQUGQ0Nk4zeExDTXY2Zk90T3FuYUN1NkdG?oc=5"
   },
   {
-   "title": "한투證, 하반기 환율 전망 1,470원으로 30원 상향…\"고점 인식 변화\"",
-   "source": "연합인포맥스",
-   "time": "2026-06-20T09:33:16+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xelVvbHpPWnlMdnlQWDk2MkRtVWRySktCeFdpTmRBeWM5Zml5WlBvN0pCcW5BUlRhYTNYa1Rxd2RQU3ZTTWFnVTZHdWVEcl9mWDdFVkUyRGhwQXdCZkZwQjdRX0NfZDZlVExKLWJ0UnDSAXRBVV95cUxOaUZmdmoxN1l5cmIwMHpacHBEQjZTWnp6Qk5VRE9qOVRwNG1xdWhvU2lnM3VRUm91WkhCcU9JbmtsY09iVlhxQWYyQzlscGVvUWYxSE1ST2hMeDU0N1EwTzZkN0o1eko3b2xTSHl1dVdCdG9nWg?oc=5"
-  },
-  {
    "title": "코스피 사상 첫 9000 돌파…올해 들어 115% 폭등",
    "source": "한겨레",
    "time": "2026-06-18T20:21:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YR3NKQXVLRncxNE5HR2d6aGsyRWdQa1RLQzNoY3NTRkFzalZNajdxeFBuajk2VHRENE1ibUF6MlB3RGF2NjR3MmV0Zm1ZQkloQ0lmNFRNMzlqZDAzR2czR1BQSUQxMDg?oc=5"
   },
   {
-   "title": "“남들 주식할때 악착같이 일했는데 자괴감”…‘코스피 블루’ 덮쳤다",
-   "source": "중앙일보",
-   "time": "2026-06-18T00:02:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wMXNpUGd0ZUxNY3h1dloxN1JkdFBNVmhtZUhoMi1aQVczb3d4YTRUTk5TVUhJalhxVklncy1NZE94S0xxWFkzRmxVNzlmMm8tdWU3ejR3?oc=5"
+   "title": "한투證, 하반기 환율 전망 1,470원으로 30원 상향…\"고점 인식 변화\"",
+   "source": "연합인포맥스",
+   "time": "2026-06-20T09:33:16+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xelVvbHpPWnlMdnlQWDk2MkRtVWRySktCeFdpTmRBeWM5Zml5WlBvN0pCcW5BUlRhYTNYa1Rxd2RQU3ZTTWFnVTZHdWVEcl9mWDdFVkUyRGhwQXdCZkZwQjdRX0NfZDZlVExKLWJ0UnDSAXRBVV95cUxOaUZmdmoxN1l5cmIwMHpacHBEQjZTWnp6Qk5VRE9qOVRwNG1xdWhvU2lnM3VRUm91WkhCcU9JbmtsY09iVlhxQWYyQzlscGVvUWYxSE1ST2hMeDU0N1EwTzZkN0o1eko3b2xTSHl1dVdCdG9nWg?oc=5"
+  },
+  {
+   "title": "코스피, 사상 첫 9,000 돌파…韓자본시장 역사 새로 썼다(종합)",
+   "source": "연합뉴스",
+   "time": "2026-06-18T13:25:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96cmhLU1BVV2hPendocjVpRV8xd3dOUlI3ZVlvNHFlc3dScHZHakYwSHRlNFA0VVVHdlFndXpueFVXRlNwVUJTbkxLcWI5OTZUNlR6eG9KeFc0RmZ5eU1JWdIBYEFVX3lxTE96cmhLU1BVV2hPendocjVpRV8xd3dOUlI3ZVlvNHFlc3dScHZHakYwSHRlNFA0VVVHdlFndXpueFVXRlNwVUJTbkxLcWI5OTZUNlR6eG9KeFc0RmZ5eU1JWQ?oc=5"
   }
  ]
 }
