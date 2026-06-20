@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T20:45:09.169709+09:00",
+ "updated": "2026-06-20T22:14:34.776034+09:00",
  "quotes": {
   "k200": {
    "price": 1459.48,
@@ -738,27 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63661.96,
+   "price": 63530.86,
    "prev": 63484.438,
    "spark": [
-    63417.9883,
-    63425.1719,
-    63390.0703,
-    63371.7305,
-    63347.9883,
-    63358.4883,
-    63397.8906,
-    63402.7617,
-    63455.4102,
-    63447.9805,
-    63504.0117,
-    63511.7812,
-    63547.5898,
-    63580.9609,
-    63638.1484,
-    63594.2695,
-    63669.7305,
-    63667.0703,
     63661.6602,
     63617.4102,
     63622.1797,
@@ -780,31 +762,31 @@
     63618.4883,
     63636.0195,
     63661.9609,
-    63661.9609
+    63685.3086,
+    63621.4492,
+    63617.4102,
+    63633.6094,
+    63719.5,
+    63690.3008,
+    63687.4219,
+    63683.8008,
+    63674.5,
+    63629.5195,
+    63544.0586,
+    63561.9805,
+    63544.3594,
+    63532.3398,
+    63594.4492,
+    63566.0195,
+    63573.0391,
+    63530.8711,
+    63530.8594
    ]
   },
   "eth": {
-   "price": 1726.25,
+   "price": 1722.98,
    "prev": 1709.681,
    "spark": [
-    1721.91,
-    1722.09,
-    1721.75,
-    1720.96,
-    1720.28,
-    1721.23,
-    1723.11,
-    1724.0,
-    1724.23,
-    1722.41,
-    1723.1801,
-    1722.3199,
-    1724.0,
-    1726.27,
-    1727.22,
-    1726.1801,
-    1728.21,
-    1726.72,
     1726.12,
     1725.0699,
     1725.83,
@@ -825,8 +807,26 @@
     1724.9301,
     1724.42,
     1724.9399,
-    1726.83,
-    1726.25
+    1726.25,
+    1727.08,
+    1725.62,
+    1725.3199,
+    1726.58,
+    1727.63,
+    1728.23,
+    1727.2,
+    1727.41,
+    1727.5601,
+    1725.91,
+    1723.4,
+    1723.78,
+    1723.9399,
+    1724.12,
+    1725.12,
+    1724.3,
+    1725.34,
+    1722.99,
+    1722.98
    ]
   },
   "eurkrw": {
@@ -1114,22 +1114,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9STTFjY05zSUx2TFZ3T3ZOX0FUNWZDbUFmM2Y4RjVIU1l4UTZVVUU2Smd0VnE4cFFkaHM0b1pXczlQOVdDOGQ4NWg4ZUpjM21mOWFNa0tzdTcwWnPSAWBBVV95cUxNc1luNnZqbzlBUllJSllVRjM5NE4xX09OX0lJcFBndG40LTlXVUtKY2RTbjFtUEtpdS1wX2MwT1BSZzFvZ2xzQi1hU0gwNklzVWlXd0JlM3hsQ2p6NW9rSXA?oc=5"
   },
   {
+   "title": "2029년엔 신고가 vs 더 떨어진다…반토막 난 비트코인의 미래",
+   "source": "v.daum.net",
+   "time": "2026-06-20T13:01:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iOTh6cDdOd2NEZmZldVJzLTNNQk9kTjRvWHByMnNVREdISXJOdkRBUlNONzlaNTFsN3d2WUlIb0RGNzNWNGc3OVNIM01peG8?oc=5"
+  },
+  {
    "title": "격차 커지는 코스피·코스닥…내달 30주년 행사에 쏠린 눈 |",
    "source": "연합인포맥스",
    "time": "2026-06-20T09:08:33+09:00",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DN2JrS3F1c0NFVlY0VUhsOWVsNDNzdWNRNHdOZFJ5Um5TTGJfWHVCTm9JSVpLaFpuYVBsUmpxbFRiOV9mV0JNbFRLMFZfYk95UU8tZWNIZ0lqMzFhVTViWXUxb2I2b3N6anFidzg3ak5xYU9U?oc=5"
-  },
-  {
-   "title": "\"과장님도 부장님도 한데요\"…코스피 광풍이 불러온 '100조 빚투' 괜찮을까[주末머니]",
-   "source": "v.daum.net",
-   "time": "2026-06-20T17:13:41+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BTk03djZNNE5ldFZ1WDJlb3hiSkQyTEY0VDMxRDlPVkNSNW14T3NNQmprZVF5Z28zX2NZVmR3R1dsZk10TlRZOGhTRzZCbk0?oc=5"
-  },
-  {
-   "title": "2029년엔 신고가 vs 더 떨어진다…반토막 난 비트코인의 미래",
-   "source": "중앙일보",
-   "time": "2026-06-20T13:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hdExMQmRLVzRLTHA1TWtnZjZQV2F0SjlucEFrV2pKZFNvNGx0cjljRURWT0liMXBGdmU4UzBtWHotTzlLUVVIbmJGbVROZ2Z5S0NZVFlR?oc=5"
   },
   {
    "title": "\"코스피 9000에서 시작해도 늦지 않다\"... 30년 데이터의 결론",
@@ -1150,6 +1144,12 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MVmw1eERkME9ULVNaLU54WElJcjVHWF9YLUlNWTZtNFhPdldMQURNY1pIMFdJYS1xSlJWVUhwNzgzY3FLN0lFVWJvRERfdw?oc=5"
   },
   {
+   "title": "코스피지수 강세가 원화 약세로 이어진 이유: BofA 분석",
+   "source": "Investing.com 한국어",
+   "time": "2026-06-20T20:49:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00LVdYWFliQWZMbjR4eUxYOWJ5NEFGWGM2UlB1Um5qZ1NKUkhteGQyV2VpSVpBZG9GdzBLbVNnZTA5V1FkcmM3OGpYMi1McEg5NTU5M1BNVm5pSi1KWTd1Y2FqRVBhSnVmVk1TQjlGcFM?oc=5"
+  },
+  {
    "title": "주요국 연내 금리인상 도미노…‘물가·환율 대응’ 차질 없어야",
    "source": "더스쿠프",
    "time": "2026-06-20T14:23:54+09:00",
@@ -1168,10 +1168,10 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWERvSDNzTUxOSzBhTkcxa3p5ODhUbGNQV3kzYUk4T1lNd0Y2WE5XSF9qZU5sQW9icF9jcThkdXRSLTZ1RGxkTjVDZHJQamF3YjU2eEd0TEJuMFRYeTk0dEFQeDBFMDQ?oc=5"
   },
   {
-   "title": "비트코인, 규제 동향 평가 속 63,000달러 선 회복",
-   "source": "Investing.com 한국어",
-   "time": "2026-06-20T18:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Lb2RrSU84YW9jSkRFMlJmOEpPc2cyWlhzZ01VWXdSZFVzRFQ1ZHRPMFhWeW1TRlJCcjY3R3lJM0t3eXdVeUdnbGQ1ZTIzOUVmZWY1VEVDUlpSZ1AzOWphYVVLMzU2UUJ2N0ZISk10Z1FoUGc?oc=5"
+   "title": "\"과장님도 부장님도 한데요\"…코스피 광풍이 불러온 '100조 빚투' 괜찮을까[주末머니]",
+   "source": "v.daum.net",
+   "time": "2026-06-20T17:13:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BTk03djZNNE5ldFZ1WDJlb3hiSkQyTEY0VDMxRDlPVkNSNW14T3NNQmprZVF5Z28zX2NZVmR3R1dsZk10TlRZOGhTRzZCbk0?oc=5"
   },
   {
    "title": "\"하반기 연준 긴축 강해질 듯…달러 요인으로 환율 안정 어려워\"",
@@ -1180,16 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iWnZtVlliOVMtV29hSnNuTFpMdnBxOW1LaXFTU2hjcGZkTmpJZGlaZUxTUER3aEFTRGFvTnYyc2M3SUN4T2dlTl9sRndweEZrRnZzYmRaa2d6Q3VXbUNiYlZqUzMybDlVSkNod3owVjI?oc=5"
   },
   {
-   "title": "“비트코인 지금 사야 하나”...월가에서 등장한 '파격' 전망",
-   "source": "v.daum.net",
-   "time": "2026-06-20T11:59:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kMGhFaHFyaHM5dWdYM1lVWU84UkhCQ1lyZXVBbWphOFFjTFhQVzlvQTZmSTJFRzl4TzBwdWtSMUVSNWluRlJDR2FLNUZ1LU0?oc=5"
-  },
-  {
    "title": "코스피 사상 첫 9000 돌파…올해 들어 115% 폭등",
    "source": "한겨레",
    "time": "2026-06-18T20:21:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YR3NKQXVLRncxNE5HR2d6aGsyRWdQa1RLQzNoY3NTRkFzalZNajdxeFBuajk2VHRENE1ibUF6MlB3RGF2NjR3MmV0Zm1ZQkloQ0lmNFRNMzlqZDAzR2czR1BQSUQxMDg?oc=5"
+  },
+  {
+   "title": "“남들 주식할때 악착같이 일했는데 자괴감”…‘코스피 블루’ 덮쳤다",
+   "source": "중앙일보",
+   "time": "2026-06-18T00:02:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wMXNpUGd0ZUxNY3h1dloxN1JkdFBNVmhtZUhoMi1aQVczb3d4YTRUTk5TVUhJalhxVklncy1NZE94S0xxWFkzRmxVNzlmMm8tdWU3ejR3?oc=5"
   }
  ]
 }
