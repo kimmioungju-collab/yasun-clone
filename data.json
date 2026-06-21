@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T16:02:31.633623+09:00",
+ "updated": "2026-06-21T19:39:19.983625+09:00",
  "quotes": {
   "k200": {
    "price": 1459.48,
@@ -289,7 +289,7 @@
   },
   "nikkei": {
    "price": 71250.06,
-   "prev": 71053.49,
+   "prev": 71053.5,
    "spark": [
     71327.2266,
     71314.6719,
@@ -451,95 +451,95 @@
    ]
   },
   "btc": {
-   "price": 64176.32,
+   "price": 64297.79,
    "prev": 64240.906,
    "spark": [
-    64339.3398,
-    64337.5391,
-    64330.0898,
-    64336.9219,
-    64328.1797,
-    64359.9805,
-    64411.2109,
-    64446.0117,
-    64463.8398,
-    64459.8008,
-    64407.1602,
-    64382.6094,
-    64245.6992,
-    64199.0508,
-    64184.4219,
-    64191.6719,
-    64158.0508,
-    64158.5586,
+    64091.9805,
+    64151.9883,
+    64160.0898,
+    64140.2695,
+    64156.2617,
+    64119.6016,
+    64117.0586,
+    64104.4414,
+    64043.2891,
+    64037.1406,
+    64014.3008,
+    63993.5703,
+    63971.8398,
+    63886.6016,
+    63867.8398,
+    63907.6094,
+    63870.7617,
+    63884.6914,
+    63935.3516,
+    63933.2891,
+    63897.75,
+    63892.8086,
+    63895.7891,
+    63937.1992,
+    63969.0195,
+    64020.2891,
+    64146.0,
+    64047.0,
+    64055.9883,
+    64110.8398,
+    64126.0,
+    64136.6094,
+    64194.6094,
+    64200.0195,
     64208.6914,
-    64219.0586,
-    64224.9102,
-    64286.5898,
-    64214.0,
-    64173.3906,
-    64171.2109,
-    64178.0117,
-    64145.2109,
-    64128.9688,
-    64135.3398,
-    64162.0,
-    64182.3008,
-    64200.2109,
-    64183.4219,
-    64222.7617,
-    64225.9883,
-    64217.7305,
-    64216.8086,
-    64219.9609,
-    64192.5,
-    64176.3203
+    64273.3711,
+    64223.6289,
+    64238.8906,
+    64284.0195,
+    64297.7891
    ]
   },
   "eth": {
-   "price": 1732.67,
+   "price": 1732.09,
    "prev": 1739.1392,
    "spark": [
-    1736.0,
-    1735.71,
-    1735.16,
-    1734.3,
-    1734.24,
-    1735.08,
-    1736.1,
-    1737.17,
-    1738.38,
-    1736.51,
-    1735.5,
-    1734.75,
-    1731.13,
-    1730.58,
-    1729.8101,
-    1729.72,
-    1729.62,
-    1728.99,
+    1730.87,
+    1732.08,
+    1731.5601,
+    1731.88,
+    1731.67,
+    1730.02,
+    1729.92,
+    1730.4301,
+    1727.54,
+    1728.89,
+    1727.77,
+    1727.9301,
+    1727.17,
+    1724.8199,
+    1724.1,
+    1726.4,
+    1725.02,
+    1725.8199,
+    1726.97,
+    1727.0601,
+    1725.9301,
+    1725.4,
+    1724.27,
+    1726.05,
+    1726.83,
+    1728.58,
+    1731.24,
+    1729.14,
+    1730.21,
+    1730.96,
+    1730.62,
+    1729.9399,
+    1732.0,
+    1732.02,
+    1731.88,
+    1733.9,
     1732.21,
-    1732.91,
-    1733.33,
-    1732.8101,
-    1731.95,
-    1731.72,
-    1730.59,
-    1731.23,
-    1731.7,
-    1731.6,
-    1732.26,
-    1732.36,
-    1733.27,
-    1733.85,
-    1734.1,
-    1735.87,
-    1734.91,
-    1733.79,
-    1734.2,
-    1733.89,
-    1732.88,
-    1732.67
+    1730.92,
+    1731.86,
+    1732.09
    ]
   },
   "eurkrw": {
@@ -773,7 +773,7 @@
    ]
   },
   "dxy": {
-   "price": 100.849,
+   "price": 100.76,
    "prev": 100.849,
    "spark": []
   }
@@ -786,22 +786,16 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvZ2pYRWR6VF9GTWpweElMSXJ3NnNVVzdibFZmVjZMTUVaUnBwU1lFTDFiWTRNYXBVZjNBcDVEU3NaMkN3SndKcTJNVmxOcmRFZV9jeG52RURDbjhZSmlwetIBYEFVX3lxTFBvZ2pYRWR6VF9GTWpweElMSXJ3NnNVVzdibFZmVjZMTUVaUnBwU1lFTDFiWTRNYXBVZjNBcDVEU3NaMkN3SndKcTJNVmxOcmRFZV9jeG52RURDbjhZSmlweg?oc=5"
   },
   {
+   "title": "[주간 증시전망] 코스피시장 대형주 접근이 바람직",
+   "source": "v.daum.net",
+   "time": "2026-06-21T18:45:05+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96UDdKTENSWTJSYS1EVlFncDNIN0lHelVuY29EMzdwenlfN3RxalBhaDhtYVZ1Ni15bG1CUkJTaUY0RE1XdVFzUlUtVDQyT0U?oc=5"
+  },
+  {
    "title": "[뉴스초점] 코스피, ’1만피’ 질주 이어갈까…유류할증료 하락",
    "source": "연합뉴스TV",
    "time": "2026-06-21T14:40:09+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JM25zSDJjWVRlYU1sM3RCczk5ekd2dkY5cXdUR0dYUEFrRkp2UlZwQVVHTXF1b0pTUXJ0MHV1Rm5SZHl0R3VMQ2ktaUZtNzBsdWM5VkQ3YmxnXzNISEdCM3NaQ19uRjQ?oc=5"
-  },
-  {
-   "title": "“원화는 왜 힘을 못 쓰나”...1500원 환율 떠받치는 ‘복합 악재’",
-   "source": "에너지경제신문",
-   "time": "2026-06-21T11:10:58+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WZ3QxbFo1OHY3UmFmLXFvbXMyLWEwdC02NTMzVUVtQU9Ea2Zoc0xYR1BUTGdSN0VhMWtYeDd4d29mSDJPTVA4V1FOTlFkeGJSaGNjbnppSTRtMW8?oc=5"
-  },
-  {
-   "title": "6월 환율 1천520원 넘어…98년 외환위기 후 최고",
-   "source": "v.daum.net",
-   "time": "2026-06-21T11:51:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQSGE1WHZzMnR4QXZ1bTdZOFA3SjI3UFVITWRmMjFFNWlIcWN2cFUtcFRCQVh4WVRlbDFlbFNHZGhRMUVqYXJqVEVXY0U4Mkk?oc=5"
   },
   {
    "title": "비트코인, 글로벌 시총 15위로 추락…SK하이닉스에 한때 역전",
@@ -810,28 +804,34 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Mb1pyV0cwUVFuTFBiQ0l6dEt3aGlRQm9DVnUtWmRvYy1sVlN2RWVpR2swalFsX05ITk80ajlDc0RLVTd0c2k2ZlBSYkU1OGJrdGZaRzZn?oc=5"
   },
   {
+   "title": "[표] 외국환율고시표",
+   "source": "매일경제 마켓",
+   "time": "2026-06-21T17:32:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RbVFKWkwzaWs1cDdpckVoY21WV3MzeGZ1cWI1MUVjdUdwb3VKYXp5Q0NKM25lWlJNRmdWb28zd3JEb1dBcmtqV2ZHR1AweGdGQlE?oc=5"
+  },
+  {
+   "title": "“원화는 왜 힘을 못 쓰나”...1500원 환율 떠받치는 ‘복합 악재’",
+   "source": "에너지경제신문",
+   "time": "2026-06-21T11:10:58+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WZ3QxbFo1OHY3UmFmLXFvbXMyLWEwdC02NTMzVUVtQU9Ea2Zoc0xYR1BUTGdSN0VhMWtYeDd4d29mSDJPTVA4V1FOTlFkeGJSaGNjbnppSTRtMW8?oc=5"
+  },
+  {
+   "title": "환율·채권, 원·달러 환율 1500원대 박스권 장세",
+   "source": "한국경제",
+   "time": "2026-06-21T17:35:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBldzVSMWdtNWl2VlgyV2dfZ2RzNFNsdUlPd3FSQXdNaXVFanRnNEpMdHNSM25TdE05WVhsUGYyeC1TbTNrNElFcmZhN1BrU2xWcngya0tlZ1MtZ9IBVEFVX3lxTE9TZ3dIZE5kMWRBRVVRMnJNTElRZnV1N1BZZE5QRGRBcXJTczZVSjRhai1DQ0h6eWt4VkhGVkdPNlMtamJVZ1NaWmY5ZlBkY19fZ3BNTA?oc=5"
+  },
+  {
    "title": "코스피 9000, 축배를 들기엔 너무 이르다",
    "source": "경북매일",
    "time": "2026-06-21T08:13:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEcjFoTmUzU3NXUHV0Q08yLVNWRE10UTVKRUNzbUtZTDJQRExJbm9XRHBGdjNMdWNOVkhES2hBWWRfcG1DdC1iVkE0UzdVc0V6bmtpWXBVZmhsUQ?oc=5"
   },
   {
-   "title": "반도체 대장주가 이끄는 코스피, 쏠림 양극화 해소 과제",
-   "source": "메트로신문",
-   "time": "2026-06-21T12:11:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93bUVSZFMxSDg1MGd0TEU5Yks4T0VNaVBuRVFiVlZZbEI0UHlvS3dyUmdqSHM0c1RvMm1hRE9uX3JHQW1SX0dzUTZneWJJcGkyVEJKQVR0QjNRYzdVSkNIcw?oc=5"
-  },
-  {
-   "title": "반도체 대장주로 쏠리는 코스피...변동성 확대 우려",
-   "source": "YTN",
-   "time": "2026-06-21T13:10:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lcXl4RkFNSzNFY0Zqcm55UlV1YmV6ai1kVk9kTHVlTkhHUFlrZm8wZkhmUTIwdTJlcUlyWlNHbkpMVzZlMkxoNnJGbUQxUUJ1cUhyVl9Qd0cxd2Jsdnc?oc=5"
-  },
-  {
-   "title": "“미국보다 돈 2배나 많이 풀려… 원/달러 환율 내년 1700원 돌파 가능성”",
-   "source": "동아일보",
-   "time": "2026-06-21T08:08:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Cekl6T01PYS1kNHV3amdkVEU0QmNzS1ZhaXNNa2ZvLUxuVDlBdzI2bFFTS3owUF83S2h0dzNkNzRudjVMVGlRbUw0NXk5amFUek84eEgtNmY0QmpZbEgwWk5wR0lXbjJ0RDkzSC1uY2M0Vk5vRUHSAWZBVV95cUxPOUh5UXdzMVJrOHRERHI3YXZieFEzaVdkcmVWa2Zqc3kwZnQwUG9lVFBYNFBrZ0pYaUlIbVdYcUNOVllteDA4RDR5MEExcWFVOVlqTHVJQUVSem8ycmNCV01qSDZJVFE?oc=5"
+   "title": "미-이란 종전, 유가 하락에도 환율 1530원대…강달러 지속할 듯",
+   "source": "한겨레",
+   "time": "2026-06-21T17:51:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMG9GV25UdnRtXzdhejMyUW5GakFSakNtemFWTk9OQ2JXMnRMQl95cE1jNV80WU1FSjV0UnlBSm56N3d1blNzbGFyMHp2UVdwNXY0ZkRRSG5LcDRSTGxRMm00M0dLaHc?oc=5"
   },
   {
    "title": "6월 환율 28년 만에 최고치…\"복합적 악재 맞물린 영향\"",
@@ -840,28 +840,28 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoT0VXc0U0Y0ZYbVlCb3lPWThSYWZtc2tKUTdid3hNNWw4MVNqa2tiNVk2SkJHaWlKM3JKWHdxenhyM0xsOGJCUW5iUS1WNlVjRWRqRWpqR0FfN0k?oc=5"
   },
   {
-   "title": "6월 평균 환율 1520원 돌파… 외환위기 이후 28년 만에 최고 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-06-21T10:10:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUDBpbGZVQ0lYYjJzbWduWVN5OWZHSzdEYkxWYllTdHN5UXlPNXgtVDctV3V1VDBJVUg3T1RFQnFBa0FMaEVNTV9yQUxiTlE1UTJxZlVOZ25NSVJMTXlyenZlZE84aGRhZmtEN0NLd3R4QXd4MnZ2eGZUWTM0d1BDb2c0STk2d9IBmgFBVV95cUxPQ3kzR3BzaUZLYWVoNldhRWNrZm45YjVuaDZ5NDFUXzV5UVljVzZwczItQ1VpZ2NYc0xJLThjOXJkX2FidnRWTVZQVjRKWW9ZWWFJeDdTb3NYQ2xTNlhlTjJkalA5cXNYS3I2TGpRZEhid056ZGhmZlRZeDd3WU12UVppNV85YUpZUXFWQkxnSlg3X09iMmZJcEhB?oc=5"
+   "title": "“미국보다 돈 2배나 많이 풀려… 원/달러 환율 내년 1700원 돌파 가능성”",
+   "source": "동아일보",
+   "time": "2026-06-21T08:08:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Cekl6T01PYS1kNHV3amdkVEU0QmNzS1ZhaXNNa2ZvLUxuVDlBdzI2bFFTS3owUF83S2h0dzNkNzRudjVMVGlRbUw0NXk5amFUek84eEgtNmY0QmpZbEgwWk5wR0lXbjJ0RDkzSC1uY2M0Vk5vRUHSAWZBVV95cUxPOUh5UXdzMVJrOHRERHI3YXZieFEzaVdkcmVWa2Zqc3kwZnQwUG9lVFBYNFBrZ0pYaUlIbVdYcUNOVllteDA4RDR5MEExcWFVOVlqTHVJQUVSem8ycmNCV01qSDZJVFE?oc=5"
   },
   {
-   "title": "[증시-마감] 코스피 9천 뚫자 연기금 차익실현…5년 만에 최대 순매도",
-   "source": "연합인포맥스",
-   "time": "2026-06-19T16:20:06+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0ZTlyM0xUZkxSQVF0TG1YOXAxSUJ6RmNUWDM1NzZhcjdaYkdnUUR2RTIxZ21laDRhTVhlZEFfaGU1Yk5nX3ZIalZJRGJPXzlHYXpUUjZOWk9Nb1ktcDlOZHZXX3M3RndlTzdrdmRDQ1Q?oc=5"
+   "title": "비트코인, 시총 15위 턱걸이…SK하이닉스에 따라잡히나?",
+   "source": "문화일보",
+   "time": "2026-06-21T16:51:59+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53a0hodk00ZmdHLWRoLUF4VDhUR25PYzhQQnZtLW9OdHlveGhPMDVwamdCUDE3eHJzUFk4N1gySXp5eEhBdkhvZkUxamROOXVv?oc=5"
   },
   {
-   "title": "“지수 올라도 다 같이 못 간다” 코스피 9000시대의 경고",
-   "source": "한경매거진&북",
-   "time": "2026-06-21T12:36:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSHRrbGlXV0tfSGJBOXpfdkVKNUQ2aUM4dHBtbnQwS2pOd1d3aXgxUVBETU1iVTZaMG9lTnVZQ0ktMWZENER2NDJRRklEZkczQ2Q3cHZqcTNKay1Qa0ZqbXJaVXg5WF9nYW4wTQ?oc=5"
+   "title": "[속보] 6월 환율 1520원 돌파…외환위기 후 최고 수준",
+   "source": "국제신문",
+   "time": "2026-06-21T09:39:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTBRaXJVRGVhLTl3eEpBMzVrblVzd1czUHRQaDlCWmxwcEk2aHU5VkxIX25xMHZXSmQ2NGI3VUs4Sk01d0dVcXBDeHdmVG5jSVdYNm9sQ3dDcTBmaTlFVWdKa2g2UmptZWU0RlM2WDRfRmN2X205TUNLRFJDSl9sdTd4MDgxbThJYW5fNVBn?oc=5"
   },
   {
-   "title": "코스피 상승에 국민연금 재정 고갈 예상도 4년 뒤로…여성 국민연금 수령액은 남성 절반 불과",
-   "source": "경향신문",
-   "time": "2026-06-21T14:28:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qbHVJRElGUzdOUXN0bk1jNHVQSG96ZU5KUFZDWW13X19XYm40dEJyaXpkWFgyd3BfMnBYX3g2NHhQZGFuQ0F1V2pZUHVKbTFJcVNpSXBBSjY5d9IBX0FVX3lxTE5ZMWc3Qk9JUWFKMHdIa1hza0VsNGx2aE5Ddm1mVWxPRXdNWGl3N1IteE8tdDgtcVVXSGV6WTcxVnNGU3c0OEVuOGZWM2ZXcFlhV2JycHYyV2kxLWVVUnRz?oc=5"
+   "title": "반도체 대장주로 쏠리는 코스피...변동성 확대 우려",
+   "source": "YTN",
+   "time": "2026-06-21T13:10:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lcXl4RkFNSzNFY0Zqcm55UlV1YmV6ai1kVk9kTHVlTkhHUFlrZm8wZkhmUTIwdTJlcUlyWlNHbkpMVzZlMkxoNnJGbUQxUUJ1cUhyVl9Qd0cxd2Jsdnc?oc=5"
   }
  ]
 }
