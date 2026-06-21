@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T19:39:19.983625+09:00",
+ "updated": "2026-06-21T21:28:54.238957+09:00",
  "quotes": {
   "k200": {
    "price": 1459.48,
@@ -451,31 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64297.79,
+   "price": 63945.98,
    "prev": 64240.906,
    "spark": [
-    64091.9805,
-    64151.9883,
-    64160.0898,
-    64140.2695,
-    64156.2617,
-    64119.6016,
-    64117.0586,
-    64104.4414,
-    64043.2891,
-    64037.1406,
-    64014.3008,
-    63993.5703,
-    63971.8398,
-    63886.6016,
-    63867.8398,
-    63907.6094,
-    63870.7617,
-    63884.6914,
-    63935.3516,
-    63933.2891,
-    63897.75,
-    63892.8086,
     63895.7891,
     63937.1992,
     63969.0195,
@@ -492,36 +470,36 @@
     64273.3711,
     64223.6289,
     64238.8906,
-    64284.0195,
-    64297.7891
+    64265.8789,
+    64265.5117,
+    64322.1406,
+    64285.6484,
+    64285.1602,
+    64309.9492,
+    64342.3398,
+    64343.4414,
+    64117.9883,
+    64228.9414,
+    64307.25,
+    64184.4102,
+    64188.4492,
+    64204.9414,
+    64203.9609,
+    64075.0391,
+    64087.1914,
+    64116.0703,
+    64122.0391,
+    64004.4883,
+    63965.6602,
+    63942.6797,
+    63930.0117,
+    63945.9805
    ]
   },
   "eth": {
-   "price": 1732.09,
+   "price": 1718.29,
    "prev": 1739.1392,
    "spark": [
-    1730.87,
-    1732.08,
-    1731.5601,
-    1731.88,
-    1731.67,
-    1730.02,
-    1729.92,
-    1730.4301,
-    1727.54,
-    1728.89,
-    1727.77,
-    1727.9301,
-    1727.17,
-    1724.8199,
-    1724.1,
-    1726.4,
-    1725.02,
-    1725.8199,
-    1726.97,
-    1727.0601,
-    1725.9301,
-    1725.4,
     1724.27,
     1726.05,
     1726.83,
@@ -538,8 +516,30 @@
     1733.9,
     1732.21,
     1730.92,
-    1731.86,
-    1732.09
+    1730.59,
+    1730.25,
+    1731.49,
+    1730.11,
+    1729.1899,
+    1729.34,
+    1729.9,
+    1730.39,
+    1720.4,
+    1723.5,
+    1725.51,
+    1722.8,
+    1723.87,
+    1724.39,
+    1725.1,
+    1723.29,
+    1723.36,
+    1723.33,
+    1722.96,
+    1720.16,
+    1718.0601,
+    1717.7,
+    1718.2,
+    1718.29
    ]
   },
   "eurkrw": {
@@ -786,6 +786,18 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvZ2pYRWR6VF9GTWpweElMSXJ3NnNVVzdibFZmVjZMTUVaUnBwU1lFTDFiWTRNYXBVZjNBcDVEU3NaMkN3SndKcTJNVmxOcmRFZV9jeG52RURDbjhZSmlwetIBYEFVX3lxTFBvZ2pYRWR6VF9GTWpweElMSXJ3NnNVVzdibFZmVjZMTUVaUnBwU1lFTDFiWTRNYXBVZjNBcDVEU3NaMkN3SndKcTJNVmxOcmRFZV9jeG52RURDbjhZSmlweg?oc=5"
   },
   {
+   "title": "[자막뉴스] \"한국 증시 위험하다\" 전문가 경고...사상 최고 코스피의 불안한 민낯",
+   "source": "YTN",
+   "time": "2026-06-21T19:33:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YZEVEV3FFam1GUWJWNFJ4VlZZeHgyWWlnN3RfbHJFRHhaWmhKUE9ZMm55MFBZeHRWeGg2dlBFQ0Jmc1h3X2NYTzgyZzBVaV9mR1RPcC1GYjk3X1FKSFE?oc=5"
+  },
+  {
+   "title": "코스피 9000에도 국내 증시 8% ‘동전주’ 한국거래소, 투자자에 ‘상장폐지 주의보’",
+   "source": "경향신문",
+   "time": "2026-06-21T20:42:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82LVNQSXlNSjVieXkwQnlkQWN0VlhOZjN5X1pTSlUzYXU2SDIxZVF4NGV1TmIxWWJ5cXdDSXVvdW9QNlNsd0gyQU1fb2FCeHJJU01sb2tWVXVDUdIBX0FVX3lxTE50ejFpWXNXM19kYW9TLW5YUDFLaUNzTmVFYk1hdlhiQ1p4bzJJZ3IwdFRDdW1BZlFxNnNJYkNGa1BVY25obDlJWS1sZGU0RXJjLVNoYnh2bE1ONDVkUmpj?oc=5"
+  },
+  {
    "title": "[주간 증시전망] 코스피시장 대형주 접근이 바람직",
    "source": "v.daum.net",
    "time": "2026-06-21T18:45:05+09:00",
@@ -798,10 +810,16 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JM25zSDJjWVRlYU1sM3RCczk5ekd2dkY5cXdUR0dYUEFrRkp2UlZwQVVHTXF1b0pTUXJ0MHV1Rm5SZHl0R3VMQ2ktaUZtNzBsdWM5VkQ3YmxnXzNISEdCM3NaQ19uRjQ?oc=5"
   },
   {
-   "title": "비트코인, 글로벌 시총 15위로 추락…SK하이닉스에 한때 역전",
-   "source": "지디넷코리아",
-   "time": "2026-06-21T13:56:22+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Mb1pyV0cwUVFuTFBiQ0l6dEt3aGlRQm9DVnUtWmRvYy1sVlN2RWVpR2swalFsX05ITk80ajlDc0RLVTd0c2k2ZlBSYkU1OGJrdGZaRzZn?oc=5"
+   "title": "환율·채권, 원·달러 환율 1500원대 박스권 장세",
+   "source": "한국경제",
+   "time": "2026-06-21T17:35:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBldzVSMWdtNWl2VlgyV2dfZ2RzNFNsdUlPd3FSQXdNaXVFanRnNEpMdHNSM25TdE05WVhsUGYyeC1TbTNrNElFcmZhN1BrU2xWcngya0tlZ1MtZ9IBVEFVX3lxTE9TZ3dIZE5kMWRBRVVRMnJNTElRZnV1N1BZZE5QRGRBcXJTczZVSjRhai1DQ0h6eWt4VkhGVkdPNlMtamJVZ1NaWmY5ZlBkY19fZ3BNTA?oc=5"
+  },
+  {
+   "title": "6월 환율 28년 만에 최고치…\"복합적 악재 맞물린 영향\"",
+   "source": "경기일보",
+   "time": "2026-06-21T15:02:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoT0VXc0U0Y0ZYbVlCb3lPWThSYWZtc2tKUTdid3hNNWw4MVNqa2tiNVk2SkJHaWlKM3JKWHdxenhyM0xsOGJCUW5iUS1WNlVjRWRqRWpqR0FfN0k?oc=5"
   },
   {
    "title": "[표] 외국환율고시표",
@@ -816,10 +834,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WZ3QxbFo1OHY3UmFmLXFvbXMyLWEwdC02NTMzVUVtQU9Ea2Zoc0xYR1BUTGdSN0VhMWtYeDd4d29mSDJPTVA4V1FOTlFkeGJSaGNjbnppSTRtMW8?oc=5"
   },
   {
-   "title": "환율·채권, 원·달러 환율 1500원대 박스권 장세",
-   "source": "한국경제",
-   "time": "2026-06-21T17:35:06+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBldzVSMWdtNWl2VlgyV2dfZ2RzNFNsdUlPd3FSQXdNaXVFanRnNEpMdHNSM25TdE05WVhsUGYyeC1TbTNrNElFcmZhN1BrU2xWcngya0tlZ1MtZ9IBVEFVX3lxTE9TZ3dIZE5kMWRBRVVRMnJNTElRZnV1N1BZZE5QRGRBcXJTczZVSjRhai1DQ0h6eWt4VkhGVkdPNlMtamJVZ1NaWmY5ZlBkY19fZ3BNTA?oc=5"
+   "title": "비트코인, 시총 15위 턱걸이…SK하이닉스에 따라잡히나?",
+   "source": "문화일보",
+   "time": "2026-06-21T16:51:59+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53a0hodk00ZmdHLWRoLUF4VDhUR25PYzhQQnZtLW9OdHlveGhPMDVwamdCUDE3eHJzUFk4N1gySXp5eEhBdkhvZkUxamROOXVv?oc=5"
   },
   {
    "title": "코스피 9000, 축배를 들기엔 너무 이르다",
@@ -828,16 +846,10 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEcjFoTmUzU3NXUHV0Q08yLVNWRE10UTVKRUNzbUtZTDJQRExJbm9XRHBGdjNMdWNOVkhES2hBWWRfcG1DdC1iVkE0UzdVc0V6bmtpWXBVZmhsUQ?oc=5"
   },
   {
-   "title": "미-이란 종전, 유가 하락에도 환율 1530원대…강달러 지속할 듯",
-   "source": "한겨레",
-   "time": "2026-06-21T17:51:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMG9GV25UdnRtXzdhejMyUW5GakFSakNtemFWTk9OQ2JXMnRMQl95cE1jNV80WU1FSjV0UnlBSm56N3d1blNzbGFyMHp2UVdwNXY0ZkRRSG5LcDRSTGxRMm00M0dLaHc?oc=5"
-  },
-  {
-   "title": "6월 환율 28년 만에 최고치…\"복합적 악재 맞물린 영향\"",
-   "source": "경기일보",
-   "time": "2026-06-21T15:02:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoT0VXc0U0Y0ZYbVlCb3lPWThSYWZtc2tKUTdid3hNNWw4MVNqa2tiNVk2SkJHaWlKM3JKWHdxenhyM0xsOGJCUW5iUS1WNlVjRWRqRWpqR0FfN0k?oc=5"
+   "title": "비트코인, 글로벌 시총 15위로 추락…SK하이닉스에 한때 역전",
+   "source": "지디넷코리아",
+   "time": "2026-06-21T13:56:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Mb1pyV0cwUVFuTFBiQ0l6dEt3aGlRQm9DVnUtWmRvYy1sVlN2RWVpR2swalFsX05ITk80ajlDc0RLVTd0c2k2ZlBSYkU1OGJrdGZaRzZn?oc=5"
   },
   {
    "title": "“미국보다 돈 2배나 많이 풀려… 원/달러 환율 내년 1700원 돌파 가능성”",
@@ -846,22 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Cekl6T01PYS1kNHV3amdkVEU0QmNzS1ZhaXNNa2ZvLUxuVDlBdzI2bFFTS3owUF83S2h0dzNkNzRudjVMVGlRbUw0NXk5amFUek84eEgtNmY0QmpZbEgwWk5wR0lXbjJ0RDkzSC1uY2M0Vk5vRUHSAWZBVV95cUxPOUh5UXdzMVJrOHRERHI3YXZieFEzaVdkcmVWa2Zqc3kwZnQwUG9lVFBYNFBrZ0pYaUlIbVdYcUNOVllteDA4RDR5MEExcWFVOVlqTHVJQUVSem8ycmNCV01qSDZJVFE?oc=5"
   },
   {
-   "title": "비트코인, 시총 15위 턱걸이…SK하이닉스에 따라잡히나?",
-   "source": "문화일보",
-   "time": "2026-06-21T16:51:59+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53a0hodk00ZmdHLWRoLUF4VDhUR25PYzhQQnZtLW9OdHlveGhPMDVwamdCUDE3eHJzUFk4N1gySXp5eEhBdkhvZkUxamROOXVv?oc=5"
-  },
-  {
-   "title": "[속보] 6월 환율 1520원 돌파…외환위기 후 최고 수준",
-   "source": "국제신문",
-   "time": "2026-06-21T09:39:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTBRaXJVRGVhLTl3eEpBMzVrblVzd1czUHRQaDlCWmxwcEk2aHU5VkxIX25xMHZXSmQ2NGI3VUs4Sk01d0dVcXBDeHdmVG5jSVdYNm9sQ3dDcTBmaTlFVWdKa2g2UmptZWU0RlM2WDRfRmN2X205TUNLRFJDSl9sdTd4MDgxbThJYW5fNVBn?oc=5"
-  },
-  {
-   "title": "반도체 대장주로 쏠리는 코스피...변동성 확대 우려",
-   "source": "YTN",
-   "time": "2026-06-21T13:10:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lcXl4RkFNSzNFY0Zqcm55UlV1YmV6ai1kVk9kTHVlTkhHUFlrZm8wZkhmUTIwdTJlcUlyWlNHbkpMVzZlMkxoNnJGbUQxUUJ1cUhyVl9Qd0cxd2Jsdnc?oc=5"
+   "title": "미-이란 종전, 유가 하락에도 환율 1530원대…강달러 지속할 듯",
+   "source": "한겨레",
+   "time": "2026-06-21T19:14:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMG9GV25UdnRtXzdhejMyUW5GakFSakNtemFWTk9OQ2JXMnRMQl95cE1jNV80WU1FSjV0UnlBSm56N3d1blNzbGFyMHp2UVdwNXY0ZkRRSG5LcDRSTGxRMm00M0dLaHc?oc=5"
   }
  ]
 }
