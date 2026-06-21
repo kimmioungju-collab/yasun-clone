@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-22T04:59:15.937343+09:00",
+ "updated": "2026-06-22T06:20:15.722440+09:00",
  "quotes": {
   "k200": {
    "price": 1459.48,
@@ -451,25 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64131.76,
+   "price": 63489.62,
    "prev": 64240.906,
    "spark": [
-    64066.9492,
-    64059.7188,
-    64065.5781,
-    64103.3906,
-    64128.5195,
-    64125.0195,
-    64092.7695,
-    64077.6211,
-    64016.6797,
-    63996.3789,
-    64002.8008,
-    64046.4609,
-    64103.3906,
-    64091.8789,
-    64065.3008,
-    63906.5781,
     63906.9102,
     63924.2383,
     63928.5898,
@@ -492,30 +476,30 @@
     64126.0195,
     64146.0,
     64152.3516,
-    64145.9414,
-    64131.7617
+    64119.9688,
+    64132.5312,
+    64151.5508,
+    64087.2891,
+    63991.1289,
+    64039.9609,
+    64040.0117,
+    63968.3906,
+    63937.2188,
+    63895.6797,
+    63661.9492,
+    63759.8281,
+    63763.0,
+    63740.25,
+    63481.0117,
+    63543.6914,
+    63501.8516,
+    63489.6211
    ]
   },
   "eth": {
-   "price": 1731.91,
+   "price": 1705.61,
    "prev": 1739.1392,
    "spark": [
-    1725.76,
-    1726.17,
-    1726.22,
-    1727.96,
-    1728.13,
-    1728.3101,
-    1726.09,
-    1725.8101,
-    1724.8101,
-    1724.63,
-    1724.63,
-    1725.37,
-    1726.73,
-    1725.97,
-    1725.51,
-    1720.24,
     1721.0,
     1721.67,
     1722.5699,
@@ -538,8 +522,24 @@
     1732.75,
     1733.53,
     1732.67,
-    1732.3,
-    1731.91
+    1732.02,
+    1731.46,
+    1731.29,
+    1729.6,
+    1727.64,
+    1728.86,
+    1728.58,
+    1725.87,
+    1725.48,
+    1725.83,
+    1717.8101,
+    1718.58,
+    1719.29,
+    1719.86,
+    1700.35,
+    1708.2,
+    1706.11,
+    1705.61
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 161.199,
+   "price": 161.22,
    "prev": 161.348,
    "spark": [
     161.286,
@@ -727,7 +727,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1469,
+   "price": 1.1464,
    "prev": 1.1467,
    "spark": [
     1.1478,
@@ -780,16 +780,16 @@
  },
  "news": [
   {
+   "title": "나스닥 상장 앞...현대차그룹, 보스턴다이내믹스 지분 100% 품을듯",
+   "source": "v.daum.net",
+   "time": "2026-06-22T04:27:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zb0dqZkJ0d0Mwb0xCT3Yxd2huQkdLT201LUtQb1c2OHp4R1lkZ29zemVIVlFrYkZzTGgwUWJhNUU4LW1kcng2LUh5bVJqZms?oc=5"
+  },
+  {
    "title": "[자막뉴스] \"한국 증시 위험하다\" 전문가 경고...사상 최고 코스피의 불안한 민낯",
    "source": "YTN",
    "time": "2026-06-21T19:33:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YZEVEV3FFam1GUWJWNFJ4VlZZeHgyWWlnN3RfbHJFRHhaWmhKUE9ZMm55MFBZeHRWeGg2dlBFQ0Jmc1h3X2NYTzgyZzBVaV9mR1RPcC1GYjk3X1FKSFE?oc=5"
-  },
-  {
-   "title": "[주간 증시전망] 코스피시장 대형주 접근이 바람직",
-   "source": "v.daum.net",
-   "time": "2026-06-21T18:45:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96UDdKTENSWTJSYS1EVlFncDNIN0lHelVuY29EMzdwenlfN3RxalBhaDhtYVZ1Ni15bG1CUkJTaUY0RE1XdVFzUlUtVDQyT0U?oc=5"
   },
   {
    "title": "코스피, 사상 첫 9,000 돌파…韓자본시장 역사 새로 썼다(종합2보)",
@@ -798,22 +798,28 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9STTFjY05zSUx2TFZ3T3ZOX0FUNWZDbUFmM2Y4RjVIU1l4UTZVVUU2Smd0VnE4cFFkaHM0b1pXczlQOVdDOGQ4NWg4ZUpjM21mOWFNa0tzdTcwWnPSAWBBVV95cUxNc1luNnZqbzlBUllJSllVRjM5NE4xX09OX0lJcFBndG40LTlXVUtKY2RTbjFtUEtpdS1wX2MwT1BSZzFvZ2xzQi1hU0gwNklzVWlXd0JlM3hsQ2p6NW9rSXA?oc=5"
   },
   {
-   "title": "코스피 9000에도 국내 증시 8% ‘동전주’ 한국거래소, 투자자에 ‘상장폐지 주의보’",
-   "source": "경향신문",
-   "time": "2026-06-21T20:42:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82LVNQSXlNSjVieXkwQnlkQWN0VlhOZjN5X1pTSlUzYXU2SDIxZVF4NGV1TmIxWWJ5cXdDSXVvdW9QNlNsd0gyQU1fb2FCeHJJU01sb2tWVXVDUdIBX0FVX3lxTE50ejFpWXNXM19kYW9TLW5YUDFLaUNzTmVFYk1hdlhiQ1p4bzJJZ3IwdFRDdW1BZlFxNnNJYkNGa1BVY25obDlJWS1sZGU0RXJjLVNoYnh2bE1ONDVkUmpj?oc=5"
-  },
-  {
    "title": "코스피, 사상 첫 9,000 돌파…'9천피' 시대 개막(상보)",
    "source": "연합인포맥스",
    "time": "2026-06-18T13:08:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrekpveGNOOVVCT1dRNHhOdzJRaTNpZ1dqTlM0Skd2eDA2TVp6bTZHMG90QXUzSWdWWVpieEQySkV1XzRjSWhUa1FmQVd1WFpLd09BQUVRWmJENUZqa210X0NhWExTelpITkgwblRCZXk?oc=5"
   },
   {
+   "title": "코스피 9000에도 국내 증시 8% ‘동전주’ 한국거래소, 투자자에 ‘상장폐지 주의보’",
+   "source": "경향신문",
+   "time": "2026-06-21T20:42:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82LVNQSXlNSjVieXkwQnlkQWN0VlhOZjN5X1pTSlUzYXU2SDIxZVF4NGV1TmIxWWJ5cXdDSXVvdW9QNlNsd0gyQU1fb2FCeHJJU01sb2tWVXVDUdIBX0FVX3lxTE50ejFpWXNXM19kYW9TLW5YUDFLaUNzTmVFYk1hdlhiQ1p4bzJJZ3IwdFRDdW1BZlFxNnNJYkNGa1BVY25obDlJWS1sZGU0RXJjLVNoYnh2bE1ONDVkUmpj?oc=5"
+  },
+  {
    "title": "[뉴스초점] 코스피, ’1만피’ 질주 이어갈까…유류할증료 하락",
    "source": "연합뉴스TV",
    "time": "2026-06-21T14:40:09+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JM25zSDJjWVRlYU1sM3RCczk5ekd2dkY5cXdUR0dYUEFrRkp2UlZwQVVHTXF1b0pTUXJ0MHV1Rm5SZHl0R3VMQ2ktaUZtNzBsdWM5VkQ3YmxnXzNISEdCM3NaQ19uRjQ?oc=5"
+  },
+  {
+   "title": "[표] 외국환율고시표",
+   "source": "매일경제 마켓",
+   "time": "2026-06-21T17:32:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RbVFKWkwzaWs1cDdpckVoY21WV3MzeGZ1cWI1MUVjdUdwb3VKYXp5Q0NKM25lWlJNRmdWb28zd3JEb1dBcmtqV2ZHR1AweGdGQlE?oc=5"
   },
   {
    "title": "환율·채권, 원·달러 환율 1500원대 박스권 장세",
@@ -828,12 +834,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMG9GV25UdnRtXzdhejMyUW5GakFSakNtemFWTk9OQ2JXMnRMQl95cE1jNV80WU1FSjV0UnlBSm56N3d1blNzbGFyMHp2UVdwNXY0ZkRRSG5LcDRSTGxRMm00M0dLaHc?oc=5"
   },
   {
-   "title": "[표] 외국환율고시표",
-   "source": "매일경제 마켓",
-   "time": "2026-06-21T17:32:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RbVFKWkwzaWs1cDdpckVoY21WV3MzeGZ1cWI1MUVjdUdwb3VKYXp5Q0NKM25lWlJNRmdWb28zd3JEb1dBcmtqV2ZHR1AweGdGQlE?oc=5"
-  },
-  {
    "title": "6월 환율 28년 만에 최고치…\"복합적 악재 맞물린 영향\"",
    "source": "경기일보",
    "time": "2026-06-21T15:02:00+09:00",
@@ -846,22 +846,22 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53a0hodk00ZmdHLWRoLUF4VDhUR25PYzhQQnZtLW9OdHlveGhPMDVwamdCUDE3eHJzUFk4N1gySXp5eEhBdkhvZkUxamROOXVv?oc=5"
   },
   {
+   "title": "'최대 40조' SK하이닉스 美ADR 승인 임박…8월 나스닥 입성 기대",
+   "source": "뉴스1",
+   "time": "2026-06-22T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tOWZXdlRPOF80OGVGbFAwc1BZWmdnZWwzUGhCNGg1Zzczbkgtd21BOXE1RUVKbl80aDNLdUltTDYtdWM1MWxsU05WQ1Y3TXlYWkF6ZzBCd2xuc2duZkcwaGd0dGU?oc=5"
+  },
+  {
    "title": "“원화는 왜 힘을 못 쓰나”...1500원 환율 떠받치는 ‘복합 악재’",
    "source": "에너지경제신문",
    "time": "2026-06-21T11:10:58+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WZ3QxbFo1OHY3UmFmLXFvbXMyLWEwdC02NTMzVUVtQU9Ea2Zoc0xYR1BUTGdSN0VhMWtYeDd4d29mSDJPTVA4V1FOTlFkeGJSaGNjbnppSTRtMW8?oc=5"
   },
   {
-   "title": "[마켓인사이트] 9,000선 넘어선 코스피, '1만피' 질주 이어갈까",
-   "source": "연합뉴스",
-   "time": "2026-06-21T07:01:12+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvZ2pYRWR6VF9GTWpweElMSXJ3NnNVVzdibFZmVjZMTUVaUnBwU1lFTDFiWTRNYXBVZjNBcDVEU3NaMkN3SndKcTJNVmxOcmRFZV9jeG52RURDbjhZSmlwetIBYEFVX3lxTFBvZ2pYRWR6VF9GTWpweElMSXJ3NnNVVzdibFZmVjZMTUVaUnBwU1lFTDFiWTRNYXBVZjNBcDVEU3NaMkN3SndKcTJNVmxOcmRFZV9jeG52RURDbjhZSmlweg?oc=5"
-  },
-  {
-   "title": "“계좌가 녹아내린다” 코스피는 신났지?…코스닥은 ‘와르르’ [투자360]",
-   "source": "v.daum.net",
-   "time": "2026-06-21T19:41:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qcEdzbUhDbTU2R3VuS3FERjZfX0RDZHZDVzAxV2I2ck5wQktlYVFUay1ERkZqZDdSTW91WVB0djJpaC11aTN6SUxJMmF0Vlk?oc=5"
+   "title": "한국이나 미국이나 금리 올린다는데, 코스피는 왜 계속 오를까 [주末머니]",
+   "source": "아시아경제",
+   "time": "2026-06-21T17:46:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sc2hGMmdFdXlpQXptWFZZN3JwNGZETmtkY21kMjZJcTU4OFNEYklkRXJyejhvWGxHR0V5UWJvYTFlVnBodXNESWZvMzJpdFNvV0JRMUx2U3VUeXJleTBhVw?oc=5"
   }
  ]
 }
