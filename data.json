@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-22T01:29:06.273179+09:00",
+ "updated": "2026-06-22T03:07:14.869273+09:00",
  "quotes": {
   "k200": {
    "price": 1459.48,
@@ -451,79 +451,59 @@
    ]
   },
   "btc": {
-   "price": 64111.98,
+   "price": 63913.34,
    "prev": 64240.906,
    "spark": [
-    64099.3516,
-    64090.8906,
-    64084.3984,
-    63971.5,
-    63953.5508,
-    63971.5,
-    63973.8008,
-    64022.0117,
-    64068.6992,
-    64034.5508,
-    63999.7617,
-    63990.9102,
-    63953.5391,
-    64010.9688,
-    63960.9102,
-    63924.1016,
-    63965.6992,
-    63977.3203,
-    63972.5781,
-    64009.3203,
     64061.2891,
-    64134.0117,
-    64152.2188,
+    64134.0195,
+    64152.2109,
     64121.8594,
     64137.3516,
     64117.9688,
     64176.3086,
     64116.6211,
-    64183.6484,
+    64183.6406,
     64208.6992,
     64167.9883,
     64156.0703,
-    64143.9805,
-    64160.1016,
-    64115.5391,
-    64050.7383,
-    64099.3711,
-    64134.5,
-    64115.4414,
-    64111.9805
+    64143.9883,
+    64158.0508,
+    64106.0117,
+    64056.0508,
+    64099.3594,
+    64134.4883,
+    64103.8398,
+    63978.3086,
+    63963.4883,
+    64025.9297,
+    64066.9492,
+    64056.0117,
+    64065.5781,
+    64102.2188,
+    64128.5195,
+    64125.0195,
+    64092.7812,
+    64077.6211,
+    64016.6797,
+    63996.3906,
+    64005.6992,
+    64046.4609,
+    64103.3906,
+    64091.8789,
+    64065.3008,
+    63906.5781,
+    63920.7109,
+    63913.3398
    ]
   },
   "eth": {
-   "price": 1725.62,
+   "price": 1721.0,
    "prev": 1739.1392,
    "spark": [
-    1725.09,
-    1723.91,
-    1723.99,
-    1720.8199,
-    1720.71,
-    1720.7,
-    1721.0,
-    1721.99,
-    1723.05,
-    1722.64,
-    1721.08,
-    1721.37,
-    1720.46,
-    1722.3199,
-    1720.38,
-    1720.21,
-    1722.59,
-    1723.37,
-    1722.9,
-    1723.45,
     1726.39,
     1728.3101,
     1728.4,
-    1727.1,
+    1727.11,
     1728.11,
     1727.3,
     1729.71,
@@ -533,13 +513,33 @@
     1728.6899,
     1728.9301,
     1728.8199,
-    1728.61,
-    1726.8199,
+    1728.5,
+    1726.53,
     1725.72,
     1725.53,
     1725.95,
+    1724.5699,
+    1720.71,
+    1720.92,
+    1723.42,
+    1725.76,
+    1726.17,
+    1726.1899,
+    1727.96,
+    1728.13,
+    1728.3101,
+    1726.09,
     1725.8101,
-    1725.62
+    1724.71,
+    1724.63,
+    1724.63,
+    1725.37,
+    1726.73,
+    1725.97,
+    1725.51,
+    1720.24,
+    1721.03,
+    1721.0
    ]
   },
   "eurkrw": {
@@ -780,88 +780,88 @@
  },
  "news": [
   {
-   "title": "미ㆍ이란 종전에 코스피 5%대 급등…원달러 환율 하락",
-   "source": "대한경제",
-   "time": "2026-06-15T16:08:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oREFuMXRTTnE5bnFocWR1ZjNzVFVuZDNJaUM5WVBBejlHemVrUkVOQlg5Tk9PbTNYMWNyMV9VLTMweHVzYWlVWnltSDQzT0dxUmxKYnJ5c3VWd0NUZGV1U3pXN3pDQ3dINFA4T2xmRmVpQmc?oc=5"
+   "title": "[자막뉴스] \"한국 증시 위험하다\" 전문가 경고...사상 최고 코스피의 불안한 민낯",
+   "source": "YTN",
+   "time": "2026-06-21T19:33:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YZEVEV3FFam1GUWJWNFJ4VlZZeHgyWWlnN3RfbHJFRHhaWmhKUE9ZMm55MFBZeHRWeGg2dlBFQ0Jmc1h3X2NYTzgyZzBVaV9mR1RPcC1GYjk3X1FKSFE?oc=5"
   },
   {
-   "title": "코스피 급락 이틀간 개인 보유 3천억원 주식 '강제처분'",
+   "title": "[마켓인사이트] 9,000선 넘어선 코스피, '1만피' 질주 이어갈까",
+   "source": "연합뉴스",
+   "time": "2026-06-21T07:01:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvZ2pYRWR6VF9GTWpweElMSXJ3NnNVVzdibFZmVjZMTUVaUnBwU1lFTDFiWTRNYXBVZjNBcDVEU3NaMkN3SndKcTJNVmxOcmRFZV9jeG52RURDbjhZSmlwetIBYEFVX3lxTFBvZ2pYRWR6VF9GTWpweElMSXJ3NnNVVzdibFZmVjZMTUVaUnBwU1lFTDFiWTRNYXBVZjNBcDVEU3NaMkN3SndKcTJNVmxOcmRFZV9jeG52RURDbjhZSmlweg?oc=5"
+  },
+  {
+   "title": "코스피 9000에도 국내 증시 8% ‘동전주’ 한국거래소, 투자자에 ‘상장폐지 주의보’",
+   "source": "경향신문",
+   "time": "2026-06-21T20:42:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82LVNQSXlNSjVieXkwQnlkQWN0VlhOZjN5X1pTSlUzYXU2SDIxZVF4NGV1TmIxWWJ5cXdDSXVvdW9QNlNsd0gyQU1fb2FCeHJJU01sb2tWVXVDUdIBX0FVX3lxTE50ejFpWXNXM19kYW9TLW5YUDFLaUNzTmVFYk1hdlhiQ1p4bzJJZ3IwdFRDdW1BZlFxNnNJYkNGa1BVY25obDlJWS1sZGU0RXJjLVNoYnh2bE1ONDVkUmpj?oc=5"
+  },
+  {
+   "title": "“계좌가 녹아내린다” 코스피는 신났지?…코스닥은 ‘와르르’ [투자360]",
    "source": "v.daum.net",
-   "time": "2026-06-09T15:50:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TaXB5Yl9BbTNpbFMxVHZFbkM5dDVvaVVZRHVXMDZaeFJ6X2ZZbUFDN3p5Q0F4WThsRzVLeGFPdmkyRmd2V1p5bWM1b203Yzg?oc=5"
+   "time": "2026-06-21T19:41:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qcEdzbUhDbTU2R3VuS3FERjZfX0RDZHZDVzAxV2I2ck5wQktlYVFUay1ERkZqZDdSTW91WVB0djJpaC11aTN6SUxJMmF0Vlk?oc=5"
   },
   {
-   "title": "김용범 \"코스피 8000에도 환율 1550원…낯선 과제들 직면해\"",
-   "source": "조선일보",
-   "time": "2026-06-07T16:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90OEFkWGMydmVObXN5aTJYT09KYzRtSERnN3R3UFNJRWw4cE1hY2wwcWZwLXhKVWNXN19YU2FqaGhzUVlGd0N6ejFzdGkyYnhROUdnckNyRG1SQTJsNm9FSjZySFJfWVktNUE?oc=5"
+   "title": "[뉴스초점] 코스피, ’1만피’ 질주 이어갈까…유류할증료 하락",
+   "source": "연합뉴스TV",
+   "time": "2026-06-21T14:40:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JM25zSDJjWVRlYU1sM3RCczk5ekd2dkY5cXdUR0dYUEFrRkp2UlZwQVVHTXF1b0pTUXJ0MHV1Rm5SZHl0R3VMQ2ktaUZtNzBsdWM5VkQ3YmxnXzNISEdCM3NaQ19uRjQ?oc=5"
   },
   {
-   "title": "시험대 오른 비트코인 기업…스트래티지 폭락에 모방 기업도 '비상'",
-   "source": "KB Think",
-   "time": "2026-06-10T09:39:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcmVGcWxnRFgzZ3RFSExUYWdtVnFHc3c2UVd4bmtKaXdpaXE3WXhzUm9KczdVbkd3MU5wXzR4TXlhNklPLWpRNnFXVmtNbUFEWER1dkN5aWFzbkNxN2ZFM2hyLVdUSzdxd20wU1RCQjI4QQ?oc=5"
+   "title": "미-이란 종전, 유가 하락에도 환율 1530원대…강달러 지속할 듯",
+   "source": "한겨레",
+   "time": "2026-06-21T19:14:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMG9GV25UdnRtXzdhejMyUW5GakFSakNtemFWTk9OQ2JXMnRMQl95cE1jNV80WU1FSjV0UnlBSm56N3d1blNzbGFyMHp2UVdwNXY0ZkRRSG5LcDRSTGxRMm00M0dLaHc?oc=5"
   },
   {
-   "title": "코스피 7900선 후퇴…환율 1525원에 외환당국 공동검사 착수",
-   "source": "인더스트리뉴스",
-   "time": "2026-06-10T11:12:13+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFNnhkbS0xdEZxa0k2bTRFSElhcEM3cDhiZkNQZFB6dlhOSUF2RnNRQmdfZU5aQ3NXMjJVX2p0UEdsOGhIZUFQaTMtQVh2SEVlZ0t5b3pnNHJ5T3FFY1JodUIzc242T2ZvWmhRTlR1cUludw?oc=5"
+   "title": "환율·채권, 원·달러 환율 1500원대 박스권 장세",
+   "source": "한국경제",
+   "time": "2026-06-21T17:35:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBldzVSMWdtNWl2VlgyV2dfZ2RzNFNsdUlPd3FSQXdNaXVFanRnNEpMdHNSM25TdE05WVhsUGYyeC1TbTNrNElFcmZhN1BrU2xWcngya0tlZ1MtZ9IBVEFVX3lxTE9TZ3dIZE5kMWRBRVVRMnJNTElRZnV1N1BZZE5QRGRBcXJTczZVSjRhai1DQ0h6eWt4VkhGVkdPNlMtamJVZ1NaWmY5ZlBkY19fZ3BNTA?oc=5"
   },
   {
-   "title": "팔 걷어붙인 당국에 환율 5.6원 하락 출발…1,530원 밑으로",
-   "source": "v.daum.net",
-   "time": "2026-06-09T16:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBTE1NS3VfcTNNOWZoak5nb2JLNVdxS1RGNjJ2ZHhDd0VMSVZWLTFJWjdpcXdBX1ZPWHZRcVd5Mk5TeUhDWkRzXzhtQkVQY3M?oc=5"
+   "title": "[증시-마감] 코스피 9천 뚫자 연기금 차익실현…5년 만에 최대 순매도",
+   "source": "연합인포맥스",
+   "time": "2026-06-19T16:20:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0ZTlyM0xUZkxSQVF0TG1YOXAxSUJ6RmNUWDM1NzZhcjdaYkdnUUR2RTIxZ21laDRhTVhlZEFfaGU1Yk5nX3ZIalZJRGJPXzlHYXpUUjZOWk9Nb1ktcDlOZHZXX3M3RndlTzdrdmRDQ1Q?oc=5"
   },
   {
-   "title": "미·이란 종전 가능성에 환율, 10원 넘게 하락…1,510원대로",
-   "source": "v.daum.net",
-   "time": "2026-06-12T09:14:55+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CRFllNWhQMGpSWURHMHBJMnZtRC1LYndYaFpmdGRVNHJwdjd4OXo2Mjkyd0c0dmdkRDBuQTVPSk8yQUJSUUpfdGdHVl94UlU?oc=5"
+   "title": "6월 환율 28년 만에 최고치…\"복합적 악재 맞물린 영향\"",
+   "source": "경기일보",
+   "time": "2026-06-21T15:02:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoT0VXc0U0Y0ZYbVlCb3lPWThSYWZtc2tKUTdid3hNNWw4MVNqa2tiNVk2SkJHaWlKM3JKWHdxenhyM0xsOGJCUW5iUS1WNlVjRWRqRWpqR0FfN0k?oc=5"
   },
   {
-   "title": "'외국인 팔자' 환율 1,520원대…로이터 \"스페이스X 달러수요 끝\"(종합)",
-   "source": "v.daum.net",
-   "time": "2026-06-10T16:42:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jM0NPUVBaVkdMTUJxaE1IVE0zYS0wcFFtNV9ybGpUa2sxb2Npb0FYWGdhMUtxTWJNZmRWVHlhNmcwWGh3cEY5VkRFc3dpWEk?oc=5"
+   "title": "[표] 외국환율고시표",
+   "source": "매일경제 마켓",
+   "time": "2026-06-21T17:32:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RbVFKWkwzaWs1cDdpckVoY21WV3MzeGZ1cWI1MUVjdUdwb3VKYXp5Q0NKM25lWlJNRmdWb28zd3JEb1dBcmtqV2ZHR1AweGdGQlE?oc=5"
   },
   {
-   "title": "중동 불안에 외국인 '팔자' 지속…환율 다시 1,520원대",
-   "source": "v.daum.net",
-   "time": "2026-06-10T16:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81cmZLUWVJWHRXbVpvdFA5azBvVHBWME45dzJBQXhvUk1ubzRGcUJiR3MyN041cllGQjJXZ1N0bTlzQ1hDSG8xeFFRcUVRclk?oc=5"
+   "title": "‘V자 반등’ 코스피 9천피 돌파…이번 주 마이크론 실적이 분수령[주간증시]",
+   "source": "에너지경제신문",
+   "time": "2026-06-21T09:18:16+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HSWZyWVZXeUZHYmRRMFZzNFRHVGdMN0prbXF2Y1k3X2pHZlZPQndNempPNmduQUNXMmxfYVpjMDlic1JoSmZiRzRJN3lOLTd5X0QyWlNNNm5ZVHc?oc=5"
   },
   {
-   "title": "환율, 두 달여 만에 1,530원대…외국인 매도 속 고공행진(종합)",
-   "source": "v.daum.net",
-   "time": "2026-06-04T16:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NUWg5c2VOenQ5Z0Z1d0xoX21GRi1DRlRqQUtOT1lfS3hpOFNBVFdGa21ocDZ2a3ZNSlRmOTNjeENlS2xVUVg3aXBhbEYtMWs?oc=5"
+   "title": "비트코인, 시총 15위 턱걸이…SK하이닉스에 따라잡히나?",
+   "source": "문화일보",
+   "time": "2026-06-21T16:51:59+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53a0hodk00ZmdHLWRoLUF4VDhUR25PYzhQQnZtLW9OdHlveGhPMDVwamdCUDE3eHJzUFk4N1gySXp5eEhBdkhvZkUxamROOXVv?oc=5"
   },
   {
-   "title": "[속보] 코스피, 종일 오락가락 끝에 0.4%↑…코스닥 4.7% 급등",
-   "source": "v.daum.net",
-   "time": "2026-06-11T15:35:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBid0dubXZIQ05yMDVoOS1nV1otME42T3JPSEladDZyajRRTXJXRDFPa3lMVVhxeXA0ckx2aHlmZmNUQjdhNVBlb1pKVVdnWms?oc=5"
+   "title": "비트코인, 글로벌 시총 15위로 추락…SK하이닉스에 한때 역전",
+   "source": "지디넷코리아",
+   "time": "2026-06-21T13:56:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Mb1pyV0cwUVFuTFBiQ0l6dEt3aGlRQm9DVnUtWmRvYy1sVlN2RWVpR2swalFsX05ITk80ajlDc0RLVTd0c2k2ZlBSYkU1OGJrdGZaRzZn?oc=5"
   },
   {
-   "title": "외인 7조 순매도에 환율 1,540원 넘어…코스피 하락·금리 급등",
-   "source": "v.daum.net",
-   "time": "2026-06-04T16:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NT3JDUndEZHlmZGc0QmluMDA2eWtsclpBUGx4VVlnRVp4NEotazE0dlZpTE83ZWlGQk9Oc3ZJUmoyQ3N0VHREaFU2Q0dHR00?oc=5"
-  },
-  {
-   "title": "환율, 야간 거래서 1,540원 육박…금융위기 이후 최고(종합)",
-   "source": "v.daum.net",
-   "time": "2026-06-04T16:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Vd240cVdkZnR5QkRyUC1SSnZSMl9za2kzUXpYRXdmNldGWEdiTjROYkdNT2ZxMlJmdnd0TXBfNnpaNXFHcGo3bjRFQ09zc2h1NFJVag?oc=5"
-  },
-  {
-   "title": "[속보] 코스피·코스닥, 장중 상승전환…코스피 7,700선",
-   "source": "v.daum.net",
-   "time": "2026-06-11T10:13:37+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HZGU1ZlpBYk9aX3VUV0ZfSGRhUHBIbk1sREhYejJaSTQyRzEydjlpcmRQajVIR25wRXR6eVZFOWk5VDdnVzJjNmR2OG5RQVk?oc=5"
+   "title": "코스피, 사상 첫 9,000 돌파…韓자본시장 역사 새로 썼다(종합2보)",
+   "source": "연합뉴스",
+   "time": "2026-06-18T14:41:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9STTFjY05zSUx2TFZ3T3ZOX0FUNWZDbUFmM2Y4RjVIU1l4UTZVVUU2Smd0VnE4cFFkaHM0b1pXczlQOVdDOGQ4NWg4ZUpjM21mOWFNa0tzdTcwWnPSAWBBVV95cUxNc1luNnZqbzlBUllJSllVRjM5NE4xX09OX0lJcFBndG40LTlXVUtKY2RTbjFtUEtpdS1wX2MwT1BSZzFvZ2xzQi1hU0gwNklzVWlXd0JlM3hsQ2p6NW9rSXA?oc=5"
   }
  ]
 }
