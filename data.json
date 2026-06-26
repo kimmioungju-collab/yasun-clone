@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-27T07:49:13.256682+09:00",
+ "updated": "2026-06-27T08:49:37.426543+09:00",
  "quotes": {
   "k200": {
    "price": 1366.49,
@@ -695,6 +695,7 @@
    "price": 1535.0,
    "prev": 1544.48,
    "spark": [
+    1534.89,
     1535.02,
     1534.91,
     1535.3101,
@@ -733,26 +734,13 @@
     1534.5601,
     1534.83,
     1535.0,
-    1535.0,
     1535.0
    ]
   },
   "btc": {
-   "price": 59872.69,
+   "price": 59985.74,
    "prev": 59706.754,
    "spark": [
-    59805.8789,
-    59780.5312,
-    59769.9609,
-    59786.3594,
-    59716.0,
-    59710.6406,
-    59593.9883,
-    59624.0898,
-    59679.1914,
-    59664.5117,
-    59679.1797,
-    59549.9883,
     59568.1211,
     59552.0586,
     59634.0117,
@@ -779,26 +767,26 @@
     59822.9883,
     59861.3203,
     59871.9609,
-    59872.6914,
-    59872.6914
+    59884.9883,
+    59953.5195,
+    59957.9883,
+    59997.3516,
+    59980.9883,
+    59992.0586,
+    59909.9883,
+    59962.2891,
+    59879.3516,
+    59905.6094,
+    59946.5312,
+    59972.9414,
+    59986.6016,
+    59985.7383
    ]
   },
   "eth": {
-   "price": 1574.0,
+   "price": 1576.64,
    "prev": 1564.8595,
    "spark": [
-    1576.52,
-    1576.02,
-    1575.52,
-    1576.24,
-    1574.4,
-    1574.55,
-    1572.4,
-    1573.1,
-    1574.6899,
-    1575.78,
-    1576.35,
-    1569.23,
     1569.15,
     1566.15,
     1567.52,
@@ -825,14 +813,27 @@
     1570.37,
     1572.73,
     1573.9301,
-    1573.98,
-    1574.0
+    1574.1899,
+    1575.42,
+    1575.45,
+    1576.91,
+    1575.89,
+    1576.33,
+    1574.58,
+    1575.1899,
+    1573.3101,
+    1574.28,
+    1575.67,
+    1577.46,
+    1576.89,
+    1576.64
    ]
   },
   "eurkrw": {
    "price": 1746.9,
    "prev": 1756.1,
    "spark": [
+    1747.5,
     1748.0,
     1747.4,
     1747.5,
@@ -871,7 +872,6 @@
     1746.9,
     1746.9,
     1746.9,
-    1746.9,
     1746.9
    ]
   },
@@ -879,6 +879,7 @@
    "price": 9.468,
    "prev": 9.524,
    "spark": [
+    9.467,
     9.468,
     9.472,
     9.469,
@@ -917,7 +918,6 @@
     9.468,
     9.468,
     9.468,
-    9.468,
     9.468
    ]
   },
@@ -925,6 +925,7 @@
    "price": 225.673,
    "prev": 227.081,
    "spark": [
+    225.731,
     225.792,
     225.728,
     225.747,
@@ -963,7 +964,6 @@
     225.87,
     225.87,
     225.87,
-    225.673,
     225.673
    ]
   },
@@ -971,6 +971,7 @@
    "price": 161.73,
    "prev": 161.777,
    "spark": [
+    161.753,
     161.772,
     161.745,
     161.756,
@@ -1009,7 +1010,6 @@
     161.754,
     161.693,
     161.685,
-    161.73,
     161.73
    ]
   },
@@ -1017,6 +1017,7 @@
    "price": 1.139,
    "prev": 1.1377,
    "spark": [
+    1.1393,
     1.1392,
     1.1392,
     1.1392,
@@ -1050,7 +1051,6 @@
     1.1388,
     1.1386,
     1.1391,
-    1.139,
     1.139,
     1.139,
     1.139,
@@ -1120,6 +1120,12 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84OHRtTzhYUTlsRVlEOWZVdWxfbWJlTEo2TWlGdkttRVFlTThlYUxReXdzREZselA0UUx6QkZBakVLZjBuenFCZjVEcWxIbGVTd2JBdHNrWmdSeElBQzBNQlhaaERndTBJMEp4VlRlbWVfY0ZR0gF0QVVfeXFMTkZBRF9OR3dkcll2UkdQcU1pOWVMcEdiMlgyQ0pGMzFackZTT20zT04tR0dIZjlINlU0dzY4RHBOOU9nNjViMGcxc25TNHVVQWpoOVhBYmNOZEVfQXo3aG9KemItTHI1aWMzTm5MM2hBZUpRa0s?oc=5"
   },
   {
+   "title": "뉴욕증시, 기술주 고점 부담에 약세…나스닥 5일째 하락(종합)",
+   "source": "v.daum.net",
+   "time": "2026-06-27T06:09:03+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyanRyU1N3WmQ0TlRTeENvNGxkWXo4X3JQaDIwUElScEkxWUJxRkNzRjVDdktOQUgzQ1NZVW96U0RYNmdtMjlHaGh5MVpCUHc?oc=5"
+  },
+  {
    "title": "뉴욕증시, 기술주 고점 부담에 약세…나스닥 5일째 하락",
    "source": "KBS 뉴스",
    "time": "2026-06-27T05:25:00+09:00",
@@ -1127,9 +1133,15 @@
   },
   {
    "title": "유가는 되돌렸는데 달러는 강세…환율, 결국 금리의 문제",
-   "source": "KB Think",
-   "time": "2026-06-27T07:15:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1ckpyRkhzalZ6aFR5Y3hUNkdMZ2F0c2ZMX1djRkxBMzJzVHQ0cjhCNjNnd2pxd1lORTVYelBZV2IxMzYzb0plUTlUTGZSVWNKbHZUcmJrc1VNVnFMOVE5WURGSDVvcE0teGN2REFSLUVmUQ?oc=5"
+   "source": "연합인포맥스",
+   "time": "2026-06-27T07:18:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fTExYWnJCa1c5cGIzMlR3TW1QWnExYk5LY0N2bDRIN1J2VHRkNFNnbWYtcmVaM1hBM0wwY011aDVtZGhJWXQwQV8xZHdDc1BTVUh0SkRHdUpocTd4eTEwaVBlZVM2elVfX0Z3VloyYjQ?oc=5"
+  },
+  {
+   "title": "뉴욕증시 3대 지수 일제히 약세 마감…나스닥 닷새째 하락",
+   "source": "경향신문",
+   "time": "2026-06-27T08:34:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90aEU4QWh0UWN4ZlhEZ2ZHRjRpZWJ6YTY3QjF1Wmhla3YzeTJpbGxqbm1ObDJTZjdqQWhyOGNMWFRFcG5iMEFTLWRtX3h0Mlo2R05VYjVmaUlFQdIBX0FVX3lxTE4tbDFFd1VqMHBmamRDelBzMDhtVHY3NlVsYlVhcDBMVzkzdmd0bF84b3RadHhlOF9hcFduSmR2ZGZjY19udjBnNmdMWXlyT1VidlZQemRmczhIeXFMb3RJ?oc=5"
   },
   {
    "title": "코스피 급락, 하루짜리 충격일까…증권가가 짚은 진짜 이유 - 머니투데이",
@@ -1144,12 +1156,6 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjI3aVdrV0tDZnRxamhJZGh3a0NDdHRCaTB2Qk1xWTkyd3IzempMcUpIbkI1d2htRzBLVTlUMll0Mkwyb0pITlBVbF92RzZudkg0TE1UX25tQzF1bnViZERNMmticTJqX045OVVHUHNOUm1sQm1la1EzNk1ZaWZ3SUVXOTJqOVZr0gGcAUFVX3lxTE8xYk9KRHN1UDdvb1FfVlp3aVZIWUtROWFiRkZ6d0JUWXhWUEtPMVA3X05oMlhzbFFIVktlY2RjMDhlMGFMckRzNXkzRHdKWTBzYkNaby1yckFPRUFsYVFNTGRtLWI0ZGg2d2Zwc0dFeWtZMTJZUFduSnF2Ymp4QmZPNEtvWVVvcVBFNkJqMloyTkZ1REQzZnZzTHM4dQ?oc=5"
   },
   {
-   "title": "[미스터리경제] 코스피 '1만피'의 역설, 외인은 왜 100조원을 던졌나 (영상)",
-   "source": "v.daum.net",
-   "time": "2026-06-27T00:02:32+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aRnlXN1NwR29vRVNzckpQTm9vN3lsbFhJOXRiYV8tYTdXVkRYMVd0U0xkQnozVWl3b0ZjY1E0Z21CQVprWU9CNTE4T3FwbVk?oc=5"
-  },
-  {
    "title": "속보 코스피 5.8% 급락한 8,411 마감",
    "source": "YTN",
    "time": "2026-06-26T15:42:00+09:00",
@@ -1162,10 +1168,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QRnJCbEJKTThhcnRGTnF0VkYwN2hSeDhXMG8zYTZhdEZUck1iV05VOFdfdDBSVHI4dFZNY2EtZ2ZiMjl0NmFuNVR4Nk42eGdVYlE?oc=5"
   },
   {
-   "title": "코스피 역대급 패닉장인데…JP모건 \"최대 1만5000까지 간다\"",
-   "source": "더구루",
-   "time": "2026-06-27T00:00:44+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4MmhJQlo1NGtzT0tZRlQxNE5YUEhKbHR1NDdWQ20ydUFwQnVGTEh6WGJET1p4Vks5d1daRkNQQWRKSTNHaUJBR25NT1dCU0FhckRXR2RONk9zTW9LNUE?oc=5"
+   "title": "환율 한달반 가까이 1500원대… 장중 1550원 육박, 외환당국 개입한 듯",
+   "source": "동아일보",
+   "time": "2026-06-27T01:40:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91UWlJQ2c1RzBqU1BqQ2VyZHBoc05WT1E0Rmh5SVpraTJUemM4Yl9mamh1cURJR3ZBWWpKcDZ2STg2aWIwaXRNV2g4eXA2UXpCVDhaWnp0LTItN28zX3N3aE1fTXFnUGdPa3V2Mmx3TFBFWVFiMmfSAWZBVV95cUxOOGEzX3Flb2pzYVBGcW9ObHNWenY4UEpyVkZfb3hxRG9kY0xMOElwV1MxRlVEakp1LXNBM1ZpUGFQSHgwT2R0SFpIUG44d0NSWHlZRFhZVFliaUgzTkFiWXZBTjZSSmc?oc=5"
+  },
+  {
+   "title": "스트래티지, 기업 mNAV 1 아래로…비트코인 프리미엄 소멸",
+   "source": "블루밍비트",
+   "time": "2026-06-27T07:02:15+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GVFhXMUZGd01MNEl5OUxVUXBfYnU2Zldud0tIWVFIQmVXMFAwMUR4V081Q0V4d1lTQU1IOUJoZ2FDVWRpRzlKRy04WU4wVHdT?oc=5"
   },
   {
    "title": "코스피 5%대 급락 한때 8,400 아래로‥'매도 사이드카' 발동",
@@ -1178,18 +1190,6 @@
    "source": "연합뉴스",
    "time": "2026-06-26T15:33:59+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eGhiT2t2MHQ5N2h6RjBoUS1RNEpNSEpPRVBLZjJITDdtaDZEaVVUT242WlZXN0txRnhZYUFRX3pEZ1Y2U0ZwZXhfTjhYejY2SUNyekVfVEZNTmoxQzVhSdIBYEFVX3lxTE50eGhiT2t2MHQ5N2h6RjBoUS1RNEpNSEpPRVBLZjJITDdtaDZEaVVUT242WlZXN0txRnhZYUFRX3pEZ1Y2U0ZwZXhfTjhYejY2SUNyekVfVEZNTmoxQzVhSQ?oc=5"
-  },
-  {
-   "title": "[속보] 코스피, 8%대 급락에 서킷브레이커 발동",
-   "source": "v.daum.net",
-   "time": "2026-06-26T12:18:51+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IMHZFTkd3d1E5N1dqV0JhMlFBVE5OUmlKTXR6YmtNbGNYUThHVnc4ak9BSk1aSndScm15WFdPVjBaZUY1eDdVM05nUkhBV2M?oc=5"
-  },
-  {
-   "title": "사이드카에 서킷브레이커…코스피 5.8%↓ 8,400선 후퇴",
-   "source": "KBS 뉴스",
-   "time": "2026-06-26T15:54:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FS1JmaG1IM3hxa0F0cnhQdWhVeFpQVnhDeFRMN1l2RHdaempLaVpjTkVacDN4RXdKY01hUGZ4SUptbWM3MWgyZEJJWjEtTERjajJpNm9OSGpxX1E?oc=5"
   }
  ]
 }
