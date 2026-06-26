@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-27T06:40:18.268484+09:00",
+ "updated": "2026-06-27T07:49:13.256682+09:00",
  "quotes": {
   "k200": {
    "price": 1366.49,
@@ -738,102 +738,101 @@
    ]
   },
   "btc": {
-   "price": 59841.82,
+   "price": 59872.69,
    "prev": 59706.754,
    "spark": [
-    59732.1797,
-    59764.25,
-    59664.4688,
-    59667.0117,
-    59593.7812,
-    59532.2812,
-    59565.9805,
-    59587.9609,
-    59974.2695,
-    59908.9609,
-    59881.9805,
-    59821.1484,
-    59830.6094,
-    59944.9805,
     59805.8789,
     59780.5312,
     59769.9609,
     59786.3594,
-    59647.8594,
-    59709.9609,
-    59600.1094,
-    59627.0703,
-    59677.0,
-    59664.5,
+    59716.0,
+    59710.6406,
+    59593.9883,
+    59624.0898,
+    59679.1914,
+    59664.5117,
     59679.1797,
-    59550.3906,
-    59562.2617,
-    59552.0,
-    59635.9805,
-    59621.9219,
-    59616.1914,
-    59585.1289,
+    59549.9883,
+    59568.1211,
+    59552.0586,
+    59634.0117,
+    59623.2695,
+    59620.5117,
+    59590.2305,
     59653.6289,
     59660.8086,
     59611.9688,
-    59703.6602,
+    59703.6484,
     59778.4297,
-    59801.5781,
-    59804.6406,
-    59841.8203
+    59801.3516,
+    59801.5898,
+    59905.6211,
+    59834.3086,
+    59883.9297,
+    59826.0117,
+    59703.6602,
+    59780.1602,
+    59818.2695,
+    59873.0586,
+    59839.1484,
+    59801.9414,
+    59822.9883,
+    59861.3203,
+    59871.9609,
+    59872.6914,
+    59872.6914
    ]
   },
   "eth": {
-   "price": 1572.45,
+   "price": 1574.0,
    "prev": 1564.8595,
    "spark": [
-    1573.24,
-    1574.74,
-    1572.0,
-    1574.64,
-    1571.38,
-    1570.9,
-    1570.6801,
-    1568.03,
-    1580.86,
-    1578.59,
-    1578.4301,
-    1576.4399,
-    1575.6,
-    1578.76,
-    1576.4301,
-    1576.03,
+    1576.52,
+    1576.02,
     1575.52,
-    1576.49,
-    1576.1899,
-    1574.8199,
-    1572.21,
-    1573.02,
-    1574.62,
-    1575.75,
-    1576.27,
-    1569.26,
-    1569.3199,
-    1566.01,
-    1567.85,
-    1568.5,
+    1576.24,
+    1574.4,
+    1574.55,
+    1572.4,
+    1573.1,
+    1574.6899,
+    1575.78,
+    1576.35,
+    1569.23,
+    1569.15,
+    1566.15,
+    1567.52,
+    1568.53,
     1568.3,
-    1566.1,
+    1566.28,
     1569.29,
     1571.28,
-    1569.9,
+    1569.89,
     1570.9399,
-    1572.3199,
+    1572.35,
     1572.49,
-    1571.11,
-    1572.45
+    1571.14,
+    1575.27,
+    1573.12,
+    1575.05,
+    1573.11,
+    1567.9,
+    1570.58,
+    1572.86,
+    1573.29,
+    1572.4301,
+    1570.96,
+    1570.37,
+    1572.73,
+    1573.9301,
+    1573.98,
+    1574.0
    ]
   },
   "eurkrw": {
    "price": 1746.9,
    "prev": 1756.1,
    "spark": [
-    1747.5,
     1748.0,
     1747.4,
     1747.5,
@@ -872,6 +871,7 @@
     1746.9,
     1746.9,
     1746.9,
+    1746.9,
     1746.9
    ]
   },
@@ -879,7 +879,6 @@
    "price": 9.468,
    "prev": 9.524,
    "spark": [
-    9.467,
     9.468,
     9.472,
     9.469,
@@ -918,6 +917,7 @@
     9.468,
     9.468,
     9.468,
+    9.468,
     9.468
    ]
   },
@@ -925,7 +925,6 @@
    "price": 225.673,
    "prev": 227.081,
    "spark": [
-    225.731,
     225.792,
     225.728,
     225.747,
@@ -964,6 +963,7 @@
     225.87,
     225.87,
     225.87,
+    225.673,
     225.673
    ]
   },
@@ -1126,16 +1126,22 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdmtUM2ZDdkdoU0U2eU5BdTVDRVZ2R3VHNlVGOTR4SngyMDRHUkF2Q2dMenlOZDA2b3p2NWhHZzFQOWV2MGNKMl9vUTlhVEFOMnVYYzlpNFQ4TTA?oc=5"
   },
   {
-   "title": "10% 폭락→5% 급등→5.8% 급락… 연일 롤러코스피 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-06-27T00:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjI3aVdrV0tDZnRxamhJZGh3a0NDdHRCaTB2Qk1xWTkyd3IzempMcUpIbkI1d2htRzBLVTlUMll0Mkwyb0pITlBVbF92RzZudkg0TE1UX25tQzF1bnViZERNMmticTJqX045OVVHUHNOUm1sQm1la1EzNk1ZaWZ3SUVXOTJqOVZr0gGcAUFVX3lxTE8xYk9KRHN1UDdvb1FfVlp3aVZIWUtROWFiRkZ6d0JUWXhWUEtPMVA3X05oMlhzbFFIVktlY2RjMDhlMGFMckRzNXkzRHdKWTBzYkNaby1yckFPRUFsYVFNTGRtLWI0ZGg2d2Zwc0dFeWtZMTJZUFduSnF2Ymp4QmZPNEtvWVVvcVBFNkJqMloyTkZ1REQzZnZzTHM4dQ?oc=5"
+   "title": "유가는 되돌렸는데 달러는 강세…환율, 결국 금리의 문제",
+   "source": "KB Think",
+   "time": "2026-06-27T07:15:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1ckpyRkhzalZ6aFR5Y3hUNkdMZ2F0c2ZMX1djRkxBMzJzVHQ0cjhCNjNnd2pxd1lORTVYelBZV2IxMzYzb0plUTlUTGZSVWNKbHZUcmJrc1VNVnFMOVE5WURGSDVvcE0teGN2REFSLUVmUQ?oc=5"
   },
   {
    "title": "코스피 급락, 하루짜리 충격일까…증권가가 짚은 진짜 이유 - 머니투데이",
    "source": "머니투데이",
    "time": "2026-06-26T15:19:51+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWDVSR0lPem5SX1lIcEwwNE4wQ1N6UVdIem12VEJzV0dTZXg1VW1JMktRZ2VnN0VzU3haVC0zYjhkdG5oTUhpUEJnR2RITlJTbWxIZGlZb2dSN3pDZGN5U3FJZ09OcFMt0gFuQVVfeXFMTlFaVWlqZGRINDJldzJhTXZhdHRJS1E4Ym5NZ19fWW1pVU5FN3NmN09RMDVpZ01VLTdjRjlRdU03NHh4QURCUVlQUmJqRnFSeXlWdnk1a2FXTm80cXRDUFZURjFWRml3OW92TklrWkE?oc=5"
+  },
+  {
+   "title": "10% 폭락→5% 급등→5.8% 급락… 연일 롤러코스피 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-06-27T00:45:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjI3aVdrV0tDZnRxamhJZGh3a0NDdHRCaTB2Qk1xWTkyd3IzempMcUpIbkI1d2htRzBLVTlUMll0Mkwyb0pITlBVbF92RzZudkg0TE1UX25tQzF1bnViZERNMmticTJqX045OVVHUHNOUm1sQm1la1EzNk1ZaWZ3SUVXOTJqOVZr0gGcAUFVX3lxTE8xYk9KRHN1UDdvb1FfVlp3aVZIWUtROWFiRkZ6d0JUWXhWUEtPMVA3X05oMlhzbFFIVktlY2RjMDhlMGFMckRzNXkzRHdKWTBzYkNaby1yckFPRUFsYVFNTGRtLWI0ZGg2d2Zwc0dFeWtZMTJZUFduSnF2Ymp4QmZPNEtvWVVvcVBFNkJqMloyTkZ1REQzZnZzTHM4dQ?oc=5"
   },
   {
    "title": "[미스터리경제] 코스피 '1만피'의 역설, 외인은 왜 100조원을 던졌나 (영상)",
@@ -1162,18 +1168,6 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4MmhJQlo1NGtzT0tZRlQxNE5YUEhKbHR1NDdWQ20ydUFwQnVGTEh6WGJET1p4Vks5d1daRkNQQWRKSTNHaUJBR25NT1dCU0FhckRXR2RONk9zTW9LNUE?oc=5"
   },
   {
-   "title": "“AI만 믿고 샀는데 어쩌죠”…코스피 뒤집은 반도체 불안 [머니+]",
-   "source": "에너지경제신문",
-   "time": "2026-06-26T15:42:47+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGQXhHQkRjNmFYQTJQV21EUEVxWWtsaXBPcE5VclpsaG1NMnJGelNwazRNNVdHdDczclIyMmNTU2JneU9NWnllRXEzUHBDY1A1UUxiYXBibFRNMUE?oc=5"
-  },
-  {
-   "title": "[중국증시-마감] 리스크 오프에 2%대 하락",
-   "source": "연합인포맥스",
-   "time": "2026-06-26T18:23:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YclF4RHZZTlB1WGMybUxORlFCNTRIaFdod2VFTVdOOWZDRk9odE5lRC1NdTdFOUhWOUdMX0JIOFl4dnBDbkdGZjhrNmF3VWxvSTJQZ0o1QW16UEpFLUx1a05PTkJBR3ZMVVlIM2JjcE4?oc=5"
-  },
-  {
    "title": "코스피 5%대 급락 한때 8,400 아래로‥'매도 사이드카' 발동",
    "source": "MBC 뉴스",
    "time": "2026-06-26T11:34:44+09:00",
@@ -1190,6 +1184,12 @@
    "source": "v.daum.net",
    "time": "2026-06-26T12:18:51+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IMHZFTkd3d1E5N1dqV0JhMlFBVE5OUmlKTXR6YmtNbGNYUThHVnc4ak9BSk1aSndScm15WFdPVjBaZUY1eDdVM05nUkhBV2M?oc=5"
+  },
+  {
+   "title": "사이드카에 서킷브레이커…코스피 5.8%↓ 8,400선 후퇴",
+   "source": "KBS 뉴스",
+   "time": "2026-06-26T15:54:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FS1JmaG1IM3hxa0F0cnhQdWhVeFpQVnhDeFRMN1l2RHdaempLaVpjTkVacDN4RXdKY01hUGZ4SUptbWM3MWgyZEJJWjEtTERjajJpNm9OSGpxX1E?oc=5"
   }
  ]
 }
