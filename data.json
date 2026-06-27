@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-28T03:16:06.188820+09:00",
+ "updated": "2026-06-28T04:47:35.923379+09:00",
  "quotes": {
   "k200": {
    "price": 1366.49,
@@ -738,28 +738,9 @@
    ]
   },
   "btc": {
-   "price": 60445.02,
+   "price": 60086.16,
    "prev": 60013.164,
    "spark": [
-    60483.6211,
-    60596.1602,
-    60780.7812,
-    60659.7695,
-    60654.0117,
-    60707.3516,
-    60704.2695,
-    60739.9805,
-    60685.9297,
-    60681.8906,
-    60682.8398,
-    60740.0312,
-    60716.5,
-    60699.2695,
-    60652.2695,
-    60611.8711,
-    60607.9883,
-    60620.4492,
-    60597.5,
     60673.6602,
     60689.9102,
     60711.0898,
@@ -780,32 +761,32 @@
     60389.1094,
     60456.4219,
     60422.1406,
-    60445.0195
+    60399.3789,
+    60403.9688,
+    60413.8984,
+    60428.0,
+    60454.8398,
+    60456.4102,
+    60426.1602,
+    60426.1484,
+    60475.4219,
+    60494.8281,
+    60489.4219,
+    60498.6992,
+    60379.9219,
+    60277.9883,
+    60220.8086,
+    60080.0,
+    60058.7812,
+    60094.5781,
+    60104.9609,
+    60086.1602
    ]
   },
   "eth": {
-   "price": 1590.4,
+   "price": 1575.17,
    "prev": 1576.5684,
    "spark": [
-    1592.5601,
-    1596.5601,
-    1604.61,
-    1600.24,
-    1599.73,
-    1599.66,
-    1601.86,
-    1605.0,
-    1603.01,
-    1603.27,
-    1602.09,
-    1603.1,
-    1601.99,
-    1602.0601,
-    1601.3199,
-    1599.37,
-    1599.89,
-    1600.47,
-    1600.5,
     1602.74,
     1602.62,
     1604.15,
@@ -826,7 +807,26 @@
     1588.05,
     1590.5601,
     1589.29,
-    1590.4
+    1589.3,
+    1589.4,
+    1589.84,
+    1590.58,
+    1591.6801,
+    1591.33,
+    1590.67,
+    1591.4,
+    1591.15,
+    1592.24,
+    1592.41,
+    1591.63,
+    1587.78,
+    1585.6801,
+    1579.17,
+    1575.08,
+    1574.25,
+    1575.6,
+    1576.21,
+    1575.17
    ]
   },
   "eurkrw": {
@@ -1114,16 +1114,16 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94eTNuUFJYWVFjMGJGZG5yQkNyVVhTUnlYcU1vNXlQMXU3QWRzWHd5UV9jdDcwSDM5cFJZdC1UcEVudEI2SnVPREpSZmwxRzg?oc=5"
   },
   {
+   "title": "코스피 한때 8% 급락에 서킷브레이커까지 발동‥오늘 하락 이유는?",
+   "source": "MBC 뉴스",
+   "time": "2026-06-26T13:30:54+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84OHRtTzhYUTlsRVlEOWZVdWxfbWJlTEo2TWlGdkttRVFlTThlYUxReXdzREZselA0UUx6QkZBakVLZjBuenFCZjVEcWxIbGVTd2JBdHNrWmdSeElBQzBNQlhaaERndTBJMEp4VlRlbWVfY0ZR0gF0QVVfeXFMTkZBRF9OR3dkcll2UkdQcU1pOWVMcEdiMlgyQ0pGMzFackZTT20zT04tR0dIZjlINlU0dzY4RHBOOU9nNjViMGcxc25TNHVVQWpoOVhBYmNOZEVfQXo3aG9KemItTHI1aWMzTm5MM2hBZUpRa0s?oc=5"
+  },
+  {
    "title": "스페이스X, 내달 7일 나스닥100 편입…상장 후 '초고속' 편입",
    "source": "연합뉴스",
    "time": "2026-06-27T11:40:16+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDV3l4Z1hheFlqb3Zwbk9lV0NDQUhhcXZDWjZFMEhmU1pCUDRQa1F1QTlfM3NvaElaenctQTI5eWNRNU14SnFCbGlya0tVeXMwSWUwWC1rSjAyQ1XSAWBBVV95cUxPUFBxSFYtUFdrbkZlWFVSQVFPTVp4cHg1cE12ZmY5OVlNWnQ4RHR6UlluZjNBS0ZobzJucUM1NjRFWnhQU2hIMzJFRkpscnhseXEyTmRpYklCU05Jclh2cmU?oc=5"
-  },
-  {
-   "title": "스페이스X, 다음달 7일 나스닥100 편입…\"6조6천억원 자금 유입될 듯\"",
-   "source": "연합뉴스TV",
-   "time": "2026-06-27T11:46:32+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpWlFHSFBRWmxvQ2VrVmpxZURWNnhBcEJ3X3RucGhZTDlILVBxYmxBeFUxWVkzYW5sc1ZWNjR4MWljeTRPVFowMG1lYjlSWUpTWmxLaXBkYVhhVkRzWlFWWnNxWnlCQ00?oc=5"
   },
   {
    "title": "JP모건, 코스피 12개월 목표치 12,500으로 상향…\"韓주식 비중 극대화\"",
@@ -1132,22 +1132,22 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DdDA1RjZ0ODcybHd0T1lLQlU4UGhoN1lZdk5LZVotR09SZ3FhbmpOZmlVN2UzZ0pDT2RJXy1hVTZMSkN5QVQ1eDh3RzJ0QkphSjE0eXMtM2Q1RDFPallwaWZRdF9CcG5TbDlLaEJzNm0?oc=5"
   },
   {
-   "title": "코스피 한때 8% 급락에 서킷브레이커까지 발동‥오늘 하락 이유는?",
-   "source": "MBC 뉴스",
-   "time": "2026-06-26T13:30:54+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84OHRtTzhYUTlsRVlEOWZVdWxfbWJlTEo2TWlGdkttRVFlTThlYUxReXdzREZselA0UUx6QkZBakVLZjBuenFCZjVEcWxIbGVTd2JBdHNrWmdSeElBQzBNQlhaaERndTBJMEp4VlRlbWVfY0ZR0gF0QVVfeXFMTkZBRF9OR3dkcll2UkdQcU1pOWVMcEdiMlgyQ0pGMzFackZTT20zT04tR0dIZjlINlU0dzY4RHBOOU9nNjViMGcxc25TNHVVQWpoOVhBYmNOZEVfQXo3aG9KemItTHI1aWMzTm5MM2hBZUpRa0s?oc=5"
+   "title": "스페이스X, 다음달 7일 나스닥100 편입…\"6조6천억원 자금 유입될 듯\"",
+   "source": "연합뉴스TV",
+   "time": "2026-06-27T11:46:32+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpWlFHSFBRWmxvQ2VrVmpxZURWNnhBcEJ3X3RucGhZTDlILVBxYmxBeFUxWVkzYW5sc1ZWNjR4MWljeTRPVFowMG1lYjlSWUpTWmxLaXBkYVhhVkRzWlFWWnNxWnlCQ00?oc=5"
+  },
+  {
+   "title": "스페이스X, 나스닥100 조기 입성…상장 한 달도 안돼 대표지수 편입",
+   "source": "조선일보",
+   "time": "2026-06-27T16:32:34+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1NaQnJMSjQ0ZWFKYWs0TVpCZFVXeHVBaWYwN3l0dEJkX2gyUWRLdnBtRWVYaVprY21jeUF3VFVrTzh5SGk5Z0w5Wl9UdWIzMXMwT0dPaXRlZVhLbFVraTdRYXBMcFlsSEFJNGEtc2RSckYtMEw5SEpPeGVCM3JTSA?oc=5"
   },
   {
    "title": "하반기 환율 하락 전망 속 ‘외국인 매도’·‘美 금리’ 변수",
    "source": "농민신문",
    "time": "2026-06-27T11:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11R2F5SThxSXpDaDFfN1diMDBGNERmV2ZvS2dBeTlHNlV0YUh5UF9LR1pxS1RoWk9janhNQTBKWXlVcHN0WlVqamJWdTZMNHZqYUFPNXJWeGxJUQ?oc=5"
-  },
-  {
-   "title": "\"비트코인, 결국 사라질 것\"…닷컴버블 예측한 억만장자의 경고",
-   "source": "조선일보",
-   "time": "2026-06-27T12:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MRFNfOFFOMm5NUWFXWnhLMEppa05oTlBjQ3V4b1pYZUFFVktGcGVGZzQ0UWotNVl5X2UxRXlzbFdHNlFydHo4anZLbzJoU3dXTGU4akxSWUo0T251NFo4T1FtaVRqa1VMdlRr?oc=5"
   },
   {
    "title": "“코스피 롤러코스터 장세”…다음주 9500선까지 오른다는데",
@@ -1162,34 +1162,34 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZOUFZRHhQd3QwVFRxOHh5ZlhJUlZPRkQwbmZyUVY5b0VsSDlyVWxVZkhvMk5YUUhKcWVBVFRHTnA4M2hUNHkyZVNZdlVqNHN5OUExYlN4clo1OVVBY3lXelViYm1EZlZDTGc?oc=5"
   },
   {
+   "title": "나스닥100 ETF 수수료 전쟁… 인베스코 독점 구조 균열 조짐",
+   "source": "글로벌이코노믹",
+   "time": "2026-06-28T03:25:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGpzUkxtVTZaaWNMcnJVMW1yMm1iNXNxVzkxNG82NkQ4b0JFdXFnZXoxLWFUcEVsamFCNE9TcE9VWlFzMnJQaUEwVXljcEdpUXpWU1FGcG1XLXU0bk50SkZaNUJuRlhVX3JQa082VER6akpnRDktMWE3S184LVl2Y0MtNkdSemRQ?oc=5"
+  },
+  {
    "title": "‘개미들의 블랙홀’ 스페이스X, 내달 나스닥 100지수 입성…초고속 편입",
    "source": "한겨레",
    "time": "2026-06-27T18:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zU1B6Zm1BTE1ybnFEV2dhS3N1a1l2T3MzSV84b0F6aVU4TGU3aHQzeHBPMkhCWnBxaER0R3hDdTAySDh4ZnoxWDdYT2lteUJ0STBEdlR1VHlXMDA5SFM3bWVfNGV4WUtVcXFzTmd3N2wwTEtHVGFn?oc=5"
   },
   {
-   "title": "스페이스X, 다음 달 7일 나스닥100 편입",
-   "source": "KBS 뉴스",
-   "time": "2026-06-27T13:26:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nLVJYWFJhdHVLNWZxM0lWdmlGVy1iZEV4ZlZ5S3ZYQmw0dE9nQUk0enZENEdpNGJYTFdWejdJc0lkRjZGUS1oVVNkZmVzRHJZVzdwNFlaQjh0VDQ?oc=5"
-  },
-  {
-   "title": "“비트코인, 쓸모 없는 투기 자산…서서히 사라질 것”…'버블 예측' 억만장자 투자자의 경고",
-   "source": "전자신문",
-   "time": "2026-06-27T11:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tOTRaeDY3cW16dUJVTWhHYkM5MXNJLUd0MU8xV1NBYldiX25FbzZ5WDdWQ3FiMVpoVWJUNzlDTkxmcUxvZWdPZ1VGTUlidw?oc=5"
-  },
-  {
-   "title": "[이슈플러스] '검은 화요일' 코스피 10%대 가까이 폭락...원인은?",
-   "source": "YTN",
-   "time": "2026-06-23T19:21:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyaFZiMmt2N0UwNWNwM1kxd2NTYzFKZEkwYzhuRnlRYkpySml4YmZRa2FOTUNwbnBvclZsa2piWHNldlo1N3hSZzNIQkNKdWxqQ2VwbVlKWG1rdFZLdFE?oc=5"
-  },
-  {
    "title": "비트코인 덮친 크립토윈터 우려…6월에만 18.5% 하락",
    "source": "v.daum.net",
    "time": "2026-06-27T16:46:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BMXZlYW9fcTZ2OEZEUndBcENjUGhaaXBLclZFdU1EbnVNRUlTSTNMX3RsQmQ5TVdXdGhtaUNvT0FndkxNTzR6WlphR2FjRlU?oc=5"
+  },
+  {
+   "title": "\"비트코인, 결국 사라질 것\"…닷컴버블 예측한 억만장자의 경고",
+   "source": "조선일보",
+   "time": "2026-06-27T12:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MRFNfOFFOMm5NUWFXWnhLMEppa05oTlBjQ3V4b1pYZUFFVktGcGVGZzQ0UWotNVl5X2UxRXlzbFdHNlFydHo4anZLbzJoU3dXTGU4akxSWUo0T251NFo4T1FtaVRqa1VMdlRr?oc=5"
+  },
+  {
+   "title": "코스피 8% 급락에 서킷브레이커 발동‥삼전 8%·닉스 11% 하락",
+   "source": "MBC 뉴스",
+   "time": "2026-06-23T15:05:36+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Gb0NhWEpHckJkSDRXVlNtNVNUbExQMU9raE5pTjk3NmdiRTZlT0REYjNzdlZ1RzZpcXJuOE1MeGc3azZaYnZtVUhaR0hjV21xOE9qUWcwUFdwTldvUmJ1Y0JUSC1yekVDZWk3NDFzZVBUNzJK0gF0QVVfeXFMTnJRdjFKaXRfSko4SWpURFM5WURvM1lMX1N3WXc2dndkdk42QVMtRnFCSEh6MGFqd21OWE5nVXhWRnZiVnZKWkJ6MWpXWHZ4V3FtekNKUUZXSEhfSmMwckgzUDluVnVybEt2Sjk3TlFmUm1yOUY?oc=5"
   }
  ]
 }
