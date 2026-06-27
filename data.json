@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-28T00:56:06.671836+09:00",
+ "updated": "2026-06-28T02:06:25.929943+09:00",
  "quotes": {
   "k200": {
    "price": 1366.49,
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 60677.97,
+   "price": 60442.0,
    "prev": 60013.164,
    "spark": [
-    60232.7617,
-    60241.4414,
-    60319.8594,
-    60324.4219,
-    60319.9883,
-    60321.4219,
-    60334.7305,
-    60326.2109,
-    60355.9688,
-    60370.4414,
-    60363.4805,
-    60520.5312,
-    60497.5117,
-    60468.6602,
-    60447.2383,
-    60483.1992,
-    60426.3008,
+    60485.0312,
+    60426.2891,
     60484.1211,
-    60569.6406,
-    60531.8789,
-    60514.5703,
+    60571.0,
+    60535.3516,
+    60514.5586,
     60496.1992,
-    60518.4688,
-    60513.0195,
-    60532.9219,
+    60518.4609,
+    60511.5,
+    60539.8086,
     60554.3398,
-    60505.8516,
+    60505.8398,
     60510.2188,
     60483.6211,
     60596.1602,
-    60771.6016,
+    60780.7812,
     60659.7695,
-    60668.7109,
+    60654.0117,
     60707.3516,
-    60696.4297,
-    60743.9102,
+    60704.2695,
+    60739.9805,
     60685.9297,
-    60683.0898,
-    60677.9688,
-    60677.9688
+    60681.8906,
+    60682.8398,
+    60740.0312,
+    60716.5,
+    60699.2695,
+    60652.2695,
+    60611.8711,
+    60607.9883,
+    60620.4492,
+    60597.5,
+    60673.6602,
+    60689.9102,
+    60711.0898,
+    60705.0586,
+    60710.3906,
+    60339.1016,
+    60453.1602,
+    60442.0
    ]
   },
   "eth": {
-   "price": 1601.63,
+   "price": 1590.27,
    "prev": 1576.5684,
    "spark": [
-    1580.23,
-    1581.86,
-    1583.05,
-    1583.26,
-    1584.91,
-    1584.1,
-    1584.1,
-    1583.78,
-    1584.3,
-    1584.25,
-    1584.09,
-    1587.39,
-    1587.96,
-    1588.3,
-    1588.51,
     1589.6801,
-    1587.0699,
-    1589.21,
-    1593.72,
+    1587.11,
+    1589.28,
+    1593.79,
     1591.37,
     1591.66,
     1591.4399,
     1591.87,
     1591.65,
-    1592.41,
-    1593.16,
+    1592.4301,
+    1593.12,
     1591.12,
     1591.89,
     1592.5601,
-    1596.51,
-    1604.4301,
+    1596.5601,
+    1604.61,
     1600.24,
-    1600.35,
+    1599.73,
     1599.66,
-    1601.54,
-    1604.97,
+    1601.86,
+    1605.0,
     1603.01,
     1603.27,
-    1601.87,
-    1601.63
+    1602.09,
+    1603.1,
+    1601.99,
+    1602.0601,
+    1601.3199,
+    1599.37,
+    1599.89,
+    1600.47,
+    1600.5,
+    1602.74,
+    1602.62,
+    1604.15,
+    1603.71,
+    1604.42,
+    1587.39,
+    1591.01,
+    1590.27
    ]
   },
   "eurkrw": {
@@ -922,7 +922,7 @@
    ]
   },
   "cnykrw": {
-   "price": 225.673,
+   "price": 225.87,
    "prev": 227.081,
    "spark": [
     225.731,
@@ -1108,12 +1108,6 @@
  },
  "news": [
   {
-   "title": "\"코스피 7700선까지 밀릴 수도\"…7월은 변동성 장세",
-   "source": "v.daum.net",
-   "time": "2026-06-27T05:02:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81SWs5cEx4Tks5UkpwYmhlWF9DMTI2bjlOSWszZW9oX25MRUVjVmtmcHA5Z0dEYkxrWld0TEg4VDdpNGlkRmo5bkhIcFlsZDQ?oc=5"
-  },
-  {
    "title": "스페이스X, 내달 7일 나스닥100 편입…상장 후 '초고속' 편입",
    "source": "연합뉴스",
    "time": "2026-06-27T11:40:16+09:00",
@@ -1126,16 +1120,10 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpWlFHSFBRWmxvQ2VrVmpxZURWNnhBcEJ3X3RucGhZTDlILVBxYmxBeFUxWVkzYW5sc1ZWNjR4MWljeTRPVFowMG1lYjlSWUpTWmxLaXBkYVhhVkRzWlFWWnNxWnlCQ00?oc=5"
   },
   {
-   "title": "스페이스X, 나스닥100 조기 입성…상장 한 달도 안돼 대표지수 편입",
-   "source": "조선일보",
-   "time": "2026-06-27T16:32:34+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1NaQnJMSjQ0ZWFKYWs0TVpCZFVXeHVBaWYwN3l0dEJkX2gyUWRLdnBtRWVYaVprY21jeUF3VFVrTzh5SGk5Z0w5Wl9UdWIzMXMwT0dPaXRlZVhLbFVraTdRYXBMcFlsSEFJNGEtc2RSckYtMEw5SEpPeGVCM3JTSA?oc=5"
-  },
-  {
-   "title": "하반기 환율 하락 전망 속 ‘외국인 매도’·‘美 금리’ 변수",
-   "source": "농민신문",
-   "time": "2026-06-27T11:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11R2F5SThxSXpDaDFfN1diMDBGNERmV2ZvS2dBeTlHNlV0YUh5UF9LR1pxS1RoWk9janhNQTBKWXlVcHN0WlVqamJWdTZMNHZqYUFPNXJWeGxJUQ?oc=5"
+   "title": "코스피 한때 8% 급락에 서킷브레이커까지 발동‥오늘 하락 이유는?",
+   "source": "MBC 뉴스",
+   "time": "2026-06-26T13:30:54+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84OHRtTzhYUTlsRVlEOWZVdWxfbWJlTEo2TWlGdkttRVFlTThlYUxReXdzREZselA0UUx6QkZBakVLZjBuenFCZjVEcWxIbGVTd2JBdHNrWmdSeElBQzBNQlhaaERndTBJMEp4VlRlbWVfY0ZR0gF0QVVfeXFMTkZBRF9OR3dkcll2UkdQcU1pOWVMcEdiMlgyQ0pGMzFackZTT20zT04tR0dIZjlINlU0dzY4RHBOOU9nNjViMGcxc25TNHVVQWpoOVhBYmNOZEVfQXo3aG9KemItTHI1aWMzTm5MM2hBZUpRa0s?oc=5"
   },
   {
    "title": "JP모건, 코스피 12개월 목표치 12,500으로 상향…\"韓주식 비중 극대화\"",
@@ -1144,40 +1132,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DdDA1RjZ0ODcybHd0T1lLQlU4UGhoN1lZdk5LZVotR09SZ3FhbmpOZmlVN2UzZ0pDT2RJXy1hVTZMSkN5QVQ1eDh3RzJ0QkphSjE0eXMtM2Q1RDFPallwaWZRdF9CcG5TbDlLaEJzNm0?oc=5"
   },
   {
-   "title": "“코스피 롤러코스터 장세”…다음주 9500선까지 오른다는데",
-   "source": "매일경제",
-   "time": "2026-06-27T11:00:31+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zNFB6SzhjTFVFazFCczVwUXhCOE9DdE01RkpoNkl1VVZfR0tGeXBkSFBEM2xENVZvTFplZHZkTXZWdWg2OHJZWHdwb1BEVnJyWmc?oc=5"
+   "title": "하반기 환율 하락 전망 속 ‘외국인 매도’·‘美 금리’ 변수",
+   "source": "농민신문",
+   "time": "2026-06-27T11:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11R2F5SThxSXpDaDFfN1diMDBGNERmV2ZvS2dBeTlHNlV0YUh5UF9LR1pxS1RoWk9janhNQTBKWXlVcHN0WlVqamJWdTZMNHZqYUFPNXJWeGxJUQ?oc=5"
   },
   {
-   "title": "코스피 한때 8% 급락에 서킷브레이커까지 발동‥오늘 하락 이유는?",
-   "source": "MBC 뉴스",
-   "time": "2026-06-26T13:30:54+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84OHRtTzhYUTlsRVlEOWZVdWxfbWJlTEo2TWlGdkttRVFlTThlYUxReXdzREZselA0UUx6QkZBakVLZjBuenFCZjVEcWxIbGVTd2JBdHNrWmdSeElBQzBNQlhaaERndTBJMEp4VlRlbWVfY0ZR0gF0QVVfeXFMTkZBRF9OR3dkcll2UkdQcU1pOWVMcEdiMlgyQ0pGMzFackZTT20zT04tR0dIZjlINlU0dzY4RHBOOU9nNjViMGcxc25TNHVVQWpoOVhBYmNOZEVfQXo3aG9KemItTHI1aWMzTm5MM2hBZUpRa0s?oc=5"
-  },
-  {
-   "title": "스페이스X, 다음 달 7일 나스닥100 편입",
-   "source": "KBS 뉴스",
-   "time": "2026-06-27T13:26:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nLVJYWFJhdHVLNWZxM0lWdmlGVy1iZEV4ZlZ5S3ZYQmw0dE9nQUk0enZENEdpNGJYTFdWejdJc0lkRjZGUS1oVVNkZmVzRHJZVzdwNFlaQjh0VDQ?oc=5"
-  },
-  {
-   "title": "‘개미들의 블랙홀’ 스페이스X, 내달 나스닥 100지수 입성…초고속 편입",
-   "source": "한겨레",
-   "time": "2026-06-27T18:58:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zU1B6Zm1BTE1ybnFEV2dhS3N1a1l2T3MzSV84b0F6aVU4TGU3aHQzeHBPMkhCWnBxaER0R3hDdTAySDh4ZnoxWDdYT2lteUJ0STBEdlR1VHlXMDA5SFM3bWVfNGV4WUtVcXFzTmd3N2wwTEtHVGFn?oc=5"
-  },
-  {
-   "title": "“비트코인, 쓸모 없는 투기 자산…서서히 사라질 것”…'버블 예측' 억만장자 투자자의 경고",
-   "source": "전자신문",
-   "time": "2026-06-27T11:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tOTRaeDY3cW16dUJVTWhHYkM5MXNJLUd0MU8xV1NBYldiX25FbzZ5WDdWQ3FiMVpoVWJUNzlDTkxmcUxvZWdPZ1VGTUlidw?oc=5"
-  },
-  {
-   "title": "한달반 째 환율 1,500원대…’뉴노멀’ 자리잡나",
-   "source": "연합뉴스TV",
-   "time": "2026-06-27T14:39:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oTzRkWFBDSXNUSHROT3NPWUQ3M3g3VmNJUmJ0WUxGQ204OHBkWGR5alZTdm5aOEc4NFdBRldERHZ3d0R5TmhKbVJkVHI2M3l0NktjdEJnM3Y5SkVzZWtLWm12cUhQNWs?oc=5"
+   "title": "스페이스X, 나스닥100 조기 입성…상장 한 달도 안돼 대표지수 편입",
+   "source": "조선일보",
+   "time": "2026-06-27T16:32:34+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1NaQnJMSjQ0ZWFKYWs0TVpCZFVXeHVBaWYwN3l0dEJkX2gyUWRLdnBtRWVYaVprY21jeUF3VFVrTzh5SGk5Z0w5Wl9UdWIzMXMwT0dPaXRlZVhLbFVraTdRYXBMcFlsSEFJNGEtc2RSckYtMEw5SEpPeGVCM3JTSA?oc=5"
   },
   {
    "title": "비트코인 덮친 크립토윈터 우려…6월에만 18.5% 하락",
@@ -1186,10 +1150,46 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BMXZlYW9fcTZ2OEZEUndBcENjUGhaaXBLclZFdU1EbnVNRUlTSTNMX3RsQmQ5TVdXdGhtaUNvT0FndkxNTzR6WlphR2FjRlU?oc=5"
   },
   {
-   "title": "\"비트코인, 결국 사라질 것\"…닷컴버블 예측한 억만장자의 경고",
-   "source": "조선일보",
-   "time": "2026-06-27T12:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MRFNfOFFOMm5NUWFXWnhLMEppa05oTlBjQ3V4b1pYZUFFVktGcGVGZzQ0UWotNVl5X2UxRXlzbFdHNlFydHo4anZLbzJoU3dXTGU4akxSWUo0T251NFo4T1FtaVRqa1VMdlRr?oc=5"
+   "title": "“코스피 롤러코스터 장세”…다음주 9500선까지 오른다는데",
+   "source": "매일경제",
+   "time": "2026-06-27T11:00:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zNFB6SzhjTFVFazFCczVwUXhCOE9DdE01RkpoNkl1VVZfR0tGeXBkSFBEM2xENVZvTFplZHZkTXZWdWg2OHJZWHdwb1BEVnJyWmc?oc=5"
+  },
+  {
+   "title": "‘개미들의 블랙홀’ 스페이스X, 내달 나스닥 100지수 입성…초고속 편입",
+   "source": "한겨레",
+   "time": "2026-06-27T18:58:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zU1B6Zm1BTE1ybnFEV2dhS3N1a1l2T3MzSV84b0F6aVU4TGU3aHQzeHBPMkhCWnBxaER0R3hDdTAySDh4ZnoxWDdYT2lteUJ0STBEdlR1VHlXMDA5SFM3bWVfNGV4WUtVcXFzTmd3N2wwTEtHVGFn?oc=5"
+  },
+  {
+   "title": "\"20배 이상 폭등한다, 지금 절대 팔지마\"…월가 큰손이 내놓은 비트코인 파격 전망",
+   "source": "아시아경제",
+   "time": "2026-06-19T10:09:34+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EeWc1MXVCa0ZkRk9HYzQxemdwQ3RLQWJqQ1hUMU9UV2hPR2Rzek1laFNqeXRzaHdBSW1jVnpESEZESE1BSldBTlNOOVF2UnVPZFZwQ1dPdmdOeGFwck9jUA?oc=5"
+  },
+  {
+   "title": "스페이스X, 다음 달 7일 나스닥100 편입",
+   "source": "KBS 뉴스",
+   "time": "2026-06-27T13:26:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nLVJYWFJhdHVLNWZxM0lWdmlGVy1iZEV4ZlZ5S3ZYQmw0dE9nQUk0enZENEdpNGJYTFdWejdJc0lkRjZGUS1oVVNkZmVzRHJZVzdwNFlaQjh0VDQ?oc=5"
+  },
+  {
+   "title": "[이슈플러스] '검은 화요일' 코스피 10%대 가까이 폭락...원인은?",
+   "source": "YTN",
+   "time": "2026-06-23T19:21:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyaFZiMmt2N0UwNWNwM1kxd2NTYzFKZEkwYzhuRnlRYkpySml4YmZRa2FOTUNwbnBvclZsa2piWHNldlo1N3hSZzNIQkNKdWxqQ2VwbVlKWG1rdFZLdFE?oc=5"
+  },
+  {
+   "title": "“비트코인, 쓸모 없는 투기 자산…서서히 사라질 것”…'버블 예측' 억만장자 투자자의 경고",
+   "source": "전자신문",
+   "time": "2026-06-27T11:40:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tOTRaeDY3cW16dUJVTWhHYkM5MXNJLUd0MU8xV1NBYldiX25FbzZ5WDdWQ3FiMVpoVWJUNzlDTkxmcUxvZWdPZ1VGTUlidw?oc=5"
+  },
+  {
+   "title": "\"조정 오면 더 담아라\"…코스피 '1만5000' 파격 전망 [분석+]",
+   "source": "한국경제",
+   "time": "2026-06-25T20:00:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56VGg2akNjaUdIcEpza2ZpeU1JWnlYSjNDbmZZQVRBc2JJYzM4Z0JlZHFfM0dLWVhDSExmR0RiSXhxVlJ5ZmMySy1mRFF0Y0d0THpmMVhwRk4yZ9IBVEFVX3lxTFBWTlJyRkMwSmIzSER2TnMtX3ZuazBVaElZU3dCV0wzaGgwUkY2Nng4Ym45Z3otRTlXMEZ3a0FvMnRtN3dDQUQtZ1NFWXN6Y1hGRmJLTw?oc=5"
   }
  ]
 }
