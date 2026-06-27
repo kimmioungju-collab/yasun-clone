@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-27T08:49:37.426543+09:00",
+ "updated": "2026-06-27T10:47:42.877697+09:00",
  "quotes": {
   "k200": {
    "price": 1366.49,
@@ -141,7 +141,7 @@
   },
   "kosdaq": {
    "price": 851.37,
-   "prev": 909.31,
+   "prev": 887.81,
    "spark": [
     852.92,
     850.33,
@@ -738,95 +738,61 @@
    ]
   },
   "btc": {
-   "price": 59985.74,
-   "prev": 59706.754,
+   "price": 59888.97,
+   "prev": 60013.164,
    "spark": [
-    59568.1211,
-    59552.0586,
-    59634.0117,
-    59623.2695,
-    59620.5117,
-    59590.2305,
-    59653.6289,
-    59660.8086,
-    59611.9688,
-    59703.6484,
-    59778.4297,
-    59801.3516,
-    59801.5898,
-    59905.6211,
-    59834.3086,
-    59883.9297,
-    59826.0117,
-    59703.6602,
-    59780.1602,
-    59818.2695,
-    59873.0586,
-    59839.1484,
-    59801.9414,
-    59822.9883,
-    59861.3203,
-    59871.9609,
-    59884.9883,
-    59953.5195,
-    59957.9883,
-    59997.3516,
-    59980.9883,
-    59992.0586,
-    59909.9883,
-    59962.2891,
-    59879.3516,
-    59905.6094,
-    59946.5312,
-    59972.9414,
-    59986.6016,
-    59985.7383
+    60016.0,
+    60044.0,
+    60026.6484,
+    59990.0,
+    59954.6914,
+    59954.5195,
+    59811.9883,
+    59884.1914,
+    59888.3086,
+    59960.6914,
+    59963.8281,
+    59974.7109,
+    59881.1484,
+    59871.9297,
+    59869.1992,
+    59895.6719,
+    59895.6719,
+    59906.0898,
+    59891.1602,
+    59891.0898,
+    59874.0195,
+    59891.3203,
+    59888.9688
    ]
   },
   "eth": {
-   "price": 1576.64,
-   "prev": 1564.8595,
+   "price": 1574.52,
+   "prev": 1576.5684,
    "spark": [
-    1569.15,
-    1566.15,
-    1567.52,
-    1568.53,
-    1568.3,
-    1566.28,
-    1569.29,
-    1571.28,
-    1569.89,
-    1570.9399,
-    1572.35,
-    1572.49,
-    1571.14,
-    1575.27,
-    1573.12,
-    1575.05,
-    1573.11,
-    1567.9,
-    1570.58,
-    1572.86,
-    1573.29,
-    1572.4301,
-    1570.96,
-    1570.37,
-    1572.73,
-    1573.9301,
-    1574.1899,
-    1575.42,
-    1575.45,
-    1576.91,
-    1575.89,
-    1576.33,
-    1574.58,
-    1575.1899,
-    1573.3101,
-    1574.28,
-    1575.67,
-    1577.46,
-    1576.89,
-    1576.64
+    1577.4399,
+    1578.59,
+    1577.7,
+    1576.97,
+    1575.46,
+    1575.4,
+    1570.23,
+    1571.25,
+    1571.36,
+    1574.64,
+    1574.9399,
+    1574.47,
+    1572.13,
+    1572.4,
+    1572.67,
+    1573.91,
+    1574.33,
+    1574.64,
+    1574.37,
+    1573.91,
+    1573.85,
+    1574.4301,
+    1574.52
    ]
   },
   "eurkrw": {
@@ -1061,7 +1027,7 @@
   },
   "dxy": {
    "price": 101.366,
-   "prev": 101.431,
+   "prev": 101.357,
    "spark": [
     101.343,
     101.338,
@@ -1106,90 +1072,5 @@
    ]
   }
  },
- "news": [
-  {
-   "title": "뉴욕증시, 기술주 고점 부담에 약세…나스닥 5일째 하락",
-   "source": "연합뉴스",
-   "time": "2026-06-27T05:18:07+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tNkhBcDdGaHZZS0N2dXMyY1pLWVJDSHpld1VqVHA4TmlRbGo3MjFyUXJNbnJ5d0RXcFNuRE1XamNVdUdHdnFJdFlYMjdmelY2TE9WampFdmFpMmfSAWBBVV95cUxNQ0JSd0NvTjBnT04yVWI1OWFZMmRTeER2bXQzbFhKcEwzRDE1dkVpanBvNzRpQ1BlV0NQUElvX1R6aTdWSV9DSHpLR01DUVMxT3VEaUNXMURtb0NnazVXZHM?oc=5"
-  },
-  {
-   "title": "코스피 한때 8% 급락에 서킷브레이커까지 발동‥오늘 하락 이유는?",
-   "source": "MBC 뉴스",
-   "time": "2026-06-26T13:30:54+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84OHRtTzhYUTlsRVlEOWZVdWxfbWJlTEo2TWlGdkttRVFlTThlYUxReXdzREZselA0UUx6QkZBakVLZjBuenFCZjVEcWxIbGVTd2JBdHNrWmdSeElBQzBNQlhaaERndTBJMEp4VlRlbWVfY0ZR0gF0QVVfeXFMTkZBRF9OR3dkcll2UkdQcU1pOWVMcEdiMlgyQ0pGMzFackZTT20zT04tR0dIZjlINlU0dzY4RHBOOU9nNjViMGcxc25TNHVVQWpoOVhBYmNOZEVfQXo3aG9KemItTHI1aWMzTm5MM2hBZUpRa0s?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 기술주 고점 부담에 약세…나스닥 5일째 하락(종합)",
-   "source": "v.daum.net",
-   "time": "2026-06-27T06:09:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyanRyU1N3WmQ0TlRTeENvNGxkWXo4X3JQaDIwUElScEkxWUJxRkNzRjVDdktOQUgzQ1NZVW96U0RYNmdtMjlHaGh5MVpCUHc?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 기술주 고점 부담에 약세…나스닥 5일째 하락",
-   "source": "KBS 뉴스",
-   "time": "2026-06-27T05:25:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdmtUM2ZDdkdoU0U2eU5BdTVDRVZ2R3VHNlVGOTR4SngyMDRHUkF2Q2dMenlOZDA2b3p2NWhHZzFQOWV2MGNKMl9vUTlhVEFOMnVYYzlpNFQ4TTA?oc=5"
-  },
-  {
-   "title": "유가는 되돌렸는데 달러는 강세…환율, 결국 금리의 문제",
-   "source": "연합인포맥스",
-   "time": "2026-06-27T07:18:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fTExYWnJCa1c5cGIzMlR3TW1QWnExYk5LY0N2bDRIN1J2VHRkNFNnbWYtcmVaM1hBM0wwY011aDVtZGhJWXQwQV8xZHdDc1BTVUh0SkRHdUpocTd4eTEwaVBlZVM2elVfX0Z3VloyYjQ?oc=5"
-  },
-  {
-   "title": "뉴욕증시 3대 지수 일제히 약세 마감…나스닥 닷새째 하락",
-   "source": "경향신문",
-   "time": "2026-06-27T08:34:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90aEU4QWh0UWN4ZlhEZ2ZHRjRpZWJ6YTY3QjF1Wmhla3YzeTJpbGxqbm1ObDJTZjdqQWhyOGNMWFRFcG5iMEFTLWRtX3h0Mlo2R05VYjVmaUlFQdIBX0FVX3lxTE4tbDFFd1VqMHBmamRDelBzMDhtVHY3NlVsYlVhcDBMVzkzdmd0bF84b3RadHhlOF9hcFduSmR2ZGZjY19udjBnNmdMWXlyT1VidlZQemRmczhIeXFMb3RJ?oc=5"
-  },
-  {
-   "title": "코스피 급락, 하루짜리 충격일까…증권가가 짚은 진짜 이유 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-06-26T15:19:51+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWDVSR0lPem5SX1lIcEwwNE4wQ1N6UVdIem12VEJzV0dTZXg1VW1JMktRZ2VnN0VzU3haVC0zYjhkdG5oTUhpUEJnR2RITlJTbWxIZGlZb2dSN3pDZGN5U3FJZ09OcFMt0gFuQVVfeXFMTlFaVWlqZGRINDJldzJhTXZhdHRJS1E4Ym5NZ19fWW1pVU5FN3NmN09RMDVpZ01VLTdjRjlRdU03NHh4QURCUVlQUmJqRnFSeXlWdnk1a2FXTm80cXRDUFZURjFWRml3OW92TklrWkE?oc=5"
-  },
-  {
-   "title": "10% 폭락→5% 급등→5.8% 급락… 연일 롤러코스피 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-06-27T00:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjI3aVdrV0tDZnRxamhJZGh3a0NDdHRCaTB2Qk1xWTkyd3IzempMcUpIbkI1d2htRzBLVTlUMll0Mkwyb0pITlBVbF92RzZudkg0TE1UX25tQzF1bnViZERNMmticTJqX045OVVHUHNOUm1sQm1la1EzNk1ZaWZ3SUVXOTJqOVZr0gGcAUFVX3lxTE8xYk9KRHN1UDdvb1FfVlp3aVZIWUtROWFiRkZ6d0JUWXhWUEtPMVA3X05oMlhzbFFIVktlY2RjMDhlMGFMckRzNXkzRHdKWTBzYkNaby1yckFPRUFsYVFNTGRtLWI0ZGg2d2Zwc0dFeWtZMTJZUFduSnF2Ymp4QmZPNEtvWVVvcVBFNkJqMloyTkZ1REQzZnZzTHM4dQ?oc=5"
-  },
-  {
-   "title": "속보 코스피 5.8% 급락한 8,411 마감",
-   "source": "YTN",
-   "time": "2026-06-26T15:42:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GTmVnbGNtdUNIVzk1OGtwT3JXU0xaTGR3MEw0U3o3a182MHZSRHJRMjdPM1NKRHkzaGNjYTBNWndZZmw4NGxpZlhYUTNHNXVyQlhwTC1sdFd5US1tdnc?oc=5"
-  },
-  {
-   "title": "‘-9.99%→3.26%→5.42%→-5.81%’…현기증 나는 韓 증시 널뛰기 왜?",
-   "source": "매일경제 마켓",
-   "time": "2026-06-26T21:41:58+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QRnJCbEJKTThhcnRGTnF0VkYwN2hSeDhXMG8zYTZhdEZUck1iV05VOFdfdDBSVHI4dFZNY2EtZ2ZiMjl0NmFuNVR4Nk42eGdVYlE?oc=5"
-  },
-  {
-   "title": "환율 한달반 가까이 1500원대… 장중 1550원 육박, 외환당국 개입한 듯",
-   "source": "동아일보",
-   "time": "2026-06-27T01:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91UWlJQ2c1RzBqU1BqQ2VyZHBoc05WT1E0Rmh5SVpraTJUemM4Yl9mamh1cURJR3ZBWWpKcDZ2STg2aWIwaXRNV2g4eXA2UXpCVDhaWnp0LTItN28zX3N3aE1fTXFnUGdPa3V2Mmx3TFBFWVFiMmfSAWZBVV95cUxOOGEzX3Flb2pzYVBGcW9ObHNWenY4UEpyVkZfb3hxRG9kY0xMOElwV1MxRlVEakp1LXNBM1ZpUGFQSHgwT2R0SFpIUG44d0NSWHlZRFhZVFliaUgzTkFiWXZBTjZSSmc?oc=5"
-  },
-  {
-   "title": "스트래티지, 기업 mNAV 1 아래로…비트코인 프리미엄 소멸",
-   "source": "블루밍비트",
-   "time": "2026-06-27T07:02:15+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GVFhXMUZGd01MNEl5OUxVUXBfYnU2Zldud0tIWVFIQmVXMFAwMUR4V081Q0V4d1lTQU1IOUJoZ2FDVWRpRzlKRy04WU4wVHdT?oc=5"
-  },
-  {
-   "title": "코스피 5%대 급락 한때 8,400 아래로‥'매도 사이드카' 발동",
-   "source": "MBC 뉴스",
-   "time": "2026-06-26T11:34:44+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nc09WaVRqSlJxeUdMSXQteGFjb2w3S1Zia2JKNEdrSmRkalhkQ1VhTWNhSzI0WjFZNXg4alh5ek85SnR5LWNla0d5S1NLcC1CTDQxU0dmY2pVX1ptdkxMV1VmN2FjWWpSdXRXUzRwSjQ3Wk9R0gF0QVVfeXFMUG1GMUFteTJ3VGpsT3lBdUM4TVhFTWJILW5fYWJYT1pSUzh4QXN4YTdmTVhtQzN1eFRWU0FiT1NSTG9sZ0pYTXlSOXJjcU9IVnRpLWJwSFJ6Nmk3Mmc4Yy0tRjVSTER3Tm9MRmNwaTFvRUR3WjI?oc=5"
-  },
-  {
-   "title": "[속보] 코스피 또 출렁…5.8% 급락한 8,411 마감",
-   "source": "연합뉴스",
-   "time": "2026-06-26T15:33:59+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eGhiT2t2MHQ5N2h6RjBoUS1RNEpNSEpPRVBLZjJITDdtaDZEaVVUT242WlZXN0txRnhZYUFRX3pEZ1Y2U0ZwZXhfTjhYejY2SUNyekVfVEZNTmoxQzVhSdIBYEFVX3lxTE50eGhiT2t2MHQ5N2h6RjBoUS1RNEpNSEpPRVBLZjJITDdtaDZEaVVUT242WlZXN0txRnhZYUFRX3pEZ1Y2U0ZwZXhfTjhYejY2SUNyekVfVEZNTmoxQzVhSQ?oc=5"
-  }
- ]
+ "news": []
 }
