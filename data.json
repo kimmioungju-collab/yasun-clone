@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-27T19:25:47.113647+09:00",
+ "updated": "2026-06-27T20:52:36.553670+09:00",
  "quotes": {
   "k200": {
    "price": 1366.49,
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 60379.92,
+   "price": 60239.24,
    "prev": 60013.164,
    "spark": [
-    60222.9414,
-    60233.7383,
-    60315.1406,
-    60332.5586,
-    60344.6719,
-    60333.7695,
-    60343.5312,
-    60401.0781,
-    60421.8789,
-    60451.6484,
-    60375.1094,
-    60414.0195,
-    60382.6484,
-    60352.7383,
-    60370.7305,
-    60353.5781,
-    60352.8594,
-    60311.8203,
     60278.8281,
     60317.8711,
-    60391.3984,
+    60391.3906,
     60353.6914,
     60347.0312,
-    60358.5117,
+    60358.5,
     60263.4688,
-    60227.1719,
+    60230.9609,
     60236.6992,
     60269.6797,
-    60324.6289,
+    60324.6211,
     60304.4688,
-    60292.5117,
-    60301.4883,
-    60294.8398,
-    60321.0117,
-    60334.0,
-    60324.8516,
+    60295.75,
+    60299.9805,
+    60311.6406,
+    60312.7617,
+    60334.0117,
+    60324.8398,
     60373.7891,
     60370.7305,
     60392.0586,
-    60379.9219
+    60362.6406,
+    60328.4805,
+    60345.5898,
+    60327.8711,
+    60313.4688,
+    60291.8516,
+    60317.9883,
+    60337.3008,
+    60294.8516,
+    60300.9414,
+    60229.9883,
+    60238.9102,
+    60167.5508,
+    60194.1914,
+    60146.4297,
+    60171.4219,
+    60259.9297,
+    60233.6289,
+    60239.2383
    ]
   },
   "eth": {
-   "price": 1581.58,
+   "price": 1580.89,
    "prev": 1576.5684,
    "spark": [
-    1578.8,
-    1578.85,
-    1580.51,
-    1580.4301,
-    1580.48,
-    1580.49,
-    1580.6899,
-    1581.99,
-    1582.5601,
-    1583.14,
-    1581.85,
-    1582.1801,
-    1581.23,
-    1581.13,
-    1581.41,
-    1581.29,
-    1580.96,
-    1580.2,
     1579.54,
-    1580.0699,
+    1580.05,
     1582.47,
     1581.59,
-    1581.36,
-    1581.13,
+    1581.2,
+    1581.21,
     1578.42,
-    1577.8101,
+    1577.88,
     1577.53,
     1578.34,
     1579.8199,
     1579.54,
-    1579.45,
+    1579.46,
     1579.3,
     1579.5,
     1580.35,
     1580.4399,
     1580.23,
     1581.52,
-    1581.38,
+    1581.4,
     1582.0601,
-    1581.58
+    1580.58,
+    1580.5699,
+    1581.38,
+    1581.75,
+    1582.12,
+    1580.86,
+    1581.8,
+    1582.1,
+    1581.05,
+    1581.49,
+    1578.92,
+    1579.54,
+    1578.0601,
+    1578.88,
+    1578.09,
+    1578.76,
+    1581.67,
+    1580.86,
+    1580.89
    ]
   },
   "eurkrw": {
@@ -1114,22 +1114,22 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81SWs5cEx4Tks5UkpwYmhlWF9DMTI2bjlOSWszZW9oX25MRUVjVmtmcHA5Z0dEYkxrWld0TEg4VDdpNGlkRmo5bkhIcFlsZDQ?oc=5"
   },
   {
-   "title": "스페이스X, 내달 7일 나스닥100 편입…상장 후 '초고속' 편입",
-   "source": "연합뉴스",
-   "time": "2026-06-27T11:40:16+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDV3l4Z1hheFlqb3Zwbk9lV0NDQUhhcXZDWjZFMEhmU1pCUDRQa1F1QTlfM3NvaElaenctQTI5eWNRNU14SnFCbGlya0tVeXMwSWUwWC1rSjAyQ1XSAWBBVV95cUxPUFBxSFYtUFdrbkZlWFVSQVFPTVp4cHg1cE12ZmY5OVlNWnQ4RHR6UlluZjNBS0ZobzJucUM1NjRFWnhQU2hIMzJFRkpscnhseXEyTmRpYklCU05Jclh2cmU?oc=5"
-  },
-  {
    "title": "스페이스X, 나스닥100 조기 입성…상장 한 달도 안돼 대표지수 편입",
    "source": "조선일보",
    "time": "2026-06-27T16:32:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1NaQnJMSjQ0ZWFKYWs0TVpCZFVXeHVBaWYwN3l0dEJkX2gyUWRLdnBtRWVYaVprY21jeUF3VFVrTzh5SGk5Z0w5Wl9UdWIzMXMwT0dPaXRlZVhLbFVraTdRYXBMcFlsSEFJNGEtc2RSckYtMEw5SEpPeGVCM3JTSA?oc=5"
   },
   {
-   "title": "스페이스X, 다음달 7일 나스닥100 편입…\"6조6천억원 자금 유입될 듯\"",
+   "title": "한달반 째 환율 1,500원대…’뉴노멀’ 자리잡나",
    "source": "연합뉴스TV",
-   "time": "2026-06-27T11:46:32+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpWlFHSFBRWmxvQ2VrVmpxZURWNnhBcEJ3X3RucGhZTDlILVBxYmxBeFUxWVkzYW5sc1ZWNjR4MWljeTRPVFowMG1lYjlSWUpTWmxLaXBkYVhhVkRzWlFWWnNxWnlCQ00?oc=5"
+   "time": "2026-06-27T14:39:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oTzRkWFBDSXNUSHROT3NPWUQ3M3g3VmNJUmJ0WUxGQ204OHBkWGR5alZTdm5aOEc4NFdBRldERHZ3d0R5TmhKbVJkVHI2M3l0NktjdEJnM3Y5SkVzZWtLWm12cUhQNWs?oc=5"
+  },
+  {
+   "title": "스페이스X, 내달 7일 나스닥100 편입…상장 후 '초고속' 편입",
+   "source": "연합뉴스",
+   "time": "2026-06-27T11:40:16+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDV3l4Z1hheFlqb3Zwbk9lV0NDQUhhcXZDWjZFMEhmU1pCUDRQa1F1QTlfM3NvaElaenctQTI5eWNRNU14SnFCbGlya0tVeXMwSWUwWC1rSjAyQ1XSAWBBVV95cUxPUFBxSFYtUFdrbkZlWFVSQVFPTVp4cHg1cE12ZmY5OVlNWnQ4RHR6UlluZjNBS0ZobzJucUM1NjRFWnhQU2hIMzJFRkpscnhseXEyTmRpYklCU05Jclh2cmU?oc=5"
   },
   {
    "title": "하반기 환율 하락 전망 속 ‘외국인 매도’·‘美 금리’ 변수",
@@ -1144,16 +1144,22 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zNFB6SzhjTFVFazFCczVwUXhCOE9DdE01RkpoNkl1VVZfR0tGeXBkSFBEM2xENVZvTFplZHZkTXZWdWg2OHJZWHdwb1BEVnJyWmc?oc=5"
   },
   {
+   "title": "스페이스X, 다음 달 7일 나스닥100 편입",
+   "source": "KBS 뉴스",
+   "time": "2026-06-27T13:26:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nLVJYWFJhdHVLNWZxM0lWdmlGVy1iZEV4ZlZ5S3ZYQmw0dE9nQUk0enZENEdpNGJYTFdWejdJc0lkRjZGUS1oVVNkZmVzRHJZVzdwNFlaQjh0VDQ?oc=5"
+  },
+  {
+   "title": "‘개미들의 블랙홀’ 스페이스X, 내달 나스닥 100지수 입성…초고속 편입",
+   "source": "한겨레",
+   "time": "2026-06-27T18:58:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zU1B6Zm1BTE1ybnFEV2dhS3N1a1l2T3MzSV84b0F6aVU4TGU3aHQzeHBPMkhCWnBxaER0R3hDdTAySDh4ZnoxWDdYT2lteUJ0STBEdlR1VHlXMDA5SFM3bWVfNGV4WUtVcXFzTmd3N2wwTEtHVGFn?oc=5"
+  },
+  {
    "title": "비트코인 덮친 크립토윈터 우려…6월에만 18.5% 하락",
    "source": "MTN 머니투데이방송",
    "time": "2026-06-27T16:45:26+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bVp3Y09FQUdYeTI1RnR2Tl9xc1dRa0tVVUZ0bkNrd1l5SEV2U25jQkVwaFcwSTRmRy1zN29YcFdYQ2ViOFRaaGVaamxwT2gxVWVSX1owamdtSEpybER5NTJwZ0c?oc=5"
-  },
-  {
-   "title": "‘개미들의 블랙홀’ 스페이스엑스, 내달 7일 ‘나스닥100’ 지수 편입",
-   "source": "한겨레",
-   "time": "2026-06-27T16:08:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zU1B6Zm1BTE1ybnFEV2dhS3N1a1l2T3MzSV84b0F6aVU4TGU3aHQzeHBPMkhCWnBxaER0R3hDdTAySDh4ZnoxWDdYT2lteUJ0STBEdlR1VHlXMDA5SFM3bWVfNGV4WUtVcXFzTmd3N2wwTEtHVGFn?oc=5"
   },
   {
    "title": "코스피 한때 8% 급락에 서킷브레이커까지 발동‥오늘 하락 이유는?",
@@ -1168,28 +1174,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12eXR3Z3h0WDBQZFRRTUJuUHJEMWprNXY4cU0yNFdnTU53VXlNX3lnTFZ3TVkzbTNndTQtWEQxZDVoWk1IMEtMSUxKUUtGSlJYc240bHFHVHFSd9IBX0FVX3lxTFBaNjdaZ0hDLWtlbFZQRXBXbF9FNm02VGx6S0xJRS1BMmRpT3NTTDFrazNkLUlxc0FTNVdncVU2QUtBUEpydG4xWHhaRG1ySmpnajh5WWZPQU1VWG1iRlVN?oc=5"
   },
   {
-   "title": "유가는 되돌렸는데 달러는 강세…환율, 결국 금리의 문제",
-   "source": "연합인포맥스",
-   "time": "2026-06-27T07:18:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fTExYWnJCa1c5cGIzMlR3TW1QWnExYk5LY0N2bDRIN1J2VHRkNFNnbWYtcmVaM1hBM0wwY011aDVtZGhJWXQwQV8xZHdDc1BTVUh0SkRHdUpocTd4eTEwaVBlZVM2elVfX0Z3VloyYjQ?oc=5"
+   "title": "“비트코인, 쓸모 없는 투기 자산…서서히 사라질 것”…'버블 예측' 억만장자 투자자의 경고",
+   "source": "전자신문",
+   "time": "2026-06-27T11:40:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tOTRaeDY3cW16dUJVTWhHYkM5MXNJLUd0MU8xV1NBYldiX25FbzZ5WDdWQ3FiMVpoVWJUNzlDTkxmcUxvZWdPZ1VGTUlidw?oc=5"
+  },
+  {
+   "title": "스페이스X, 다음달 7일 나스닥100 편입…\"6조6천억원 자금 유입될 듯\"",
+   "source": "연합뉴스TV",
+   "time": "2026-06-27T11:46:32+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpWlFHSFBRWmxvQ2VrVmpxZURWNnhBcEJ3X3RucGhZTDlILVBxYmxBeFUxWVkzYW5sc1ZWNjR4MWljeTRPVFowMG1lYjlSWUpTWmxLaXBkYVhhVkRzWlFWWnNxWnlCQ00?oc=5"
   },
   {
    "title": "억만장자 투자자 그랜섬 \"비트코인, 소리없이 서서히 사라질 것\"",
    "source": "연합뉴스",
    "time": "2026-06-27T08:09:40+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QMmpYRmE3VEtNUVh6SFUwaU5nSHlxVFctaU1peGtCbFNQR01pdzBGbXFBLXkzRHpPSTlHcWc5a2NScWduSzI4eFhUZGJiODd5eWFqczBlQUluazDSAWBBVV95cUxPeXRPa09MaUxoUldzMFRRMF9xbkE5Z0NWLVdkaVhFVWlaOGtSUWJ2U0xGSUxmd29Jak56S1dDZlNVOW9Kem5SdGVWbFhTeG56aDIwa2lKeDk5OHFqVUhZUGk?oc=5"
-  },
-  {
-   "title": "\"비트코인, 결국 사라질 것\"…닷컴버블 예측한 억만장자의 경고",
-   "source": "조선일보",
-   "time": "2026-06-27T12:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MRFNfOFFOMm5NUWFXWnhLMEppa05oTlBjQ3V4b1pYZUFFVktGcGVGZzQ0UWotNVl5X2UxRXlzbFdHNlFydHo4anZLbzJoU3dXTGU4akxSWUo0T251NFo4T1FtaVRqa1VMdlRr?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 기술주 고점 부담에 약세…나스닥 5일째 하락(종합)",
-   "source": "v.daum.net",
-   "time": "2026-06-27T06:09:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyanRyU1N3WmQ0TlRTeENvNGxkWXo4X3JQaDIwUElScEkxWUJxRkNzRjVDdktOQUgzQ1NZVW96U0RYNmdtMjlHaGh5MVpCUHc?oc=5"
   }
  ]
 }
