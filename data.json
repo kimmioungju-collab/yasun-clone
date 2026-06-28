@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-29T06:44:34.460537+09:00",
+ "updated": "2026-06-29T07:44:54.298323+09:00",
  "quotes": {
   "k200": {
    "price": 1366.49,
@@ -186,14 +186,28 @@
    ]
   },
   "nq": {
-   "price": 29368.25,
+   "price": 29568.25,
    "prev": 29368.25,
-   "spark": []
+   "spark": [
+    29545.0,
+    29523.5,
+    29537.0,
+    29561.0,
+    29568.75,
+    29568.25
+   ]
   },
   "es": {
-   "price": 7401.75,
+   "price": 7434.75,
    "prev": 7401.75,
-   "spark": []
+   "spark": [
+    7435.25,
+    7432.0,
+    7433.5,
+    7434.75,
+    7435.0,
+    7434.75
+   ]
   },
   "ndx": {
    "price": 25297.617,
@@ -334,29 +348,64 @@
    ]
   },
   "wti": {
-   "price": 69.23,
+   "price": 70.24,
    "prev": 69.23,
-   "spark": []
+   "spark": [
+    70.12,
+    70.36,
+    70.28,
+    70.34,
+    70.18,
+    70.24
+   ]
   },
   "brent": {
-   "price": 72.6,
+   "price": 73.55,
    "prev": 72.6,
-   "spark": []
+   "spark": [
+    73.38,
+    73.59,
+    73.43,
+    73.56,
+    73.46,
+    73.55
+   ]
   },
   "gold": {
-   "price": 4096.3,
+   "price": 4072.4,
    "prev": 4096.3,
-   "spark": []
+   "spark": [
+    4083.8,
+    4074.3999,
+    4074.0,
+    4071.3,
+    4071.2,
+    4072.3999
+   ]
   },
   "silver": {
-   "price": 59.674,
+   "price": 59.055,
    "prev": 59.674,
-   "spark": []
+   "spark": [
+    59.565,
+    59.02,
+    58.995,
+    58.99,
+    59.01,
+    59.055
+   ]
   },
   "gas": {
-   "price": 3.279,
+   "price": 3.306,
    "prev": 3.279,
-   "spark": []
+   "spark": [
+    3.3,
+    3.301,
+    3.305,
+    3.305,
+    3.306,
+    3.306
+   ]
   },
   "vix": {
    "price": 18.41,
@@ -451,21 +500,9 @@
    ]
   },
   "btc": {
-   "price": 59564.3,
+   "price": 59076.35,
    "prev": 59939.523,
    "spark": [
-    59529.7891,
-    59486.9883,
-    59515.4883,
-    59425.4883,
-    59465.3086,
-    59520.0703,
-    59406.9297,
-    59452.6719,
-    59416.3086,
-    59393.1289,
-    59418.5703,
-    59458.8594,
     59523.4883,
     59353.9609,
     59349.7617,
@@ -492,26 +529,26 @@
     59611.5,
     59621.7891,
     59592.5703,
-    59587.3906,
-    59564.3008
+    59564.2891,
+    59293.1719,
+    59295.9805,
+    59339.5117,
+    59713.9805,
+    59575.9883,
+    59532.3086,
+    59237.7188,
+    59391.5508,
+    59284.0117,
+    59125.3203,
+    59211.0,
+    59018.9102,
+    59076.3516
    ]
   },
   "eth": {
-   "price": 1567.19,
+   "price": 1559.89,
    "prev": 1571.6818,
    "spark": [
-    1567.54,
-    1568.3199,
-    1568.77,
-    1567.26,
-    1568.45,
-    1569.36,
-    1566.36,
-    1567.99,
-    1567.15,
-    1566.48,
-    1567.2,
-    1568.0,
     1570.1801,
     1566.1899,
     1565.79,
@@ -538,8 +575,20 @@
     1568.2,
     1569.34,
     1568.17,
-    1567.63,
-    1567.1899
+    1567.8199,
+    1559.53,
+    1559.97,
+    1561.46,
+    1574.8199,
+    1572.08,
+    1569.59,
+    1560.7,
+    1567.0,
+    1565.4,
+    1561.78,
+    1564.6899,
+    1559.46,
+    1559.89
    ]
   },
   "eurkrw": {
@@ -589,7 +638,7 @@
    ]
   },
   "jpykrw": {
-   "price": 9.47,
+   "price": 9.466,
    "prev": 9.524,
    "spark": [
     9.467,
@@ -635,7 +684,7 @@
    ]
   },
   "cnykrw": {
-   "price": 225.689,
+   "price": 225.886,
    "prev": 227.081,
    "spark": [
     225.731,
@@ -681,7 +730,7 @@
    ]
   },
   "usdjpy": {
-   "price": 161.708,
+   "price": 161.792,
    "prev": 161.777,
    "spark": [
     161.753,
@@ -727,7 +776,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1388,
+   "price": 1.139,
    "prev": 1.1377,
    "spark": [
     1.1393,
@@ -773,9 +822,18 @@
    ]
   },
   "dxy": {
-   "price": 101.366,
+   "price": 101.374,
    "prev": 101.357,
-   "spark": []
+   "spark": [
+    101.365,
+    101.367,
+    101.379,
+    101.389,
+    101.388,
+    101.383,
+    101.374,
+    101.374
+   ]
   }
  },
  "news": [
@@ -786,16 +844,16 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82SFFsNXpsVVpHSl96SE5zanVYZ1VXeDFCcWx3RjVUdktxcTJjRjBHNEhkZHJmMkVTV3FaTkY0bmVoQ1dFV0RBeXhKcG4ya1U?oc=5"
   },
   {
-   "title": "진짜 ‘도박판’?…바이낸스에 ‘코스피 150배·삼전닉스 50배’ 레버리지 상품 출시",
-   "source": "경향신문",
-   "time": "2026-06-28T11:29:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRkVwa2JBZk02T3ZuSmtrSVUzVERBdDY1MjlfdDhUcS1UU0JOU0dOY3hvOTExbUNyTnY0N0NDMmdJaEVEOE9VcVZfMFNlVGhxejJ4UnZEOEF5QdIBX0FVX3lxTE1FVVRHZjk4cmwwX2RRQkk5MVpqV1ZrZWE4TDZMeDJmeDAyUnRxaWdXNjZ1MVhfOGZQb1NMWEE4YkdCT25uUTU0UDdSQ1R6OF9CQkg4SWpKNDFwMHdiZU1n?oc=5"
-  },
-  {
    "title": "코스피·삼전닉스 150배 ‘도박 상품’ 수조원 베팅…국내 시장 변동성 키우나",
    "source": "한겨레",
    "time": "2026-06-29T05:40:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rLXJVcmJucHV6ZDFwOHRXQzZJY2FSVzNqNzZnb3pHWFNNRmt6akl2TjBROGR1SWZ6OUtHTV9OQlp4ZWMzdmRNSkZ3SXpWSi1xaFF0OTZGQ1ZneW00clFreXRvNmJuekY0Z3p4RVpsTWZQZw?oc=5"
+  },
+  {
+   "title": "진짜 ‘도박판’?…바이낸스에 ‘코스피 150배·삼전닉스 50배’ 레버리지 상품 출시",
+   "source": "경향신문",
+   "time": "2026-06-28T11:29:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRkVwa2JBZk02T3ZuSmtrSVUzVERBdDY1MjlfdDhUcS1UU0JOU0dOY3hvOTExbUNyTnY0N0NDMmdJaEVEOE9VcVZfMFNlVGhxejJ4UnZEOEF5QdIBX0FVX3lxTE1FVVRHZjk4cmwwX2RRQkk5MVpqV1ZrZWE4TDZMeDJmeDAyUnRxaWdXNjZ1MVhfOGZQb1NMWEE4YkdCT25uUTU0UDdSQ1R6OF9CQkg4SWpKNDFwMHdiZU1n?oc=5"
   },
   {
    "title": "세계 최대 코인거래소 바이낸스에 코스피 150배 노리는 상품 거래",
@@ -804,16 +862,16 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVJxN0tSb1BjaW1VN3VSQi1HNmNsRXk2YXh1VzBjSGJKRFVoQTlkYXlOZ3daamJ5eno4czJqQmRiWGg2dDZuOEd0a3ljN0lYNGdCdF80TjBGZGpFNmk0ZjZtbTZrVmNCclVnc3dfX2JfRFpTTklaTEtNUUItWmxoZ2NxcHcwQVA0Nl9V?oc=5"
   },
   {
+   "title": "‘코스피 150배 수익’ 해외상품 등장… “사실상 도박판” 논란",
+   "source": "동아일보",
+   "time": "2026-06-29T04:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82ajBrQm15RC1OdUp1dFFPcVZvbk5aTkZhTjMyMi1sYzJxeV9yNjVBMnJFdXZEQnJOc2RBYmpsZ2xJVGhtd0dTejlWbGtKMnRzN0R6T3h4c2F3TnphckQtbHdOSGM4alBfZEwwcHBFcnJxRUdBU0HSAWZBVV95cUxONHI3UHVGbFNmZ1F2V2l4TWNQa3lyR3g0Xy1aLXk2Q0JBYmd5RF9sV3F6VzB3QUxqS2tQWlF1VmdMcm1NVER1NVB5Sjg0UkxWck9RemdDY3VxQ2FNNEZfZGgtRkRrRWc?oc=5"
+  },
+  {
    "title": "2분기 평균 환율 1,500원…외환위기 이후 처음",
    "source": "연합뉴스",
    "time": "2026-06-28T16:05:23+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhVVU0anduaWhCeEFJbExRUm9EejltaDhLSXAwWVZvMnVldkZ5MlVjZl9sZWVzZ09MaEZpMEx3Mll2Z1pXN3FWMFhqZHR6dlR3aUt2SGJPRVUzQ2NFUDd0OdIBYEFVX3lxTFBhVVU0anduaWhCeEFJbExRUm9EejltaDhLSXAwWVZvMnVldkZ5MlVjZl9sZWVzZ09MaEZpMEx3Mll2Z1pXN3FWMFhqZHR6dlR3aUt2SGJPRVUzQ2NFUDd0OQ?oc=5"
-  },
-  {
-   "title": "2분기 평균 환율 1,500원…외환위기 이후 처음",
-   "source": "연합뉴스TV",
-   "time": "2026-06-28T16:05:17+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzaWtIVm5PdjAwZ2hlVllUNkVxZ3oxTE9zRFRzZHRraDZHX2tCbV9nNUhjbUVvXzRHeElOcG1BalViRWJtOEZKQjEwMXdFR3hvX3JIYkJDckVrQVNLUnBuNl8xVnUtSGs?oc=5"
   },
   {
    "title": "코스피 한때 8% 급락에 서킷브레이커까지 발동‥오늘 하락 이유는?",
@@ -822,10 +880,16 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84OHRtTzhYUTlsRVlEOWZVdWxfbWJlTEo2TWlGdkttRVFlTThlYUxReXdzREZselA0UUx6QkZBakVLZjBuenFCZjVEcWxIbGVTd2JBdHNrWmdSeElBQzBNQlhaaERndTBJMEp4VlRlbWVfY0ZR0gF0QVVfeXFMTkZBRF9OR3dkcll2UkdQcU1pOWVMcEdiMlgyQ0pGMzFackZTT20zT04tR0dIZjlINlU0dzY4RHBOOU9nNjViMGcxc25TNHVVQWpoOVhBYmNOZEVfQXo3aG9KemItTHI1aWMzTm5MM2hBZUpRa0s?oc=5"
   },
   {
-   "title": "‘코스피 150배 수익’ 해외상품 등장… “사실상 도박판” 논란",
-   "source": "동아일보",
-   "time": "2026-06-29T04:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82ajBrQm15RC1OdUp1dFFPcVZvbk5aTkZhTjMyMi1sYzJxeV9yNjVBMnJFdXZEQnJOc2RBYmpsZ2xJVGhtd0dTejlWbGtKMnRzN0R6T3h4c2F3TnphckQtbHdOSGM4alBfZEwwcHBFcnJxRUdBU0HSAWZBVV95cUxONHI3UHVGbFNmZ1F2V2l4TWNQa3lyR3g0Xy1aLXk2Q0JBYmd5RF9sV3F6VzB3QUxqS2tQWlF1VmdMcm1NVER1NVB5Sjg0UkxWck9RemdDY3VxQ2FNNEZfZGgtRkRrRWc?oc=5"
+   "title": "마이클 세일러, 또 비트코인 매수 암시…\"스트래티지 추가 매입 가능성\"",
+   "source": "블루밍비트",
+   "time": "2026-06-29T06:45:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xRWZsQ3NyNWk2ZHRGQTdYbTZldmp1b0cxRFZ1QnFJdzhaMFlLeDRmRGFkdlEzdmtIMFRWdDVSWmM0UVZMaG9NN04wNjlseXhm?oc=5"
+  },
+  {
+   "title": "2분기 평균 환율 1,500원…외환위기 이후 처음",
+   "source": "연합뉴스TV",
+   "time": "2026-06-28T16:05:17+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzaWtIVm5PdjAwZ2hlVllUNkVxZ3oxTE9zRFRzZHRraDZHX2tCbV9nNUhjbUVvXzRHeElOcG1BalViRWJtOEZKQjEwMXdFR3hvX3JIYkJDckVrQVNLUnBuNl8xVnUtSGs?oc=5"
   },
   {
    "title": "잔뜩 풀죽은 '원화'···1550원 시대의 새로운 환율 문법",
@@ -840,28 +904,22 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzTzFwaXhaM2E3QUZEZlhTTjloSXFYb3R6Tlh1NlhOWW11WmxIV0cxbTd2SnJPejhCMlZYb2Y1T0tEX0VSQVJROVV5OWtMZUdBMGJDMVctN2t5VjBmQTAw?oc=5"
   },
   {
-   "title": "코스피 랠리, 보험시장 성장의 새 동력 되나",
-   "source": "한국보험신문",
-   "time": "2026-06-29T00:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nemx1T3ZCX3l6czk1Uk1xXzNpVU1wSHo5T0tBQmVBMzN0SGJWc1pKdld3amJxcWU3NU01VTF2bUM0cU8tUFlGaHBrSlk4RUgtODhKdUpucVRKaHg0M3FsbUFEVXRDVUF6UkRR0gFvQVVfeXFMTnE5YXc2VUpFeEJDOWI0MElSY3JmclhEVkRKREwtM3dDN09KQlc2Vlkzd0g0MGpNRVE1eG9heU0xM2xoS0ZkcWtXcEZjNjhxWDBuRXAtejNWOTBOaGdScUdFZEpOT1dhZmNCVTNFeS1J?oc=5"
+   "title": "'실적의 시간' 온다…7월 증시, 코스피 운명 가를 다섯 가지 변수",
+   "source": "ebn.co.kr",
+   "time": "2026-06-29T06:48:17+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ncGY2c1JUdTVZYy1Nd1UtTUQ0RjVUcHptY3ZWQ1NESGZ2eDlnRVgyMHdwMkdaTXpyUzJzWElaeTd6ODNfOF8yUW9HRk9rTHZRQlRYVU01aHAyRkw1Y2RNQWdyX1JaTnBj?oc=5"
+  },
+  {
+   "title": "“일본 기업 하나만도 못하다”던 코스피, 27년 만에 전인미답 고지 올랐다 [코스피 1만 시대 맞이①]",
+   "source": "v.daum.net",
+   "time": "2026-06-29T06:06:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1faTNuejgzUjRtNmpLY1c0d3ZFd01JRjh5ZVlaWVdrY2RNMHZRVXBXMHItMnlKenZueGhBak00TlFJWmdCWUZRMG8teUJFTkE?oc=5"
   },
   {
    "title": "세계 최대 코인거래소 바이낸스, 코스피 150배 노리는 상품 등장",
    "source": "조선일보",
    "time": "2026-06-29T00:32:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzFVX3VwcU5FM0tucFIxWVNIM1dhZEJJQWMzQWE5bFJwRXJwNGFONzdJLU1nT3otRl9JMnFmc1lEVDNSYmotbnh5WW1xMm50Ry16X2NiQlN2LXdWM2FNcnNXWXozcGIyUUctQTVkNUllZUk2UkU3dVdlVkdPSjVISlRZN0s2TWZqbEdJ?oc=5"
-  },
-  {
-   "title": "비트코인 6만달러 또 붕괴…이러다 정말 사라지나",
-   "source": "v.daum.net",
-   "time": "2026-06-29T05:55:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUMEFMYUNlSzFfdnVnX1hTSU51T0YwR0RzS1oxNFFMakZsUTA5eFdpWWM5QnZKYUtKVGp5aTVxOWNxNWlBNUJxZUhTRUczYlE?oc=5"
-  },
-  {
-   "title": "2분기 평균 환율 1500원 넘을 듯···1998년 이후 처음",
-   "source": "경향신문",
-   "time": "2026-06-28T14:24:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wY1Z6dVRJTkVLSkQ5LWZTdG1UV3N2d21XVGgza1hWa1A2UnE4QVYtMk9CbjZaNVRMS0UyTW5SdWw3UTJSRDdsWU1lNXZKRUh2b012S21uUk1tQdIBX0FVX3lxTE01YkRaalBMU1FsYTdzbTlDRTI1N0F1d2pjYmN0ZktUcEdEbFNmajd0dDlncW5FOFRmU05HTkQzb2ZXWF91eTQ2TlNQSTdrTXg1RVJ2MUUwY0c1VFhJdXdz?oc=5"
   }
  ]
 }
