@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T06:21:02.715682+09:00",
+ "updated": "2026-07-04T07:29:48.482154+09:00",
  "quotes": {
   "k200": {
    "price": 1299.3,
@@ -738,23 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62601.06,
+   "price": 62568.66,
    "prev": 61492.99,
    "spark": [
-    62077.3906,
-    62109.0,
-    62100.8086,
-    62094.6406,
-    62125.4609,
-    62148.2383,
-    62155.5586,
-    62169.0195,
-    62144.7383,
-    62153.0117,
-    62149.9883,
-    62148.3008,
-    62127.1211,
-    62127.2695,
     62201.9883,
     62156.0,
     62167.2695,
@@ -780,27 +766,27 @@
     62712.8594,
     62696.8516,
     62566.6992,
-    62601.0586
+    62591.4297,
+    62564.0391,
+    62487.5391,
+    62480.2695,
+    62543.4688,
+    62607.7383,
+    62728.8516,
+    62669.3984,
+    62601.8516,
+    62564.0,
+    62566.5195,
+    62606.0391,
+    62593.7383,
+    62565.6914,
+    62568.6602
    ]
   },
   "eth": {
-   "price": 1763.51,
+   "price": 1758.4,
    "prev": 1698.3707,
    "spark": [
-    1735.49,
-    1735.3,
-    1736.02,
-    1735.72,
-    1736.64,
-    1737.5699,
-    1736.52,
-    1737.67,
-    1736.61,
-    1737.15,
-    1737.1801,
-    1737.6899,
-    1736.9301,
-    1735.9,
     1743.17,
     1743.73,
     1744.95,
@@ -826,7 +812,21 @@
     1766.39,
     1765.01,
     1763.0,
-    1763.51
+    1763.3101,
+    1762.01,
+    1758.55,
+    1756.84,
+    1758.24,
+    1760.01,
+    1764.5,
+    1761.78,
+    1757.91,
+    1756.71,
+    1756.7,
+    1757.48,
+    1758.11,
+    1758.59,
+    1758.4
    ]
   },
   "eurkrw": {
@@ -1017,8 +1017,6 @@
    "price": 1.144,
    "prev": 1.1436,
    "spark": [
-    1.1444,
-    1.1443,
     1.1443,
     1.1442,
     1.1443,
@@ -1051,6 +1049,8 @@
     1.1439,
     1.1439,
     1.1439,
+    1.144,
+    1.144,
     1.144,
     1.144,
     1.144,
@@ -1120,10 +1120,10 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uc2J1b2dMQV8xbm5Jc09IY1U5RHBFVHBEbTVPVXp2OWhwT1JZdUx2RGQwWlpjc1AyYjc4Y0NlYkw5VlppVlJobW5OMHc1RmN4dFdOaDBqTUV1QdIBX0FVX3lxTE1UN3VZLS1uUkVPSkNQQUVzWGNpbHhSVzJsUWdINzFXRlV1djBGQnEybzdmRFQxVFBZQ01GVEo0bkxBVV96d0kyWUc1SFdOUlNHeWFkM3lhbU9mQ0xneXR3?oc=5"
   },
   {
-   "title": "코스피 2% 내린 8,303...환율 또 금융위기 이후 최고치",
-   "source": "YTN",
-   "time": "2026-07-01T16:41:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xbXU5Y29VMmxBc3ZPNWRjVVpLcXVSNWcxWEFNd3JZSlhZLUtBRTlHRWs0Ykt4dXlqamZoaG1xQWlIem92VWhzdEFnWXAxaEtmalljR2U2SlVCSHg4M1E?oc=5"
+   "title": "\"7200~9000선 널뛴다\"…7일 코스피 '변곡점'",
+   "source": "v.daum.net",
+   "time": "2026-07-04T05:01:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SaWFrNVdKdmdmZHZab1RwU1VkZ2RWeTZrYUM0Q3l2V043T0lGalNZMkRYblQ2XzQ2QlJaa21YbklXMFpIbzd3STZpazhoTW8?oc=5"
   },
   {
    "title": "\"200만닉스도 깨질라\" 아침 급락 때 팔았는데...8천피 회복, 급등 마감 - 머니투데이",
@@ -1132,10 +1132,10 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xOXBjNkpDQUxLRU9jOFlmRW1mUVZ3VGV2bU9ZdzY2NzJhd0VscEN4ajQ3NnRRY0traDVSb0ZWdDZyX2pMTXd4a25DTjhwTXpnc1EtQWlscFJ2NkxUbXY0cW81YXc1Vkh20gFuQVVfeXFMTy1mekd6ZlplRDVUbTFoN3VUNHZOeGNvMmVCMHlab2ZWZTFXOGNXeVYxaElReDZXdDVabng2TG5QelBIc1h1NDFvNXJHWV8wSlRtZDlOcHNLb3BaOHRGMUdVMHRfa2FtdUVKTnJOR1E?oc=5"
   },
   {
-   "title": "1520대까지 꺾인 원·달러 환율… “하향 안정” “1600 열어둬야” 전망은 엇갈려",
-   "source": "v.daum.net",
-   "time": "2026-07-03T23:18:18+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IaDVDUlhvNWZZQXp0alR6enE0RDJpMkExSE80Q0plUFZJNlUyMmtTaF9yeHhmdFBOSkNtWklBRnFVdUs0XzVFV2Y4NzZEckk?oc=5"
+   "title": "코스피 이어 코스닥도 '매도 사이드카'‥올해 6번째",
+   "source": "MBC 뉴스",
+   "time": "2026-07-02T14:13:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCaWQ3bUpnUTJnMHUxZHJaLV9PN0E4Z0RTZVZUSFlRZmFfT2pTNEpVUFI3NndoNldzVDdHNGdHdXpXTzdWd0JuSUNtcTF3UE1uOWxkRW8tci1TdzVLRFBSRFgya2pTdmtIX0hNazV6N1dJVFpf0gF0QVVfeXFMTk9od3MyZUN6YlNWY3NaaGNOQWJIYWlkYjlFLTBKay1vWFo0UHFMU0hERFNZb3YzSGV2bWVDX0RyOGJUc0o0dEs0WHdVdnlrU25MZVhRSDZBVVpfeWdVckZDWXdyZDd2TWdHVXVrRmxtMWIzMVc?oc=5"
   },
   {
    "title": "환율은 못 잡고 실탄만?…외환보유액 13위로 하락",
@@ -1144,22 +1144,34 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sWUZNTUtwRkpacWFVLS1VYzhJWWNPZmZKUnQ5d21HZW9tb2Q1QnRkaUFJazlPbEJPU1hxNTZ1cnIyUTdXN0hWZ2tiREtLZ19sS2hITThvU1JzOEU2enJXa2lHTzg0NTQ?oc=5"
   },
   {
-   "title": "코스피 이어 코스닥도 '매도 사이드카'‥올해 6번째",
-   "source": "MBC 뉴스",
-   "time": "2026-07-02T14:13:22+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCaWQ3bUpnUTJnMHUxZHJaLV9PN0E4Z0RTZVZUSFlRZmFfT2pTNEpVUFI3NndoNldzVDdHNGdHdXpXTzdWd0JuSUNtcTF3UE1uOWxkRW8tci1TdzVLRFBSRFgya2pTdmtIX0hNazV6N1dJVFpf0gF0QVVfeXFMTk9od3MyZUN6YlNWY3NaaGNOQWJIYWlkYjlFLTBKay1vWFo0UHFMU0hERFNZb3YzSGV2bWVDX0RyOGJUc0o0dEs0WHdVdnlrU25MZVhRSDZBVVpfeWdVckZDWXdyZDd2TWdHVXVrRmxtMWIzMVc?oc=5"
+   "title": "코스피 5% 급등해 8,000선 회복...매수 사이드카 발동",
+   "source": "YTN",
+   "time": "2026-07-03T14:33:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kaldHbWs4MnlITWJiVXBZdDR6NERkV21PSmtTWmJQZmh1WHFvVWF5VFF3VFhHelVaZXR3Q1NSQi02OHMzOUU5WjBoTVNKOGljc1pIZEZaWmVsaEMyMUE?oc=5"
   },
   {
-   "title": "코스피, 급락 하루만에 급반등…5.76% 상승 8,000선 회복",
+   "title": "코스피, 장중 3%대 급락해 8,100대…삼전·닉스 낙폭 확대(종합)",
    "source": "연합뉴스",
-   "time": "2026-07-03T15:38:30+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JakI5bFM1cU1jM0hJb1FDY19DcHB5M3cxaVJiOUVKZFhyS0Y2bFJIaW9MUERnRDlvcG9YRmQxMGVDOXN0N0V6NVRlUGMtTkJsdS02NmFCeXdYZ3EzSFR2ddIBYEFVX3lxTE9JakI5bFM1cU1jM0hJb1FDY19DcHB5M3cxaVJiOUVKZFhyS0Y2bFJIaW9MUERnRDlvcG9YRmQxMGVDOXN0N0V6NVRlUGMtTkJsdS02NmFCeXdYZ3EzSFR2dQ?oc=5"
+   "time": "2026-07-01T11:19:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZRFdlTzBua2c3anZ0UnhaR1MxbWdnYUtpRWgyd2Q4RDVIclg5cUw5OWRVcWQtcGpkd2o2eGVudlRpWTZZak1NM0VKX0dJazBWRmxnTjFJV2VZYXPSAWBBVV95cUxQbVY5c0ZjZjhIcHA0b3pjX3ZCangxQ2hfSlZ4NW12NkFoLXFXVkUxMndrUzRFUzlxVTEtelBIcFk0Vm1LLVByOUFrNDFDMEJCOGxOejJabnR1RHFBWkhRTWU?oc=5"
   },
   {
    "title": "코스피 급등세에 매수 사이드카 발동",
    "source": "KBS 뉴스",
    "time": "2026-07-03T14:13:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaLXlBcXdGdFlRZ011WXNaY3pmbU9YMFlHS2l6YlVJWGZaR3R5eFh3Wnc1b3pCQXAyVlNvMXNOdGtka3FxRDVtOFIweEJSTjlDaW41WVJxdU9rMjA?oc=5"
+  },
+  {
+   "title": "[모닝 시세브리핑] 암호화폐 시장 상승세… 비트코인 62,153달러, 이더리움 1,744달러",
+   "source": "tokenpost.kr",
+   "time": "2026-07-04T05:01:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90N1BPNDgtLVh0SF9yR0JzVHBucTJjMHRhNnhScUFuaWFSQ19EdDdKOGh1a2J2UG9ONXJnakkzSHVWalVJVmpoNTctSkpKU1c5eDdSV1VZam_SAV5BVV95cUxPSlVUVm5yczRHUDU0X0phcWZDb3ptc19BMlo4aDdkRVJrVVlhMmI0Q2hDUGRGdlZUOHIwTDUzMlNBaUVnVlFRTFZGWGJXeHVoZ3JtNGpocDBCTzhFZ0pB?oc=5"
+  },
+  {
+   "title": "1520대까지 꺾인 원·달러 환율… “하향 안정” “1600 열어둬야” 전망은 엇갈려",
+   "source": "v.daum.net",
+   "time": "2026-07-03T23:18:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IaDVDUlhvNWZZQXp0alR6enE0RDJpMkExSE80Q0plUFZJNlUyMmtTaF9yeHhmdFBOSkNtWklBRnFVdUs0XzVFV2Y4NzZEckk?oc=5"
   },
   {
    "title": "[속보]코스피, 5% 급락에 매도사이드카 발동…8000선 붕괴",
@@ -1178,18 +1190,6 @@
    "source": "MBC 뉴스",
    "time": "2026-07-03T16:03:16+09:00",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Yd2VabVRzYUFfelJvWW9VN00wWjlDVU1pXzNCSS1xd1p4WU5ZLThzYTlHdHIyRG56cC15WlZPOGs0WGdtR0RpdDMzaGwyMXJTbHZTUExOd0NpV3BnSmV6anlHZ1MyTHJhOFBEYzBGREZtRmdr0gF0QVVfeXFMTURIRE1IV1F5T2NKXzJDcFZKM3FUVEVEcUxaWm9mLU1RVDJ6d0RmMGxOWUYxem5KSU1tSjRmblFLV0J4Z193aUduS1NHSV9pN292UmhKaE9kT2NKMmhCbkdHU2MtcnFjVy16aDVmRTlTNHBOMzI?oc=5"
-  },
-  {
-   "title": "코스피 5% 급등해 8,000선 회복...매수 사이드카 발동",
-   "source": "YTN",
-   "time": "2026-07-03T14:33:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kaldHbWs4MnlITWJiVXBZdDR6NERkV21PSmtTWmJQZmh1WHFvVWF5VFF3VFhHelVaZXR3Q1NSQi02OHMzOUU5WjBoTVNKOGljc1pIZEZaWmVsaEMyMUE?oc=5"
-  },
-  {
-   "title": "코스피, 장중 3%대 급락해 8,100대…삼전·닉스 낙폭 확대(종합)",
-   "source": "연합뉴스",
-   "time": "2026-07-01T11:19:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZRFdlTzBua2c3anZ0UnhaR1MxbWdnYUtpRWgyd2Q4RDVIclg5cUw5OWRVcWQtcGpkd2o2eGVudlRpWTZZak1NM0VKX0dJazBWRmxnTjFJV2VZYXPSAWBBVV95cUxQbVY5c0ZjZjhIcHA0b3pjX3ZCangxQ2hfSlZ4NW12NkFoLXFXVkUxMndrUzRFUzlxVTEtelBIcFk0Vm1LLVByOUFrNDFDMEJCOGxOejJabnR1RHFBWkhRTWU?oc=5"
   }
  ]
 }
