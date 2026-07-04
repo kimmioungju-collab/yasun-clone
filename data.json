@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T23:02:27.371221+09:00",
+ "updated": "2026-07-05T00:15:47.334854+09:00",
  "quotes": {
   "k200": {
    "price": 1299.3,
@@ -738,73 +738,59 @@
    ]
   },
   "btc": {
-   "price": 62578.72,
+   "price": 62711.67,
    "prev": 62548.598,
    "spark": [
-    62463.0508,
-    62450.0781,
-    62419.2812,
-    62467.4609,
-    62467.0117,
-    62442.6094,
-    62428.1016,
-    62422.3594,
-    62496.3281,
-    62456.2383,
-    62435.0898,
-    62425.4883,
-    62439.6211,
-    62428.5195,
     62488.0312,
-    62493.4297,
+    62496.7617,
     62509.2109,
     62523.9805,
     62503.9805,
-    62530.7305,
+    62534.9883,
     62576.3516,
-    62566.5312,
+    62561.8281,
     62567.1016,
-    62536.2695,
+    62540.7188,
     62564.8203,
-    62604.6719,
+    62604.6602,
     62554.8008,
     62564.6797,
-    62567.9805,
-    62640.0117,
-    62616.1484,
+    62557.8789,
+    62642.0,
+    62614.8008,
     62600.2305,
-    62543.6094,
-    62531.2109,
+    62550.1211,
+    62554.7188,
     62533.2383,
     62523.9883,
-    62518.8906,
+    62518.8984,
     62538.0,
-    62582.5195,
-    62578.7188
+    62574.5586,
+    62574.3906,
+    62612.5781,
+    62601.9883,
+    62616.5312,
+    62621.4492,
+    62579.4414,
+    62586.8711,
+    62628.1484,
+    62611.9102,
+    62611.3711,
+    62643.3086,
+    62680.3711,
+    62795.1602,
+    62770.3906,
+    62711.6719
    ]
   },
   "eth": {
-   "price": 1765.78,
+   "price": 1781.81,
    "prev": 1756.8468,
    "spark": [
-    1758.6801,
-    1757.7,
-    1755.64,
-    1757.29,
-    1756.5601,
-    1755.65,
-    1756.01,
-    1756.37,
-    1758.4301,
-    1757.73,
-    1756.51,
-    1756.34,
-    1756.41,
-    1756.63,
     1759.61,
-    1759.42,
+    1759.3199,
     1759.71,
-    1759.37,
+    1759.4,
     1759.59,
     1761.5,
     1762.89,
@@ -822,11 +808,25 @@
     1764.58,
     1763.9,
     1762.4,
-    1762.1801,
+    1762.2,
     1761.41,
-    1762.72,
-    1766.12,
-    1765.78
+    1762.71,
+    1765.5601,
+    1767.2,
+    1769.47,
+    1770.74,
+    1770.95,
+    1769.7,
+    1768.3199,
+    1767.49,
+    1768.78,
+    1768.1,
+    1768.59,
+    1770.79,
+    1773.5,
+    1786.4,
+    1783.6,
+    1781.8101
    ]
   },
   "eurkrw": {
@@ -1108,12 +1108,6 @@
  },
  "news": [
   {
-   "title": "\"코스피 1만2600 간다\"…하반기 강세장서 찍은 최선호株 10개[주末머니]",
-   "source": "v.daum.net",
-   "time": "2026-07-04T19:07:44+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CQkk2MnRvQTBielVTSnFQWldVODNHWE5yc3ZTdmFrVUdsMUtQMjVWd3FVZEpFOW8tdERtQnFGd21TVWQ0N3NZdDZHcnROaE0?oc=5"
-  },
-  {
    "title": "[경제뭔데] 1년전 환율, 1300원대였는데···6일부터 24시간 외환거래 시작되면?",
    "source": "경향신문",
    "time": "2026-07-04T06:00:00+09:00",
@@ -1138,6 +1132,12 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zNHpzek02c3JGZVk5cGZHa3J4X3VuNXhBSE5sLUFmazBJQzZLb2VqcDcxbFZjdHRFSG4xNDVxX2NDNlIzM2VjWm5kWVd1Sm9TakhldmptdFBnbVJsd2VockZQd3VZZw?oc=5"
   },
   {
+   "title": "코스피 2% 내린 8,303...환율 또 금융위기 이후 최고치",
+   "source": "YTN",
+   "time": "2026-07-01T16:41:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xbXU5Y29VMmxBc3ZPNWRjVVpLcXVSNWcxWEFNd3JZSlhZLUtBRTlHRWs0Ykt4dXlqamZoaG1xQWlIem92VWhzdEFnWXAxaEtmalljR2U2SlVCSHg4M1E?oc=5"
+  },
+  {
    "title": "역대급 경상흑자에도 급등하는 환율…1600원 갈수도 [주末머니]",
    "source": "아시아경제",
    "time": "2026-07-04T19:25:00+09:00",
@@ -1156,10 +1156,10 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFNOckpYb2FIclN3UXB4UzdER1BzSGFuNWczLXNEWjlwdVRpdG1HdlkybmFUanVDbFdVRk5oVlIxNS03VGtEZnVPaEZvdzFyQ3hObmFQS1BZOGFfNktENU1hRXpZempRa0VMdV9SMGp0d3ZRSnF4dlFoQUFlVVlHNS1Sd3p6S3V0VVHSAZ4BQVVfeXFMUEZFX3loa1dVWGVPWm1IdmtCMXlhWFZabFM4d3BDWXpGdkpNR19IUzBxdXJiWHVsSnVrMGl4enpyQVZQS3VpVTN2UkdvRnFoZVhLUUdjTjdlcFJPa05relRFTGc2ZFZVYlBEUHZkdVhZU05VZ1ZhOXhtemxndGV5bUU0MFk0Y1dqc093RmpHOFo4R3dZblVqd2tUbkY3SkE?oc=5"
   },
   {
-   "title": "환율 1400원대 고착화…“과거 수준 복귀 어렵다”",
-   "source": "채널A",
-   "time": "2026-07-04T15:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04T1Y0WlRSRGN6cVctR3ZmbzlSSzB6WGlxeWNfTEVBb3FCc1lMeWp6TWZtX1JPX2lIejQwMkd5dWV2b1p5b1BNT0xEMmR4Wmt4b2hQT2lLaGlOdjVTR1HSAWNBVV95cUxNOWZPVWt1Wmpkam14dTRud3VmbC16ZEhScmpUS2FrZlFkUWlTUmRMZ1o2ZmpfcV9QWVZZNERCcTVkUGFoNm1YeVRKRktxaWg5cWxCd0FuSlI1SlZWeTVKVmEtTDQ?oc=5"
+   "title": "[7월 첫째 주 세계경제동향 브리핑] 코스피 8,000선 초반 후퇴…美 증시는 동반 상승",
+   "source": "v.daum.net",
+   "time": "2026-07-04T11:18:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBINmFqUEYtZVBVMXoxbkgyQ01Vd3V1WWFZZVY5cGRBOFhjNnYyQnk4Z0FVTDljRlBsclRkbGYwSW4wbTFBb0xMU0s5TmVJT2c?oc=5"
   },
   {
    "title": "[7월 첫째 주 세계경제동향 브리핑] 코스피 8,000선 초반 후퇴…美 증시는 동반 상승",
@@ -1174,10 +1174,10 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCaWQ3bUpnUTJnMHUxZHJaLV9PN0E4Z0RTZVZUSFlRZmFfT2pTNEpVUFI3NndoNldzVDdHNGdHdXpXTzdWd0JuSUNtcTF3UE1uOWxkRW8tci1TdzVLRFBSRFgya2pTdmtIX0hNazV6N1dJVFpf0gF0QVVfeXFMTk9od3MyZUN6YlNWY3NaaGNOQWJIYWlkYjlFLTBKay1vWFo0UHFMU0hERFNZb3YzSGV2bWVDX0RyOGJUc0o0dEs0WHdVdnlrU25MZVhRSDZBVVpfeWdVckZDWXdyZDd2TWdHVXVrRmxtMWIzMVc?oc=5"
   },
   {
-   "title": "\"비트코인, 다음 급등장 오려면 1조달러 필요\"",
-   "source": "블루밍비트",
-   "time": "2026-07-04T17:43:18+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tNmotTS13UkxJUFRlTjZudTBNbDBkYm01elRrUlY4R2NReDZFTXhKU3ViUTh4QzhGb0lDdTI2RkI5SmNmZFAyTm9jM01OQk5P?oc=5"
+   "title": "환율 1400원대 고착화…“과거 수준 복귀 어렵다”",
+   "source": "채널A",
+   "time": "2026-07-04T15:45:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04T1Y0WlRSRGN6cVctR3ZmbzlSSzB6WGlxeWNfTEVBb3FCc1lMeWp6TWZtX1JPX2lIejQwMkd5dWV2b1p5b1BNT0xEMmR4Wmt4b2hQT2lLaGlOdjVTR1HSAWNBVV95cUxNOWZPVWt1Wmpkam14dTRud3VmbC16ZEhScmpUS2FrZlFkUWlTUmRMZ1o2ZmpfcV9QWVZZNERCcTVkUGFoNm1YeVRKRktxaWg5cWxCd0FuSlI1SlZWeTVKVmEtTDQ?oc=5"
   },
   {
    "title": "\"삼전 가장 많이 던졌다\" 외인, 하루에 1조 '매도'...코스피 2% 뚝 - 머니투데이",
@@ -1186,10 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBia0ZLSnQxYkdfZjVtTnE4UkxHSkhmeUk2cFA5WXBydmIzZVp1X2NiMVVIdDhDZUxJbVdmaTM4Q0Rla3NDbDlPLUdpb19Pbk9PT1oyV01xT1pKU0t6dG9IM2RiNXo0bFNk0gFuQVVfeXFMT3pkVW1XeVNQMlVmaXFoZDNHWVdBOVd4TzREMG5qNjVsRmhiUklDc3F0YUNRa3VhM2o0RWJuX3lDWE1iWERQVEhTeFh6RXBMZFc2V1lJblU1dDFBNlZCeTczaGVRN1I5Y0NNVnktV1E?oc=5"
   },
   {
-   "title": "기관 유입 둔화, 기업 전략 주목 속 비트코인 하락",
-   "source": "Investing.com 한국어",
-   "time": "2026-07-04T17:57:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KS1ctRlZXb29XUm9KR1hobGJwaWhjeDlSSHRuUUFId1BUV0Z2bktXQkNhN25QZU5kTDFWRkdMUy1SRWVtOHExMzhMbkdNLUY3cFRvNlJBRW9CSElTbEVPbjFZdUEzRUJtWFF0V255X25VUjA?oc=5"
+   "title": "\"비트코인, 다음 급등장 오려면 1조달러 필요\"",
+   "source": "블루밍비트",
+   "time": "2026-07-04T17:43:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tNmotTS13UkxJUFRlTjZudTBNbDBkYm01elRrUlY4R2NReDZFTXhKU3ViUTh4QzhGb0lDdTI2RkI5SmNmZFAyTm9jM01OQk5P?oc=5"
   }
  ]
 }
