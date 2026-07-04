@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T21:17:16.319748+09:00",
+ "updated": "2026-07-04T23:02:27.371221+09:00",
  "quotes": {
   "k200": {
    "price": 1299.3,
@@ -738,30 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62511.98,
+   "price": 62578.72,
    "prev": 62548.598,
    "spark": [
-    62441.4219,
-    62447.9883,
-    62438.8281,
-    62412.0195,
-    62413.1094,
-    62389.3594,
-    62376.7109,
-    62385.4102,
-    62432.6211,
-    62424.1211,
-    62429.0391,
-    62395.2188,
-    62405.25,
-    62403.8789,
-    62436.5508,
-    62436.0195,
-    62437.7617,
-    62424.8594,
-    62405.9805,
-    62430.6016,
-    62435.7617,
     62463.0508,
     62450.0781,
     62419.2812,
@@ -779,35 +758,35 @@
     62488.0312,
     62493.4297,
     62509.2109,
-    62514.0117,
-    62511.9805
+    62523.9805,
+    62503.9805,
+    62530.7305,
+    62576.3516,
+    62566.5312,
+    62567.1016,
+    62536.2695,
+    62564.8203,
+    62604.6719,
+    62554.8008,
+    62564.6797,
+    62567.9805,
+    62640.0117,
+    62616.1484,
+    62600.2305,
+    62543.6094,
+    62531.2109,
+    62533.2383,
+    62523.9883,
+    62518.8906,
+    62538.0,
+    62582.5195,
+    62578.7188
    ]
   },
   "eth": {
-   "price": 1759.84,
+   "price": 1765.78,
    "prev": 1756.8468,
    "spark": [
-    1758.72,
-    1759.5,
-    1759.5601,
-    1758.02,
-    1758.1899,
-    1756.21,
-    1753.98,
-    1754.7,
-    1755.3,
-    1756.71,
-    1756.52,
-    1756.3,
-    1757.8101,
-    1758.51,
-    1758.6801,
-    1757.6,
-    1757.55,
-    1757.5,
-    1756.2,
-    1757.12,
-    1757.6,
     1758.6801,
     1757.7,
     1755.64,
@@ -825,15 +804,35 @@
     1759.61,
     1759.42,
     1759.71,
-    1760.1899,
-    1759.84
+    1759.37,
+    1759.59,
+    1761.5,
+    1762.89,
+    1763.86,
+    1762.5699,
+    1761.4,
+    1762.49,
+    1762.8101,
+    1761.0699,
+    1761.3101,
+    1761.12,
+    1763.0,
+    1767.8,
+    1767.35,
+    1764.58,
+    1763.9,
+    1762.4,
+    1762.1801,
+    1761.41,
+    1762.72,
+    1766.12,
+    1765.78
    ]
   },
   "eurkrw": {
    "price": 1749.2,
    "prev": 1757.6,
    "spark": [
-    1749.1,
     1749.2,
     1749.3,
     1749.2,
@@ -872,7 +871,8 @@
     1749.2,
     1749.3,
     1749.1,
-    1749.3
+    1749.3,
+    1749.2
    ]
   },
   "jpykrw": {
@@ -880,7 +880,6 @@
    "prev": 9.523,
    "spark": [
     9.46,
-    9.46,
     9.461,
     9.461,
     9.462,
@@ -918,6 +917,7 @@
     9.461,
     9.461,
     9.458,
+    9.46,
     9.46
    ]
   },
@@ -925,7 +925,6 @@
    "price": 225.607,
    "prev": 226.552,
    "spark": [
-    225.607,
     225.601,
     225.653,
     225.586,
@@ -964,6 +963,7 @@
     225.765,
     225.765,
     225.765,
+    225.607,
     225.607
    ]
   },
@@ -1108,10 +1108,10 @@
  },
  "news": [
   {
-   "title": "한국 코스피지수 PER, 글로벌 금융위기 이후 최저 수준으로 하락",
-   "source": "Investing.com 한국어",
-   "time": "2026-07-04T19:44:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ZUFkVXNsdFhZUGN0SV9VZ2ZvNDBoMmw2X1dUY0NZaUV1Q3h6TVpleXpVcFVzVVQ3QlRxOTVjZ3ktUVNJWUwwdXliblA0TUZiWWlEV2piVlhNemsydm1LV1doMHJXWFpvNi1YNm5xVFo?oc=5"
+   "title": "\"코스피 1만2600 간다\"…하반기 강세장서 찍은 최선호株 10개[주末머니]",
+   "source": "v.daum.net",
+   "time": "2026-07-04T19:07:44+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CQkk2MnRvQTBielVTSnFQWldVODNHWE5yc3ZTdmFrVUdsMUtQMjVWd3FVZEpFOW8tdERtQnFGd21TVWQ0N3NZdDZHcnROaE0?oc=5"
   },
   {
    "title": "[경제뭔데] 1년전 환율, 1300원대였는데···6일부터 24시간 외환거래 시작되면?",
@@ -1120,16 +1120,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uc2J1b2dMQV8xbm5Jc09IY1U5RHBFVHBEbTVPVXp2OWhwT1JZdUx2RGQwWlpjc1AyYjc4Y0NlYkw5VlppVlJobW5OMHc1RmN4dFdOaDBqTUV1QdIBX0FVX3lxTE1UN3VZLS1uUkVPSkNQQUVzWGNpbHhSVzJsUWdINzFXRlV1djBGQnEybzdmRFQxVFBZQ01GVEo0bkxBVV96d0kyWUc1SFdOUlNHeWFkM3lhbU9mQ0xneXR3?oc=5"
   },
   {
-   "title": "“환율, 과거수준 복귀 어려워…고환율 지속 대비해야”",
-   "source": "KBS 뉴스",
-   "time": "2026-07-04T11:12:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tUnZKNS1HMm5fZmcwV05jUjAzRTN6MThtZ1RMVlVVelg2bi1CNFMzenhJaFhHTFJvMlJoZm9IWEE0VkVENEhHRXRMY0lRYjhFdE5SRTZfSkpDcWM?oc=5"
+   "title": "\"환율, 과거 수준 복귀 어려워…고환율 장기화 대비해야\"",
+   "source": "연합뉴스TV",
+   "time": "2026-07-04T09:43:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12dVJxZk1YYmFBUC04Rl9wd0JSV1ZaY0JYX2g3WmV4Uzg4WUJBc1UyLXNnRk41blhMbUxndWV5UkpaanZCT0RyLWNnemZWU08tX1BXUFZqLW5LZ3BOeGl0dzRCaUQtcFk?oc=5"
+  },
+  {
+   "title": "한국 코스피지수 PER, 글로벌 금융위기 이후 최저 수준으로 하락",
+   "source": "Investing.com 한국어",
+   "time": "2026-07-04T19:44:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ZUFkVXNsdFhZUGN0SV9VZ2ZvNDBoMmw2X1dUY0NZaUV1Q3h6TVpleXpVcFVzVVQ3QlRxOTVjZ3ktUVNJWUwwdXliblA0TUZiWWlEV2piVlhNemsydm1LV1doMHJXWFpvNi1YNm5xVFo?oc=5"
   },
   {
    "title": "NEWS > 상세",
    "source": "부산MBC",
    "time": "2026-07-04T20:36:30+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rdXFNUTJFWEszQ09fWkpTcUd2VVBWTklSRjBmV3JuVXJGRWRxZEF1OUZQb0pOdWJmNzFMSEV0dkhZZzNkQ0piR19qWE1DWnBsbmhoQWJtU2ZaQVNwODFZYVlkNTJsbllORmM1RExGUEo3UQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zNHpzek02c3JGZVk5cGZHa3J4X3VuNXhBSE5sLUFmazBJQzZLb2VqcDcxbFZjdHRFSG4xNDVxX2NDNlIzM2VjWm5kWVd1Sm9TakhldmptdFBnbVJsd2VockZQd3VZZw?oc=5"
   },
   {
    "title": "역대급 경상흑자에도 급등하는 환율…1600원 갈수도 [주末머니]",
@@ -1138,22 +1144,16 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUkVDVkUwZ0hleHNITjJWQTF0R3dWa1E2OU9KVllVZ0NGazZiN0loaEVYZGZLZENhSF9wdUdWTGY0bDI0cEZGaEFLWVktSG1BSXJfeVU3NDVKbkI2WDRMWQ?oc=5"
   },
   {
-   "title": "칠레산 연어, 아일랜드산 소고기… ‘高환율’에 마트 매대가 바뀐다 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-07-04T18:53:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFNOckpYb2FIclN3UXB4UzdER1BzSGFuNWczLXNEWjlwdVRpdG1HdlkybmFUanVDbFdVRk5oVlIxNS03VGtEZnVPaEZvdzFyQ3hObmFQS1BZOGFfNktENU1hRXpZempRa0VMdV9SMGp0d3ZRSnF4dlFoQUFlVVlHNS1Sd3p6S3V0VVHSAZ4BQVVfeXFMUEZFX3loa1dVWGVPWm1IdmtCMXlhWFZabFM4d3BDWXpGdkpNR19IUzBxdXJiWHVsSnVrMGl4enpyQVZQS3VpVTN2UkdvRnFoZVhLUUdjTjdlcFJPa05relRFTGc2ZFZVYlBEUHZkdVhZU05VZ1ZhOXhtemxndGV5bUU0MFk0Y1dqc093RmpHOFo4R3dZblVqd2tUbkY3SkE?oc=5"
-  },
-  {
    "title": "[속보]코스피, 급반등에 매수 사이드카 발동",
    "source": "중앙일보",
    "time": "2026-07-03T13:51:25+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LTWstM3ZsWFRkdm5jLUZzUFFsR3dkRHlEeWF2bC1weVBEMGlVdmtqdTM0QkM5MWQ3Z20wVFlqb0ZkWjZkVlhRaTF2dlNkclZ4NVJWOElR?oc=5"
   },
   {
-   "title": "[7월 첫째 주 세계경제동향 브리핑] 코스피 8,000선 초반 후퇴…美 증시는 동반 상승",
-   "source": "v.daum.net",
-   "time": "2026-07-04T11:18:46+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBINmFqUEYtZVBVMXoxbkgyQ01Vd3V1WWFZZVY5cGRBOFhjNnYyQnk4Z0FVTDljRlBsclRkbGYwSW4wbTFBb0xMU0s5TmVJT2c?oc=5"
+   "title": "칠레산 연어, 아일랜드산 소고기… ‘高환율’에 마트 매대가 바뀐다 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-07-04T18:53:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFNOckpYb2FIclN3UXB4UzdER1BzSGFuNWczLXNEWjlwdVRpdG1HdlkybmFUanVDbFdVRk5oVlIxNS03VGtEZnVPaEZvdzFyQ3hObmFQS1BZOGFfNktENU1hRXpZempRa0VMdV9SMGp0d3ZRSnF4dlFoQUFlVVlHNS1Sd3p6S3V0VVHSAZ4BQVVfeXFMUEZFX3loa1dVWGVPWm1IdmtCMXlhWFZabFM4d3BDWXpGdkpNR19IUzBxdXJiWHVsSnVrMGl4enpyQVZQS3VpVTN2UkdvRnFoZVhLUUdjTjdlcFJPa05relRFTGc2ZFZVYlBEUHZkdVhZU05VZ1ZhOXhtemxndGV5bUU0MFk0Y1dqc093RmpHOFo4R3dZblVqd2tUbkY3SkE?oc=5"
   },
   {
    "title": "환율 1400원대 고착화…“과거 수준 복귀 어렵다”",
@@ -1168,28 +1168,28 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzNjV1VXFnUGJ6Nno3V3VIZHdVSTNzY3NrdzZrdnJIcnlvU2JKMEgwaHBqZXF2VTZXcno5VWM3T3FqMnRNZ1NhWG5SdzZYNHZDaWgxNHR4V1JpVG1lbEFHR2dTLU5vN08wMEJPWUdXSQ?oc=5"
   },
   {
-   "title": "\"비트코인, 다음 급등장 오려면 1조달러 필요\"",
-   "source": "블루밍비트",
-   "time": "2026-07-04T17:43:18+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tNmotTS13UkxJUFRlTjZudTBNbDBkYm01elRrUlY4R2NReDZFTXhKU3ViUTh4QzhGb0lDdTI2RkI5SmNmZFAyTm9jM01OQk5P?oc=5"
-  },
-  {
    "title": "코스피 이어 코스닥도 '매도 사이드카'‥올해 6번째",
    "source": "MBC 뉴스",
    "time": "2026-07-02T14:13:22+09:00",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCaWQ3bUpnUTJnMHUxZHJaLV9PN0E4Z0RTZVZUSFlRZmFfT2pTNEpVUFI3NndoNldzVDdHNGdHdXpXTzdWd0JuSUNtcTF3UE1uOWxkRW8tci1TdzVLRFBSRFgya2pTdmtIX0hNazV6N1dJVFpf0gF0QVVfeXFMTk9od3MyZUN6YlNWY3NaaGNOQWJIYWlkYjlFLTBKay1vWFo0UHFMU0hERFNZb3YzSGV2bWVDX0RyOGJUc0o0dEs0WHdVdnlrU25MZVhRSDZBVVpfeWdVckZDWXdyZDd2TWdHVXVrRmxtMWIzMVc?oc=5"
   },
   {
-   "title": "\"원·달러 환율, 과거 수준 복귀 어려워…내년 2월까지 고환율 압력\"",
-   "source": "신아일보",
-   "time": "2026-07-04T17:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHUTRxU2cwcWh3NnFFcDRuWWV4WFRoZHNhT09BSERUakp5NFh3RmlPb1RfcTZMY3FmMU5QblNsMUIyMms1dHVxanJRdjlCZWNoYnM4RVFqWHBRTnRxT0RZQXBFUVVkRHBpOXRueklFS1U?oc=5"
+   "title": "\"비트코인, 다음 급등장 오려면 1조달러 필요\"",
+   "source": "블루밍비트",
+   "time": "2026-07-04T17:43:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tNmotTS13UkxJUFRlTjZudTBNbDBkYm01elRrUlY4R2NReDZFTXhKU3ViUTh4QzhGb0lDdTI2RkI5SmNmZFAyTm9jM01OQk5P?oc=5"
   },
   {
-   "title": "“美주식 투자가 끌어올린 환율…내년 2월까지 현재흐름 지속”",
-   "source": "마켓인",
-   "time": "2026-07-04T12:00:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51d1o4c1hNT1JYS21WQ0dHY1dEQTBKUHNDM285ZXlSaFZsRUY0ekNHUXhrOWk3Sm5QN0RjUzlYVVFxaVhPWnN5YWJnNUczUnFFYjZ6ZmxoTmJjaUNBblhiNWQ0ZE5GWkpyZWVGVk1XbU83VWc?oc=5"
+   "title": "\"삼전 가장 많이 던졌다\" 외인, 하루에 1조 '매도'...코스피 2% 뚝 - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-07-01T15:58:44+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBia0ZLSnQxYkdfZjVtTnE4UkxHSkhmeUk2cFA5WXBydmIzZVp1X2NiMVVIdDhDZUxJbVdmaTM4Q0Rla3NDbDlPLUdpb19Pbk9PT1oyV01xT1pKU0t6dG9IM2RiNXo0bFNk0gFuQVVfeXFMT3pkVW1XeVNQMlVmaXFoZDNHWVdBOVd4TzREMG5qNjVsRmhiUklDc3F0YUNRa3VhM2o0RWJuX3lDWE1iWERQVEhTeFh6RXBMZFc2V1lJblU1dDFBNlZCeTczaGVRN1I5Y0NNVnktV1E?oc=5"
+  },
+  {
+   "title": "기관 유입 둔화, 기업 전략 주목 속 비트코인 하락",
+   "source": "Investing.com 한국어",
+   "time": "2026-07-04T17:57:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KS1ctRlZXb29XUm9KR1hobGJwaWhjeDlSSHRuUUFId1BUV0Z2bktXQkNhN25QZU5kTDFWRkdMUy1SRWVtOHExMzhMbkdNLUY3cFRvNlJBRW9CSElTbEVPbjFZdUEzRUJtWFF0V255X25VUjA?oc=5"
   }
  ]
 }
