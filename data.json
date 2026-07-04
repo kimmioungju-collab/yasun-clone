@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T05:39:20.168806+09:00",
+ "updated": "2026-07-05T06:38:27.830697+09:00",
  "quotes": {
   "k200": {
    "price": 1299.3,
@@ -738,21 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63203.82,
+   "price": 63300.39,
    "prev": 62548.598,
    "spark": [
-    62930.8281,
-    63110.7695,
-    63128.7109,
-    63120.9492,
-    63180.3203,
-    63289.0117,
-    63221.1406,
-    63182.9688,
-    63143.0781,
-    63264.0195,
-    63209.0703,
-    63127.6797,
     63132.6484,
     63064.0,
     63059.9805,
@@ -779,26 +767,26 @@
     63146.1484,
     63114.1484,
     63182.7383,
-    63206.2695,
-    63203.8203
+    63160.3398,
+    63239.1406,
+    63268.0117,
+    63281.4805,
+    63180.5586,
+    63183.9805,
+    63162.4688,
+    63297.0781,
+    63328.6797,
+    63383.0898,
+    63386.5195,
+    63321.7188,
+    63294.0,
+    63300.3906
    ]
   },
   "eth": {
-   "price": 1786.99,
+   "price": 1790.82,
    "prev": 1756.8468,
    "spark": [
-    1785.71,
-    1788.1801,
-    1789.3,
-    1790.01,
-    1792.91,
-    1800.4301,
-    1797.8,
-    1797.6,
-    1797.59,
-    1803.16,
-    1799.99,
-    1795.8,
     1795.12,
     1793.02,
     1792.37,
@@ -825,8 +813,20 @@
     1783.62,
     1783.29,
     1785.5601,
-    1787.23,
-    1786.99
+    1786.34,
+    1788.25,
+    1787.4301,
+    1787.65,
+    1785.73,
+    1785.6801,
+    1785.3,
+    1788.8199,
+    1789.65,
+    1791.3,
+    1791.23,
+    1790.78,
+    1790.9,
+    1790.8199
    ]
   },
   "eurkrw": {
@@ -1108,22 +1108,22 @@
  },
  "news": [
   {
+   "title": "국내는 고위험 경고·해외선 코스피 150배…투자자 보호 '구멍'",
+   "source": "매일경제 마켓",
+   "time": "2026-07-05T05:45:04+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CTGZhODM3aVhGVWJYT0F1TVpJYlBIc3V6TDNvSXdvODZqRlNod1JSZ0ZId19QNjRYZks1YUFqR1ViNFRjdldFcm5PNDRfUFR2LUE?oc=5"
+  },
+  {
+   "title": "외인 156조 순매도에 원화가치 6%↓…24시 거래로 환율 안정될까",
+   "source": "연합뉴스",
+   "time": "2026-07-05T05:53:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54YW94dlBNdVU1a2hHM3hpX0RVQ3VsYkRXaXN2YlM2VXFUQk1HbFJmcFBUY3dKZHlXOUF6N3hzeTZ3dUx2bDZwaHkteGNEVnpOQW41N2dSLVA0ZTTSAWBBVV95cUxNcXh5aUYzU1NaZks3bDNIbWQ5SWhRR3NlMlR6NGQ2VnI3OV93MmVQYWVTSWFmYWhoR1hxREY3QmExSldXLXNfbE5uek1uTFJMOUZ2Vk5LTTFHQ3pWbXpzS3U?oc=5"
+  },
+  {
    "title": "NEWS > 상세",
    "source": "부산MBC",
    "time": "2026-07-04T20:36:30+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zNHpzek02c3JGZVk5cGZHa3J4X3VuNXhBSE5sLUFmazBJQzZLb2VqcDcxbFZjdHRFSG4xNDVxX2NDNlIzM2VjWm5kWVd1Sm9TakhldmptdFBnbVJsd2VockZQd3VZZw?oc=5"
-  },
-  {
-   "title": "한국 코스피지수 PER, 글로벌 금융위기 이후 최저 수준으로 하락",
-   "source": "Investing.com 한국어",
-   "time": "2026-07-04T19:44:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ZUFkVXNsdFhZUGN0SV9VZ2ZvNDBoMmw2X1dUY0NZaUV1Q3h6TVpleXpVcFVzVVQ3QlRxOTVjZ3ktUVNJWUwwdXliblA0TUZiWWlEV2piVlhNemsydm1LV1doMHJXWFpvNi1YNm5xVFo?oc=5"
-  },
-  {
-   "title": "\"환율, 과거 수준 복귀 어려워…고환율 장기화 대비해야\"",
-   "source": "연합뉴스TV",
-   "time": "2026-07-04T09:43:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12dVJxZk1YYmFBUC04Rl9wd0JSV1ZaY0JYX2g3WmV4Uzg4WUJBc1UyLXNnRk41blhMbUxndWV5UkpaanZCT0RyLWNnemZWU08tX1BXUFZqLW5LZ3BOeGl0dzRCaUQtcFk?oc=5"
   },
   {
    "title": "6월 반도체보다 더 오른 이 종목…고환율, 증시상승이 효자 - 머니투데이",
@@ -1132,16 +1132,22 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPUkxSYW1QRjZBRzJuQ00wcGdxaHlOenVrTjhPaUlPTEJwUXlNRnJ5OW1HTkVEQ2dtS1BQS2RTTGxYdHQwNjgzRko0NmZzYTJQMU05elA3dzRMOTBGRDhGWk1RbkFWWXpN0gFuQVVfeXFMUFo5bUFySzcyV2JaT0QxTzBocmp1Zl9YQ0txazJhSmxyQXJmWmRTRkE0SkZzaUw5OFU0QUR4eHRfRVhsVGJuMHR5MGtNTW5EY1k1S2VYVGZ1V1Vnb1N6bDdxRURjM3J6UE5JdEotQUE?oc=5"
   },
   {
+   "title": "한국 코스피지수 PER, 글로벌 금융위기 이후 최저 수준으로 하락",
+   "source": "Investing.com 한국어",
+   "time": "2026-07-04T19:44:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ZUFkVXNsdFhZUGN0SV9VZ2ZvNDBoMmw2X1dUY0NZaUV1Q3h6TVpleXpVcFVzVVQ3QlRxOTVjZ3ktUVNJWUwwdXliblA0TUZiWWlEV2piVlhNemsydm1LV1doMHJXWFpvNi1YNm5xVFo?oc=5"
+  },
+  {
    "title": "코스피 2% 내린 8,303...환율 또 금융위기 이후 최고치",
    "source": "YTN",
    "time": "2026-07-01T16:41:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xbXU5Y29VMmxBc3ZPNWRjVVpLcXVSNWcxWEFNd3JZSlhZLUtBRTlHRWs0Ykt4dXlqamZoaG1xQWlIem92VWhzdEFnWXAxaEtmalljR2U2SlVCSHg4M1E?oc=5"
   },
   {
-   "title": "[경제뭔데] 1년전 환율, 1300원대였는데···6일부터 24시간 외환거래 시작되면?",
-   "source": "경향신문",
-   "time": "2026-07-04T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uc2J1b2dMQV8xbm5Jc09IY1U5RHBFVHBEbTVPVXp2OWhwT1JZdUx2RGQwWlpjc1AyYjc4Y0NlYkw5VlppVlJobW5OMHc1RmN4dFdOaDBqTUV1QdIBX0FVX3lxTE1UN3VZLS1uUkVPSkNQQUVzWGNpbHhSVzJsUWdINzFXRlV1djBGQnEybzdmRFQxVFBZQ01GVEo0bkxBVV96d0kyWUc1SFdOUlNHeWFkM3lhbU9mQ0xneXR3?oc=5"
+   "title": "\"환율, 과거 수준 복귀 어려워…고환율 장기화 대비해야\"",
+   "source": "연합뉴스TV",
+   "time": "2026-07-04T09:43:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12dVJxZk1YYmFBUC04Rl9wd0JSV1ZaY0JYX2g3WmV4Uzg4WUJBc1UyLXNnRk41blhMbUxndWV5UkpaanZCT0RyLWNnemZWU08tX1BXUFZqLW5LZ3BOeGl0dzRCaUQtcFk?oc=5"
   },
   {
    "title": "[속보]코스피, 급반등에 매수 사이드카 발동",
@@ -1150,22 +1156,28 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LTWstM3ZsWFRkdm5jLUZzUFFsR3dkRHlEeWF2bC1weVBEMGlVdmtqdTM0QkM5MWQ3Z20wVFlqb0ZkWjZkVlhRaTF2dlNkclZ4NVJWOElR?oc=5"
   },
   {
+   "title": "[경제뭔데] 1년전 환율, 1300원대였는데···6일부터 24시간 외환거래 시작되면?",
+   "source": "경향신문",
+   "time": "2026-07-04T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uc2J1b2dMQV8xbm5Jc09IY1U5RHBFVHBEbTVPVXp2OWhwT1JZdUx2RGQwWlpjc1AyYjc4Y0NlYkw5VlppVlJobW5OMHc1RmN4dFdOaDBqTUV1QdIBX0FVX3lxTE1UN3VZLS1uUkVPSkNQQUVzWGNpbHhSVzJsUWdINzFXRlV1djBGQnEybzdmRFQxVFBZQ01GVEo0bkxBVV96d0kyWUc1SFdOUlNHeWFkM3lhbU9mQ0xneXR3?oc=5"
+  },
+  {
    "title": "7370선까지 밀린 코스피…삼성전자 실적이 반전 키 쥔다[증시전망대]",
    "source": "v.daum.net",
    "time": "2026-07-05T05:31:42+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3TnVFc0QyMFgwWklDRHpUZVNRUmU2VEliV0hBdFFIRGFUbFdKaEQ3cFBwYmg3TWpGWkUwZUMtSDhqZTVMQmhoUFJIY1M4bE0?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0cFhlLVhSMnF3OGk3aEdKWkxJSDlaN0syQXZNWndsTUFIRlBrQzBVX2xLU24yTHh0cEtyc1hnZjl6U0FXUEViLVQ5UGlfZ3BxUENtOA?oc=5"
   },
   {
-   "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 62,653달러, 이더리움 1,772달러",
+   "title": "롤러코스터가 '뉴노멀'…레버리지 여파에 코스피 하루 10% 출렁",
+   "source": "뉴스1",
+   "time": "2026-07-05T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96S0swV2IwZy1VeWdYdFFTTUNDaWNSNWJUT2F1b0REMFY3bXg1c0RURzJNa0J4MThYZUh4emRDX0kzdUF4V1pwc00wYmtsUFY0TXNldHBRRmgzd3RvTGo0?oc=5"
+  },
+  {
+   "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 63,261달러, 이더리움 1,792달러",
    "source": "tokenpost.kr",
-   "time": "2026-07-05T00:02:46+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yMS14bVZRSUtiU3hwYjUxc0NFSi1FMkgzMnNodFRQSF9NNUcyODZkY3FsZWh1QV84M3V2clV5V0JCZkFYTFF1QThvMm8zVVEtdXBPM2dTaEzSAV5BVV95cUxQVTRoUkU1TUZWSEpWXzJHb08tQ0pUNDdveW1QLUNuWndzaHNmV0pNMV9TM0xaSXFOWWtjbDVGWmcxanJBVENKZXVRbzQ3cUhibzdpOV9EUnlRa3ViQXNn?oc=5"
-  },
-  {
-   "title": "역대급 경상흑자에도 급등하는 환율…1600원 갈수도 [주末머니]",
-   "source": "아시아경제",
-   "time": "2026-07-04T19:25:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUkVDVkUwZ0hleHNITjJWQTF0R3dWa1E2OU9KVllVZ0NGazZiN0loaEVYZGZLZENhSF9wdUdWTGY0bDI0cEZGaEFLWVktSG1BSXJfeVU3NDVKbkI2WDRMWQ?oc=5"
+   "time": "2026-07-05T05:00:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjZkZLU3JJUVA2Nm9iWDk2T2pGNElsZjhpZkJVZGx2ekNIbkZiWnBIYVd3dkExWklPNUdXajFUdnRtb0IwSGhYUVZvczZ1TTVHZHNpMWxNRjPSAV5BVV95cUxQbjAtZFplb09WUFNJTEpMdDVsWlRYU3B6dGk3U2VmeFR2dlJLX1BUYkJNU0xIblp1UnhpUTI0dmY4MVhfTUFnbFV1MlBkMnVIOTBNVDhra3d6Ty16QUp3?oc=5"
   },
   {
    "title": "코스피 이어 코스닥도 '매도 사이드카'‥올해 6번째",
@@ -1174,22 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCaWQ3bUpnUTJnMHUxZHJaLV9PN0E4Z0RTZVZUSFlRZmFfT2pTNEpVUFI3NndoNldzVDdHNGdHdXpXTzdWd0JuSUNtcTF3UE1uOWxkRW8tci1TdzVLRFBSRFgya2pTdmtIX0hNazV6N1dJVFpf0gF0QVVfeXFMTk9od3MyZUN6YlNWY3NaaGNOQWJIYWlkYjlFLTBKay1vWFo0UHFMU0hERFNZb3YzSGV2bWVDX0RyOGJUc0o0dEs0WHdVdnlrU25MZVhRSDZBVVpfeWdVckZDWXdyZDd2TWdHVXVrRmxtMWIzMVc?oc=5"
   },
   {
-   "title": "칠레산 연어, 아일랜드산 소고기… ‘高환율’에 마트 매대가 바뀐다 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-07-04T18:53:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFNOckpYb2FIclN3UXB4UzdER1BzSGFuNWczLXNEWjlwdVRpdG1HdlkybmFUanVDbFdVRk5oVlIxNS03VGtEZnVPaEZvdzFyQ3hObmFQS1BZOGFfNktENU1hRXpZempRa0VMdV9SMGp0d3ZRSnF4dlFoQUFlVVlHNS1Sd3p6S3V0VVHSAZ4BQVVfeXFMUEZFX3loa1dVWGVPWm1IdmtCMXlhWFZabFM4d3BDWXpGdkpNR19IUzBxdXJiWHVsSnVrMGl4enpyQVZQS3VpVTN2UkdvRnFoZVhLUUdjTjdlcFJPa05relRFTGc2ZFZVYlBEUHZkdVhZU05VZ1ZhOXhtemxndGV5bUU0MFk0Y1dqc093RmpHOFo4R3dZblVqd2tUbkY3SkE?oc=5"
-  },
-  {
-   "title": "“환율, 계속 높은 수준 유지할 것…과거수준 복귀 어렵다”",
-   "source": "부산일보",
-   "time": "2026-07-04T21:40:44+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pRFJXVnlENTkyV3o3aTVWUDFXdEFNLXBraTRpbnpzQU42ZTFjemE1Q1ZLQlNGQXRHSVFUOEtYTGUwcXNGUGpnUWF1ZzFDV3FrRmRtQXozQng1OEdkSFRoWG44OUxWM1RhZDZ1R0l0VFZFdGlI?oc=5"
-  },
-  {
-   "title": "[7월 첫째 주 세계경제동향 브리핑] 코스피 8,000선 초반 후퇴…美 증시는 동반 상승",
-   "source": "기호일보",
-   "time": "2026-07-04T11:18:46+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzNjV1VXFnUGJ6Nno3V3VIZHdVSTNzY3NrdzZrdnJIcnlvU2JKMEgwaHBqZXF2VTZXcno5VWM3T3FqMnRNZ1NhWG5SdzZYNHZDaWgxNHR4V1JpVG1lbEFHR2dTLU5vN08wMEJPWUdXSQ?oc=5"
+   "title": "역대급 경상흑자에도 급등하는 환율…1600원 갈수도 [주末머니]",
+   "source": "아시아경제",
+   "time": "2026-07-04T19:25:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUkVDVkUwZ0hleHNITjJWQTF0R3dWa1E2OU9KVllVZ0NGazZiN0loaEVYZGZLZENhSF9wdUdWTGY0bDI0cEZGaEFLWVktSG1BSXJfeVU3NDVKbkI2WDRMWQ?oc=5"
   }
  ]
 }
