@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T03:34:37.493977+09:00",
+ "updated": "2026-07-05T04:49:00.188880+09:00",
  "quotes": {
   "k200": {
    "price": 1299.3,
@@ -738,24 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63061.63,
+   "price": 63259.1,
    "prev": 62548.598,
    "spark": [
-    62844.3203,
-    62850.4883,
-    62850.5,
-    62851.9805,
-    62870.9609,
-    62892.7383,
-    62893.3711,
-    62881.2188,
-    62896.6719,
-    62837.0781,
-    62731.1914,
-    62800.0,
-    62812.8398,
-    62817.6016,
-    62851.7109,
     62893.1797,
     62855.4883,
     62855.8516,
@@ -779,29 +764,29 @@
     63209.0703,
     63127.6797,
     63132.6484,
-    63090.1602,
-    63061.6289
+    63064.0,
+    63059.9805,
+    63054.0,
+    63047.6016,
+    63099.25,
+    63113.3398,
+    63171.9883,
+    63177.2305,
+    63119.9102,
+    63204.9883,
+    63259.2383,
+    63317.2695,
+    63363.9883,
+    63253.8984,
+    63315.0703,
+    63269.3086,
+    63259.1016
    ]
   },
   "eth": {
-   "price": 1792.96,
+   "price": 1793.61,
    "prev": 1756.8468,
    "spark": [
-    1794.6,
-    1792.09,
-    1792.74,
-    1789.3101,
-    1789.61,
-    1792.1899,
-    1791.59,
-    1789.72,
-    1789.2,
-    1786.78,
-    1783.47,
-    1785.0699,
-    1787.0699,
-    1786.2,
-    1788.0601,
     1788.95,
     1786.49,
     1785.9,
@@ -825,8 +810,23 @@
     1799.99,
     1795.8,
     1795.12,
-    1794.37,
-    1792.96
+    1793.02,
+    1792.37,
+    1792.7,
+    1791.79,
+    1793.0,
+    1792.25,
+    1792.91,
+    1791.6801,
+    1788.98,
+    1790.35,
+    1793.86,
+    1793.8101,
+    1795.08,
+    1792.99,
+    1795.1,
+    1794.1801,
+    1793.61
    ]
   },
   "eurkrw": {
@@ -1114,12 +1114,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zNHpzek02c3JGZVk5cGZHa3J4X3VuNXhBSE5sLUFmazBJQzZLb2VqcDcxbFZjdHRFSG4xNDVxX2NDNlIzM2VjWm5kWVd1Sm9TakhldmptdFBnbVJsd2VockZQd3VZZw?oc=5"
   },
   {
-   "title": "[경제뭔데] 1년전 환율, 1300원대였는데···6일부터 24시간 외환거래 시작되면?",
-   "source": "경향신문",
-   "time": "2026-07-04T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uc2J1b2dMQV8xbm5Jc09IY1U5RHBFVHBEbTVPVXp2OWhwT1JZdUx2RGQwWlpjc1AyYjc4Y0NlYkw5VlppVlJobW5OMHc1RmN4dFdOaDBqTUV1QdIBX0FVX3lxTE1UN3VZLS1uUkVPSkNQQUVzWGNpbHhSVzJsUWdINzFXRlV1djBGQnEybzdmRFQxVFBZQ01GVEo0bkxBVV96d0kyWUc1SFdOUlNHeWFkM3lhbU9mQ0xneXR3?oc=5"
-  },
-  {
    "title": "\"환율, 과거 수준 복귀 어려워…고환율 장기화 대비해야\"",
    "source": "연합뉴스TV",
    "time": "2026-07-04T09:43:00+09:00",
@@ -1130,6 +1124,12 @@
    "source": "Investing.com 한국어",
    "time": "2026-07-04T19:44:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ZUFkVXNsdFhZUGN0SV9VZ2ZvNDBoMmw2X1dUY0NZaUV1Q3h6TVpleXpVcFVzVVQ3QlRxOTVjZ3ktUVNJWUwwdXliblA0TUZiWWlEV2piVlhNemsydm1LV1doMHJXWFpvNi1YNm5xVFo?oc=5"
+  },
+  {
+   "title": "[경제뭔데] 1년전 환율, 1300원대였는데···6일부터 24시간 외환거래 시작되면?",
+   "source": "경향신문",
+   "time": "2026-07-04T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uc2J1b2dMQV8xbm5Jc09IY1U5RHBFVHBEbTVPVXp2OWhwT1JZdUx2RGQwWlpjc1AyYjc4Y0NlYkw5VlppVlJobW5OMHc1RmN4dFdOaDBqTUV1QdIBX0FVX3lxTE1UN3VZLS1uUkVPSkNQQUVzWGNpbHhSVzJsUWdINzFXRlV1djBGQnEybzdmRFQxVFBZQ01GVEo0bkxBVV96d0kyWUc1SFdOUlNHeWFkM3lhbU9mQ0xneXR3?oc=5"
   },
   {
    "title": "코스피 2% 내린 8,303...환율 또 금융위기 이후 최고치",
@@ -1144,6 +1144,12 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LTWstM3ZsWFRkdm5jLUZzUFFsR3dkRHlEeWF2bC1weVBEMGlVdmtqdTM0QkM5MWQ3Z20wVFlqb0ZkWjZkVlhRaTF2dlNkclZ4NVJWOElR?oc=5"
   },
   {
+   "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 62,653달러, 이더리움 1,772달러",
+   "source": "tokenpost.kr",
+   "time": "2026-07-05T00:02:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yMS14bVZRSUtiU3hwYjUxc0NFSi1FMkgzMnNodFRQSF9NNUcyODZkY3FsZWh1QV84M3V2clV5V0JCZkFYTFF1QThvMm8zVVEtdXBPM2dTaEzSAV5BVV95cUxQVTRoUkU1TUZWSEpWXzJHb08tQ0pUNDdveW1QLUNuWndzaHNmV0pNMV9TM0xaSXFOWWtjbDVGWmcxanJBVENKZXVRbzQ3cUhibzdpOV9EUnlRa3ViQXNn?oc=5"
+  },
+  {
    "title": "\"급등락 범인 잡았다\"…증시 뒤흔든 '델타'의 정체[주末머니]",
    "source": "v.daum.net",
    "time": "2026-07-04T12:43:42+09:00",
@@ -1154,12 +1160,6 @@
    "source": "아시아경제",
    "time": "2026-07-04T19:25:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUkVDVkUwZ0hleHNITjJWQTF0R3dWa1E2OU9KVllVZ0NGazZiN0loaEVYZGZLZENhSF9wdUdWTGY0bDI0cEZGaEFLWVktSG1BSXJfeVU3NDVKbkI2WDRMWQ?oc=5"
-  },
-  {
-   "title": "칠레산 연어, 아일랜드산 소고기… ‘高환율’에 마트 매대가 바뀐다 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-07-04T18:53:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFNOckpYb2FIclN3UXB4UzdER1BzSGFuNWczLXNEWjlwdVRpdG1HdlkybmFUanVDbFdVRk5oVlIxNS03VGtEZnVPaEZvdzFyQ3hObmFQS1BZOGFfNktENU1hRXpZempRa0VMdV9SMGp0d3ZRSnF4dlFoQUFlVVlHNS1Sd3p6S3V0VVHSAZ4BQVVfeXFMUEZFX3loa1dVWGVPWm1IdmtCMXlhWFZabFM4d3BDWXpGdkpNR19IUzBxdXJiWHVsSnVrMGl4enpyQVZQS3VpVTN2UkdvRnFoZVhLUUdjTjdlcFJPa05relRFTGc2ZFZVYlBEUHZkdVhZU05VZ1ZhOXhtemxndGV5bUU0MFk0Y1dqc093RmpHOFo4R3dZblVqd2tUbkY3SkE?oc=5"
   },
   {
    "title": "코스피 이어 코스닥도 '매도 사이드카'‥올해 6번째",
@@ -1174,22 +1174,22 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBia0ZLSnQxYkdfZjVtTnE4UkxHSkhmeUk2cFA5WXBydmIzZVp1X2NiMVVIdDhDZUxJbVdmaTM4Q0Rla3NDbDlPLUdpb19Pbk9PT1oyV01xT1pKU0t6dG9IM2RiNXo0bFNk0gFuQVVfeXFMT3pkVW1XeVNQMlVmaXFoZDNHWVdBOVd4TzREMG5qNjVsRmhiUklDc3F0YUNRa3VhM2o0RWJuX3lDWE1iWERQVEhTeFh6RXBMZFc2V1lJblU1dDFBNlZCeTczaGVRN1I5Y0NNVnktV1E?oc=5"
   },
   {
+   "title": "칠레산 연어, 아일랜드산 소고기… ‘高환율’에 마트 매대가 바뀐다 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-07-04T18:53:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFNOckpYb2FIclN3UXB4UzdER1BzSGFuNWczLXNEWjlwdVRpdG1HdlkybmFUanVDbFdVRk5oVlIxNS03VGtEZnVPaEZvdzFyQ3hObmFQS1BZOGFfNktENU1hRXpZempRa0VMdV9SMGp0d3ZRSnF4dlFoQUFlVVlHNS1Sd3p6S3V0VVHSAZ4BQVVfeXFMUEZFX3loa1dVWGVPWm1IdmtCMXlhWFZabFM4d3BDWXpGdkpNR19IUzBxdXJiWHVsSnVrMGl4enpyQVZQS3VpVTN2UkdvRnFoZVhLUUdjTjdlcFJPa05relRFTGc2ZFZVYlBEUHZkdVhZU05VZ1ZhOXhtemxndGV5bUU0MFk0Y1dqc093RmpHOFo4R3dZblVqd2tUbkY3SkE?oc=5"
+  },
+  {
+   "title": "“환율, 계속 높은 수준 유지할 것…과거수준 복귀 어렵다”",
+   "source": "부산일보",
+   "time": "2026-07-04T21:40:44+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pRFJXVnlENTkyV3o3aTVWUDFXdEFNLXBraTRpbnpzQU42ZTFjemE1Q1ZLQlNGQXRHSVFUOEtYTGUwcXNGUGpnUWF1ZzFDV3FrRmRtQXozQng1OEdkSFRoWG44OUxWM1RhZDZ1R0l0VFZFdGlI?oc=5"
+  },
+  {
    "title": "[7월 첫째 주 세계경제동향 브리핑] 코스피 8,000선 초반 후퇴…美 증시는 동반 상승",
    "source": "기호일보",
    "time": "2026-07-04T11:18:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzNjV1VXFnUGJ6Nno3V3VIZHdVSTNzY3NrdzZrdnJIcnlvU2JKMEgwaHBqZXF2VTZXcno5VWM3T3FqMnRNZ1NhWG5SdzZYNHZDaWgxNHR4V1JpVG1lbEFHR2dTLU5vN08wMEJPWUdXSQ?oc=5"
-  },
-  {
-   "title": "환율 1400원대 고착화…“과거 수준 복귀 어렵다”",
-   "source": "채널A",
-   "time": "2026-07-04T15:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04T1Y0WlRSRGN6cVctR3ZmbzlSSzB6WGlxeWNfTEVBb3FCc1lMeWp6TWZtX1JPX2lIejQwMkd5dWV2b1p5b1BNT0xEMmR4Wmt4b2hQT2lLaGlOdjVTR1HSAWNBVV95cUxNOWZPVWt1Wmpkam14dTRud3VmbC16ZEhScmpUS2FrZlFkUWlTUmRMZ1o2ZmpfcV9QWVZZNERCcTVkUGFoNm1YeVRKRktxaWg5cWxCd0FuSlI1SlZWeTVKVmEtTDQ?oc=5"
-  },
-  {
-   "title": "\"활성 비트코인 투자자, 평균 20% 손실…바닥은 아직\"",
-   "source": "블루밍비트",
-   "time": "2026-07-04T19:20:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhcjBuc1IyYm1WVmhKMmlSRkFDMEg5Wnl4WjdidFN4NV9YRGtLcU4xQUJrb3MtTzRpOWtna2NZMlhPMHRITkZ6WVprS1pvNkRR?oc=5"
   }
  ]
 }
