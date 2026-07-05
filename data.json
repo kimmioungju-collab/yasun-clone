@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T21:00:56.981110+09:00",
+ "updated": "2026-07-05T23:00:04.371517+09:00",
  "quotes": {
   "k200": {
    "price": 1299.3,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1530.15,
+   "price": 1529.16,
    "prev": 1537.97,
    "spark": [
     1528.87,
@@ -451,83 +451,59 @@
    ]
   },
   "btc": {
-   "price": 62584.0,
+   "price": 62738.81,
    "prev": 63087.742,
    "spark": [
-    62905.9219,
-    62863.8711,
-    62858.3398,
-    62839.9883,
-    62841.2383,
-    62815.1016,
-    62815.4883,
-    62696.4688,
-    62679.1406,
-    62667.5195,
-    62524.0,
-    62468.1484,
-    62527.0781,
-    62529.3008,
-    62569.5,
-    62597.9297,
-    62610.8711,
-    62634.8789,
-    62638.8203,
-    62664.0117,
-    62638.0781,
-    62618.3281,
-    62622.5586,
-    62634.75,
-    62684.1797,
+    62684.1719,
     62699.9805,
-    62700.7812,
+    62700.7891,
     62638.4688,
     62654.4805,
     62654.1914,
-    62610.2305,
-    62576.3398,
+    62604.0898,
+    62579.3516,
     62573.2812,
-    62651.0117,
-    62649.2695,
-    62658.0898,
-    62631.8008,
-    62610.3398,
-    62577.1602,
-    62584.0
+    62651.0,
+    62648.0,
+    62628.4492,
+    62631.8086,
+    62610.3203,
+    62575.6016,
+    62540.2109,
+    62560.0586,
+    62567.3711,
+    62594.0312,
+    62684.1484,
+    62699.3984,
+    62613.3086,
+    62674.9219,
+    62658.0,
+    62677.6484,
+    62684.9883,
+    62692.4219,
+    62662.5898,
+    62718.0391,
+    62678.0,
+    62671.8398,
+    62707.2812,
+    62639.6602,
+    62648.6602,
+    62663.5391,
+    62694.0312,
+    62752.5898,
+    62741.2383,
+    62737.5312,
+    62738.8086
    ]
   },
   "eth": {
-   "price": 1757.72,
+   "price": 1764.75,
    "prev": 1779.066,
    "spark": [
-    1768.21,
-    1766.75,
-    1765.92,
-    1764.88,
-    1765.9,
-    1764.75,
-    1765.33,
-    1761.36,
-    1759.8101,
-    1759.26,
-    1753.99,
-    1750.95,
-    1752.9,
-    1754.5,
-    1756.46,
-    1756.98,
-    1757.14,
-    1757.6,
-    1758.5,
-    1758.73,
-    1757.4,
-    1757.34,
-    1757.9,
-    1757.86,
     1759.3,
     1759.52,
     1759.98,
-    1760.5601,
+    1760.1801,
     1762.0,
     1762.47,
     1760.91,
@@ -535,11 +511,35 @@
     1757.9,
     1760.0699,
     1760.49,
-    1759.89,
-    1759.11,
+    1759.98,
+    1759.0601,
     1758.4,
     1758.6,
-    1757.72
+    1755.77,
+    1756.9,
+    1758.49,
+    1759.99,
+    1763.48,
+    1764.7,
+    1763.17,
+    1763.8101,
+    1763.17,
+    1764.58,
+    1763.79,
+    1763.4301,
+    1763.54,
+    1764.42,
+    1764.15,
+    1764.0699,
+    1763.4,
+    1762.15,
+    1761.88,
+    1762.12,
+    1763.58,
+    1764.71,
+    1764.79,
+    1764.35,
+    1764.75
    ]
   },
   "eurkrw": {
@@ -635,7 +635,7 @@
    ]
   },
   "cnykrw": {
-   "price": 225.607,
+   "price": 225.619,
    "prev": 226.552,
    "spark": [
     225.601,
@@ -786,28 +786,28 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11U2pMUzlXRVVyZU9KZnZtS3BQam9PbW9laFVvVGhhRzQ1cG1vYUxYczcyUUNnV2VMWDREcUpaOXlwZ0dodHhTWWFaQmZqdU4xXzM5dWhuZ1kwclRRWTM5Nk1zRExBd2U4QW16UEI4RnpMMFE?oc=5"
   },
   {
+   "title": "“환율 안정될까, 더 흔들릴까”...내일부터 외환시장 24시간 열린다",
+   "source": "에너지경제신문",
+   "time": "2026-07-05T20:13:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pTy1XX3BtcTVBSTNYS1ZGUkVYdjdxWVpOTm9wQmI1WENFWDJSSkpzcHdYUHl3X2VOZjF1eVdTNm0xam5Icl90bEtDaEo0NzM1OXRJaDFfNUN5M05ybVVaeWREVQ?oc=5"
+  },
+  {
    "title": "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장",
    "source": "연합인포맥스",
    "time": "2026-07-05T13:03:19+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9USlBtdVlDcFM4VG9BRGNmcVNselB0aTY2SVEzdmtaaW9pR20yQXBQWEE1TnhQYkQ1S2hrdjFhaGQwMzZRdW92T2RnUVk2bDlVaUNOWnJ0Y3R4MVR4LURSMU1lUjZCeXZadHU1S0U0WTA?oc=5"
   },
   {
-   "title": "삼전 잠정 실적, 하이닉스 나스닥行… ‘반도체 투톱’ 운명의 한 주",
-   "source": "조선일보",
-   "time": "2026-07-05T14:30:15+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZWVKYVU0ZWZqZ0N3TEsxN0J6OW1La0dIU3ktdGl5TjY2NTNQWkdKQURyQUdHdXJfRkRrTG1OTF9LdGtyLXBicHZGSDJfQ19heGtvel9vTmlxRGVlNmF6NUNQQkl0ZlZWdUlLWGxTa1pBOWtXUkxwY3NkMVRxUTRzRQ?oc=5"
-  },
-  {
-   "title": "상반기 코스피 상승률 1위, 삼전·닉스 아닌 '삼성전기'‥756% 상승",
-   "source": "MBC 뉴스",
-   "time": "2026-07-05T11:08:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYW15VVRYOFJTN20tUkFMVE91REZLakFGckJWV2VtNmRMcl96UWNmaV9Hb1JfbERWd2ZFTFdPdzd4a0ZXUkV2REVuTE5jdm8wY3YxMjZsS3BqeU9UNE1nUkRsc3g3aUJHbVRqUTZtUVdqeGxv0gF0QVVfeXFMT2FoZUpBajJNTlFvMG1zdXZMRFpMS0Q2UU5RRXZWTDZoQlQ5N0czV19BTnFNQW9MRGM0X1c0Z2g3QjRtS2UxZHhyZjFpazJpRFZnZWRMLXZHeTVmQXFFMXpKd1VhdlF5VWxDa1lKVmQwdzBzazQ?oc=5"
-  },
-  {
    "title": "코스피 8천선에도 '1조클럽' 감소⋯대형주 쏠림 심화",
    "source": "v.daum.net",
    "time": "2026-07-05T20:50:30+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zM09KeGNpQmVrZlVzV1BieUxyenJ0VHNtay1qS1ZoMmJGcVZxMm9uWWY3WExEdWZualZIUFJqWWV3U2VpVVVBNEZ0ZS1JRDQ?oc=5"
+  },
+  {
+   "title": "삼전 잠정 실적, 하이닉스 나스닥行… ‘반도체 투톱’ 운명의 한 주",
+   "source": "조선일보",
+   "time": "2026-07-05T14:30:15+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZWVKYVU0ZWZqZ0N3TEsxN0J6OW1La0dIU3ktdGl5TjY2NTNQWkdKQURyQUdHdXJfRkRrTG1OTF9LdGtyLXBicHZGSDJfQ19heGtvel9vTmlxRGVlNmF6NUNQQkl0ZlZWdUlLWGxTa1pBOWtXUkxwY3NkMVRxUTRzRQ?oc=5"
   },
   {
    "title": "상반기 변동성 역대 최고 찍은 ‘롤러코스피’",
@@ -828,16 +828,16 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuY0tDTlMzd3FTT1E0UTVTTC11QjJUeUdnME55MlJIODlNdVh4dGZjc01GeVp1N0NkMU9rVlIyQlltN0NSd2s5Yk1oMi1DSFZhakVvOEZCTUtMUWlHb2xhbdIBYEFVX3lxTFBuY0tDTlMzd3FTT1E0UTVTTC11QjJUeUdnME55MlJIODlNdVh4dGZjc01GeVp1N0NkMU9rVlIyQlltN0NSd2s5Yk1oMi1DSFZhakVvOEZCTUtMUWlHb2xhbQ?oc=5"
   },
   {
-   "title": "“환율 안정될까, 더 흔들릴까”...내일부터 외환시장 24시간 열린다",
-   "source": "에너지경제신문",
-   "time": "2026-07-05T20:13:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HUDdrN0kzYXJGVjYxNHB5aTJLV1B1SkZQS0pTTGFndW5oTE5yTTN3eXJPcFZ2VlJHZEI3YjJBMk9CV2Zwd3luVHpHVEpycVhUTDNRaEFvb3Nfb3hpaWtvNVRR?oc=5"
-  },
-  {
    "title": "[김대호 인물] MSTR 마이크로 세일러 \"비트코인 전도사\"",
    "source": "글로벌이코노믹",
    "time": "2026-07-05T11:05:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkpUMmV3Nzkyc2ZBVXRqYVB4X0tCSTJNWlJtLW4wTFZuUDd3Zk9mREszV3V1emtmcFkzalJLeUxxTERnMjBlNFc5T0phcmwtTGE1YjFWNEYtMGozSzYwOU9zQlQ4eVpEMEtFVURud2FTbm5ZUnV1M0toX1lpLWlTMnJzT1BCbTl1?oc=5"
+  },
+  {
+   "title": "상반기 코스피 상승률 1위, 삼전·닉스 아닌 '삼성전기'‥756% 상승",
+   "source": "MBC 뉴스",
+   "time": "2026-07-05T11:08:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYW15VVRYOFJTN20tUkFMVE91REZLakFGckJWV2VtNmRMcl96UWNmaV9Hb1JfbERWd2ZFTFdPdzd4a0ZXUkV2REVuTE5jdm8wY3YxMjZsS3BqeU9UNE1nUkRsc3g3aUJHbVRqUTZtUVdqeGxv0gF0QVVfeXFMT2FoZUpBajJNTlFvMG1zdXZMRFpMS0Q2UU5RRXZWTDZoQlQ5N0czV19BTnFNQW9MRGM0X1c0Z2g3QjRtS2UxZHhyZjFpazJpRFZnZWRMLXZHeTVmQXFFMXpKd1VhdlF5VWxDa1lKVmQwdzBzazQ?oc=5"
   },
   {
    "title": "코스피 2% 내린 8,303...환율 또 금융위기 이후 최고치",
@@ -846,10 +846,10 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xbXU5Y29VMmxBc3ZPNWRjVVpLcXVSNWcxWEFNd3JZSlhZLUtBRTlHRWs0Ykt4dXlqamZoaG1xQWlIem92VWhzdEFnWXAxaEtmalljR2U2SlVCSHg4M1E?oc=5"
   },
   {
-   "title": "코스피 8000선에도 줄어든 '1조클럽'…\"대형주 위주 양극화 현상 심화\"",
-   "source": "프라임경제",
-   "time": "2026-07-05T14:35:54+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wcG5GLWhJeXdMVW13VWJTeDdsQnhabHBhaWRXVjhraEhQZmkzRVBBNnYxOUNHbnNoaGVxMXhoQ0xQRXNtTVpUM29DQkd1UVdBXzlTeGpaS3BveW0wT1BEbTFoUVV4cUdaZi1fNA?oc=5"
+   "title": "[속보]코스피, 급반등에 매수 사이드카 발동",
+   "source": "중앙일보",
+   "time": "2026-07-03T13:51:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LTWstM3ZsWFRkdm5jLUZzUFFsR3dkRHlEeWF2bC1weVBEMGlVdmtqdTM0QkM5MWQ3Z20wVFlqb0ZkWjZkVlhRaTF2dlNkclZ4NVJWOElR?oc=5"
   },
   {
    "title": "한국 코스피지수 PER, 글로벌 금융위기 이후 최저 수준으로 하락",
