@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T14:28:13.324218+09:00",
+ "updated": "2026-07-05T17:26:00.987551+09:00",
  "quotes": {
   "k200": {
    "price": 1299.3,
@@ -451,95 +451,95 @@
    ]
   },
   "btc": {
-   "price": 62716.0,
+   "price": 62888.34,
    "prev": 63087.742,
    "spark": [
-    62694.4414,
-    62655.0703,
-    62701.1211,
-    62710.9297,
-    62705.7109,
-    62584.1094,
-    62576.3594,
-    62581.3086,
-    62639.9805,
-    62694.9883,
-    62707.9297,
-    62707.1914,
-    62693.3516,
-    62668.6602,
-    62612.4609,
-    62634.8711,
-    62710.0,
-    62681.1914,
-    62715.9688,
-    62715.9883,
-    62711.2109,
-    62695.6719,
-    62700.0,
-    62733.9297,
-    62756.5703,
-    62812.0,
-    62810.0117,
-    62852.9414,
-    62843.3984,
-    62879.9883,
-    62805.5,
-    62757.1016,
-    62776.4414,
-    62723.4492,
-    62703.8008,
     62691.6211,
     62729.1406,
     62690.8906,
-    62716.0,
-    62716.0
+    62693.9805,
+    62733.1797,
+    62693.3984,
+    62619.4492,
+    62659.9883,
+    62692.9883,
+    62679.0117,
+    62647.9883,
+    62626.3203,
+    62665.3281,
+    62721.1094,
+    62732.8984,
+    62740.6406,
+    62769.2695,
+    62714.8711,
+    62700.0117,
+    62720.0,
+    62731.1797,
+    62722.0586,
+    62718.8086,
+    62713.8398,
+    62702.5,
+    62690.3008,
+    62730.3594,
+    62695.0586,
+    62783.0898,
+    62829.8203,
+    62863.4805,
+    62868.0117,
+    62949.0391,
+    62958.4414,
+    62967.5195,
+    62929.3711,
+    62955.7617,
+    62915.1602,
+    62893.3008,
+    62888.3398
    ]
   },
   "eth": {
-   "price": 1762.74,
+   "price": 1766.41,
    "prev": 1779.066,
    "spark": [
-    1761.04,
-    1760.05,
-    1762.9301,
-    1763.83,
-    1762.61,
-    1757.01,
-    1757.2,
-    1757.75,
-    1759.09,
-    1759.99,
-    1761.2,
-    1761.49,
-    1760.41,
-    1758.6,
-    1756.8101,
-    1758.2,
-    1760.7,
-    1759.33,
-    1760.58,
-    1760.49,
-    1759.9399,
-    1759.87,
-    1762.4,
-    1763.02,
-    1764.73,
-    1766.4301,
-    1765.62,
-    1768.6899,
-    1768.21,
-    1769.05,
-    1767.8199,
-    1766.0,
-    1766.08,
-    1764.66,
-    1763.73,
     1763.91,
     1764.61,
     1761.8101,
-    1763.1801,
-    1762.74
+    1763.3,
+    1764.1,
+    1762.53,
+    1760.4,
+    1761.78,
+    1763.98,
+    1764.1801,
+    1762.41,
+    1761.17,
+    1762.49,
+    1763.11,
+    1762.09,
+    1763.38,
+    1766.21,
+    1764.08,
+    1763.8101,
+    1763.8,
+    1762.98,
+    1763.09,
+    1763.1899,
+    1762.8,
+    1761.6899,
+    1762.04,
+    1763.4,
+    1761.45,
+    1764.25,
+    1765.11,
+    1766.09,
+    1765.4301,
+    1767.9399,
+    1768.36,
+    1767.91,
+    1767.2,
+    1767.4,
+    1766.78,
+    1766.62,
+    1766.41
    ]
   },
   "eurkrw": {
@@ -792,6 +792,24 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9USlBtdVlDcFM4VG9BRGNmcVNselB0aTY2SVEzdmtaaW9pR20yQXBQWEE1TnhQYkQ1S2hrdjFhaGQwMzZRdW92T2RnUVk2bDlVaUNOWnJ0Y3R4MVR4LURSMU1lUjZCeXZadHU1S0U0WTA?oc=5"
   },
   {
+   "title": "상반기 코스피 상승률 1위, 삼전·닉스 아닌 '삼성전기'‥756% 상승",
+   "source": "MBC 뉴스",
+   "time": "2026-07-05T11:08:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYW15VVRYOFJTN20tUkFMVE91REZLakFGckJWV2VtNmRMcl96UWNmaV9Hb1JfbERWd2ZFTFdPdzd4a0ZXUkV2REVuTE5jdm8wY3YxMjZsS3BqeU9UNE1nUkRsc3g3aUJHbVRqUTZtUVdqeGxv0gF0QVVfeXFMT2FoZUpBajJNTlFvMG1zdXZMRFpMS0Q2UU5RRXZWTDZoQlQ5N0czV19BTnFNQW9MRGM0X1c0Z2g3QjRtS2UxZHhyZjFpazJpRFZnZWRMLXZHeTVmQXFFMXpKd1VhdlF5VWxDa1lKVmQwdzBzazQ?oc=5"
+  },
+  {
+   "title": "삼전 잠정 실적, 하이닉스 나스닥行… ‘반도체 투톱’ 운명의 한 주",
+   "source": "조선일보",
+   "time": "2026-07-05T14:30:15+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZWVKYVU0ZWZqZ0N3TEsxN0J6OW1La0dIU3ktdGl5TjY2NTNQWkdKQURyQUdHdXJfRkRrTG1OTF9LdGtyLXBicHZGSDJfQ19heGtvel9vTmlxRGVlNmF6NUNQQkl0ZlZWdUlLWGxTa1pBOWtXUkxwY3NkMVRxUTRzRQ?oc=5"
+  },
+  {
+   "title": "환율 고공행진",
+   "source": "연합뉴스",
+   "time": "2026-07-05T13:47:32+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuY0tDTlMzd3FTT1E0UTVTTC11QjJUeUdnME55MlJIODlNdVh4dGZjc01GeVp1N0NkMU9rVlIyQlltN0NSd2s5Yk1oMi1DSFZhakVvOEZCTUtMUWlHb2xhbdIBYEFVX3lxTFBuY0tDTlMzd3FTT1E0UTVTTC11QjJUeUdnME55MlJIODlNdVh4dGZjc01GeVp1N0NkMU9rVlIyQlltN0NSd2s5Yk1oMi1DSFZhakVvOEZCTUtMUWlHb2xhbQ?oc=5"
+  },
+  {
    "title": "“성장 자신 없으면 돈 쌓지말고 배당부터”…8천피에도 한국증시가 싼 이유 [여의도란도란]",
    "source": "매일경제 마켓",
    "time": "2026-07-05T13:29:44+09:00",
@@ -804,16 +822,10 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkpUMmV3Nzkyc2ZBVXRqYVB4X0tCSTJNWlJtLW4wTFZuUDd3Zk9mREszV3V1emtmcFkzalJLeUxxTERnMjBlNFc5T0phcmwtTGE1YjFWNEYtMGozSzYwOU9zQlQ4eVpEMEtFVURud2FTbm5ZUnV1M0toX1lpLWlTMnJzT1BCbTl1?oc=5"
   },
   {
-   "title": "상반기 코스피 상승률 1위, 삼전·닉스 아닌 '삼성전기'‥756% 상승",
-   "source": "MBC 뉴스",
-   "time": "2026-07-05T11:08:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYW15VVRYOFJTN20tUkFMVE91REZLakFGckJWV2VtNmRMcl96UWNmaV9Hb1JfbERWd2ZFTFdPdzd4a0ZXUkV2REVuTE5jdm8wY3YxMjZsS3BqeU9UNE1nUkRsc3g3aUJHbVRqUTZtUVdqeGxv0gF0QVVfeXFMT2FoZUpBajJNTlFvMG1zdXZMRFpMS0Q2UU5RRXZWTDZoQlQ5N0czV19BTnFNQW9MRGM0X1c0Z2g3QjRtS2UxZHhyZjFpazJpRFZnZWRMLXZHeTVmQXFFMXpKd1VhdlF5VWxDa1lKVmQwdzBzazQ?oc=5"
-  },
-  {
-   "title": "코스피 8천피 회복에도…'1조클럽' 종목 6천피 때보다 91개 적어",
-   "source": "연합뉴스",
-   "time": "2026-07-05T06:15:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2SmdBdFBGaTFIRXpwdW9yaU0zd3NWdTc2ZHl0UzJBUmFxTUprUUQyZE51V3ViUjVxcHNNUWRsTDNFLWJ5UE5ybXBGbEZuNDBHaVl1VVlRaTFYdlHSAWBBVV95cUxPcjlVVzlUNktYOEpmVzhDX2NTV1Y4b05sUW9mYTJia1dBSFJGRWVpNE1GM3NTbzFEaHhTUEpkdWxXaXRNYnNEdHVYV3V0NWx4WlY1ZlpDcXRncDBCcXY0S3g?oc=5"
+   "title": "코빗, 또 비트코인 매각…법인 매수 막힌 시장에 매도만 쌓인다",
+   "source": "v.daum.net",
+   "time": "2026-07-05T15:08:30+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taHFyTWhEQkM2bk5IQ0xNOWdaN1h5NEpiYnVUTXROaDZEd3Fia0Rhd3hBckFSMzNLUUIzNUYzVm1pbWhRN0dLSk84QXREZmc?oc=5"
   },
   {
    "title": "비트코인 하향세 끝나나…ETF 유출 멈추고 고래 매집",
@@ -822,46 +834,34 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NSmZ5YTdnSWx4dTRYVURYZGxySjcwTGZrNEVQMTk1XzBwbDZYSDRKeUs2X1RlZjdCV3h0QlFsYklKdFpncTZteFVQaUlqb3VtV3lUeVRR?oc=5"
   },
   {
-   "title": "상반기 코스피 VI 발동 역대 최대…투자위험종목은 작년의 20배",
-   "source": "v.daum.net",
-   "time": "2026-07-05T09:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qNlJTeVc2S3R4WW9uZldHZ2hyRG1FWWg2SHJkOXBxMHh6UlVYdUFDdExUZFRtQlRFZEVxeURCb091cTRfSTZyWWc0RjUzVDQ?oc=5"
-  },
-  {
-   "title": "7일 삼성 잠정 실적, 10일 하이닉스 나스닥行… 다음 주가 ‘메모리 투톱’ 운명 가른다",
-   "source": "조선일보",
-   "time": "2026-07-05T11:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZWVKYVU0ZWZqZ0N3TEsxN0J6OW1La0dIU3ktdGl5TjY2NTNQWkdKQURyQUdHdXJfRkRrTG1OTF9LdGtyLXBicHZGSDJfQ19heGtvel9vTmlxRGVlNmF6NUNQQkl0ZlZWdUlLWGxTa1pBOWtXUkxwY3NkMVRxUTRzRQ?oc=5"
-  },
-  {
-   "title": "삼전 실적발표·하닉 나스닥 데뷔 [7/6~7/10 투자캘린더]│Global Money Club",
-   "source": "중앙일보",
-   "time": "2026-07-05T12:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hYTM1RTRyRHVNR2pTODFMYjljbmhzd2R3MFgxRnc5cTkzYmlITzlINk9XeFdoMV9mSXBWbHJzMVdUS0FwVmZRMTVGbTZkVGxrZUJCNE9SdHNSZ0E?oc=5"
-  },
-  {
    "title": "코스피 2% 내린 8,303...환율 또 금융위기 이후 최고치",
    "source": "YTN",
    "time": "2026-07-01T16:41:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xbXU5Y29VMmxBc3ZPNWRjVVpLcXVSNWcxWEFNd3JZSlhZLUtBRTlHRWs0Ykt4dXlqamZoaG1xQWlIem92VWhzdEFnWXAxaEtmalljR2U2SlVCSHg4M1E?oc=5"
   },
   {
-   "title": "[경제뭔데] 1년전 환율, 1300원대였는데···6일부터 24시간 외환거래 시작되면?",
-   "source": "경향신문",
-   "time": "2026-07-04T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uc2J1b2dMQV8xbm5Jc09IY1U5RHBFVHBEbTVPVXp2OWhwT1JZdUx2RGQwWlpjc1AyYjc4Y0NlYkw5VlppVlJobW5OMHc1RmN4dFdOaDBqTUV1QdIBX0FVX3lxTE1UN3VZLS1uUkVPSkNQQUVzWGNpbHhSVzJsUWdINzFXRlV1djBGQnEybzdmRFQxVFBZQ01GVEo0bkxBVV96d0kyWUc1SFdOUlNHeWFkM3lhbU9mQ0xneXR3?oc=5"
+   "title": "1천500원대 환율 여름휴가…대구 해외여행객 ‘지갑’ 닫힐까",
+   "source": "v.daum.net",
+   "time": "2026-07-05T14:15:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TX1gxUnRCZXNqUXJTZTVXQ0hlckFFRVlXOHFjZVU3dTVYNXdGVlY1eWJGTXNlTGRPOHpMQWI4MmJHUGZLNDN4STdtU1lmY1k?oc=5"
   },
   {
-   "title": "다들 외면하고 있는 환율 문제가 되는 순간 다 던집니다",
-   "source": "연합인포맥스",
-   "time": "2026-07-05T07:05:39+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jWjN0ek81dTRRWU9HTmc0STE2ck1sV2Zsc1Fzdi1ENGNHellBRWNnNzZoUHpJbjNOMURRekJhNEVtVFZ1UG9Yam9RdDJEdXZTMWNvTFdHMld6U1Vtd1FEQ0k3T19uU3d0QkUydm1MaGLSAXRBVV95cUxOV3J0M3ViVkgzOHdzdVNiQzlhUWkyZFVHR1ZpSnF2Y21BNENFbm9oa0ZvOTZ0TldkTmExM0NhOVNUblN4V1dKNkpMdk1la3NQZnBpYkJ4VkZIend0ZEZLQnBiYlcxU0pwbENoWUlsYW5tSFB1Vw?oc=5"
-  },
-  {
-   "title": "국내는 고위험 경고·해외선 코스피 150배…투자자 보호 '구멍'",
+   "title": "코스피 8천피 회복에도…'1조클럽' 종목 6천피 때보다 91개 적어",
    "source": "연합뉴스",
-   "time": "2026-07-05T05:45:04+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWeXUzamhiMDZXcTFicnVzZm5uMWQxNklVLVZ6Q2YyNEdwdUMtZjRQdVZVOG83RW1UYWdpN2NSME8zX1JURENTY2tqMkF2MFNpZTI2ZXRDM2pMaknSAWBBVV95cUxNWFZwVktSVV9QaldReWhaTDJ4SVNwQ1BOWXlRdmxHRExqajQ5Vl9Tc29kazN2ZDEybW01TV92OTlIWHkzU3RXYlN1WEN3VHBoOEdSc3I3dlpDakd1dFpaUnk?oc=5"
+   "time": "2026-07-05T06:15:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2SmdBdFBGaTFIRXpwdW9yaU0zd3NWdTc2ZHl0UzJBUmFxTUprUUQyZE51V3ViUjVxcHNNUWRsTDNFLWJ5UE5ybXBGbEZuNDBHaVl1VVlRaTFYdlHSAWBBVV95cUxPcjlVVzlUNktYOEpmVzhDX2NTV1Y4b05sUW9mYTJia1dBSFJGRWVpNE1GM3NTbzFEaHhTUEpkdWxXaXRNYnNEdHVYV3V0NWx4WlY1ZlpDcXRncDBCcXY0S3g?oc=5"
+  },
+  {
+   "title": "[주간증시전망] 코스피, ’PER 6배’ 역대급 저평가…삼성전자 실적 ’촉각’ By EBN",
+   "source": "Investing.com 한국어",
+   "time": "2026-07-05T06:43:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oZDJmSXMyQ2oxZFJLR2t2UnF4WXdCQksxOGd4WWpEYmZlOUdQU1dBcmdTdUUwMEIzaHJITlVSMVdWX044RGNrR1U0S0twVjVFSjFPYWt2aHlCSHhRVkszSEppT0tzNEp0LUtiR2RmZDc?oc=5"
+  },
+  {
+   "title": "M7 지고 P7 뜬다 … 반도체·인프라가 美 증시 주도주로",
+   "source": "매일경제 마켓",
+   "time": "2026-07-05T17:13:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42bC1NXzVxbkU3YVVaREJIUk55d2dUeWVJVGxCcnlvS2dyVkp0czJMWXJlTEUyNXB3OVNwaEtTckJkWTUySURMaGc1cVRRdXVEMWc?oc=5"
   }
  ]
 }
