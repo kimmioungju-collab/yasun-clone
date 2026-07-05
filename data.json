@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T02:38:08.307036+09:00",
+ "updated": "2026-07-06T03:42:00.067082+09:00",
  "quotes": {
   "k200": {
    "price": 1299.3,
@@ -451,75 +451,62 @@
    ]
   },
   "btc": {
-   "price": 62645.95,
+   "price": 62699.98,
    "prev": 63087.742,
    "spark": [
-    62654.9688,
-    62615.1016,
-    62709.6602,
-    62689.2695,
-    62671.0195,
-    62676.4883,
-    62758.8711,
-    62853.9414,
-    62821.9805,
-    62755.8984,
-    62734.6602,
-    62702.4688,
-    62723.0,
     62761.9883,
     62752.2891,
     62645.75,
     62674.8398,
-    62691.2109,
+    62691.5391,
     62686.1719,
-    62679.6289,
-    62644.1211,
-    62635.3398,
-    62656.9414,
+    62677.9883,
+    62643.2109,
+    62635.5,
+    62666.2891,
     62667.8086,
     62570.1914,
-    62590.3711,
+    62596.4492,
     62571.2188,
-    62575.5,
-    62576.3711,
+    62575.3516,
+    62574.3086,
     62574.3711,
-    62571.0,
-    62668.0,
+    62569.9805,
+    62674.1406,
     62671.4805,
-    62670.5898,
+    62662.3906,
     62646.1992,
-    62736.3281,
+    62736.3203,
     62632.2188,
-    62631.6094,
-    62639.7891,
-    62645.9492
+    62634.8711,
+    62630.1016,
+    62550.0,
+    62593.0195,
+    62559.1914,
+    62571.3984,
+    62590.1797,
+    62609.0508,
+    62604.0703,
+    62631.5703,
+    62629.9883,
+    62629.9219,
+    62669.9883,
+    62705.7188,
+    62695.4805,
+    62699.9805
    ]
   },
   "eth": {
-   "price": 1780.6,
+   "price": 1779.58,
    "prev": 1779.066,
    "spark": [
-    1765.92,
-    1763.7,
-    1767.6801,
-    1767.35,
-    1766.29,
-    1767.0699,
-    1771.08,
-    1775.61,
-    1774.85,
-    1773.11,
-    1773.29,
-    1771.5,
-    1773.33,
     1774.92,
-    1773.29,
-    1770.08,
+    1773.3,
+    1770.1,
     1771.27,
     1772.4,
     1773.08,
-    1774.34,
+    1774.4,
     1771.84,
     1772.61,
     1772.23,
@@ -529,17 +516,30 @@
     1769.61,
     1769.23,
     1770.1899,
-    1770.4399,
+    1770.45,
     1771.41,
     1774.85,
     1774.95,
-    1775.0,
+    1775.11,
     1774.8199,
     1783.11,
     1777.36,
     1778.8,
-    1780.59,
-    1780.6
+    1780.7,
+    1775.29,
+    1778.51,
+    1776.6899,
+    1778.01,
+    1778.4,
+    1778.3101,
+    1777.1801,
+    1777.89,
+    1777.8199,
+    1778.1899,
+    1778.35,
+    1779.8,
+    1779.42,
+    1779.58
    ]
   },
   "eurkrw": {
@@ -786,10 +786,10 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pTy1XX3BtcTVBSTNYS1ZGUkVYdjdxWVpOTm9wQmI1WENFWDJSSkpzcHdYUHl3X2VOZjF1eVdTNm0xam5Icl90bEtDaEo0NzM1OXRJaDFfNUN5M05ybVVaeWREVQ?oc=5"
   },
   {
-   "title": "미 암호화폐 법안 탄력 받으며 비트코인 6만 2천 달러 돌파",
+   "title": "한국 코스피지수 PER, 글로벌 금융위기 이후 최저 수준으로 하락",
    "source": "Investing.com 한국어",
-   "time": "2026-07-05T18:51:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11U2pMUzlXRVVyZU9KZnZtS3BQam9PbW9laFVvVGhhRzQ1cG1vYUxYczcyUUNnV2VMWDREcUpaOXlwZ0dodHhTWWFaQmZqdU4xXzM5dWhuZ1kwclRRWTM5Nk1zRExBd2U4QW16UEI4RnpMMFE?oc=5"
+   "time": "2026-07-04T19:44:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ZUFkVXNsdFhZUGN0SV9VZ2ZvNDBoMmw2X1dUY0NZaUV1Q3h6TVpleXpVcFVzVVQ3QlRxOTVjZ3ktUVNJWUwwdXliblA0TUZiWWlEV2piVlhNemsydm1LV1doMHJXWFpvNi1YNm5xVFo?oc=5"
   },
   {
    "title": "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장",
@@ -804,16 +804,16 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYW15VVRYOFJTN20tUkFMVE91REZLakFGckJWV2VtNmRMcl96UWNmaV9Hb1JfbERWd2ZFTFdPdzd4a0ZXUkV2REVuTE5jdm8wY3YxMjZsS3BqeU9UNE1nUkRsc3g3aUJHbVRqUTZtUVdqeGxv0gF0QVVfeXFMT2FoZUpBajJNTlFvMG1zdXZMRFpMS0Q2UU5RRXZWTDZoQlQ5N0czV19BTnFNQW9MRGM0X1c0Z2g3QjRtS2UxZHhyZjFpazJpRFZnZWRMLXZHeTVmQXFFMXpKd1VhdlF5VWxDa1lKVmQwdzBzazQ?oc=5"
   },
   {
-   "title": "코스피 8천선에도 '1조클럽' 감소⋯대형주 쏠림 심화",
-   "source": "v.daum.net",
-   "time": "2026-07-05T20:50:30+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zM09KeGNpQmVrZlVzV1BieUxyenJ0VHNtay1qS1ZoMmJGcVZxMm9uWWY3WExEdWZualZIUFJqWWV3U2VpVVVBNEZ0ZS1JRDQ?oc=5"
-  },
-  {
    "title": "마이클 세일러 회장 \"비트코인 4년 주기는 끝났다\"",
    "source": "디지털투데이",
    "time": "2026-07-06T00:01:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ja2tOQUlKUXFzS1hxQjV2ZWRGNDlPNkhTUWtGTDJiQk9ILVVLRDc5dkJaXzRxNFRrTmk0LUp3YVZJRHl0MkhtM3pHbmV1SG53NHA4b0dwVW1mNWVXNEI5T011NVkzalR4bEh3cUxtcHlGaDQ?oc=5"
+  },
+  {
+   "title": "[경제뭔데] 1년전 환율, 1300원대였는데···6일부터 24시간 외환거래 시작되면?",
+   "source": "경향신문",
+   "time": "2026-07-04T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uc2J1b2dMQV8xbm5Jc09IY1U5RHBFVHBEbTVPVXp2OWhwT1JZdUx2RGQwWlpjc1AyYjc4Y0NlYkw5VlppVlJobW5OMHc1RmN4dFdOaDBqTUV1QdIBX0FVX3lxTE1UN3VZLS1uUkVPSkNQQUVzWGNpbHhSVzJsUWdINzFXRlV1djBGQnEybzdmRFQxVFBZQ01GVEo0bkxBVV96d0kyWUc1SFdOUlNHeWFkM3lhbU9mQ0xneXR3?oc=5"
   },
   {
    "title": "비트코인, 스트레티지발 구조적 리스크 경고…6만 달러 지지선이 분수령",
@@ -834,16 +834,16 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZWVKYVU0ZWZqZ0N3TEsxN0J6OW1La0dIU3ktdGl5TjY2NTNQWkdKQURyQUdHdXJfRkRrTG1OTF9LdGtyLXBicHZGSDJfQ19heGtvel9vTmlxRGVlNmF6NUNQQkl0ZlZWdUlLWGxTa1pBOWtXUkxwY3NkMVRxUTRzRQ?oc=5"
   },
   {
-   "title": "[경제뭔데] 1년전 환율, 1300원대였는데···6일부터 24시간 외환거래 시작되면?",
-   "source": "경향신문",
-   "time": "2026-07-04T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uc2J1b2dMQV8xbm5Jc09IY1U5RHBFVHBEbTVPVXp2OWhwT1JZdUx2RGQwWlpjc1AyYjc4Y0NlYkw5VlppVlJobW5OMHc1RmN4dFdOaDBqTUV1QdIBX0FVX3lxTE1UN3VZLS1uUkVPSkNQQUVzWGNpbHhSVzJsUWdINzFXRlV1djBGQnEybzdmRFQxVFBZQ01GVEo0bkxBVV96d0kyWUc1SFdOUlNHeWFkM3lhbU9mQ0xneXR3?oc=5"
-  },
-  {
    "title": "코스피 2% 내린 8,303...환율 또 금융위기 이후 최고치",
    "source": "YTN",
    "time": "2026-07-01T16:41:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xbXU5Y29VMmxBc3ZPNWRjVVpLcXVSNWcxWEFNd3JZSlhZLUtBRTlHRWs0Ykt4dXlqamZoaG1xQWlIem92VWhzdEFnWXAxaEtmalljR2U2SlVCSHg4M1E?oc=5"
+  },
+  {
+   "title": "“코인으로 재산 숨겨도 소용없다”…비트코인 압류·매각 시대 열린다",
+   "source": "v.daum.net",
+   "time": "2026-07-05T19:49:21+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XZmJVMnhER0ZuLXRpS21CczVsUE9ZUnp1dktTTEhKdURCTmxhQkNlUlo2X2MzSFBIN1ZzeGJsNVpRUTRXd3VON09XUzFLWVE?oc=5"
   },
   {
    "title": "환율 고공행진",
