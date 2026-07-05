@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T06:02:05.623991+09:00",
+ "updated": "2026-07-06T07:09:37.551916+09:00",
  "quotes": {
   "k200": {
    "price": 1299.3,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1529.13,
+   "price": 1529.42,
    "prev": 1537.97,
    "spark": [
     1528.87,
@@ -451,22 +451,9 @@
    ]
   },
   "btc": {
-   "price": 62634.87,
+   "price": 62998.33,
    "prev": 63087.742,
    "spark": [
-    62559.1914,
-    62571.3984,
-    62590.1797,
-    62609.0508,
-    62604.0703,
-    62631.5703,
-    62629.9883,
-    62629.9219,
-    62669.9883,
-    62705.7188,
-    62706.8594,
-    62730.3516,
-    62779.7617,
     62764.5898,
     62755.3906,
     62768.8789,
@@ -492,27 +479,27 @@
     62692.4102,
     62681.6484,
     62673.9297,
-    62645.0117,
-    62634.8711
+    62613.3281,
+    62581.6211,
+    62686.0195,
+    62832.0,
+    62820.2617,
+    62862.8008,
+    62855.1914,
+    62873.8906,
+    62968.6914,
+    62910.6211,
+    62995.2383,
+    63034.9219,
+    62994.8008,
+    62973.9883,
+    62998.3281
    ]
   },
   "eth": {
-   "price": 1773.39,
+   "price": 1786.62,
    "prev": 1779.066,
    "spark": [
-    1776.6899,
-    1778.01,
-    1778.4,
-    1778.3101,
-    1777.1801,
-    1777.89,
-    1777.8199,
-    1778.1899,
-    1778.35,
-    1779.8,
-    1779.3101,
-    1780.65,
-    1783.05,
     1779.72,
     1781.83,
     1780.9,
@@ -538,12 +525,25 @@
     1776.27,
     1775.74,
     1775.67,
-    1773.46,
-    1773.39
+    1772.49,
+    1768.7,
+    1771.64,
+    1778.61,
+    1777.04,
+    1779.08,
+    1779.34,
+    1779.03,
+    1781.41,
+    1780.3101,
+    1781.51,
+    1785.26,
+    1785.51,
+    1785.6,
+    1786.62
    ]
   },
   "eurkrw": {
-   "price": 1748.7,
+   "price": 1748.0,
    "prev": 1757.6,
    "spark": [
     1749.2,
@@ -589,7 +589,7 @@
    ]
   },
   "jpykrw": {
-   "price": 9.456,
+   "price": 9.449,
    "prev": 9.523,
    "spark": [
     9.46,
@@ -635,7 +635,7 @@
    ]
   },
   "cnykrw": {
-   "price": 225.619,
+   "price": 225.465,
    "prev": 226.552,
    "spark": [
     225.601,
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 161.269,
+   "price": 161.425,
    "prev": 161.098,
    "spark": [
     161.303,
@@ -727,7 +727,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1446,
+   "price": 1.1439,
    "prev": 1.1436,
    "spark": [
     1.1443,
@@ -793,7 +793,7 @@
   },
   {
    "title": "“환율 안정될까, 더 흔들릴까”...내일부터 외환시장 24시간 열린다",
-   "source": "에너지경제신문",
+   "source": "ekn.kr",
    "time": "2026-07-05T20:13:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTHVVaHNNSzhwb3A4TURXdlN3T0NpSkNURlFYZWdCYTVzYjZMLVVQQzdIUDRzSEpGRTBaZzI1MEVIdWpNaXBXUkprRXNObGp3dmtsX0NqNEZoanM?oc=5"
   },
@@ -804,22 +804,16 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZWVKYVU0ZWZqZ0N3TEsxN0J6OW1La0dIU3ktdGl5TjY2NTNQWkdKQURyQUdHdXJfRkRrTG1OTF9LdGtyLXBicHZGSDJfQ19heGtvel9vTmlxRGVlNmF6NUNQQkl0ZlZWdUlLWGxTa1pBOWtXUkxwY3NkMVRxUTRzRQ?oc=5"
   },
   {
-   "title": "상반기 코스피 상승률 1위, 삼전·닉스 아닌 '삼성전기'‥756% 상승",
-   "source": "MBC 뉴스",
-   "time": "2026-07-05T11:08:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYW15VVRYOFJTN20tUkFMVE91REZLakFGckJWV2VtNmRMcl96UWNmaV9Hb1JfbERWd2ZFTFdPdzd4a0ZXUkV2REVuTE5jdm8wY3YxMjZsS3BqeU9UNE1nUkRsc3g3aUJHbVRqUTZtUVdqeGxv0gF0QVVfeXFMT2FoZUpBajJNTlFvMG1zdXZMRFpMS0Q2UU5RRXZWTDZoQlQ5N0czV19BTnFNQW9MRGM0X1c0Z2g3QjRtS2UxZHhyZjFpazJpRFZnZWRMLXZHeTVmQXFFMXpKd1VhdlF5VWxDa1lKVmQwdzBzazQ?oc=5"
-  },
-  {
    "title": "코스피 2% 내린 8,303...환율 또 금융위기 이후 최고치",
    "source": "YTN",
    "time": "2026-07-01T16:41:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xbXU5Y29VMmxBc3ZPNWRjVVpLcXVSNWcxWEFNd3JZSlhZLUtBRTlHRWs0Ykt4dXlqamZoaG1xQWlIem92VWhzdEFnWXAxaEtmalljR2U2SlVCSHg4M1E?oc=5"
   },
   {
-   "title": "마이클 세일러 회장 \"비트코인 4년 주기는 끝났다\"",
-   "source": "디지털투데이",
-   "time": "2026-07-06T00:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ja2tOQUlKUXFzS1hxQjV2ZWRGNDlPNkhTUWtGTDJiQk9ILVVLRDc5dkJaXzRxNFRrTmk0LUp3YVZJRHl0MkhtM3pHbmV1SG53NHA4b0dwVW1mNWVXNEI5T011NVkzalR4bEh3cUxtcHlGaDQ?oc=5"
+   "title": "상반기 코스피 상승률 1위, 삼전·닉스 아닌 '삼성전기'‥756% 상승",
+   "source": "MBC 뉴스",
+   "time": "2026-07-05T11:08:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYW15VVRYOFJTN20tUkFMVE91REZLakFGckJWV2VtNmRMcl96UWNmaV9Hb1JfbERWd2ZFTFdPdzd4a0ZXUkV2REVuTE5jdm8wY3YxMjZsS3BqeU9UNE1nUkRsc3g3aUJHbVRqUTZtUVdqeGxv0gF0QVVfeXFMT2FoZUpBajJNTlFvMG1zdXZMRFpMS0Q2UU5RRXZWTDZoQlQ5N0czV19BTnFNQW9MRGM0X1c0Z2g3QjRtS2UxZHhyZjFpazJpRFZnZWRMLXZHeTVmQXFFMXpKd1VhdlF5VWxDa1lKVmQwdzBzazQ?oc=5"
   },
   {
    "title": "[기자수첩] 그놈의 환율",
@@ -828,16 +822,22 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LUlhhakJDNUdKZkZ6clYtWlpITlgxQ2g3UFFjNkRRSDczcVMtMnBLZ3diQlhWZzV6OHFPREhaX0RLb3NOeU9nOG5LSG5hQ2VwSEVpUjZfNGxYU3IyVTdtejN4dU1hcWpHWEkwUDk1a2hDdw?oc=5"
   },
   {
+   "title": "코스피 8천선에도 '1조클럽' 감소⋯대형주 쏠림 심화",
+   "source": "v.daum.net",
+   "time": "2026-07-05T20:50:30+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zM09KeGNpQmVrZlVzV1BieUxyenJ0VHNtay1qS1ZoMmJGcVZxMm9uWWY3WExEdWZualZIUFJqWWV3U2VpVVVBNEZ0ZS1JRDQ?oc=5"
+  },
+  {
+   "title": "마이클 세일러 회장 \"비트코인 4년 주기는 끝났다\"",
+   "source": "디지털투데이",
+   "time": "2026-07-06T00:01:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ja2tOQUlKUXFzS1hxQjV2ZWRGNDlPNkhTUWtGTDJiQk9ILVVLRDc5dkJaXzRxNFRrTmk0LUp3YVZJRHl0MkhtM3pHbmV1SG53NHA4b0dwVW1mNWVXNEI5T011NVkzalR4bEh3cUxtcHlGaDQ?oc=5"
+  },
+  {
    "title": "환율 고공행진",
    "source": "연합뉴스",
    "time": "2026-07-05T13:47:32+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuY0tDTlMzd3FTT1E0UTVTTC11QjJUeUdnME55MlJIODlNdVh4dGZjc01GeVp1N0NkMU9rVlIyQlltN0NSd2s5Yk1oMi1DSFZhakVvOEZCTUtMUWlHb2xhbdIBYEFVX3lxTFBuY0tDTlMzd3FTT1E0UTVTTC11QjJUeUdnME55MlJIODlNdVh4dGZjc01GeVp1N0NkMU9rVlIyQlltN0NSd2s5Yk1oMi1DSFZhakVvOEZCTUtMUWlHb2xhbQ?oc=5"
-  },
-  {
-   "title": "“코인으로 재산 숨겨도 소용없다”…비트코인 압류·매각 시대 열린다",
-   "source": "v.daum.net",
-   "time": "2026-07-05T19:49:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XZmJVMnhER0ZuLXRpS21CczVsUE9ZUnp1dktTTEhKdURCTmxhQkNlUlo2X2MzSFBIN1ZzeGJsNVpRUTRXd3VON09XUzFLWVE?oc=5"
   },
   {
    "title": "[표] 외국환율고시표",
@@ -846,16 +846,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvQTV2ZkZKb3F1YXRTVlVQR0thSkxBVjMta1NnanNuSnZ2cjNlbnQ4UFV5NnlRYS16U0hoTW1sdlprOWlJLU5XUzZuUjdqX0plRHc?oc=5"
   },
   {
-   "title": "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장",
-   "source": "연합인포맥스",
-   "time": "2026-07-05T13:03:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9USlBtdVlDcFM4VG9BRGNmcVNselB0aTY2SVEzdmtaaW9pR20yQXBQWEE1TnhQYkQ1S2hrdjFhaGQwMzZRdW92T2RnUVk2bDlVaUNOWnJ0Y3R4MVR4LURSMU1lUjZCeXZadHU1S0U0WTA?oc=5"
+   "title": "SK하이닉스, 10일 ADR 나스닥 상장…총규모 44조여원",
+   "source": "포커스온경제",
+   "time": "2026-07-06T06:11:20+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HSUc1U1JPaWhRMVpLLVItYXdacTJDQ0lLX1lNOFdIc0hOYXRnSEp6bHk3MEVFemVXTDczdFVpTUZzWGJFMWlwb01wdzh2aWx6RS0tQ1l5Z1diRE15QlE?oc=5"
   },
   {
-   "title": "[김대호 인물] MSTR 마이크로 세일러 \"비트코인 전도사\"",
-   "source": "글로벌이코노믹",
-   "time": "2026-07-05T11:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkpUMmV3Nzkyc2ZBVXRqYVB4X0tCSTJNWlJtLW4wTFZuUDd3Zk9mREszV3V1emtmcFkzalJLeUxxTERnMjBlNFc5T0phcmwtTGE1YjFWNEYtMGozSzYwOU9zQlQ4eVpEMEtFVURud2FTbm5ZUnV1M0toX1lpLWlTMnJzT1BCbTl1?oc=5"
+   "title": "상반기 코스피 150조 팔고 간 외국인…하반기엔 돌아올까",
+   "source": "뉴시스",
+   "time": "2026-07-06T07:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OaWpQSHRfbC03dGg0NkVYZHhhX0lkcl8tT1Mtcl9FNWQ4dHI0Z0RXOFRrOEd2SGl1dUNVaUt2UjdWeXZfMEFxRGJMMXo5Vlo5OUVxcE1FSkJsZl91R2V1d9IBeEFVX3lxTE5YajJWSklzcFpJOU8yZVNZaTgwcmN5RnRXbXdpSklDYlpZZlltWDdRNV9hN2dfaWxuMzZfWEFUVmxzT2RLa0NkekRfODBqUDJ2dVNvNjN6b0lqMTZrdF9PMzVxeVdqdGhQbVhVSEhySk1QX3RyUWNsXw?oc=5"
   },
   {
    "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 62,724달러, 이더리움 1,779달러",
