@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T07:28:53.786550+09:00",
+ "updated": "2026-07-11T08:31:16.880753+09:00",
  "quotes": {
   "k200": {
    "price": 1196.69,
@@ -695,6 +695,7 @@
    "price": 1498.87,
    "prev": 1506.48,
    "spark": [
+    1501.65,
     1501.66,
     1501.51,
     1501.2,
@@ -733,27 +734,13 @@
     1499.8199,
     1499.8,
     1498.87,
-    1498.87,
     1498.87
    ]
   },
   "btc": {
-   "price": 64095.72,
+   "price": 64158.29,
    "prev": 63184.8,
    "spark": [
-    63794.3203,
-    63784.0,
-    63818.0117,
-    63940.9609,
-    63992.0586,
-    63936.9219,
-    63932.3086,
-    63943.8789,
-    63876.25,
-    63807.6211,
-    63799.8281,
-    63778.6289,
-    63755.0117,
     63734.8516,
     63693.1211,
     63769.1484,
@@ -779,27 +766,27 @@
     63998.5586,
     64008.7188,
     64022.9414,
-    64043.3008,
-    64095.7188
+    64088.8516,
+    64085.4492,
+    64080.0,
+    64083.9883,
+    64078.1016,
+    64108.8281,
+    64068.6992,
+    63990.9688,
+    64009.9688,
+    64078.5,
+    64082.7695,
+    64127.0391,
+    64155.2617,
+    64158.2891,
+    64158.2891
    ]
   },
   "eth": {
-   "price": 1794.52,
+   "price": 1794.67,
    "prev": 1744.2788,
    "spark": [
-    1784.97,
-    1785.14,
-    1786.85,
-    1790.97,
-    1795.46,
-    1794.98,
-    1793.54,
-    1792.95,
-    1791.11,
-    1789.15,
-    1789.9301,
-    1791.52,
-    1791.37,
     1790.65,
     1790.09,
     1791.25,
@@ -825,14 +812,28 @@
     1794.52,
     1793.51,
     1792.77,
-    1793.45,
-    1794.52
+    1793.78,
+    1793.02,
+    1793.53,
+    1792.47,
+    1792.91,
+    1794.39,
+    1793.97,
+    1791.78,
+    1792.0,
+    1794.97,
+    1794.96,
+    1795.4301,
+    1794.86,
+    1794.74,
+    1794.67
    ]
   },
   "eurkrw": {
    "price": 1710.1,
    "prev": 1721.0,
    "spark": [
+    1713.2,
     1713.0,
     1713.0,
     1713.2,
@@ -871,7 +872,6 @@
     1710.1,
     1710.1,
     1710.1,
-    1710.1,
     1710.1
    ]
   },
@@ -879,6 +879,7 @@
    "price": 9.248,
    "prev": 9.254,
    "spark": [
+    9.263,
     9.262,
     9.263,
     9.264,
@@ -917,7 +918,6 @@
     9.248,
     9.248,
     9.248,
-    9.248,
     9.248
    ]
   },
@@ -925,6 +925,7 @@
    "price": 221.11,
    "prev": 221.641,
    "spark": [
+    221.555,
     221.531,
     221.504,
     221.553,
@@ -963,7 +964,6 @@
     221.252,
     221.252,
     221.252,
-    221.11,
     221.11
    ]
   },
@@ -971,6 +971,7 @@
    "price": 161.672,
    "prev": 162.356,
    "spark": [
+    161.557,
     161.58,
     161.61,
     161.637,
@@ -1009,7 +1010,6 @@
     161.722,
     161.747,
     161.717,
-    161.672,
     161.672
    ]
   },
@@ -1017,6 +1017,7 @@
    "price": 1.1419,
    "prev": 1.1434,
    "spark": [
+    1.1419,
     1.1419,
     1.1418,
     1.1418,
@@ -1050,7 +1051,6 @@
     1.1417,
     1.1418,
     1.1417,
-    1.1419,
     1.1419,
     1.1419,
     1.1419,
@@ -1114,12 +1114,6 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ac3gzQWhEVDgxNktxcHk3TzVhXzhfOUJHWmRfNnhDcXBBMktUUUMyMXQ4Qm9iZks3NjNzUEZWU2NlWUVyMlYtajc0czBpeElhckMxYlYwaXFRZ9IBX0FVX3lxTE1GTURpY1JPdVItSU5SUzVTYTMzSks2NmdVX2tMZHA2Ri16LWZLd21XZ3kxWTJSOVFDTjM2TlR1eXZtV2JKZ1BsM1JLcHYwaUUyRmlfMlplZV9tU0hZbnpr?oc=5"
   },
   {
-   "title": "SK하이닉스, 나스닥 데뷔 첫날 21% 급등 예상…AI 붐 강도 시험대",
-   "source": "Investing.com 한국어",
-   "time": "2026-07-10T23:02:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xNHFCVFBrQjBGdVpZS3M4YThMcDlWZG5xSkVGcmxPNUlsZGs1YXZjZ2oyVlNVMEVTckNkd1pERU5pU1RvaWtwR3oxTEUyTUYzUThuNmpKUGRnYjVNd0tkb2cxV2J1bFVyZDBadEE3VS0?oc=5"
-  },
-  {
    "title": "SK하이닉스 ADR 거래 시작…타임스스퀘어엔 \"웰컴 투 나스닥\"",
    "source": "연합뉴스",
    "time": "2026-07-10T23:16:22+09:00",
@@ -1128,8 +1122,20 @@
   {
    "title": "SK하이닉스, 나스닥 데뷔 첫날 13% 급등...AI 메모리 기대감 반영",
    "source": "YTN",
-   "time": "2026-07-11T05:54:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nczZvSWg2eHU4aEJxR3FndUE4R1YzeWt2MTBlQ1h0VmZTTVF1V0c2V2dwZmJSd3NtSUtHNjlEdGVuQS1IZkVQV2xSUFFDQWl5MDg0SHo3LVpCNkZPWWc?oc=5"
+   "time": "2026-07-11T07:44:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XQ1J1Y1RZSGlLc2tSMWVzSmFXOUY1SWppOWwzYlRqMEhHeW9acGZkQUU4cjItN2Z2UWphWnRXSDNCaFUtdnp1b01IUHY5aFA3ZmVsdTgyVjBKdEVvbkE?oc=5"
+  },
+  {
+   "title": "SK하이닉스, 나스닥 데뷔 첫날 21% 급등 예상…AI 붐 강도 시험대",
+   "source": "Investing.com 한국어",
+   "time": "2026-07-10T23:02:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xNHFCVFBrQjBGdVpZS3M4YThMcDlWZG5xSkVGcmxPNUlsZGs1YXZjZ2oyVlNVMEVTckNkd1pERU5pU1RvaWtwR3oxTEUyTUYzUThuNmpKUGRnYjVNd0tkb2cxV2J1bFVyZDBadEE3VS0?oc=5"
+  },
+  {
+   "title": "SK하이닉스, 美 나스닥 입성...최태원·곽노정 오프닝 벨 울려",
+   "source": "조선일보",
+   "time": "2026-07-10T22:41:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNGpYRHhIMS1SYWNZRTFBdm1CLTVEU1hpUHIxdkFCa0dtVG9CcjE3R25qLVY0ZExKYV9helhzWnRld19xNlI4al9URkdUdmUtYUVHNUh2NmhPczl5VVBoUFhCU0g5allUVTdqUkNaRVhORl80aG1jeHdfS3hlUzRkZFdudw?oc=5"
   },
   {
    "title": "SK하이닉스, 나스닥 상장…최태원 ’오프닝 벨’",
@@ -1144,34 +1150,22 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vSG9LWXVWV2I0V2xXUzBFc216MGs4QUtad0hFSDAxb1c1ZS0tZEJnd3g5NFF5blN5OFptN1R6OFZ6bi11YjE3V3lIWlRVQQ?oc=5"
   },
   {
-   "title": "\"SK하닉 가장 많이 던졌다\" 외인 1.7조 매도...코스피 +2.5% 마감 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-07-10T16:04:31+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMGFEblpWMnY3RVVJT3VwWEl3YXlJaUJ4NUhRX0pXV2JNYWtoWU1tZjJsSmJkVHB5Qy1ITERDNFkwbV9ja1ZKb2JvUTlWSkpIRDFJZFgxcnRHTEtMZjFWTkhVOHh4OVhs0gFuQVVfeXFMUFRIc1NJeDRvaHRCUkFOMXdTLTJzNkRGNkZ0WUhQYklEdGJhX0M3SVdHOWtsZW0wY2FMejVHdU11eEZGOGs5UXVnY252OExXWnRVSy1HZjR2OXZIQnBNUGI5WEtQRkpiOUhmaFVpRmc?oc=5"
-  },
-  {
-   "title": "하이닉스 ’40조 美 오프닝 벨‘... 자본주의 심장부 화려한 데뷔",
-   "source": "조선일보",
-   "time": "2026-07-10T22:41:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNGpYRHhIMS1SYWNZRTFBdm1CLTVEU1hpUHIxdkFCa0dtVG9CcjE3R25qLVY0ZExKYV9helhzWnRld19xNlI4al9URkdUdmUtYUVHNUh2NmhPczl5VVBoUFhCU0g5allUVTdqUkNaRVhORl80aG1jeHdfS3hlUzRkZFdudw?oc=5"
-  },
-  {
    "title": "SK하이닉스, 역사적 나스닥 상장…“AI에도 수백억 달러 투자”",
    "source": "KBS 뉴스",
    "time": "2026-07-11T06:08:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ha05Sa0xlWlE1LTdqb1NIWmswUHVNRWVfZ21kUWhWZlBWM3NLbE9RYk5qUk5mek9ZSFlMOXNheWhZN29aSVprOEU2SGxPWXpmVnYzSkV0dzhxM2M?oc=5"
   },
   {
+   "title": "\"SK하닉 가장 많이 던졌다\" 외인 1.7조 매도...코스피 +2.5% 마감 - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-07-10T16:04:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMGFEblpWMnY3RVVJT3VwWEl3YXlJaUJ4NUhRX0pXV2JNYWtoWU1tZjJsSmJkVHB5Qy1ITERDNFkwbV9ja1ZKb2JvUTlWSkpIRDFJZFgxcnRHTEtMZjFWTkhVOHh4OVhs0gFuQVVfeXFMUFRIc1NJeDRvaHRCUkFOMXdTLTJzNkRGNkZ0WUhQYklEdGJhX0M3SVdHOWtsZW0wY2FMejVHdU11eEZGOGs5UXVnY252OExXWnRVSy1HZjR2OXZIQnBNUGI5WEtQRkpiOUhmaFVpRmc?oc=5"
+  },
+  {
    "title": "SK 최태원 \"나스닥 상장 역사적 순간…AI 수요 여전히 기하급수적 증가\"",
    "source": "연합인포맥스",
    "time": "2026-07-11T02:05:03+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIek95RGlheHd1RTNYcVlibm15R21tRktMTU1aTUcwQm9VbHZyYkpCeDcyWDZscjdTVnZKa2FPeHQtd3JrbG9zMUhIM2tSNGYyRFFQR0hSYW5LNklfQlViOW5kSVoyMzNQeXBVamZnVjc?oc=5"
-  },
-  {
-   "title": "나스닥 첫날 17% 뛴 SK하이닉스…최태원 \"미국 팹, 조건 맞으면 짓는다”",
-   "source": "v.daum.net",
-   "time": "2026-07-11T03:54:45+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZXpDcXFxSmV5UWgzUDh3di11OXJtcFZ4ZGZkaEUtNC02akZYUERlLWMzbjdsbExEOGlDaWEwbU56cnduOUtPRDQxczZ0cUE?oc=5"
   },
   {
    "title": "SK하이닉스, 나스닥 첫날 168.49달러 마감...공모가 대비 13%↑",
@@ -1186,10 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnNYbXpNTjlKRVY4QkNJS3B6ZTdYbnZFckZDazB6cS1WMksxNXdLNmtxczBJVFFjcTFFRC01bjNaUWR6RWJUcWRPNEhwNDhOMzU3MDgxbGVENTl3aUd6d19RZW45SnljdTNCQnlpZUtDOUxOOXBQaWtEbTJqbmhYMkg1dlhFTW9NczdTV0hKM1A4QnczWkJpR2VtNmQ0dw?oc=5"
   },
   {
-   "title": "[현장영상] SK하이닉스, 미 나스닥 상장…최태원 ’오프닝벨’",
-   "source": "연합뉴스TV",
-   "time": "2026-07-10T22:44:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZRTZwLVliVFRaWHFJQnVtbXRnZjlwUHhVRG5uTlk0QmRvMjZnaWFuRTdveGRIX1V5VDc2WXM5aWdycW5TU0Q1T2RPVU1mOXBULV9XNWhLNWlZNGpiS1N5bWIxQU51cVk?oc=5"
+   "title": "'나스닥 입성' 최태원 \"반도체 사이클 벗어나 구조적 변화\"(종합)",
+   "source": "연합뉴스",
+   "time": "2026-07-11T03:28:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxS3VneE16Sm9KUWVZMFRxY3Y0TUJfcXBkU0FCZWxGbE9seUJ0Z0lfWkJZTUdUamtTYTMxT3hFbzZlMVo0QkN2OTBtTThYS1h5TDZlY2dOcU01cmPSAWBBVV95cUxQUVRpVW1aVkZIcVdBZXVkejFTSzRZRWlfOGQzdFVYUkVQNHRmb3hOUE9ZWUVrUEgzNUJTa2E4Q3RrNnhnYzZrZXJndVAybzdyeVJGa0NRVVNGUEkwTkNadWM?oc=5"
+  },
+  {
+   "title": "‘SK하이닉스 데뷔’ 뉴욕증시 강세 마감…나스닥 0.3% 상승",
+   "source": "KBS 뉴스",
+   "time": "2026-07-11T05:31:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PbHFSMm13aVNyRDNUSE1hVHFFOWF4aDZjQmRNUFdDSFZwWFd0cHZ6RFo5bUo5ZDdmbEVPUmZKclhBRGF5V0JlU1FiTEV0anJxdnROb1BpY2lNV1U?oc=5"
   }
  ]
 }
