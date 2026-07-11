@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T04:29:29.577451+09:00",
+ "updated": "2026-07-12T05:24:15.072178+09:00",
  "quotes": {
   "k200": {
    "price": 1196.69,
@@ -738,20 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64196.52,
+   "price": 64291.97,
    "prev": 64125.902,
    "spark": [
-    64152.3203,
-    64169.5508,
-    64163.3984,
-    64172.2305,
-    64093.9609,
-    64095.9102,
-    64121.5898,
-    64075.6289,
-    64132.7188,
-    64141.5703,
-    64184.1094,
     64166.0,
     64192.1016,
     64167.2383,
@@ -779,25 +768,25 @@
     64279.9883,
     64289.6602,
     64297.3906,
-    64191.9805,
-    64196.5195
+    64193.1797,
+    64195.4219,
+    64214.5781,
+    64225.2695,
+    64220.3594,
+    64238.7109,
+    64245.9883,
+    64270.0117,
+    64262.7617,
+    64282.8516,
+    64306.7617,
+    64291.9688,
+    64291.9688
    ]
   },
   "eth": {
-   "price": 1818.61,
+   "price": 1824.11,
    "prev": 1795.6898,
    "spark": [
-    1814.98,
-    1817.88,
-    1818.26,
-    1819.99,
-    1817.71,
-    1816.8,
-    1817.95,
-    1818.62,
-    1822.01,
-    1820.15,
-    1820.36,
     1819.4399,
     1819.84,
     1818.36,
@@ -825,8 +814,19 @@
     1823.96,
     1824.4301,
     1823.25,
-    1818.2,
-    1818.61
+    1818.96,
+    1818.91,
+    1819.1801,
+    1820.08,
+    1821.74,
+    1823.03,
+    1823.41,
+    1824.29,
+    1823.4,
+    1823.9399,
+    1824.71,
+    1823.95,
+    1824.11
    ]
   },
   "eurkrw": {
@@ -1114,6 +1114,12 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WeVlXdnplQnJzREdob3pYX2w5NUhGblA3Z1hDSE85TVhLYWY0WExybGd6VF8yQjZBZ3d2RVRTbFZuV3J3LXhkUW93cXBUeXZyODNBMG1ZUlNXUWx0NGUxRl9idDhPQmc?oc=5"
   },
   {
+   "title": "\"9천피 증시에 증권사가 효자\" 4대 금융지주, 상반기 역대급 실적 예고",
+   "source": "더구루",
+   "time": "2026-07-12T00:00:59+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4anphU2VHcHkzMi1MNDVTd0FMRGkyRnRIZURocTJIUy1iV3dKeTNjVkpqTC13MVhvSVNic3VVTjhjeTF2ZzJsUjcyQ2h3azJKaEtET1FpeVBUUHhpX2c?oc=5"
+  },
+  {
    "title": "나스닥 성공 데뷔 SK하닉...미 반도체 투자 확대하나",
    "source": "YTN",
    "time": "2026-07-11T22:14:00+09:00",
@@ -1126,16 +1132,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40VTMyOHNRdG9PUEdrTVZGT1lMUUFKSHUxNWhzc2JFSDFQOHdpZ2J2MDJMTVlxdUlCN193UmpUc1FmLUVoTGZNYnZfd2ZoUlhOX2VTaQ?oc=5"
   },
   {
-   "title": "\"비트코인, 약세장 후반 진입…2~3년 내 25만달러 가능\"",
-   "source": "블루밍비트",
-   "time": "2026-07-11T22:57:48+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CRlF5ZTRWWUFGcXJCWFR6MVdFWXBYb1ptUmphWVZZejlneFlaekhPenoyVklWQmhOWV82R2JnYlZfVW9va2RaeVNMQ0U0Smph?oc=5"
-  },
-  {
    "title": "SK하이닉스, 美 나스닥 입성한다…오늘 밤부터 거래 개시",
    "source": "연합인포맥스",
    "time": "2026-07-10T07:52:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmQVQ1UkN2VklITnZUb3ppeDFHNHZYVTA0Mk5qd3JWdjBkUFF5WWdWVzV5YWxMZWYwSzZmX3pjRDg2WGpkdm1hNDNtQjdmZjY5MXJrUHVsV0NlTThlUkYxaW4yUm44RE5sUDl6N1pxSzc?oc=5"
+  },
+  {
+   "title": "\"비트코인, 약세장 후반 진입…2~3년 내 25만달러 가능\"",
+   "source": "블루밍비트",
+   "time": "2026-07-11T22:57:48+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CRlF5ZTRWWUFGcXJCWFR6MVdFWXBYb1ptUmphWVZZejlneFlaekhPenoyVklWQmhOWV82R2JnYlZfVW9va2RaeVNMQ0U0Smph?oc=5"
   },
   {
    "title": "SK하이닉스, 나스닥 첫날 13% 급등 마감…외신들 “화려한 데뷔”",
@@ -1156,22 +1162,16 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FUHU0YzJGT2dJSG1GQnVXSXNHMUZ6alZ4YlVmWk1aaE50QW1NeGRzU3FCRDVhZ0V3ZTFydGt4OWUzQ2NvdnNPNzBlWURkaU1jMUg4WHFlbTBGS1hTLUdWQQ?oc=5"
   },
   {
-   "title": "나스닥 사장 “SK하이닉스 상장, 대박”…“삼성전자도 상장하나?” 물었더니",
-   "source": "전자신문",
-   "time": "2026-07-11T20:47:41+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tcEhXY1Frcno3b1g5RU1RUnBQdGNUYjJLcU5RV29WX2R5dGx6RGlhRnJTSWdWd2d6OTZsOTY2OHhnQU5ySWlqNDV1RTRDQQ?oc=5"
-  },
-  {
-   "title": "하이닉스 ’40조 美 오프닝 벨‘... 자본주의 심장부 화려한 데뷔",
-   "source": "조선일보",
-   "time": "2026-07-11T05:59:37+09:00",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnNYbXpNTjlKRVY4QkNJS3B6ZTdYbnZFckZDazB6cS1WMksxNXdLNmtxczBJVFFjcTFFRC01bjNaUWR6RWJUcWRPNEhwNDhOMzU3MDgxbGVENTl3aUd6d19RZW45SnljdTNCQnlpZUtDOUxOOXBQaWtEbTJqbmhYMkg1dlhFTW9NczdTV0hKM1A4QnczWkJpR2VtNmQ0dw?oc=5"
-  },
-  {
    "title": "코스피 오르나 했더니...\"이번엔 개미가 폭풍매도\" 1조 넘게 던졌다 - 머니투데이",
    "source": "머니투데이",
    "time": "2026-07-09T12:04:42+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NeE44STJUZDY0VXVZdWpPb1dObUhtZjk2YmprdlI1b1Fhay1yTGJ6VEdGc0Zaa2xRQlNRWjBrSXF2a3BJY003c0VyT3RZM1BBTXFTQUxJMGREYWU3N1hDZ0kzVUVadk9z0gFuQVVfeXFMUEo2TmFzSzd4eXI4c1JJM2pCRkU2WkZocDN4aHNJbW1WQTlBRTdFcWliaVFtWlVjS1NSTTV6WWVBUnYxQUVhUTBmbHZWcVd4Z0NjNHFoa3R4STV5U29PVDVYeER4VHdRZXY1V0ZaVEE?oc=5"
+  },
+  {
+   "title": "나스닥 사장 “SK하이닉스 상장, 대박”…“삼성전자도 상장하나?” 물었더니",
+   "source": "전자신문",
+   "time": "2026-07-11T20:47:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tcEhXY1Frcno3b1g5RU1RUnBQdGNUYjJLcU5RV29WX2R5dGx6RGlhRnJTSWdWd2d6OTZsOTY2OHhnQU5ySWlqNDV1RTRDQQ?oc=5"
   },
   {
    "title": "코스피·코스닥서 잇단 매도 사이드카‥오후 들어 낙폭 키워",
@@ -1180,16 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yei1IejhSZy1DQjdlNlc3SThleTZXMS1GLWRSMFd6ZEp2UDhZQi1wYjhmUTFUQWY4NHZ5NjhxbG4wZm1GTERzdHVpWU5qRWlBTm5ySldpTFhTeUdYWV81bVFNc0xfa01oWHhWODhxZkhRUmR50gF0QVVfeXFMT3lUamcyNU9oLTBYbHJ5QXVGREdBOVJTYVZzSG1JR3NLSFJhRm02YkkwREZvZWtZbFU4MDN1WTJTNnhlMVVaMmRyTWJhcDE2NDhNQThjd3pITWhzSnU4aUZObGNUV2tKcThnU3JEbkJEcFNaYTM?oc=5"
   },
   {
+   "title": "하이닉스 ’40조 美 오프닝 벨‘... 자본주의 심장부 화려한 데뷔",
+   "source": "조선일보",
+   "time": "2026-07-11T05:59:37+09:00",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnNYbXpNTjlKRVY4QkNJS3B6ZTdYbnZFckZDazB6cS1WMksxNXdLNmtxczBJVFFjcTFFRC01bjNaUWR6RWJUcWRPNEhwNDhOMzU3MDgxbGVENTl3aUd6d19RZW45SnljdTNCQnlpZUtDOUxOOXBQaWtEbTJqbmhYMkg1dlhFTW9NczdTV0hKM1A4QnczWkJpR2VtNmQ0dw?oc=5"
+  },
+  {
    "title": "‘서울 아파트 16억, 환율 1500원대 고정’…국민의힘, “김용범, 경제정책 실패 책임지고 사퇴하라”",
    "source": "문화일보",
    "time": "2026-07-11T16:28:21+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TUGNfYWpZSmdxZ19zV0pDTDRyN1J6ejlyRlFxb3Fzc0U3eWZvMFdTdmwzRHVnZmM0WklMRG16SFJUMGtIaE1CdTAtRF9kMmRp?oc=5"
-  },
-  {
-   "title": "SK하이닉스 ADR 거래 시작…타임스스퀘어엔 \"웰컴 투 나스닥\"",
-   "source": "연합뉴스",
-   "time": "2026-07-10T23:16:22+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sV1RpOHBMOHhwZ1Qtd0Z1YUtwRlJidjZNS0Q1OUhTc0x6M09mT0hhVENpMWVacUhybmU5OGtSMTFuTVplY3lLVE5lZ0F5cnlSZ0lwUk5qRU4yODjSAWBBVV95cUxQcmlyajBadE0tQ2x1d08tbHFiMFBmV3l0ZUVnQXhqcEFmYVpBN1owRGo3UEY5dXhwbERNWm5uNEJxVTkzeHBybUlxOW1fT2lqR2l3akVmd1BlWUpVcms3MlI?oc=5"
   }
  ]
 }
