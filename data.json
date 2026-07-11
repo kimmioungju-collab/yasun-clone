@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T06:11:50.044373+09:00",
+ "updated": "2026-07-12T07:08:24.918870+09:00",
  "quotes": {
   "k200": {
    "price": 1196.69,
@@ -738,74 +738,63 @@
    ]
   },
   "btc": {
-   "price": 64360.41,
+   "price": 64308.42,
    "prev": 64125.902,
    "spark": [
-    64257.8906,
-    64268.3281,
-    64267.8398,
-    64310.5703,
-    64323.1797,
-    64297.0781,
-    64311.0898,
-    64279.5117,
-    64310.0781,
-    64286.6992,
-    64253.9609,
     64281.9883,
-    64265.1719,
-    64261.7812,
+    64265.1797,
+    64263.4609,
     64279.9883,
-    64289.6602,
+    64292.7695,
     64297.3906,
-    64193.1797,
-    64195.4219,
+    64190.6406,
+    64195.4102,
     64214.5781,
-    64225.2695,
-    64220.3594,
+    64221.0,
+    64220.3516,
     64238.7109,
     64245.9883,
-    64270.0117,
-    64262.7617,
-    64282.8516,
+    64270.0,
+    64279.9219,
+    64279.6406,
     64306.7617,
     64294.1719,
     64311.3398,
-    64301.9883,
-    64317.9805,
-    64370.8711,
-    64344.2812,
+    64303.9883,
+    64322.4297,
+    64368.3398,
+    64347.9102,
     64338.0586,
     64337.1094,
-    64384.2383,
+    64384.25,
     64360.1016,
-    64360.4102,
-    64360.4102
+    64308.6797,
+    64339.8203,
+    64349.0586,
+    64324.8281,
+    64312.9609,
+    64309.8516,
+    64304.2891,
+    64321.4609,
+    64300.6016,
+    64310.3789,
+    64317.2188,
+    64303.6016,
+    64308.4219
    ]
   },
   "eth": {
-   "price": 1826.6,
+   "price": 1820.9,
    "prev": 1795.6898,
    "spark": [
-    1823.2,
-    1823.51,
-    1823.58,
-    1825.0601,
-    1826.3101,
-    1824.84,
-    1825.55,
-    1826.01,
-    1827.15,
-    1824.89,
-    1824.3199,
     1824.96,
     1823.6899,
     1823.4,
     1823.96,
-    1824.4301,
+    1824.36,
     1823.25,
-    1818.96,
-    1818.91,
+    1818.65,
+    1819.04,
     1819.1801,
     1820.08,
     1821.74,
@@ -813,20 +802,31 @@
     1823.41,
     1824.29,
     1823.4,
-    1823.9399,
+    1824.12,
     1824.71,
     1824.01,
     1824.9399,
     1824.6,
-    1825.3101,
-    1826.55,
+    1825.13,
+    1826.38,
     1824.6,
     1825.38,
     1825.09,
     1827.23,
     1827.11,
-    1827.01,
-    1826.6
+    1825.54,
+    1826.01,
+    1826.1899,
+    1824.7,
+    1823.92,
+    1823.86,
+    1822.1899,
+    1822.91,
+    1823.21,
+    1822.72,
+    1821.72,
+    1820.77,
+    1820.9
    ]
   },
   "eurkrw": {
@@ -1108,16 +1108,16 @@
  },
  "news": [
   {
-   "title": "[뉴스초점] SK하이닉스 나스닥 성공 데뷔…다음주 증시 전망은",
-   "source": "연합뉴스TV",
-   "time": "2026-07-11T15:38:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WeVlXdnplQnJzREdob3pYX2w5NUhGblA3Z1hDSE85TVhLYWY0WExybGd6VF8yQjZBZ3d2RVRTbFZuV3J3LXhkUW93cXBUeXZyODNBMG1ZUlNXUWx0NGUxRl9idDhPQmc?oc=5"
-  },
-  {
    "title": "SK하이닉스 나스닥 상장 흥행대박…국내 증시 온기로 이어질까",
    "source": "연합뉴스",
    "time": "2026-07-12T06:05:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DQTRmZmNJX3BTT1hyVkFJR0hUV3JDbVlGWFduQWFoZWVud2pRQUhVQXhjNzlrR2pFejFaaklNRDFtSXJZZkNNTnJSazRkQjg1OGxlTGk3MFVEWTDSAWBBVV95cUxPbHhUYjl2UEs0QS1lZEd1UURESEZzOWZad0JKRlNHX211SEtQVFhJT0RHNVZ5dXM0MmprRXZYR3l5MDVaa2IxdTAwU2h6LUVYSzNVTldJcjliY0ctOWlGeWU?oc=5"
+  },
+  {
+   "title": "[뉴스초점] SK하이닉스 나스닥 성공 데뷔…다음주 증시 전망은",
+   "source": "연합뉴스TV",
+   "time": "2026-07-11T15:38:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WeVlXdnplQnJzREdob3pYX2w5NUhGblA3Z1hDSE85TVhLYWY0WExybGd6VF8yQjZBZ3d2RVRTbFZuV3J3LXhkUW93cXBUeXZyODNBMG1ZUlNXUWx0NGUxRl9idDhPQmc?oc=5"
   },
   {
    "title": "파산 문턱서 나스닥까지…곽노정이 되짚은 SK하이닉스 25년",
@@ -1126,10 +1126,10 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PeGlFbkp6ZUFaRVJZQ3IxQnZuYWZSNWdCZnBUWXBReUJ5WklydXFkVnMzaFhXX3JDZmRULXYzZnUzb293V09NaTUybnN3R2tUbXpWVW1mZkJxMERkRDlEWkw1TEJtSFZza292MzFDcUc?oc=5"
   },
   {
-   "title": "\"9천피 증시에 증권사가 효자\" 4대 금융지주, 상반기 역대급 실적 예고",
-   "source": "더구루",
-   "time": "2026-07-12T00:00:59+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4anphU2VHcHkzMi1MNDVTd0FMRGkyRnRIZURocTJIUy1iV3dKeTNjVkpqTC13MVhvSVNic3VVTjhjeTF2ZzJsUjcyQ2h3azJKaEtET1FpeVBUUHhpX2c?oc=5"
+   "title": "[마켓인사이트] 하이닉스발 훈풍에 반도체 들썩…韓증시 안정 찾을까",
+   "source": "매일경제 마켓",
+   "time": "2026-07-12T06:00:07+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBakhlUTFqMXZobHZVd0hBWWMwMm5OQ0dyYWJhVTFGTUxaRndBTmxnTlJlZ2FPVTRtQkloWHE5X19XRUNFUzlselZncDl2OTIyM0E?oc=5"
   },
   {
    "title": "‘나스닥 흥행’ 속 본주 기대…‘대만 사례’ 비교하며 신중론",
@@ -1138,10 +1138,28 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40VTMyOHNRdG9PUEdrTVZGT1lMUUFKSHUxNWhzc2JFSDFQOHdpZ2J2MDJMTVlxdUlCN193UmpUc1FmLUVoTGZNYnZfd2ZoUlhOX2VTaQ?oc=5"
   },
   {
+   "title": "\"9천피 증시에 증권사가 효자\" 4대 금융지주, 상반기 역대급 실적 예고",
+   "source": "더구루",
+   "time": "2026-07-12T00:00:59+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4anphU2VHcHkzMi1MNDVTd0FMRGkyRnRIZURocTJIUy1iV3dKeTNjVkpqTC13MVhvSVNic3VVTjhjeTF2ZzJsUjcyQ2h3azJKaEtET1FpeVBUUHhpX2c?oc=5"
+  },
+  {
    "title": "나스닥 성공 데뷔 SK하닉...미 반도체 투자 확대하나",
    "source": "YTN",
    "time": "2026-07-11T22:14:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QNnBDX1JDcUk5REZQaHVZVVlFeVM2OTFzSFNmZGZWeE5jcGExajJVTFZHMnZpdVAtc05lZjZINWNpZzhtdXozOGdrQkNkckl5N3JrTTVudXBZbWRIQXc?oc=5"
+  },
+  {
+   "title": "SK하이닉스, 미국 나스닥 시장 입성···글로벌 AI 파트너 노린다",
+   "source": "경향신문",
+   "time": "2026-07-10T22:34:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ac3gzQWhEVDgxNktxcHk3TzVhXzhfOUJHWmRfNnhDcXBBMktUUUMyMXQ4Qm9iZks3NjNzUEZWU2NlWUVyMlYtajc0czBpeElhckMxYlYwaXFRZ9IBX0FVX3lxTE1GTURpY1JPdVItSU5SUzVTYTMzSks2NmdVX2tMZHA2Ri16LWZLd21XZ3kxWTJSOVFDTjM2TlR1eXZtV2JKZ1BsM1JLcHYwaUUyRmlfMlplZV9tU0hZbnpr?oc=5"
+  },
+  {
+   "title": "코스피·코스닥서 잇단 매도 사이드카‥오후 들어 낙폭 키워",
+   "source": "MBC 뉴스",
+   "time": "2026-07-08T14:31:54+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yei1IejhSZy1DQjdlNlc3SThleTZXMS1GLWRSMFd6ZEp2UDhZQi1wYjhmUTFUQWY4NHZ5NjhxbG4wZm1GTERzdHVpWU5qRWlBTm5ySldpTFhTeUdYWV81bVFNc0xfa01oWHhWODhxZkhRUmR50gF0QVVfeXFMT3lUamcyNU9oLTBYbHJ5QXVGREdBOVJTYVZzSG1JR3NLSFJhRm02YkkwREZvZWtZbFU4MDN1WTJTNnhlMVVaMmRyTWJhcDE2NDhNQThjd3pITWhzSnU4aUZObGNUV2tKcThnU3JEbkJEcFNaYTM?oc=5"
   },
   {
    "title": "\"비트코인, 약세장 후반 진입…2~3년 내 25만달러 가능\"",
@@ -1150,10 +1168,10 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CRlF5ZTRWWUFGcXJCWFR6MVdFWXBYb1ptUmphWVZZejlneFlaekhPenoyVklWQmhOWV82R2JnYlZfVW9va2RaeVNMQ0U0Smph?oc=5"
   },
   {
-   "title": "SK하이닉스, 미국 나스닥 시장 입성···글로벌 AI 파트너 노린다",
-   "source": "경향신문",
-   "time": "2026-07-10T22:34:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ac3gzQWhEVDgxNktxcHk3TzVhXzhfOUJHWmRfNnhDcXBBMktUUUMyMXQ4Qm9iZks3NjNzUEZWU2NlWUVyMlYtajc0czBpeElhckMxYlYwaXFRZ9IBX0FVX3lxTE1GTURpY1JPdVItSU5SUzVTYTMzSks2NmdVX2tMZHA2Ri16LWZLd21XZ3kxWTJSOVFDTjM2TlR1eXZtV2JKZ1BsM1JLcHYwaUUyRmlfMlplZV9tU0hZbnpr?oc=5"
+   "title": "[뉴욕증시-주간전망] 중동 분쟁, 격화의 기로…물가 지표도 나온다",
+   "source": "KB Think",
+   "time": "2026-07-12T07:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NWUZUbGVRZld1dVE3emFFZzhLMFhhUFBFN19DY2Y1RXpCNy1WaG50cmF3MlBEVnhENHJGa3VMWXZ2cnBuVmhkSndMbGM0YjVEWWxEb1RHMklRMHB2QS0wU1BxcWFFcjlUY05YVWRiQnZmUQ?oc=5"
   },
   {
    "title": "SK하이닉스, 나스닥 첫날 13% 급등 마감…외신들 “화려한 데뷔”",
@@ -1168,28 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FUHU0YzJGT2dJSG1GQnVXSXNHMUZ6alZ4YlVmWk1aaE50QW1NeGRzU3FCRDVhZ0V3ZTFydGt4OWUzQ2NvdnNPNzBlWURkaU1jMUg4WHFlbTBGS1hTLUdWQQ?oc=5"
   },
   {
-   "title": "코스피 오르나 했더니...\"이번엔 개미가 폭풍매도\" 1조 넘게 던졌다 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-07-09T12:04:42+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NeE44STJUZDY0VXVZdWpPb1dObUhtZjk2YmprdlI1b1Fhay1yTGJ6VEdGc0Zaa2xRQlNRWjBrSXF2a3BJY003c0VyT3RZM1BBTXFTQUxJMGREYWU3N1hDZ0kzVUVadk9z0gFuQVVfeXFMUEo2TmFzSzd4eXI4c1JJM2pCRkU2WkZocDN4aHNJbW1WQTlBRTdFcWliaVFtWlVjS1NSTTV6WWVBUnYxQUVhUTBmbHZWcVd4Z0NjNHFoa3R4STV5U29PVDVYeER4VHdRZXY1V0ZaVEE?oc=5"
-  },
-  {
    "title": "나스닥 사장 “SK하이닉스 상장, 대박”…“삼성전자도 상장하나?” 물었더니",
    "source": "전자신문",
    "time": "2026-07-11T20:47:41+09:00",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tcEhXY1Frcno3b1g5RU1RUnBQdGNUYjJLcU5RV29WX2R5dGx6RGlhRnJTSWdWd2d6OTZsOTY2OHhnQU5ySWlqNDV1RTRDQQ?oc=5"
-  },
-  {
-   "title": "코스피·코스닥서 잇단 매도 사이드카‥오후 들어 낙폭 키워",
-   "source": "MBC 뉴스",
-   "time": "2026-07-08T14:31:54+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yei1IejhSZy1DQjdlNlc3SThleTZXMS1GLWRSMFd6ZEp2UDhZQi1wYjhmUTFUQWY4NHZ5NjhxbG4wZm1GTERzdHVpWU5qRWlBTm5ySldpTFhTeUdYWV81bVFNc0xfa01oWHhWODhxZkhRUmR50gF0QVVfeXFMT3lUamcyNU9oLTBYbHJ5QXVGREdBOVJTYVZzSG1JR3NLSFJhRm02YkkwREZvZWtZbFU4MDN1WTJTNnhlMVVaMmRyTWJhcDE2NDhNQThjd3pITWhzSnU4aUZObGNUV2tKcThnU3JEbkJEcFNaYTM?oc=5"
-  },
-  {
-   "title": "‘서울 아파트 16억, 환율 1500원대 고정’…국민의힘, “김용범, 경제정책 실패 책임지고 사퇴하라”",
-   "source": "문화일보",
-   "time": "2026-07-11T16:28:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TUGNfYWpZSmdxZ19zV0pDTDRyN1J6ejlyRlFxb3Fzc0U3eWZvMFdTdmwzRHVnZmM0WklMRG16SFJUMGtIaE1CdTAtRF9kMmRp?oc=5"
   }
  ]
 }
