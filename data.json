@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T03:09:10.600267+09:00",
+ "updated": "2026-07-12T04:29:29.577451+09:00",
  "quotes": {
   "k200": {
    "price": 1196.69,
@@ -738,76 +738,60 @@
    ]
   },
   "btc": {
-   "price": 64256.03,
+   "price": 64196.52,
    "prev": 64125.902,
    "spark": [
-    64297.6719,
-    64334.9883,
-    64326.0586,
-    64418.6797,
-    64361.8906,
-    64415.2812,
-    64378.6914,
-    64388.5312,
-    64101.0391,
-    64042.1602,
-    64049.4297,
-    64091.5898,
-    64120.1719,
-    64096.75,
-    64065.5508,
-    64138.8984,
     64152.3203,
-    64169.1289,
+    64169.5508,
     64163.3984,
     64172.2305,
     64093.9609,
     64095.9102,
-    64115.7383,
-    64079.3789,
+    64121.5898,
+    64075.6289,
     64132.7188,
     64141.5703,
-    64179.3984,
-    64163.9492,
-    64192.1094,
+    64184.1094,
+    64166.0,
+    64192.1016,
     64167.2383,
     64250.5312,
-    64333.3516,
-    64304.2383,
+    64330.5703,
+    64306.3594,
     64307.8789,
     64286.9102,
-    64273.1211,
+    64273.1094,
     64271.4805,
     64257.8906,
-    64256.0312,
-    64256.0312
+    64268.3281,
+    64267.8398,
+    64310.5703,
+    64323.1797,
+    64297.0781,
+    64311.0898,
+    64279.5117,
+    64310.0781,
+    64286.6992,
+    64253.9609,
+    64281.9883,
+    64265.1719,
+    64261.7812,
+    64279.9883,
+    64289.6602,
+    64297.3906,
+    64191.9805,
+    64196.5195
    ]
   },
   "eth": {
-   "price": 1823.09,
+   "price": 1818.61,
    "prev": 1795.6898,
    "spark": [
-    1809.65,
-    1813.1899,
-    1812.88,
-    1820.13,
-    1818.0699,
-    1825.49,
-    1823.01,
-    1822.01,
-    1813.4,
-    1810.6801,
-    1810.45,
-    1811.75,
-    1813.52,
-    1812.71,
-    1810.3101,
-    1813.59,
     1814.98,
     1817.88,
     1818.26,
     1819.99,
-    1817.79,
+    1817.71,
     1816.8,
     1817.95,
     1818.62,
@@ -818,15 +802,31 @@
     1819.84,
     1818.36,
     1821.37,
-    1825.3199,
+    1825.2,
     1825.9399,
     1825.3199,
     1823.61,
     1823.98,
     1823.28,
-    1823.17,
-    1823.09,
-    1823.09
+    1823.2,
+    1823.51,
+    1823.58,
+    1825.0601,
+    1826.3101,
+    1824.84,
+    1825.55,
+    1826.01,
+    1827.15,
+    1824.89,
+    1824.3199,
+    1824.96,
+    1823.6899,
+    1823.4,
+    1823.96,
+    1824.4301,
+    1823.25,
+    1818.2,
+    1818.61
    ]
   },
   "eurkrw": {
@@ -1132,34 +1132,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CRlF5ZTRWWUFGcXJCWFR6MVdFWXBYb1ptUmphWVZZejlneFlaekhPenoyVklWQmhOWV82R2JnYlZfVW9va2RaeVNMQ0U0Smph?oc=5"
   },
   {
-   "title": "SK하이닉스, 나스닥 첫날 13% 급등 마감…외신들 “화려한 데뷔”",
-   "source": "v.daum.net",
-   "time": "2026-07-11T21:15:52+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mVDlzbWlkZm9LLWwxUjRHY09WUjIxNEJkWWVkNXdaeWJINWszSjd3RDhoUEZza1c0cGFjYVFBNHA5TVBGR3VrVG8tMXFLQjA?oc=5"
-  },
-  {
-   "title": "하이닉스 ’40조 美 오프닝 벨‘... 자본주의 심장부 화려한 데뷔",
-   "source": "조선일보",
-   "time": "2026-07-11T05:59:37+09:00",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnNYbXpNTjlKRVY4QkNJS3B6ZTdYbnZFckZDazB6cS1WMksxNXdLNmtxczBJVFFjcTFFRC01bjNaUWR6RWJUcWRPNEhwNDhOMzU3MDgxbGVENTl3aUd6d19RZW45SnljdTNCQnlpZUtDOUxOOXBQaWtEbTJqbmhYMkg1dlhFTW9NczdTV0hKM1A4QnczWkJpR2VtNmQ0dw?oc=5"
-  },
-  {
-   "title": "[주末머니]비트코인, 언제 사야 할까?",
-   "source": "아시아경제",
-   "time": "2026-07-11T20:12:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FUHU0YzJGT2dJSG1GQnVXSXNHMUZ6alZ4YlVmWk1aaE50QW1NeGRzU3FCRDVhZ0V3ZTFydGt4OWUzQ2NvdnNPNzBlWURkaU1jMUg4WHFlbTBGS1hTLUdWQQ?oc=5"
-  },
-  {
    "title": "SK하이닉스, 美 나스닥 입성한다…오늘 밤부터 거래 개시",
    "source": "연합인포맥스",
    "time": "2026-07-10T07:52:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmQVQ1UkN2VklITnZUb3ppeDFHNHZYVTA0Mk5qd3JWdjBkUFF5WWdWVzV5YWxMZWYwSzZmX3pjRDg2WGpkdm1hNDNtQjdmZjY5MXJrUHVsV0NlTThlUkYxaW4yUm44RE5sUDl6N1pxSzc?oc=5"
   },
   {
-   "title": "나스닥 사장 “SK하이닉스 상장, 대박”…“삼성전자도 상장하나?” 물었더니",
-   "source": "전자신문",
-   "time": "2026-07-11T20:47:41+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tcEhXY1Frcno3b1g5RU1RUnBQdGNUYjJLcU5RV29WX2R5dGx6RGlhRnJTSWdWd2d6OTZsOTY2OHhnQU5ySWlqNDV1RTRDQQ?oc=5"
+   "title": "SK하이닉스, 나스닥 첫날 13% 급등 마감…외신들 “화려한 데뷔”",
+   "source": "v.daum.net",
+   "time": "2026-07-11T21:15:52+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mVDlzbWlkZm9LLWwxUjRHY09WUjIxNEJkWWVkNXdaeWJINWszSjd3RDhoUEZza1c0cGFjYVFBNHA5TVBGR3VrVG8tMXFLQjA?oc=5"
   },
   {
    "title": "SK하이닉스, 미국 나스닥 시장 입성···글로벌 AI 파트너 노린다",
@@ -1168,10 +1150,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ac3gzQWhEVDgxNktxcHk3TzVhXzhfOUJHWmRfNnhDcXBBMktUUUMyMXQ4Qm9iZks3NjNzUEZWU2NlWUVyMlYtajc0czBpeElhckMxYlYwaXFRZ9IBX0FVX3lxTE1GTURpY1JPdVItSU5SUzVTYTMzSks2NmdVX2tMZHA2Ri16LWZLd21XZ3kxWTJSOVFDTjM2TlR1eXZtV2JKZ1BsM1JLcHYwaUUyRmlfMlplZV9tU0hZbnpr?oc=5"
   },
   {
-   "title": "하이닉스 나스닥 첫날 13% 상승‥흥행 성공",
-   "source": "MBC 뉴스",
-   "time": "2026-07-11T11:58:13+09:00",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zeFRTaEoyUmN4Z1FaU0NlZDYxeVVQUHlrWWhZS0pHdUJSMnVFc1ZBYjBJMXJISkNLOFBDQnpGa2ViejVlVlprckNMVDlVSWtPNEpaVFNsenhaSUtpajRXUXlRZWhoM0hUcG93WWNfdVpSVE42a2VKLQ?oc=5"
+   "title": "[주末머니]비트코인, 언제 사야 할까?",
+   "source": "아시아경제",
+   "time": "2026-07-11T20:12:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FUHU0YzJGT2dJSG1GQnVXSXNHMUZ6alZ4YlVmWk1aaE50QW1NeGRzU3FCRDVhZ0V3ZTFydGt4OWUzQ2NvdnNPNzBlWURkaU1jMUg4WHFlbTBGS1hTLUdWQQ?oc=5"
+  },
+  {
+   "title": "나스닥 사장 “SK하이닉스 상장, 대박”…“삼성전자도 상장하나?” 물었더니",
+   "source": "전자신문",
+   "time": "2026-07-11T20:47:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tcEhXY1Frcno3b1g5RU1RUnBQdGNUYjJLcU5RV29WX2R5dGx6RGlhRnJTSWdWd2d6OTZsOTY2OHhnQU5ySWlqNDV1RTRDQQ?oc=5"
+  },
+  {
+   "title": "하이닉스 ’40조 美 오프닝 벨‘... 자본주의 심장부 화려한 데뷔",
+   "source": "조선일보",
+   "time": "2026-07-11T05:59:37+09:00",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnNYbXpNTjlKRVY4QkNJS3B6ZTdYbnZFckZDazB6cS1WMksxNXdLNmtxczBJVFFjcTFFRC01bjNaUWR6RWJUcWRPNEhwNDhOMzU3MDgxbGVENTl3aUd6d19RZW45SnljdTNCQnlpZUtDOUxOOXBQaWtEbTJqbmhYMkg1dlhFTW9NczdTV0hKM1A4QnczWkJpR2VtNmQ0dw?oc=5"
   },
   {
    "title": "코스피 오르나 했더니...\"이번엔 개미가 폭풍매도\" 1조 넘게 던졌다 - 머니투데이",
@@ -1180,16 +1174,22 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NeE44STJUZDY0VXVZdWpPb1dObUhtZjk2YmprdlI1b1Fhay1yTGJ6VEdGc0Zaa2xRQlNRWjBrSXF2a3BJY003c0VyT3RZM1BBTXFTQUxJMGREYWU3N1hDZ0kzVUVadk9z0gFuQVVfeXFMUEo2TmFzSzd4eXI4c1JJM2pCRkU2WkZocDN4aHNJbW1WQTlBRTdFcWliaVFtWlVjS1NSTTV6WWVBUnYxQUVhUTBmbHZWcVd4Z0NjNHFoa3R4STV5U29PVDVYeER4VHdRZXY1V0ZaVEE?oc=5"
   },
   {
+   "title": "코스피·코스닥서 잇단 매도 사이드카‥오후 들어 낙폭 키워",
+   "source": "MBC 뉴스",
+   "time": "2026-07-08T14:31:54+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yei1IejhSZy1DQjdlNlc3SThleTZXMS1GLWRSMFd6ZEp2UDhZQi1wYjhmUTFUQWY4NHZ5NjhxbG4wZm1GTERzdHVpWU5qRWlBTm5ySldpTFhTeUdYWV81bVFNc0xfa01oWHhWODhxZkhRUmR50gF0QVVfeXFMT3lUamcyNU9oLTBYbHJ5QXVGREdBOVJTYVZzSG1JR3NLSFJhRm02YkkwREZvZWtZbFU4MDN1WTJTNnhlMVVaMmRyTWJhcDE2NDhNQThjd3pITWhzSnU4aUZObGNUV2tKcThnU3JEbkJEcFNaYTM?oc=5"
+  },
+  {
    "title": "‘서울 아파트 16억, 환율 1500원대 고정’…국민의힘, “김용범, 경제정책 실패 책임지고 사퇴하라”",
    "source": "문화일보",
    "time": "2026-07-11T16:28:21+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TUGNfYWpZSmdxZ19zV0pDTDRyN1J6ejlyRlFxb3Fzc0U3eWZvMFdTdmwzRHVnZmM0WklMRG16SFJUMGtIaE1CdTAtRF9kMmRp?oc=5"
   },
   {
-   "title": "나스닥 데뷔하며 미국 반도체 추가투자 언급한 SK하이닉스",
+   "title": "SK하이닉스 ADR 거래 시작…타임스스퀘어엔 \"웰컴 투 나스닥\"",
    "source": "연합뉴스",
-   "time": "2026-07-11T10:06:36+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyNDZvMVJLYVd2NktqQlFCNm9FTHR0QWF5cTY4NmpjTjhmSENuNjVIOWlNWkdibkFaTDF2WVY2b1UwdlhXbXkzUUhNaVpNNHdmc0lIV3ZabzBUazTSAWBBVV95cUxPUFl2cENRRThTcDNsTGtDQ2NCLWEtbllydXR3SWhYcnNoNmI5UnIxWTNQamVzTHlmZGp3bjdqQVk4ZHV1b0lHbGFrX0xoSUhPM3BTTnFLdU5vUHNmRUtPTGk?oc=5"
+   "time": "2026-07-10T23:16:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sV1RpOHBMOHhwZ1Qtd0Z1YUtwRlJidjZNS0Q1OUhTc0x6M09mT0hhVENpMWVacUhybmU5OGtSMTFuTVplY3lLVE5lZ0F5cnlSZ0lwUk5qRU4yODjSAWBBVV95cUxQcmlyajBadE0tQ2x1d08tbHFiMFBmV3l0ZUVnQXhqcEFmYVpBN1owRGo3UEY5dXhwbERNWm5uNEJxVTkzeHBybUlxOW1fT2lqR2l3akVmd1BlWUpVcms3MlI?oc=5"
   }
  ]
 }
