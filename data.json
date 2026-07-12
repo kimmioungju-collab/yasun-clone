@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T09:07:24.529712+09:00",
+ "updated": "2026-07-12T12:51:06.677184+09:00",
  "quotes": {
   "k200": {
    "price": 1196.69,
@@ -738,21 +738,95 @@
    ]
   },
   "btc": {
-   "price": 63824.12,
+   "price": 64148.09,
    "prev": 63777.508,
    "spark": [
-    63849.2305,
-    63816.4688,
-    63824.1211
+    63707.2812,
+    63751.5781,
+    63740.7695,
+    63791.0312,
+    63783.7188,
+    63857.9688,
+    63903.8281,
+    63878.3594,
+    63950.9219,
+    63918.3984,
+    63907.3281,
+    63965.7305,
+    64034.8711,
+    64118.0,
+    64080.5781,
+    64089.6016,
+    64085.2617,
+    64029.8594,
+    64013.0391,
+    64013.0312,
+    64003.9102,
+    64084.3789,
+    64074.7305,
+    64056.7188,
+    64040.5586,
+    64044.8398,
+    64031.9688,
+    64035.9805,
+    64031.2383,
+    64039.9414,
+    64006.7383,
+    64056.7188,
+    64076.6289,
+    64082.1992,
+    64088.6406,
+    64141.3203,
+    64097.1914,
+    64130.75,
+    64146.3008,
+    64148.0898
    ]
   },
   "eth": {
-   "price": 1785.48,
+   "price": 1808.82,
    "prev": 1786.8636,
    "spark": [
-    1787.47,
-    1785.1801,
-    1785.48
+    1785.4301,
+    1784.34,
+    1787.27,
+    1787.73,
+    1792.08,
+    1793.65,
+    1792.33,
+    1799.1,
+    1798.92,
+    1799.7,
+    1802.1801,
+    1804.03,
+    1806.1,
+    1805.47,
+    1806.45,
+    1805.58,
+    1802.66,
+    1803.26,
+    1802.64,
+    1803.51,
+    1805.7,
+    1804.27,
+    1804.16,
+    1804.6801,
+    1804.33,
+    1803.96,
+    1803.86,
+    1803.96,
+    1803.45,
+    1802.66,
+    1804.75,
+    1805.33,
+    1806.1,
+    1806.29,
+    1810.74,
+    1808.41,
+    1809.09,
+    1809.13,
+    1808.8199,
+    1808.8199
    ]
   },
   "eurkrw": {
@@ -1032,5 +1106,90 @@
    ]
   }
  },
- "news": []
+ "news": [
+  {
+   "title": "[프리즘] 원·달러 환율 1,600원 육박…'고환율 뉴노멀' 시대 오나",
+   "source": "v.daum.net",
+   "time": "2026-07-12T10:39:54+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DQnB4VDNhQ0VXLXdCWnRpbFYwMjg3b1IySHlrMmRpRm12VFVna2F0ZnA3cEtjWEtYZE5aTWNoRGZhQV9aaXNwN2lONWxxSkU?oc=5"
+  },
+  {
+   "title": "SK하이닉스, 나스닥 첫날 13% 급등 마감…외신들 “화려한 데뷔”",
+   "source": "KBS 뉴스",
+   "time": "2026-07-12T07:22:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rUkVVcl9oMlNMX08tYm9tVnVIdUhsbmw5bm9HUVNiNXlsTXd3X2d0UWEySlBya1UzRlhsVGMxQVRvb05IUFdtN1BteHNpRTdQcTlPTEtQdFJvS3c?oc=5"
+  },
+  {
+   "title": "'롤러코스피'에 ETF 거래량 인버스·레버리지가 상위권 양분",
+   "source": "연합뉴스",
+   "time": "2026-07-12T06:10:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WcUx2T1cyY0VPSDJjX3o2eFFrTnpVVGgxZmFOWm1zd29UN3NJTEdxYmZkUjQ4cEU2NFBmb2FpcW5xazBVekM1eXktLVJuUmlEZGJMaVRpYU1UVWM?oc=5"
+  },
+  {
+   "title": "환율 떨어지자 달러 담았다…5대 은행 달러예금 3년 6개월만에 최대",
+   "source": "조선일보",
+   "time": "2026-07-12T11:01:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGxrQUdDb3JjNl9COGdOM2p0bENISFo2X3hoSzU4ZzhDUGt2eFVta200LXJlYTQ3amxDT0hBZFNDVnEzZm5IUDlIcTJ1dzRqSTljR0VvSlVfdTd1aG9ONWFYdWo3QW41Y2ZSYjRsMHhfMjJjX0tMVTVEYjN3ajlXWi1Tb3lyUWdLRmhvUVV3?oc=5"
+  },
+  {
+   "title": "한국 증시, 사상 최저 밸류에이션…AI 실적 호조 속 투자 기회로 부각",
+   "source": "Investing.com 한국어",
+   "time": "2026-07-12T12:25:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKU2MzWWtOWW9ZclVyU0VGZGswRWllSVBTb0pUSFA4Tzk2SGdZc3FySG1ocDdCWFlqaENQSWNFUHF1NmpETHZsTEJMVUhqNXFvX1VDLVNXVy14S3Q5OVpMTEFmTUctZXBKenZVVVRoNVY?oc=5"
+  },
+  {
+   "title": "파산 문턱서 나스닥까지…곽노정이 되짚은 SK하이닉스 25년",
+   "source": "연합인포맥스",
+   "time": "2026-07-12T06:03:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PeGlFbkp6ZUFaRVJZQ3IxQnZuYWZSNWdCZnBUWXBReUJ5WklydXFkVnMzaFhXX3JDZmRULXYzZnUzb293V09NaTUybnN3R2tUbXpWVW1mZkJxMERkRDlEWkw1TEJtSFZza292MzFDcUc?oc=5"
+  },
+  {
+   "title": "SK하이닉스 나스닥 입성…168달러 급등마감",
+   "source": "연합뉴스TV",
+   "time": "2026-07-11T19:28:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByM2hneGZudHNKdTREb3pfSGY3WDJIMlpfZEk0MW95UW44WElWeGdRV1NEQ3I0UkhXajYzRUc4OGZqa0U4WnBrQ3RUdUtyeTlMRXNlZ250ZlNJT1NoZHpZMkxZb3poZ0U?oc=5"
+  },
+  {
+   "title": "출렁이는 코스피에 ETF 거래량 인버스·레버리지가 상위권 양분",
+   "source": "매일경제 마켓",
+   "time": "2026-07-12T10:51:05+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jbHJQV0xGTjdob2FwQlNmdWYzanFVRlVSYm51MDRLVDR6NkpRX0NjWlpyLWRBTGFiMTVjVXF5SDFlRmJVOFdMcENrSFdpcUFPSUE?oc=5"
+  },
+  {
+   "title": "'세계 2위 보유사' 테더, 비트코인 매입 중단…커지는 의구심",
+   "source": "이데일리TV",
+   "time": "2026-07-12T11:08:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TOWVQenFubnNQVmlpandBT0RidXczcTdvMGtpWVM4cTRpSlB3QXllMVg4M1RhZl9rdHNETDRpOE9BenZadjNvN1M1MDUtczlKbzBQaEl3Sll6MjJiOVQ2MU9UT2E0dk9zaGZIUEVMc3Y5TW5zM0lOY0lCWQ?oc=5"
+  },
+  {
+   "title": "SK하이닉스, 미국 나스닥 시장 입성···글로벌 AI 파트너 노린다",
+   "source": "경향신문",
+   "time": "2026-07-10T22:34:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ac3gzQWhEVDgxNktxcHk3TzVhXzhfOUJHWmRfNnhDcXBBMktUUUMyMXQ4Qm9iZks3NjNzUEZWU2NlWUVyMlYtajc0czBpeElhckMxYlYwaXFRZ9IBX0FVX3lxTE1GTURpY1JPdVItSU5SUzVTYTMzSks2NmdVX2tMZHA2Ri16LWZLd21XZ3kxWTJSOVFDTjM2TlR1eXZtV2JKZ1BsM1JLcHYwaUUyRmlfMlplZV9tU0hZbnpr?oc=5"
+  },
+  {
+   "title": "코스피·코스닥서 잇단 매도 사이드카‥오후 들어 낙폭 키워",
+   "source": "MBC 뉴스",
+   "time": "2026-07-08T14:31:54+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yei1IejhSZy1DQjdlNlc3SThleTZXMS1GLWRSMFd6ZEp2UDhZQi1wYjhmUTFUQWY4NHZ5NjhxbG4wZm1GTERzdHVpWU5qRWlBTm5ySldpTFhTeUdYWV81bVFNc0xfa01oWHhWODhxZkhRUmR50gF0QVVfeXFMT3lUamcyNU9oLTBYbHJ5QXVGREdBOVJTYVZzSG1JR3NLSFJhRm02YkkwREZvZWtZbFU4MDN1WTJTNnhlMVVaMmRyTWJhcDE2NDhNQThjd3pITWhzSnU4aUZObGNUV2tKcThnU3JEbkJEcFNaYTM?oc=5"
+  },
+  {
+   "title": "SK하이닉스, 나스닥 첫날 13% 급등 마감…외신들 “화려한 데뷔”",
+   "source": "KBS 뉴스",
+   "time": "2026-07-12T07:03:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rSFN2c3dSbkdNMkZLWkVGX3BRbG1lNnpqQzhudFhSOENCZmFfRnJPQl9rVGpGTGQyRmI0Q3FoNzFIUXMyVzJ0VVlmcEF0QUttRjRmOElvZnNFd1U?oc=5"
+  },
+  {
+   "title": "SK하이닉스 나스닥 상장 흥행대박…국내 증시 온기로 이어질까",
+   "source": "연합뉴스",
+   "time": "2026-07-12T06:05:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DQTRmZmNJX3BTT1hyVkFJR0hUV3JDbVlGWFduQWFoZWVud2pRQUhVQXhjNzlrR2pFejFaaklNRDFtSXJZZkNNTnJSazRkQjg1OGxlTGk3MFVEWTDSAWBBVV95cUxPbHhUYjl2UEs0QS1lZEd1UURESEZzOWZad0JKRlNHX211SEtQVFhJT0RHNVZ5dXM0MmprRXZYR3l5MDVaa2IxdTAwU2h6LUVYSzNVTldJcjliY0ctOWlGeWU?oc=5"
+  },
+  {
+   "title": "개미들 '성지순례' 터졌다…코스피 폭락 정확히 맞힌 보고서, 이번엔 \"지금 사야\"",
+   "source": "v.daum.net",
+   "time": "2026-07-12T08:35:08+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NeTQzdThuLVVtU2tmQzRnUmktLTI5M2RmQVhqUk1rVjgyaGFLR0oxTV9tbHhVY2FfUXoyOVlIa09lN1RwZThCNWZUUF91ZVk?oc=5"
+  }
+ ]
 }
