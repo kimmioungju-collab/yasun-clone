@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T04:29:43.505719+09:00",
+ "updated": "2026-07-13T05:22:26.171640+09:00",
  "quotes": {
   "k200": {
    "price": 1196.69,
@@ -340,7 +340,7 @@
   },
   "brent": {
    "price": 76.01,
-   "prev": 76.3,
+   "prev": 76.01,
    "spark": []
   },
   "gold": {
@@ -451,20 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64163.09,
+   "price": 64155.48,
    "prev": 63777.508,
    "spark": [
-    64059.8906,
-    64093.1211,
-    64137.7305,
-    64080.5586,
-    64076.2305,
-    64079.5,
-    64102.8906,
-    64076.25,
-    64131.7891,
-    64115.1992,
-    64120.5508,
     64104.1484,
     64126.4688,
     64088.0,
@@ -492,25 +481,25 @@
     64130.0195,
     64143.4414,
     64169.5586,
-    64162.4102,
-    64163.0898
+    64164.9883,
+    64129.5,
+    64118.9805,
+    64115.4883,
+    64129.6914,
+    64199.1602,
+    64193.8711,
+    64160.9883,
+    64171.0312,
+    64151.1914,
+    64164.0586,
+    64155.4883,
+    64155.4805
    ]
   },
   "eth": {
-   "price": 1820.33,
+   "price": 1818.52,
    "prev": 1786.8636,
    "spark": [
-    1819.14,
-    1821.36,
-    1821.6899,
-    1818.84,
-    1818.55,
-    1818.61,
-    1820.34,
-    1819.17,
-    1820.75,
-    1819.65,
-    1820.3,
     1818.83,
     1819.9301,
     1818.36,
@@ -538,8 +527,19 @@
     1819.8,
     1818.98,
     1820.04,
-    1820.3199,
-    1820.33
+    1820.38,
+    1818.83,
+    1818.77,
+    1817.79,
+    1819.41,
+    1821.26,
+    1820.39,
+    1819.1801,
+    1818.64,
+    1818.47,
+    1818.98,
+    1818.62,
+    1818.52
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 161.672,
+   "price": 161.584,
    "prev": 162.356,
    "spark": [
     161.557,
@@ -727,7 +727,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1408,
+   "price": 1.1406,
    "prev": 1.1434,
    "spark": [
     1.1419,
@@ -786,10 +786,10 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QVWJJOTNEMnUxQVYyTXJ1NVJiWTAzUFNMYjgwOUhWOXR4eEFMa0tLZFFzN0hlMFYyenZBOHlFa1RVUWdianJTcUViX21HcEJLc2JYN09n?oc=5"
   },
   {
-   "title": "[프리즘] 원·달러 환율 1,600원 육박…’고환율 뉴노멀’ 시대 오나",
-   "source": "연합뉴스TV",
-   "time": "2026-07-12T10:38:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yYjB5U290aXhKcl9WWnFmdWQ2SHIxRFl2OFVfNVF3Mm9DRE1mdnBSY3pOSzZWVERKX1RRMnpzZUpqNE1YZVZSOUZaM1pVRnh6VjFZcTdYNDNHSmRtbWxDc3lramtFQXM?oc=5"
+   "title": "[중국증시 주간 포인트] ①中 상반기 GDP 발표, 수출입 지표, 생산∙소매∙투자 지표, WAIC 개최, 중국 서부 AI 로봇대회, AGI Summit SF 2026 개최",
+   "source": "뉴스핌",
+   "time": "2026-07-13T00:06:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tNHlYUXRheXVHc2huNzN6NlRBSFZIanBuMzZoWmVDUkd1cUJoUnV4MWlJM3pwZzJDQjNYRjhMZlpJTkhUaFVBem1JRk9vbXhYdVRyY1h6eWRHYThp?oc=5"
   },
   {
    "title": "재경부 차관보 \"하반기 환율 수급 변화 예상…韓펀더멘털 반영\"",
@@ -798,16 +798,22 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNaGd3S2NHWlByYWwzMkxhU0gza3FXc2ZxamtJVWFVaURFMFlWTms0NTcwVi1ScDZ4Rlo5WjZvYWdwWjBOckExSU80NE1PaVcxcGtrc2s1UjNMa1XSAWBBVV95cUxQYjdfa2xhbkljWHRoeWRtUjBDc1RKXzMyd0c4RDNsa2QwMHhaemZzeElYT0hGMlgza0dKYV9qQlYxZW9DYnlITzlwb2prMXV3NklweHNldnFTWUFqUDdRVW4?oc=5"
   },
   {
+   "title": "[프리즘] 원·달러 환율 1,600원 육박…’고환율 뉴노멀’ 시대 오나",
+   "source": "연합뉴스TV",
+   "time": "2026-07-12T10:38:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yYjB5U290aXhKcl9WWnFmdWQ2SHIxRFl2OFVfNVF3Mm9DRE1mdnBSY3pOSzZWVERKX1RRMnpzZUpqNE1YZVZSOUZaM1pVRnh6VjFZcTdYNDNHSmRtbWxDc3lramtFQXM?oc=5"
+  },
+  {
    "title": "SK하이닉스 ADR·리밸런싱 약화에 환율 떨어졌지만··· 1500원 아래로는 ‘글쎄’",
    "source": "경향신문",
    "time": "2026-07-12T15:29:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNTGQ1cEpYMEhOUnJ2UTdxSlZHN251Q1BoOEpKaEtsbHg4ZXJUblFMNkVxbFJLVVRIZHM0MlNLY0hDNTE2UVQ3eXZMX3ROWk1Kb29FV3ExLXg3QdIBX0FVX3lxTE14SjZmcWtuLXUyLWRNT3hxSXA3djREd1JpUjJHaTFFSkxmZU92Uy1oTlJmUXBPTk5yNXcycFdRZnFpZ1RwTUlXLWdjZzBnQTdxMG9XbXJ0STBfVHZoUllF?oc=5"
   },
   {
-   "title": "[중국증시 주간 포인트] ①中 상반기 GDP 발표, 수출입 지표, 생산∙소매∙투자 지표, WAIC 개최, 중국 서부 AI 로봇대회, AGI Summit SF 2026 개최",
-   "source": "뉴스핌",
-   "time": "2026-07-13T00:06:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tNHlYUXRheXVHc2huNzN6NlRBSFZIanBuMzZoWmVDUkd1cUJoUnV4MWlJM3pwZzJDQjNYRjhMZlpJTkhUaFVBem1JRk9vbXhYdVRyY1h6eWRHYThp?oc=5"
+   "title": "SK하닉 타고 265억 달러 온다… ‘통화스와프급’ 환율 구원 투수 될까",
+   "source": "서울신문",
+   "time": "2026-07-12T23:44:52+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLRzF4cTgtV08wSkxwT1JTYmM1N1dUSzlvMXhwMHlvTFQ3MTZPdXpwYkFKUTFpNU5CUDdGNEtKY2oydVZxSVZVTi1nNy1nOVc0eUR0V050RHpVZWsxU3lRMXF6UW8xQThOTHFlZktENjJvUWJyX3huQldn?oc=5"
   },
   {
    "title": "SK하이닉스 40조 ‘달러 실탄’…환율 구원투수로 등판",
@@ -828,16 +834,16 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnNNWWRzSEJ3MHlUTHpxNkd4ei04SE01VVZWTGZtVldwQV9RSHNSekEwdkptM0p2YUxwUUpFWHp2ay1vMm1lR0k3T242dXhrbF9NbVZiM1VVcHNNZ1M5bmU0MS1iZ19TVnBWdHJXVjk3QmYzVGl6bll3RHE0NktoNg?oc=5"
   },
   {
+   "title": "하이닉스, ‘통화스와프급’ 달러 조달… 환율 구원투수 기대",
+   "source": "동아일보",
+   "time": "2026-07-13T04:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EUUdsa3dSa3VKRHcyTE92MjNTeWk1QVZYSzVmWGV0VDVqT1J3WE9xR3pwSUxDTjVnVjBKQ0V2MllOd05sV0EwdmhLRGFmZ3d2aGhnN1NmSHBTSFlJXy1qQ2cyTU4xSU1OcXJ4RWpndTFfRXF6VlHSAWZBVV95cUxOYjJleEEtcGprbVU1WlhidnRYUC1Uam9kRXp1SEVHUGpoaWNHNGdhSnZwSzVxVkhhTWtqTkpzLWxUWVRuQU5OY3B6TFpPQzExY2s4V1hIWTgzRGplME9nWDdvbTlGOGc?oc=5"
+  },
+  {
    "title": "월요일 SK하닉 주가 오를까?…나스닥에선 253만원 찍었다 - 머니투데이",
    "source": "머니투데이",
    "time": "2026-07-12T14:44:48+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWRlNGcFloS0xzU01QZ0djY3I0VWZoWEg1R2w3VHdHOWpWbHdNR2lFaXRWMjdnbHFxSE1uVmR2NWtSd1I3U2YySmx6RmNCYXRsV2wtaEdlNHZBVF9KZHQ0SG9aanNUd1h20gFuQVVfeXFMT2lOWE1taEpOWlFuUXN4RDEzSzZMWlhPS3dUaWxlYkNwdV95X1hodElNcWFvTzRlQThUYlVHWkNNTUUtN2NHQm5FcmdSWW9KVG83eGdCVTN3RUNOMllCemJpZk93Vm1QWGJUN09IWkE?oc=5"
-  },
-  {
-   "title": "SK하닉 타고 265억 달러 온다… ‘통화스와프급’ 환율 구원 투수 될까",
-   "source": "서울신문",
-   "time": "2026-07-12T23:44:52+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLRzF4cTgtV08wSkxwT1JTYmM1N1dUSzlvMXhwMHlvTFQ3MTZPdXpwYkFKUTFpNU5CUDdGNEtKY2oydVZxSVZVTi1nNy1nOVc0eUR0V050RHpVZWsxU3lRMXF6UW8xQThOTHFlZktENjJvUWJyX3huQldn?oc=5"
   },
   {
    "title": "[표] 외국환율고시표",
@@ -846,22 +852,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44ZmJiTWg1UGNxV2NCMTBDYkxoNXBFSkhzb0NraERvTkk0NkhjaGlaak5sb2l3bkhlcnFESzdXcURiWGpEdlB2ZUZIN3lEWHd4RXc?oc=5"
   },
   {
-   "title": "골드만삭스, CPI 발표 앞두고 연준 금리 전망을 미국 증시 핵심 리스크로 지목",
-   "source": "Investing.com 한국어",
-   "time": "2026-07-12T23:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ZkprRDNCZmJSVjB3ZmVRZWVlYXp5V0JSUncwNW9QYk1TYWZZc3lWaXpoN0RqRXhiVHMzd0tLTk9UM21YdjJwblp2TWZVMzMzSFJDOFNYNEowMld0S0hpXzQ0U1RjTTBxNEI5SGR5ZFI?oc=5"
-  },
-  {
    "title": "“코스피 ‘1만피’ 오를 것”…급락 맞췄던 투자보고서 새 전망",
    "source": "중앙일보",
    "time": "2026-07-12T16:38:37+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5S0FYWWswcEdjZzZsQ3ZoWG0ya1hsM0lyckRZcmt1aXplUWJ6SkpJUXR5WDluQXlGb1VHb19KRzg3OTM1LUhnbnlKUjdPTjVzbUhSMHdB?oc=5"
   },
   {
-   "title": "“코스피 ‘1만피’ 오를 것”…급락 맞췄던 투자보고서 새 전망",
-   "source": "v.daum.net",
-   "time": "2026-07-12T16:40:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHS2U4eFB5XzlQZ216RnNkOXRrQUdUTmlzdlZvMTBfTEVVQzZ5NFlqMjhveUt4dEx3MTVYeVZudTV6T3czeTgxQ3hIMFYxanc?oc=5"
+   "title": "SK하이닉스, 미국 나스닥 시장 입성···글로벌 AI 파트너 노린다",
+   "source": "경향신문",
+   "time": "2026-07-10T22:34:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ac3gzQWhEVDgxNktxcHk3TzVhXzhfOUJHWmRfNnhDcXBBMktUUUMyMXQ4Qm9iZks3NjNzUEZWU2NlWUVyMlYtajc0czBpeElhckMxYlYwaXFRZ9IBX0FVX3lxTE1GTURpY1JPdVItSU5SUzVTYTMzSks2NmdVX2tMZHA2Ri16LWZLd21XZ3kxWTJSOVFDTjM2TlR1eXZtV2JKZ1BsM1JLcHYwaUUyRmlfMlplZV9tU0hZbnpr?oc=5"
   }
  ]
 }
