@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T21:29:44.610135+09:00",
+ "updated": "2026-07-12T23:06:31.788062+09:00",
  "quotes": {
   "k200": {
    "price": 1196.69,
@@ -451,29 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64010.65,
+   "price": 63976.64,
    "prev": 63777.508,
    "spark": [
-    63798.9297,
-    63738.8594,
-    63789.5117,
-    63852.4414,
-    63896.0195,
-    63961.25,
-    63942.6016,
-    63953.7109,
-    63915.1992,
-    63897.6602,
-    63863.3398,
-    63885.6289,
-    63868.5117,
-    63849.2383,
-    63836.8906,
-    63860.1406,
-    63827.3984,
-    63826.3906,
-    63809.1992,
-    63807.6289,
     63812.0,
     63856.25,
     63860.1484,
@@ -492,34 +472,34 @@
     64056.7109,
     64009.3984,
     63991.2109,
-    64013.0195,
-    64010.6484
+    64011.6016,
+    63996.8984,
+    63973.8789,
+    63988.7891,
+    63994.0117,
+    64002.4102,
+    63982.1602,
+    64011.6914,
+    64010.4805,
+    64002.1094,
+    64042.1992,
+    63988.0,
+    64001.1211,
+    64023.9414,
+    64002.0,
+    63999.1484,
+    63965.7188,
+    63985.9492,
+    63980.5312,
+    63986.8398,
+    63976.6406,
+    63976.6406
    ]
   },
   "eth": {
-   "price": 1805.97,
+   "price": 1805.46,
    "prev": 1786.8636,
    "spark": [
-    1799.48,
-    1796.29,
-    1798.4301,
-    1799.2,
-    1800.5,
-    1802.4399,
-    1801.8,
-    1801.8,
-    1801.33,
-    1800.13,
-    1799.1801,
-    1799.9399,
-    1799.96,
-    1799.89,
-    1799.6,
-    1800.23,
-    1799.05,
-    1798.8199,
-    1797.92,
-    1798.12,
     1798.33,
     1799.79,
     1798.83,
@@ -538,8 +518,28 @@
     1805.54,
     1804.8,
     1804.4301,
-    1805.64,
-    1805.97
+    1806.3,
+    1804.89,
+    1804.51,
+    1805.2,
+    1806.61,
+    1806.78,
+    1805.99,
+    1806.84,
+    1807.25,
+    1806.96,
+    1808.0699,
+    1805.86,
+    1806.77,
+    1806.72,
+    1806.78,
+    1806.49,
+    1804.95,
+    1805.5699,
+    1804.73,
+    1805.83,
+    1805.45,
+    1805.46
    ]
   },
   "eurkrw": {
@@ -810,10 +810,10 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WDJFQmQ4Nkl3T2tRRlk2ZU1LNjc3aDFETHVHZHY0NFlUOVptSlhRa1lCc1U1NmdXWGNyZlBERXdNTlhwMl9reUVqY2htbjNVcEdvWkR0UWdoMTF4R2FCNF9FV1I0SFVlWFI0?oc=5"
   },
   {
-   "title": "SK하이닉스, 나스닥 첫날 13% 급등 마감…외신들 “화려한 데뷔”",
-   "source": "KBS 뉴스",
-   "time": "2026-07-12T07:22:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rUkVVcl9oMlNMX08tYm9tVnVIdUhsbmw5bm9HUVNiNXlsTXd3X2d0UWEySlBya1UzRlhsVGMxQVRvb05IUFdtN1BteHNpRTdQcTlPTEtQdFJvS3c?oc=5"
+   "title": "SK하이닉스 40조 ‘달러 실탄’…환율 구원투수로 등판",
+   "source": "세종의소리",
+   "time": "2026-07-12T20:28:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NUTdVcFQ3RUFiVTNyMm1ma2FtU2hKZFVTSm5kMVpSQ1dLa2Z4QXlIbWZ4Qk1SYTNZTzJoNC01LWZHazJWdTg2RmU4Z0NWNW5aR3VCS2RlQ2lpdVU5UE1MYWJ6c3lrcGc?oc=5"
   },
   {
    "title": "월요일 SK하닉 주가 오를까?…나스닥에선 253만원 찍었다 - 머니투데이",
@@ -822,22 +822,16 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWRlNGcFloS0xzU01QZ0djY3I0VWZoWEg1R2w3VHdHOWpWbHdNR2lFaXRWMjdnbHFxSE1uVmR2NWtSd1I3U2YySmx6RmNCYXRsV2wtaEdlNHZBVF9KZHQ0SG9aanNUd1h20gFuQVVfeXFMT2lOWE1taEpOWlFuUXN4RDEzSzZMWlhPS3dUaWxlYkNwdV95X1hodElNcWFvTzRlQThUYlVHWkNNTUUtN2NHQm5FcmdSWW9KVG83eGdCVTN3RUNOMllCemJpZk93Vm1QWGJUN09IWkE?oc=5"
   },
   {
-   "title": "미국서 40조 조달한 하이닉스…환율 ‘연쇄하락 고리’ 기대감",
-   "source": "한겨레",
-   "time": "2026-07-12T20:16:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DR1d0YXNMS2xFSTRmZkpmUjhHQVpseFpwQnYwdVBJdWZ1N2N5RjBodGM4ZHFaTmtYTmtzOG45MTVXOW41QjR6Q0xtRktpSDVNOTRTRmRIUkd4QVp6SUFmWnJrUnJoTGM?oc=5"
-  },
-  {
-   "title": "SK하이닉스 40조 ‘달러 실탄’…환율 구원투수로 등판",
-   "source": "세종의소리",
-   "time": "2026-07-12T20:28:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NUTdVcFQ3RUFiVTNyMm1ma2FtU2hKZFVTSm5kMVpSQ1dLa2Z4QXlIbWZ4Qk1SYTNZTzJoNC01LWZHazJWdTg2RmU4Z0NWNW5aR3VCS2RlQ2lpdVU5UE1MYWJ6c3lrcGc?oc=5"
-  },
-  {
    "title": "[외환-주간] 금통위 앞둔 환율…SK하이닉스·선물환 주목",
    "source": "연합인포맥스",
    "time": "2026-07-12T13:03:19+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MVkt2OWpHMU94ckNmM2lKNXJlWjlRSWM3Sm9FSWlRTWNweUM3YkoyQ0ZTd002djRBMWF5dGV2MjBmZFlZajllcmxaWWE1NE5RZEpaTmpBXzdxUWVLdVE5NThLaGtlUmRaYzB4MkM1ZEw?oc=5"
+  },
+  {
+   "title": "미국서 40조 조달한 하이닉스…환율 ‘연쇄하락 고리’ 기대감",
+   "source": "한겨레",
+   "time": "2026-07-12T22:10:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DR1d0YXNMS2xFSTRmZkpmUjhHQVpseFpwQnYwdVBJdWZ1N2N5RjBodGM4ZHFaTmtYTmtzOG45MTVXOW41QjR6Q0xtRktpSDVNOTRTRmRIUkd4QVp6SUFmWnJrUnJoTGM?oc=5"
   },
   {
    "title": "SK하이닉스 美 증시 상장으로 265억달러 유입...고공행진 환율 진정될까",
@@ -846,16 +840,22 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnNNWWRzSEJ3MHlUTHpxNkd4ei04SE01VVZWTGZtVldwQV9RSHNSekEwdkptM0p2YUxwUUpFWHp2ay1vMm1lR0k3T242dXhrbF9NbVZiM1VVcHNNZ1M5bmU0MS1iZ19TVnBWdHJXVjk3QmYzVGl6bll3RHE0NktoNg?oc=5"
   },
   {
+   "title": "한국 증시, 사상 최저 밸류에이션…AI 실적 호조 속 투자 기회로 부각",
+   "source": "Investing.com 한국어",
+   "time": "2026-07-12T12:25:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKU2MzWWtOWW9ZclVyU0VGZGswRWllSVBTb0pUSFA4Tzk2SGdZc3FySG1ocDdCWFlqaENQSWNFUHF1NmpETHZsTEJMVUhqNXFvX1VDLVNXVy14S3Q5OVpMTEFmTUctZXBKenZVVVRoNVY?oc=5"
+  },
+  {
    "title": "SK하이닉스, 나스닥서 40조…‘통화스와프급’ 달러 공급",
    "source": "JTBC",
    "time": "2026-07-12T13:22:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaWN6NlRnTnl4U1FLYVhDV1Q4aGFFRHZac2k3YVBhTmJDWGgwS0JiMWN1UkJrdW5pSTc1d2toYl9XTVprU3ROUnNZZGlrRjBGNGo5Ug?oc=5"
   },
   {
-   "title": "한국 증시, 사상 최저 밸류에이션…AI 실적 호조 속 투자 기회로 부각",
-   "source": "Investing.com 한국어",
-   "time": "2026-07-12T12:25:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKU2MzWWtOWW9ZclVyU0VGZGswRWllSVBTb0pUSFA4Tzk2SGdZc3FySG1ocDdCWFlqaENQSWNFUHF1NmpETHZsTEJMVUhqNXFvX1VDLVNXVy14S3Q5OVpMTEFmTUctZXBKenZVVVRoNVY?oc=5"
+   "title": "SK하이닉스, 나스닥 첫날 13% 급등 마감…외신들 “화려한 데뷔”",
+   "source": "KBS 뉴스",
+   "time": "2026-07-12T07:22:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rUkVVcl9oMlNMX08tYm9tVnVIdUhsbmw5bm9HUVNiNXlsTXd3X2d0UWEySlBya1UzRlhsVGMxQVRvb05IUFdtN1BteHNpRTdQcTlPTEtQdFJvS3c?oc=5"
   },
   {
    "title": "통화스와프급 달러 폭탄…환율 구원투수 된 ‘하이닉스 40조’",
