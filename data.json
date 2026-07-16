@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T05:25:01.749876+09:00",
+ "updated": "2026-07-17T06:31:07.991172+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -186,18 +186,9 @@
    ]
   },
   "nq": {
-   "price": 29167.75,
+   "price": 29179.0,
    "prev": 29693.25,
    "spark": [
-    29316.5,
-    29324.25,
-    29288.0,
-    29298.25,
-    29278.75,
-    29333.0,
-    29287.5,
-    29270.0,
-    29243.75,
     29257.25,
     29250.75,
     29244.5,
@@ -228,22 +219,22 @@
     29199.0,
     29183.0,
     29167.75,
-    29167.75
+    29186.75,
+    29191.5,
+    29181.0,
+    29173.0,
+    29182.25,
+    29174.5,
+    29171.5,
+    29175.0,
+    29179.0,
+    29179.0
    ]
   },
   "es": {
-   "price": 7567.5,
+   "price": 7569.25,
    "prev": 7614.75,
    "spark": [
-    7595.25,
-    7596.0,
-    7591.25,
-    7593.25,
-    7589.5,
-    7596.0,
-    7589.75,
-    7585.0,
-    7583.0,
     7586.0,
     7584.75,
     7582.25,
@@ -274,7 +265,16 @@
     7573.0,
     7570.25,
     7567.25,
-    7567.5
+    7570.0,
+    7571.75,
+    7569.25,
+    7569.25,
+    7569.5,
+    7568.75,
+    7568.0,
+    7569.5,
+    7569.25,
+    7569.25
    ]
   },
   "ndx": {
@@ -416,18 +416,9 @@
    ]
   },
   "wti": {
-   "price": 78.43,
+   "price": 78.89,
    "prev": 79.12,
    "spark": [
-    78.42,
-    78.46,
-    78.66,
-    78.48,
-    78.44,
-    78.36,
-    78.51,
-    78.45,
-    78.46,
     78.33,
     78.2,
     78.19,
@@ -458,22 +449,22 @@
     78.38,
     78.25,
     78.43,
-    78.43
+    78.48,
+    78.46,
+    78.46,
+    78.73,
+    78.79,
+    78.81,
+    78.98,
+    78.88,
+    78.89,
+    78.89
    ]
   },
   "brent": {
-   "price": 84.31,
+   "price": 84.86,
    "prev": 84.95,
    "spark": [
-    84.32,
-    84.45,
-    84.63,
-    84.46,
-    84.42,
-    84.32,
-    84.5,
-    84.46,
-    84.42,
     84.34,
     84.19,
     84.15,
@@ -504,22 +495,22 @@
     84.28,
     84.15,
     84.31,
-    84.31
+    84.4,
+    84.43,
+    84.38,
+    84.58,
+    84.8,
+    84.75,
+    84.95,
+    84.94,
+    84.86,
+    84.86
    ]
   },
   "gold": {
-   "price": 3979.8,
+   "price": 3979.9,
    "prev": 4051.8,
    "spark": [
-    3995.3999,
-    3992.0,
-    3989.8999,
-    3992.2,
-    3991.2,
-    3992.3,
-    3989.0,
-    3986.8999,
-    3985.8999,
     3989.1001,
     3991.2,
     3989.5,
@@ -550,22 +541,22 @@
     3982.1001,
     3980.7,
     3979.3,
-    3979.8
+    3977.1001,
+    3976.8,
+    3979.0,
+    3978.8999,
+    3979.0,
+    3978.5,
+    3979.8,
+    3979.6001,
+    3979.8999,
+    3979.8999
    ]
   },
   "silver": {
-   "price": 55.79,
+   "price": 55.765,
    "prev": 57.433,
    "spark": [
-    56.39,
-    56.24,
-    56.155,
-    56.255,
-    56.16,
-    56.105,
-    56.03,
-    55.97,
-    55.9,
     56.025,
     56.03,
     55.985,
@@ -596,22 +587,22 @@
     55.865,
     55.83,
     55.79,
-    55.79
+    55.81,
+    55.775,
+    55.795,
+    55.78,
+    55.77,
+    55.76,
+    55.755,
+    55.745,
+    55.765,
+    55.765
    ]
   },
   "gas": {
-   "price": 2.89,
+   "price": 2.892,
    "prev": 2.924,
    "spark": [
-    2.843,
-    2.842,
-    2.845,
-    2.844,
-    2.846,
-    2.838,
-    2.838,
-    2.844,
-    2.843,
     2.842,
     2.842,
     2.842,
@@ -642,15 +633,22 @@
     2.891,
     2.89,
     2.89,
-    2.89
+    2.891,
+    2.888,
+    2.889,
+    2.89,
+    2.89,
+    2.892,
+    2.892,
+    2.891,
+    2.892,
+    2.892
    ]
   },
   "vix": {
-   "price": 16.72,
+   "price": 16.73,
    "prev": 15.67,
    "spark": [
-    16.16,
-    16.14,
     16.22,
     16.2,
     16.27,
@@ -688,26 +686,15 @@
     16.75,
     16.58,
     16.7,
-    16.7
+    16.72,
+    16.71,
+    16.73
    ]
   },
   "usdkrw": {
-   "price": 1480.05,
+   "price": 1479.13,
    "prev": 1486.04,
    "spark": [
-    1480.61,
-    1480.27,
-    1480.29,
-    1480.71,
-    1479.55,
-    1479.8199,
-    1479.9301,
-    1479.85,
-    1479.87,
-    1479.61,
-    1479.89,
-    1479.64,
-    1479.27,
     1479.14,
     1479.23,
     1479.77,
@@ -733,28 +720,27 @@
     1478.01,
     1478.4399,
     1478.23,
-    1478.35,
-    1480.05
+    1478.3199,
+    1478.48,
+    1478.49,
+    1478.1801,
+    1477.87,
+    1478.38,
+    1478.1899,
+    1479.37,
+    1479.35,
+    1479.16,
+    1479.1899,
+    1478.66,
+    1479.12,
+    1478.92,
+    1479.13
    ]
   },
   "btc": {
-   "price": 64146.86,
+   "price": 64099.33,
    "prev": 64720.355,
    "spark": [
-    64123.6406,
-    64162.5,
-    64168.1484,
-    64169.6094,
-    64215.8516,
-    64183.9609,
-    64097.0586,
-    64088.6797,
-    64051.1914,
-    64029.7617,
-    64038.5117,
-    64128.4219,
-    64149.9297,
-    64185.9102,
     64256.3711,
     64171.4883,
     64142.25,
@@ -779,27 +765,28 @@
     64147.4102,
     64136.5117,
     64184.1289,
-    64162.4102,
-    64146.8594
+    64140.3086,
+    64133.6992,
+    64144.1211,
+    64096.3984,
+    64103.5508,
+    64109.9609,
+    64071.1992,
+    64066.1484,
+    64084.4609,
+    64117.9102,
+    64133.7109,
+    64158.5703,
+    64114.0,
+    64117.4219,
+    64099.3281,
+    64099.3281
    ]
   },
   "eth": {
-   "price": 1871.86,
+   "price": 1875.29,
    "prev": 1917.0543,
    "spark": [
-    1867.4,
-    1869.4301,
-    1871.54,
-    1870.4,
-    1872.09,
-    1871.61,
-    1868.99,
-    1868.79,
-    1867.46,
-    1867.66,
-    1868.6899,
-    1872.12,
-    1872.92,
     1875.65,
     1876.66,
     1874.0,
@@ -825,27 +812,27 @@
     1872.27,
     1871.24,
     1872.9399,
-    1872.54,
-    1871.86
+    1871.55,
+    1871.9,
+    1872.55,
+    1871.22,
+    1871.35,
+    1871.6899,
+    1871.11,
+    1870.2,
+    1872.75,
+    1874.51,
+    1874.14,
+    1876.64,
+    1875.9,
+    1876.05,
+    1875.29
    ]
   },
   "eurkrw": {
-   "price": 1690.4,
+   "price": 1691.6,
    "prev": 1703.2,
    "spark": [
-    1691.5,
-    1691.6,
-    1691.7,
-    1691.9,
-    1691.7,
-    1691.2,
-    1691.2,
-    1691.5,
-    1691.8,
-    1691.7,
-    1692.0,
-    1691.7,
-    1691.6,
     1691.5,
     1691.3,
     1691.5,
@@ -872,26 +859,26 @@
     1691.3,
     1690.4,
     1690.9,
-    1690.4
+    1690.4,
+    1690.4,
+    1691.4,
+    1690.4,
+    1690.5,
+    1690.8,
+    1690.9,
+    1690.6,
+    1691.8,
+    1691.9,
+    1691.3,
+    1691.9,
+    1691.3,
+    1691.6
    ]
   },
   "jpykrw": {
-   "price": 9.081,
+   "price": 9.087,
    "prev": 9.142,
    "spark": [
-    9.087,
-    9.088,
-    9.088,
-    9.089,
-    9.087,
-    9.085,
-    9.086,
-    9.086,
-    9.089,
-    9.087,
-    9.09,
-    9.09,
-    9.089,
     9.089,
     9.088,
     9.088,
@@ -918,22 +905,26 @@
     9.084,
     9.08,
     9.083,
-    9.081
+    9.081,
+    9.082,
+    9.084,
+    9.081,
+    9.081,
+    9.082,
+    9.082,
+    9.08,
+    9.086,
+    9.088,
+    9.083,
+    9.086,
+    9.084,
+    9.087
    ]
   },
   "cnykrw": {
-   "price": 218.314,
+   "price": 218.464,
    "prev": 219.494,
    "spark": [
-    218.371,
-    218.453,
-    218.49,
-    218.493,
-    218.513,
-    218.632,
-    218.532,
-    218.535,
-    218.535,
     218.507,
     218.414,
     218.474,
@@ -964,26 +955,22 @@
     218.552,
     218.404,
     218.421,
-    218.314
+    218.314,
+    218.338,
+    218.37,
+    218.268,
+    218.279,
+    218.31,
+    218.421,
+    218.459,
+    218.39,
+    218.464
    ]
   },
   "usdjpy": {
-   "price": 162.393,
+   "price": 162.347,
    "prev": 162.137,
    "spark": [
-    162.493,
-    162.482,
-    162.484,
-    162.467,
-    162.46,
-    162.477,
-    162.466,
-    162.422,
-    162.408,
-    162.405,
-    162.408,
-    162.4,
-    162.372,
     162.383,
     162.395,
     162.382,
@@ -1010,27 +997,26 @@
     162.388,
     162.381,
     162.393,
-    162.393
+    162.372,
+    162.366,
+    162.362,
+    162.354,
+    162.364,
+    162.348,
+    162.382,
+    162.378,
+    162.373,
+    162.34,
+    162.355,
+    162.349,
+    162.348,
+    162.347
    ]
   },
   "eurusd": {
-   "price": 1.1443,
+   "price": 1.1447,
    "prev": 1.1468,
    "spark": [
-    1.1435,
-    1.1436,
-    1.1438,
-    1.1438,
-    1.1438,
-    1.1436,
-    1.1438,
-    1.1439,
-    1.1442,
-    1.144,
-    1.1438,
-    1.1439,
-    1.1442,
-    1.1442,
     1.1442,
     1.144,
     1.144,
@@ -1056,27 +1042,27 @@
     1.1443,
     1.1444,
     1.1443,
-    1.1443
+    1.1443,
+    1.1447,
+    1.1447,
+    1.1447,
+    1.1447,
+    1.1447,
+    1.1448,
+    1.1443,
+    1.1444,
+    1.1446,
+    1.1443,
+    1.1444,
+    1.1443,
+    1.1446,
+    1.1447
    ]
   },
   "dxy": {
-   "price": 100.75,
+   "price": 100.728,
    "prev": 100.485,
    "spark": [
-    100.824,
-    100.828,
-    100.826,
-    100.807,
-    100.802,
-    100.795,
-    100.803,
-    100.808,
-    100.799,
-    100.78,
-    100.77,
-    100.779,
-    100.794,
-    100.781,
     100.771,
     100.768,
     100.777,
@@ -1101,8 +1087,22 @@
     100.75,
     100.738,
     100.74,
-    100.745,
-    100.75
+    100.75,
+    100.749,
+    100.759,
+    100.755,
+    100.729,
+    100.719,
+    100.725,
+    100.722,
+    100.719,
+    100.724,
+    100.734,
+    100.735,
+    100.729,
+    100.728,
+    100.728,
+    100.728
    ]
   }
  },
@@ -1114,34 +1114,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdE8tRTFrbVNWcE1GNUJNdWNSRFNTTmg5Q3g0UjJpdVA1YkZFZ25rd3VjMUFhY3NyaVlvVVliWFROeGxWSlk1a18yYXFNd2ZhcWFvM244bklvT2PSAWBBVV95cUxOUFJKczVRWkRSV19MbEY2NXkxNUljcVpyTHkxS19HaHplZ21qQTRUd2VvN2FtTTU1dV9OMWVjNk1UQkFzcHg0elYyMzl1RTcwSUliZEQza0NtSi0tNzh2Nk4?oc=5"
   },
   {
-   "title": "“코스피 변동성 코인 보다 심해”…단타·빚투가 키우고 레버리지가 증폭",
-   "source": "한겨레",
-   "time": "2026-07-16T15:52:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HVDQ0emZGanVScnRwN0h3dnVEZWxaRlFBWF9MS0pYajBWeFBjT1ZPX3o2b1BXWUdIdXlpTXNNRGhGSHRNWWVJSVNGd2NUbG56THI3VE9QMzRRUG15UkR2SWR5Q0g1SnpPYUlJd0JnRVYxUQ?oc=5"
-  },
-  {
-   "title": "[진행형 인간] 비트코인에 밀려난 노동자들",
-   "source": "뉴스민",
-   "time": "2026-07-16T22:43:41+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IZnNFRGxPZ0pmM1NjOFhZYjRWa0N1dUpnU1BrLUNKdHlfTXhaR0VoMU1mU2dMVDZfZ1VLdWlVMlh1TG5hOXFZYUVKRVBKc1k?oc=5"
-  },
-  {
-   "title": "'코스피 급락' 삼전닉스 버티기? 전문가 조언은",
-   "source": "YTN",
-   "time": "2026-07-14T07:36:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1MXRuaFFLYU15eXQ0V0xoQ18yc3R0MzNvNHRuS2wwaVVScFl4aEdpUGozT1hjcTAtN0NIMzlkLXBDbFpRNllBRTd5Rk1uOU1fa2FHQnFXNFZfaWRXdEE?oc=5"
-  },
-  {
-   "title": "IC줌 그룹, 나스닥 재무보고 미준수 통보..180일 개선 기간 확보 가능",
-   "source": "매일경제 마켓",
-   "time": "2026-07-17T05:17:35+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9td0tOVmtmTGMwQ0RtSURZQjd3WkpJUjVfWEo2RE94S2xNaGZkWEswcDJfQmo3U2t5OG55VXVWanJ6VUozRjJyV1M5TkZNejdza3c?oc=5"
-  },
-  {
-   "title": "[증시-마감] 코스피, 6.37% 급락 마감…하루 만에 7천선 밑으로",
-   "source": "연합인포맥스",
-   "time": "2026-07-16T15:42:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yQVRWRWR0bjB6TTRBY0tKczNtOW8wZHg4RWJjSDNaRWZZMmtIWEJEY2FFZHRFS0dFNVVRaVdJRERxRVNqZC1qNnNNNXk0d2QtU3FpeU5CdnJTbXZBQjAxYWZfM0Zobm9Pb0hHYW8tT24?oc=5"
+   "title": "[속보]코스피, 6% 급등에 매수사이드카 발동",
+   "source": "경향신문",
+   "time": "2026-07-15T09:14:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83aUtMX3JYYWN2V21UOWdsYnUyaWhrd3lJQ3VBT0ZaUjZpS3ZCUzBYMll6WlUzWldLYkhyX3c3elh3Z3BDMlpPV2g4Y01xUkJmS01PQ1ZubkdkQdIBX0FVX3lxTE9ZQ2lzMUJmamd5X19UZ2hMVlctcXA0bDNVdFJySTAwR0tTdlU4bnFIYmxTaWZBSEU3SXZTRjNBaEVnUnBmX1ZTUU1GNVpnU3VfdEE4X2UtWGVlQjV0SzZR?oc=5"
   },
   {
    "title": "나스닥 439% 찍은 미장 전문가…“지금은 중국 사라” 점찍은 기업",
@@ -1150,46 +1126,70 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10emxZcWxYYzRSVmZuNzhxTlh4blRQRElkaWRYbVhkZWxCdVJVeWdWZWtFYkxOY1ZUZjBIMjVkTUhqMlhGY2xaWWVrMzVxdjFyMTl1T2FR?oc=5"
   },
   {
+   "title": "“코스피 변동성 코인 보다 심해”…단타·빚투가 키우고 레버리지가 증폭",
+   "source": "한겨레",
+   "time": "2026-07-16T15:52:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HVDQ0emZGanVScnRwN0h3dnVEZWxaRlFBWF9MS0pYajBWeFBjT1ZPX3o2b1BXWUdIdXlpTXNNRGhGSHRNWWVJSVNGd2NUbG56THI3VE9QMzRRUG15UkR2SWR5Q0g1SnpPYUlJd0JnRVYxUQ?oc=5"
+  },
+  {
+   "title": "'코스피 급락' 삼전닉스 버티기? 전문가 조언은",
+   "source": "YTN",
+   "time": "2026-07-14T07:36:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1MXRuaFFLYU15eXQ0V0xoQ18yc3R0MzNvNHRuS2wwaVVScFl4aEdpUGozT1hjcTAtN0NIMzlkLXBDbFpRNllBRTd5Rk1uOU1fa2FHQnFXNFZfaWRXdEE?oc=5"
+  },
+  {
+   "title": "[진행형 인간] 비트코인에 밀려난 노동자들",
+   "source": "뉴스민",
+   "time": "2026-07-16T22:43:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IZnNFRGxPZ0pmM1NjOFhZYjRWa0N1dUpnU1BrLUNKdHlfTXhaR0VoMU1mU2dMVDZfZ1VLdWlVMlh1TG5hOXFZYUVKRVBKc1k?oc=5"
+  },
+  {
+   "title": "홍콩 파마 디지털 테크놀로지 홀딩스, 나스닥 상장 유지 180일 추가 유예",
+   "source": "매일경제 마켓",
+   "time": "2026-07-17T05:32:36+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4WDJVbDlydXU4SXMwWDhJckFoZjMtb2hQd2JodnlLeHRiOFJZT1k1eldIUENXd3ZTNm0zdXlmVDZaVUN5VUNadTBNWWVnelZLWFE?oc=5"
+  },
+  {
+   "title": "SK하이닉스 ADR 또 13% 폭락…반도체·알파벳 급락에 나스닥 1.5%↓[뉴욕 is]",
+   "source": "v.daum.net",
+   "time": "2026-07-17T05:16:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YNDRiLXVyeFBQM3B1SGs2Q1dVNTRPTHRBdXBhaTBzMjVzamU4SThjUXF1SF9rc3BmenBHcjRKRllnUDdrLTNJbDBmR1JHYkE?oc=5"
+  },
+  {
    "title": "[프리즘] 원·달러 환율 1,600원 육박…’고환율 뉴노멀’ 시대 오나",
    "source": "연합뉴스TV",
    "time": "2026-07-12T10:38:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yYjB5U290aXhKcl9WWnFmdWQ2SHIxRFl2OFVfNVF3Mm9DRE1mdnBSY3pOSzZWVERKX1RRMnpzZUpqNE1YZVZSOUZaM1pVRnh6VjFZcTdYNDNHSmRtbWxDc3lramtFQXM?oc=5"
   },
   {
-   "title": "나스닥, 엠프로 그룹 주식 7월 27일부로 상장 폐지",
+   "title": "셀리안 바이오테크놀로지, 나스닥 규정 준수 위해 180일 연장 확보",
    "source": "Investing.com 한국어",
-   "time": "2026-07-17T05:14:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBscXpNc1YzX3ZuVFhrcEcyN2VjTUR6VThBMGlkYVZLOXhHRlNNMEV6Uk1YaVBsaXc1djVzZUtxZmJ3UUFiWWc1U0FRUzVhcEM3MDVhVmhYYU5lSWp1STZBVkVIS3lPak01cnBMNmpPTFE?oc=5"
+   "time": "2026-07-17T05:38:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41ejlPbnR6dWQtcUxvMng1LTNkT0Vpc29Qc2YyZVpWNHhIb0ptVFV2Z1RhQldYVFlZcV96TUF0WGNGa0xVd0Z3eGRCb1dkYlhHNElJVEp1cjlwWThMc1RCcnhnQTVYbnROaGZlSUhSWUY?oc=5"
   },
   {
-   "title": "코스피, 한은 금리 인상 속 7%대 급락…코스닥 4%대↓",
+   "title": "[증시-마감] 코스피, 6.37% 급락 마감…하루 만에 7천선 밑으로",
+   "source": "연합인포맥스",
+   "time": "2026-07-16T15:42:21+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yQVRWRWR0bjB6TTRBY0tKczNtOW8wZHg4RWJjSDNaRWZZMmtIWEJEY2FFZHRFS0dFNVVRaVdJRERxRVNqZC1qNnNNNXk0d2QtU3FpeU5CdnJTbXZBQjAxYWZfM0Zobm9Pb0hHYW8tT24?oc=5"
+  },
+  {
+   "title": "뉴욕증시, AI 반도체주 매도에 하락…나스닥 1.5%↓",
    "source": "연합뉴스",
-   "time": "2026-07-16T11:13:58+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90MmVFdnZva2ZWWDIwUjU0a184TzNKYUlnWGRYTmdDdHRBblNEOWNtWFo0MXZiWXo1MkZ6STh3aG9yZEIxblVyWkVTQjRTTXN4RFFrejdvd0JSVlnSAWBBVV95cUxOWmk1Q1A5SDM1T2stNTVSSGpoZTlOaGlFZjhuTlNHQ2tTODlTREdYSUVMTGlaZW0wZXY1a1U3bElrbGhQNE1wc0ZQTm1UWVRXSURXNlQ2eGZiUUEzN2hheUM?oc=5"
+   "time": "2026-07-17T05:11:42+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVTXUxZ3BORVdtSkdVMTZxYnlIUExOVGRjbzhuRVlTTkVNbWI3MG1XSjN5TFBkaFo4UEtNczAwRkc5QWxnLVpFb1JzWURXWkxXMjlncW9ENDRlbU3SAWBBVV95cUxOdjB4ODRxWnJad0FkMlluSWk3TmdiMVdnSWZ4WUVWUFRVMzVEX0ptSVFxbklxWHhwNkpnd0xqbHJLZkZ0c2NWcGVYeU9rZFdia2RkR09tOHUwbTRQR2loQW4?oc=5"
+  },
+  {
+   "title": "IC줌 그룹, 나스닥 재무보고 미준수 통보..180일 개선 기간 확보 가능",
+   "source": "매일경제 마켓",
+   "time": "2026-07-17T05:17:35+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9td0tOVmtmTGMwQ0RtSURZQjd3WkpJUjVfWEo2RE94S2xNaGZkWEswcDJfQmo3U2t5OG55VXVWanJ6VUozRjJyV1M5TkZNejdza3c?oc=5"
   },
   {
    "title": "SK 하이닉스 ADR, 나스닥에서 27.29% 폭등 마감",
    "source": "YTN",
    "time": "2026-07-15T05:29:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtU0NEZF80dGxQWTY0Z2x6STFhUGxqMzZseEhBa1BOM1VKZlFRZk5nWHREZ3gwdkNfY2xLakxzTkxSUkpHd3pYSjI3eDJNMWlsNzIxVjNuaGNJMFZ1ZWc?oc=5"
-  },
-  {
-   "title": "[그래픽] 코스피 변동폭 추이",
-   "source": "연합뉴스",
-   "time": "2026-07-16T16:21:20+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvU0w3Skt1dXBoTk1xMG5XM0EwLXlId0RNWXR2TkNmb19wVTN5bDdFMXFERU9VZkNBczhyMUlHb0k0OFJpVmxlcGVyODdkSEpJMnVBUnRhZWRocXdFZUZJQdIBYEFVX3lxTFBvU0w3Skt1dXBoTk1xMG5XM0EwLXlId0RNWXR2TkNmb19wVTN5bDdFMXFERU9VZkNBczhyMUlHb0k0OFJpVmxlcGVyODdkSEpJMnVBUnRhZWRocXdFZUZJQQ?oc=5"
-  },
-  {
-   "title": "7천 선 깨지며 급락 마감...이번주 내내 '롤러코스피'",
-   "source": "YTN",
-   "time": "2026-07-16T19:04:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iX3RDb0s3WEtjVnJuMEQ2ZFVMZldFYTIwc2EwUEVFSnlWc1pseGlKMlU4Unk2d2liMXJ6Wk9fb1pGVDRqa05RQjlFUEJhdE5nem5nUlBqTkZRdkNZVVE?oc=5"
-  },
-  {
-   "title": "코스피, 급락에도 6,800선 사수…골드만 제시한 지지선 되나",
-   "source": "연합뉴스",
-   "time": "2026-07-16T16:44:04+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNa0NYWEphRzR3Q2VCTEFsMGJlYlpMWnFHYXhXME4ySVFjYUJKcVZqa0FsZHMwYmFOWFVsNjNkanZBYnZEbE50NWItNjlsYXlIbl9qMElFR0xvMVnSAWBBVV95cUxNTk9teC1ONUd0dmR2R0t3T2ozSVloRUEzekxNY3hkdWFLY3hvUVlFbTJTS0Q4RjhMVXVEQmt4a0JZQ2M4X2tEVGxIcFZjZmRudHhRUkRrUTM4djNHWjZTS3g?oc=5"
   }
  ]
 }
