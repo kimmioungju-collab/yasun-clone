@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T17:57:51.501329+09:00",
+ "updated": "2026-07-18T19:18:48.380145+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -228,7 +228,7 @@
     28767.25,
     28758.5,
     28765.25,
-    28768.25
+    28773.25
    ]
   },
   "es": {
@@ -274,7 +274,7 @@
     7496.0,
     7494.5,
     7496.75,
-    7494.75
+    7497.75
    ]
   },
   "ndx": {
@@ -458,7 +458,7 @@
     81.86,
     81.72,
     81.71,
-    81.77
+    81.78
    ]
   },
   "brent": {
@@ -504,7 +504,7 @@
     88.15,
     88.04,
     88.07,
-    88.09
+    88.1
    ]
   },
   "gold": {
@@ -550,7 +550,7 @@
     4017.7,
     4020.3,
     4020.8999,
-    4023.0
+    4018.8
    ]
   },
   "silver": {
@@ -596,7 +596,7 @@
     56.15,
     56.175,
     56.175,
-    56.22
+    56.326
    ]
   },
   "gas": {
@@ -642,7 +642,7 @@
     2.921,
     2.922,
     2.917,
-    2.916
+    2.911
    ]
   },
   "vix": {
@@ -738,25 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63951.01,
+   "price": 63946.51,
    "prev": 63888.2,
    "spark": [
-    63921.6016,
-    63920.0391,
-    63925.6016,
-    63918.0,
-    63927.9805,
-    63916.2891,
-    63955.6797,
-    63947.3594,
-    63940.9883,
-    63912.0,
-    63917.9102,
-    63930.0,
-    63934.9883,
-    63936.1914,
-    63935.4297,
-    63927.5391,
     63946.0195,
     63951.3398,
     63955.6016,
@@ -779,30 +763,30 @@
     63938.3984,
     63958.3906,
     63951.0117,
-    63951.0117,
-    63951.0117
+    63960.0,
+    63936.3203,
+    63925.0,
+    63930.1094,
+    63917.9297,
+    63920.0,
+    63899.75,
+    63916.7812,
+    63924.0391,
+    63928.9102,
+    63933.8008,
+    63942.1094,
+    63943.6992,
+    63945.75,
+    63942.9297,
+    63951.0312,
+    63946.5,
+    63946.5117
    ]
   },
   "eth": {
-   "price": 1846.0,
+   "price": 1843.57,
    "prev": 1840.656,
    "spark": [
-    1846.0601,
-    1845.16,
-    1844.62,
-    1844.53,
-    1844.39,
-    1843.59,
-    1846.21,
-    1845.23,
-    1844.8101,
-    1842.61,
-    1843.29,
-    1843.5601,
-    1843.65,
-    1843.87,
-    1843.61,
-    1843.5699,
     1842.97,
     1841.87,
     1842.92,
@@ -825,8 +809,24 @@
     1845.62,
     1846.76,
     1846.75,
-    1846.2,
-    1846.0
+    1846.1899,
+    1845.37,
+    1845.25,
+    1845.2,
+    1843.0699,
+    1843.04,
+    1842.6,
+    1843.4,
+    1844.0601,
+    1844.05,
+    1843.8,
+    1844.39,
+    1843.87,
+    1843.87,
+    1844.24,
+    1843.55,
+    1843.5699,
+    1843.5699
    ]
   },
   "eurkrw": {
@@ -1106,5 +1106,90 @@
    ]
   }
  },
- "news": []
+ "news": [
+  {
+   "title": "코스피, 6%대 급락 6,800대 후퇴…하루 만에 7,000선 내줘(종합)",
+   "source": "연합뉴스",
+   "time": "2026-07-16T16:26:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdE8tRTFrbVNWcE1GNUJNdWNSRFNTTmg5Q3g0UjJpdVA1YkZFZ25rd3VjMUFhY3NyaVlvVVliWFROeGxWSlk1a18yYXFNd2ZhcWFvM244bklvT2PSAWBBVV95cUxOUFJKczVRWkRSV19MbEY2NXkxNUljcVpyTHkxS19HaHplZ21qQTRUd2VvN2FtTTU1dV9OMWVjNk1UQkFzcHg0elYyMzl1RTcwSUliZEQza0NtSi0tNzh2Nk4?oc=5"
+  },
+  {
+   "title": "뉴욕증시, 반도체 매도세 지속에 하락",
+   "source": "경향신문",
+   "time": "2026-07-18T09:17:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IbVpnWjBJQk8tSkh4RjBFMkpUZVJXM3lmZXAxdGdPSmRKNGRDcFhaQ1ktX3ExWXNiLUl3dDFSeGYyN29CY0UtM2VJNHQzR1Bwd3oyOGNvRXNuZ9IBX0FVX3lxTE50UjFsOXFsLXh1OEdZZC0xdERYeTk5NjAyXzFUalpSeUZIdmdZZENyVTloTXQ5Q3NicEJFeFFWMldGMWZlVzFmaHFEZkU4bkpFRG80VmtBbUw4LWg2RHVJ?oc=5"
+  },
+  {
+   "title": "뉴욕증시, 반도체 차익실현에 하락…나스닥 1.4%↓",
+   "source": "서울경제TV",
+   "time": "2026-07-18T09:47:16+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtX1F1cW1JNnlkLXRMN1ZzcU1XVm1pT1A2UHF4Z2EtY3o3b1ZSV2NROW9zdGRTZ19HTFoyN3dLUE5sWTQ4VmF1a3FDWWU2STdSNGEzU0JtSEQ4VmF3eFdaaWJZdGg?oc=5"
+  },
+  {
+   "title": "코스피 오르는데 코스닥은 왜 빠지나…'엇갈린 장세' 역대 최고",
+   "source": "KBC광주방송",
+   "time": "2026-07-18T07:42:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4dGlQSUUzTmRzdTlYYWt2d1hlTFp3MlVVYjhpSzJUbnJvMjJiLUZiMEhjUVUtYUFMbzlmYTZZYVRUQmt3U3BHbXVzd3dLaV9kaURhVVpXaXNmM1RSQXE5TA?oc=5"
+  },
+  {
+   "title": "[해외시황] 뉴욕증시, AI 반도체주 '팔자'에 3대지수 하락…나스닥 1.40%↓",
+   "source": "프라임경제",
+   "time": "2026-07-18T13:02:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UNlR4VGhVU0VfV1lreV9mUDNtZEc5em1JbFAwdnNTdG5VOXpVdnRUOEFXUlNmSVgxZkYtTG1Mem8zNTVQbHZ1M1ZpZWk3YnNiZEdNc1lMWklzQWpLblJFblZfOGxfZXZ0LXEzcQ?oc=5"
+  },
+  {
+   "title": "코스피, 급락에도 6,800선 사수…골드만 제시한 지지선 되나",
+   "source": "v.daum.net",
+   "time": "2026-07-16T16:45:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Tdjc3MUE5ZVRiOFRPaGV1MlhXS3FCX1dFem1tSUpxbktGTkhaNmFVMlh6amdPMEdfMGNQUm9oOEM0ZlN4bWc?oc=5"
+  },
+  {
+   "title": "“노후자금 다 날렸다…코스피가 도박판” [잇슈 머니]",
+   "source": "KBS 뉴스",
+   "time": "2026-07-17T08:10:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQVVUVVF0ZXgyTnMyTlg0c21iX0QxSnc5UUJZNXhLVHlXcXN1Yy16SWh1TDZpN3NGanBFSkVGaVVUdUZSR1FnTmgyQTRpRUxGbEkzOTBIbGhCc3c?oc=5"
+  },
+  {
+   "title": "[7월 셋째 주 세계경제동향 브리핑] 코스피 6,800선까지 밀려…한미 증시 동반 조정",
+   "source": "기호일보",
+   "time": "2026-07-18T11:04:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RZHFEZmJlTW5HTzhTUzNReXdjdmk1S0NkVUljRlZVcXdidkhNVjhwZEQ3OW16WXVvU0R0bndEeXZyMlI5NkJXb3JqbXpMalRMTTFIQUk1S0hrS3d5OElOa0ZZSTF6M25IcHJuemZFcw?oc=5"
+  },
+  {
+   "title": "코스피 9%폭락에도 개인 '하닉 레버리지' 6천억 순매수…역추세추종 뚜렷",
+   "source": "연합인포맥스",
+   "time": "2026-07-14T09:08:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXU0FkZ2pXMl80STJiLXVNU04yYm5Zb1BLTlZHNUppR0NkNkppbDdseVJIR21mcGk3M1ZvTkJsVnJISmR4NUd4TmdwRW9LNENjQ3I4aDI1NFRSOS0wMzFrcy13c3AyeE1rVlYtRncwbXU?oc=5"
+  },
+  {
+   "title": "“제헌절이 코스피 살렸다”…국내증시 휴장에 개미들 안도, 왜?",
+   "source": "매일경제",
+   "time": "2026-07-18T16:21:23+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LUU94ZlM0dFZJYTd1NUtsSzUtb05ZTHN2NkYyRnJqWVAzX2ctSjg0QzhmcUhMOE1YSlVJRGg3aUV1UkoxSVNhNk1GTjhtX1ZURFE?oc=5"
+  },
+  {
+   "title": "'코스피 급락' 삼전닉스 버티기? 전문가 조언은",
+   "source": "YTN",
+   "time": "2026-07-14T07:36:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1MXRuaFFLYU15eXQ0V0xoQ18yc3R0MzNvNHRuS2wwaVVScFl4aEdpUGozT1hjcTAtN0NIMzlkLXBDbFpRNllBRTd5Rk1uOU1fa2FHQnFXNFZfaWRXdEE?oc=5"
+  },
+  {
+   "title": "美 뉴욕증시 3대 지수 하락 마감… 반도체주 매도세 지속 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-07-18T06:58:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb1FLZEk1eEc0RGZFZFVmQWotYnFGMFZwOXFEWk9rVVhvaEZoY3BnQTFpTUpyV04zWWJjMWZLQkNnRVh2RXA5cFlJYUZ1NXdCVTVEWWY4NmNtbjlaRGljZ01OQ3JkREVtNkxNMjJORGFpTmxWN0RKRVAyc0diS3k2eHNyc0x3Y1pwZk1EUkxxZ1BSX3EwZkFBWlJLSFpxUdIBsgFBVV95cUxOc0FxVFk5Nlp5R19KODlRZ21NX2hhX0dNMlg3R1BJUmNrQmZXVHExUnBNNFRNeDBYTUNsUlAtQi1TQjlZQ3hSRjFmQjd3XzExQ092UEE1cGh3UndmR1NncEZzemhtWUhmdUhhLXhsVFB0cHFhV0M5eS10cTY0b0lxLUJrQ3h0dEZ5U1VBRGRLWDZmeHIwRFZ4YWR0SzRackVlcnpWdW1DZDJmNldYN0FnbmhR?oc=5"
+  },
+  {
+   "title": "뉴욕증시, 반도체 매도세 지속에 하락‥나스닥 1.4%↓",
+   "source": "MBC 뉴스",
+   "time": "2026-07-18T05:27:03+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iNkV3YTJFTjJremF5MHdkMTlHM2psWDZMVTltbVhneDRZcTJ3aUg5YkRTN1dVNUJJZDhVcWRtRVJfNGVJWEdrX2ZhWlN4eHRPblIwRVlMSk0xdGxiSFd1RkJKdm96NldFZFI0eHplSkpHa0kx0gF0QVVfeXFMUHRxclRKRjJwZ1FtYktFRWI5SG1MdDBQUGpNUmVQdDVmQ2wycFNrNDFEMVlMNGVMWlRPWVhWUHJmUkp4bS1qN1NDODhSbDVaZVBkR2hHeUxaN0EtODFwNWRvYUNDcGFBNHhYaWkyUTRwb3J1NmI?oc=5"
+  },
+  {
+   "title": "뉴욕증시, 반도체 매도세에 하락…나스닥 1.4%↓",
+   "source": "아시아경제",
+   "time": "2026-07-18T09:25:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TMUoxczE0S0w4WHcwaUNOLS12SEhGeEFyWm1mZHBRSHJCdnFIaEJadUw4VVlkbGZVcFRCN2l3dFpUNUNlbzFxWmg0ZUlCYmdaTWs1cndDX21BRDRFVngwTg?oc=5"
+  }
+ ]
 }
