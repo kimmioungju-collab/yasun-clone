@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T06:27:45.976636+09:00",
+ "updated": "2026-07-19T07:23:23.300666+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -738,20 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64701.75,
+   "price": 64753.28,
    "prev": 63888.2,
    "spark": [
-    64459.3594,
-    64554.1719,
-    64534.5195,
-    64456.8203,
-    64450.0,
-    64445.5586,
-    64450.4609,
-    64452.0898,
-    64468.2383,
-    64471.1992,
-    64488.3281,
     64499.6719,
     64526.5391,
     64472.7383,
@@ -779,25 +768,25 @@
     64716.4688,
     64753.2891,
     64685.0195,
-    64698.0703,
-    64701.75
+    64682.2617,
+    64664.9609,
+    64645.3281,
+    64609.75,
+    64631.7891,
+    64735.5312,
+    64692.0117,
+    64749.9883,
+    64738.5508,
+    64759.4609,
+    64742.2383,
+    64756.9609,
+    64753.2812
    ]
   },
   "eth": {
-   "price": 1859.04,
+   "price": 1862.04,
    "prev": 1840.656,
    "spark": [
-    1850.5601,
-    1856.79,
-    1857.84,
-    1854.72,
-    1853.41,
-    1853.87,
-    1855.33,
-    1855.33,
-    1856.29,
-    1857.49,
-    1857.67,
     1857.61,
     1857.96,
     1855.0699,
@@ -825,8 +814,19 @@
     1860.59,
     1860.79,
     1857.99,
-    1858.92,
-    1859.04
+    1858.14,
+    1858.03,
+    1857.53,
+    1856.6,
+    1857.49,
+    1860.6,
+    1859.64,
+    1861.79,
+    1861.97,
+    1861.6899,
+    1861.74,
+    1862.1801,
+    1862.04
    ]
   },
   "eurkrw": {
@@ -1114,6 +1114,12 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdE8tRTFrbVNWcE1GNUJNdWNSRFNTTmg5Q3g0UjJpdVA1YkZFZ25rd3VjMUFhY3NyaVlvVVliWFROeGxWSlk1a18yYXFNd2ZhcWFvM244bklvT2PSAWBBVV95cUxOUFJKczVRWkRSV19MbEY2NXkxNUljcVpyTHkxS19HaHplZ21qQTRUd2VvN2FtTTU1dV9OMWVjNk1UQkFzcHg0elYyMzl1RTcwSUliZEQza0NtSi0tNzh2Nk4?oc=5"
   },
   {
+   "title": "코스피지수 실적은 개선됐는데, 왜 주가는 더 크게 떨어지나?",
+   "source": "Investing.com 한국어",
+   "time": "2026-07-19T06:52:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13Rk1IMmgzMnlDOGdzZlNrR2hFbnZqQTd5ZWl0TkNXZG0waDZKUHlUZEFGVWIxOHA4S1NTcmJwQ3UwWXRzdlhST003bDBJWkVLZEVBdEVyMWt4Q0JtX042Mkx1cE9HcXVFNnJHcVJUelg?oc=5"
+  },
+  {
    "title": "[마켓인사이트] 제헌절 연휴 美반도체 하락지속…韓증시 짓누르나",
    "source": "매일경제 마켓",
    "time": "2026-07-19T06:00:18+09:00",
@@ -1138,6 +1144,12 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQVVUVVF0ZXgyTnMyTlg0c21iX0QxSnc5UUJZNXhLVHlXcXN1Yy16SWh1TDZpN3NGanBFSkVGaVVUdUZSR1FnTmgyQTRpRUxGbEkzOTBIbGhCc3c?oc=5"
   },
   {
+   "title": "[기자의 눈] 비트코인 ETF 도입, 약속은 '두 번'이면 충분하다",
+   "source": "뉴스1",
+   "time": "2026-07-19T07:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMGdpbTlIVmVUR0QxOEo2bHVRUmcxUWp1NnNGZE1mN3ZkR01kYkpMd3hsdmJXMnNsb3hkUk5WUnJ6SkMyc1I1bHNqUXJPODZJZGxLU1Q0WThqcVE0YnRXY2ZNMHhZZw?oc=5"
+  },
+  {
    "title": "美 나스닥 빗장에 中 상장 ‘뚝’… 체질 개선 나선 아시아 IPO 시장",
    "source": "글로벌이코노믹",
    "time": "2026-07-19T05:40:00+09:00",
@@ -1150,16 +1162,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXU0FkZ2pXMl80STJiLXVNU04yYm5Zb1BLTlZHNUppR0NkNkppbDdseVJIR21mcGk3M1ZvTkJsVnJISmR4NUd4TmdwRW9LNENjQ3I4aDI1NFRSOS0wMzFrcy13c3AyeE1rVlYtRncwbXU?oc=5"
   },
   {
-   "title": "코스피 급락 후 일주일 내 67% 반등…다음주 알파벳·인텔 '시험대'",
-   "source": "뉴스1",
-   "time": "2026-07-19T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3cG1YTVg5aHVGLVoyblpXVGhEX1lpUC1uRzJzYXFhdkdtWVkxc1FUVm13am1IaktSMVBYejFXZ1hMY3I5cXBVNUwtZTM0RTZWWWhqQWdtTWU1NWFfeUdn?oc=5"
-  },
-  {
    "title": "'코스피 급락' 삼전닉스 버티기? 전문가 조언은",
    "source": "YTN",
    "time": "2026-07-14T07:36:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1MXRuaFFLYU15eXQ0V0xoQ18yc3R0MzNvNHRuS2wwaVVScFl4aEdpUGozT1hjcTAtN0NIMzlkLXBDbFpRNllBRTd5Rk1uOU1fa2FHQnFXNFZfaWRXdEE?oc=5"
+  },
+  {
+   "title": "하이닉스 실적 앞둔 코스피… 반등 계기 찾을까 [주간증시전망]",
+   "source": "IT조선",
+   "time": "2026-07-19T06:10:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LOV8xc2d3WW1VYkJBLU9qMFQ2Q3BKQ3pCZ0l0Nkx0X0FiU3NIdlExUGhQMk9QUG1jSjFxdjV3SVJGTkdCZHlSR3pScFo4dG41MzhkZlU4X0dFZno1V1d2UTFjMGJzQXp6NXB3YnhKNkjSAXRBVV95cUxNN25OWDkybm9EMXZSb1hieXVKektWQ3h6S1p1UUFqcDFTM2s1WmNFM21DdXQ4cDRvaWNlYWVEc3VvS0U0SGNGUk1DY1dJNTVfby1ZUEFQRmpIT1UxanNPblNEQTROdDVKSjh5YXZJVmE3cFE0dA?oc=5"
   },
   {
    "title": "이미 코스피 40% 잠식했는데…李 “레버리지 보완대책 신속 마련”",
@@ -1168,28 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dTZpcHdHUzZMcW5aVVctTEl4YnE0cm9RM19KLU5zUUFLU2xhS1dpQXhvbm8wcGhtQVlKQTVMQXNRWXo5bG5fWGFOcGdOT2xtbHRTQmtn?oc=5"
   },
   {
-   "title": "뉴욕증시, 반도체 차익실현에 하락…나스닥 1.4%↓",
-   "source": "서울경제TV",
-   "time": "2026-07-18T09:47:16+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtX1F1cW1JNnlkLXRMN1ZzcU1XVm1pT1A2UHF4Z2EtY3o3b1ZSV2NROW9zdGRTZ19HTFoyN3dLUE5sWTQ4VmF1a3FDWWU2STdSNGEzU0JtSEQ4VmF3eFdaaWJZdGg?oc=5"
+   "title": "[뉴욕증시-주간전망] AI 투자 시험대 오른 시장…알파벳·중동 갈등 주목",
+   "source": "연합뉴스",
+   "time": "2026-07-19T07:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VUW1kMHdzRVZYYkNhQzFZZ0QtSW8ySHdmdWRRbVdIRFVzTmpKS2EwSjY0UmQ5X1k2MGtkWkVTWFJOSkI2cU5TYkpkNmtoMFgtUV9XNm0wM0VRazjSAWBBVV95cUxQbjJ1dmlZbEwzUzVpQ1I2dE9jd1k5bDlVY1BXVl9ZNUNialdxWWZHVlRRamE0Z2ZiSUMwZmJRSllLcnRNZy1qc3Y1bzQtN3hxd0dfeTBTdlNPNGRrR2hpRzA?oc=5"
   },
   {
-   "title": "코스피 오르는데 코스닥은 왜 빠지나…'엇갈린 장세' 역대 최고",
-   "source": "KBC광주방송",
-   "time": "2026-07-18T07:42:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4dGlQSUUzTmRzdTlYYWt2d1hlTFp3MlVVYjhpSzJUbnJvMjJiLUZiMEhjUVUtYUFMbzlmYTZZYVRUQmt3U3BHbXVzd3dLaV9kaURhVVpXaXNmM1RSQXE5TA?oc=5"
-  },
-  {
-   "title": "[분석] \"비트코인 시장, 개미는 매도…고래는 물량 흡수\"",
-   "source": "블루밍비트",
-   "time": "2026-07-18T17:24:57+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5leXF6ZS1uZGRCVW5NREJhczJMNFREY1RiVGc3aUpIS0p4bFA4NmdyR0c1eEJmWWRRc2hHanZOQ1Fya21VN2YxMnp0MmZ4emli?oc=5"
-  },
-  {
-   "title": "\"점심 먹고 왔더니 반도체 또 오르네\"…코스피 6900 재진입 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-07-14T14:31:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTlM1TmNXMWl2SDBhUlc3ZV83OWdSbnBJblVPd1VyRGx6b3dXRmxNLXNLSjVrM2F5REVibW9vRVZIQ25mZ2xyazlKb1FRRlY2MjI4M2dYMG1DY3pTSEIzODVveDVJY21H0gFuQVVfeXFMTXp6VlFzY0RwdDJNTGVNRkNXYUhaZW94dGxQeC1waWRfM2ZyOWY4VTdLdGlmU3NpMWVVa0M3Q2J5V3dEdi11b0c3bmZMeGlLM1pNdVFQUnduSFZqNFBrY3Rxa0JlR3FLLV9kSmRrOEE?oc=5"
+   "title": "코스피 '폭락'에 개미들이 웃는 이유",
+   "source": "v.daum.net",
+   "time": "2026-07-19T07:13:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jSnh3NG1LTkdDWld2Y0RzZk80SkdoS19TQThPUnlYTGF5TTN2U3lpMFM1dUtNLTNKUFVGZ2VKYng3TGJ3ZWJfb2ZIcGg1S28?oc=5"
   }
  ]
 }
