@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T22:47:50.268384+09:00",
+ "updated": "2026-07-18T23:41:33.806572+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -738,20 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64011.57,
+   "price": 64130.23,
    "prev": 63888.2,
    "spark": [
-    63955.2188,
-    63954.2617,
-    63957.9219,
-    63961.25,
-    63961.4805,
-    63969.4297,
-    63969.4414,
-    63967.9883,
-    63969.9297,
-    63972.7617,
-    63974.1094,
     63976.8281,
     63979.0781,
     63976.8203,
@@ -779,25 +768,25 @@
     64035.6719,
     64017.2812,
     64011.5781,
-    64011.5703,
-    64011.5703
+    63998.3516,
+    64020.9688,
+    64065.0703,
+    64077.1211,
+    64088.8086,
+    64117.3281,
+    64098.2305,
+    64101.5195,
+    64130.2305,
+    64133.9883,
+    64147.3711,
+    64130.2188,
+    64130.2305
    ]
   },
   "eth": {
-   "price": 1839.97,
+   "price": 1844.09,
    "prev": 1840.656,
    "spark": [
-    1843.51,
-    1843.15,
-    1843.55,
-    1843.8,
-    1844.1899,
-    1843.55,
-    1844.1,
-    1843.67,
-    1843.49,
-    1844.15,
-    1844.04,
     1843.7,
     1843.2,
     1843.58,
@@ -825,8 +814,19 @@
     1840.09,
     1840.62,
     1840.2,
-    1840.14,
-    1839.97
+    1839.84,
+    1839.95,
+    1840.3101,
+    1840.6801,
+    1840.9,
+    1842.12,
+    1841.54,
+    1842.4399,
+    1844.3,
+    1844.73,
+    1843.98,
+    1843.97,
+    1844.09
    ]
   },
   "eurkrw": {
@@ -1150,6 +1150,12 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UNlR4VGhVU0VfV1lreV9mUDNtZEc5em1JbFAwdnNTdG5VOXpVdnRUOEFXUlNmSVgxZkYtTG1Mem8zNTVQbHZ1M1ZpZWk3YnNiZEdNc1lMWklzQWpLblJFblZfOGxfZXZ0LXEzcQ?oc=5"
   },
   {
+   "title": "“제헌절이 코스피 살렸다”…국내증시 휴장에 개미들 안도, 왜?",
+   "source": "매일경제",
+   "time": "2026-07-18T16:21:23+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LUU94ZlM0dFZJYTd1NUtsSzUtb05ZTHN2NkYyRnJqWVAzX2ctSjg0QzhmcUhMOE1YSlVJRGg3aUV1UkoxSVNhNk1GTjhtX1ZURFE?oc=5"
+  },
+  {
    "title": "코스피 9%폭락에도 개인 '하닉 레버리지' 6천억 순매수…역추세추종 뚜렷",
    "source": "연합인포맥스",
    "time": "2026-07-14T09:08:00+09:00",
@@ -1160,12 +1166,6 @@
    "source": "YTN",
    "time": "2026-07-14T07:36:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1MXRuaFFLYU15eXQ0V0xoQ18yc3R0MzNvNHRuS2wwaVVScFl4aEdpUGozT1hjcTAtN0NIMzlkLXBDbFpRNllBRTd5Rk1uOU1fa2FHQnFXNFZfaWRXdEE?oc=5"
-  },
-  {
-   "title": "“제헌절이 코스피 살렸다”…국내증시 휴장에 개미들 안도, 왜?",
-   "source": "매일경제",
-   "time": "2026-07-18T16:21:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LUU94ZlM0dFZJYTd1NUtsSzUtb05ZTHN2NkYyRnJqWVAzX2ctSjg0QzhmcUhMOE1YSlVJRGg3aUV1UkoxSVNhNk1GTjhtX1ZURFE?oc=5"
   },
   {
    "title": "코스피 오를 때 코스닥은 왜 빠지나⋯반도체 쏠림 탓?",
@@ -1180,16 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dTZpcHdHUzZMcW5aVVctTEl4YnE0cm9RM19KLU5zUUFLU2xhS1dpQXhvbm8wcGhtQVlKQTVMQXNRWXo5bG5fWGFOcGdOT2xtbHRTQmtn?oc=5"
   },
   {
+   "title": "[분석] \"비트코인 시장, 개미는 매도…고래는 물량 흡수\"",
+   "source": "블루밍비트",
+   "time": "2026-07-18T17:24:57+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5leXF6ZS1uZGRCVW5NREJhczJMNFREY1RiVGc3aUpIS0p4bFA4NmdyR0c1eEJmWWRRc2hHanZOQ1Fya21VN2YxMnp0MmZ4emli?oc=5"
+  },
+  {
    "title": "美 뉴욕증시 3대 지수 하락 마감… 반도체주 매도세 지속 - 조선비즈",
    "source": "Chosunbiz",
    "time": "2026-07-18T06:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb1FLZEk1eEc0RGZFZFVmQWotYnFGMFZwOXFEWk9rVVhvaEZoY3BnQTFpTUpyV04zWWJjMWZLQkNnRVh2RXA5cFlJYUZ1NXdCVTVEWWY4NmNtbjlaRGljZ01OQ3JkREVtNkxNMjJORGFpTmxWN0RKRVAyc0diS3k2eHNyc0x3Y1pwZk1EUkxxZ1BSX3EwZkFBWlJLSFpxUdIBsgFBVV95cUxOc0FxVFk5Nlp5R19KODlRZ21NX2hhX0dNMlg3R1BJUmNrQmZXVHExUnBNNFRNeDBYTUNsUlAtQi1TQjlZQ3hSRjFmQjd3XzExQ092UEE1cGh3UndmR1NncEZzemhtWUhmdUhhLXhsVFB0cHFhV0M5eS10cTY0b0lxLUJrQ3h0dEZ5U1VBRGRLWDZmeHIwRFZ4YWR0SzRackVlcnpWdW1DZDJmNldYN0FnbmhR?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 반도체 매도세 지속에 하락‥나스닥 1.4%↓",
-   "source": "MBC 뉴스",
-   "time": "2026-07-18T05:27:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iNkV3YTJFTjJremF5MHdkMTlHM2psWDZMVTltbVhneDRZcTJ3aUg5YkRTN1dVNUJJZDhVcWRtRVJfNGVJWEdrX2ZhWlN4eHRPblIwRVlMSk0xdGxiSFd1RkJKdm96NldFZFI0eHplSkpHa0kx0gF0QVVfeXFMUHRxclRKRjJwZ1FtYktFRWI5SG1MdDBQUGpNUmVQdDVmQ2wycFNrNDFEMVlMNGVMWlRPWVhWUHJmUkp4bS1qN1NDODhSbDVaZVBkR2hHeUxaN0EtODFwNWRvYUNDcGFBNHhYaWkyUTRwb3J1NmI?oc=5"
   }
  ]
 }
