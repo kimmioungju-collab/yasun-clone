@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T04:46:09.892186+09:00",
+ "updated": "2026-07-19T05:31:22.746360+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -738,19 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64484.72,
+   "price": 64569.29,
    "prev": 63888.2,
    "spark": [
-    64102.9102,
-    64087.1992,
-    64097.6211,
-    64124.8984,
-    64250.5117,
-    64259.0195,
-    64245.3906,
-    64235.4609,
-    64277.3203,
-    64319.9883,
     64254.2617,
     64254.9102,
     64250.0508,
@@ -780,22 +770,23 @@
     64460.8398,
     64484.6406,
     64482.2305,
-    64484.7188
+    64500.0,
+    64517.0586,
+    64515.4805,
+    64521.9492,
+    64530.8789,
+    64576.0117,
+    64590.5898,
+    64628.1719,
+    64602.4102,
+    64569.2891,
+    64569.2891
    ]
   },
   "eth": {
-   "price": 1856.93,
+   "price": 1857.52,
    "prev": 1840.656,
    "spark": [
-    1841.3199,
-    1841.95,
-    1842.9399,
-    1844.53,
-    1844.51,
-    1844.14,
-    1843.6,
-    1844.53,
-    1845.37,
     1843.0,
     1842.59,
     1844.3,
@@ -825,8 +816,17 @@
     1855.73,
     1856.92,
     1856.75,
-    1856.87,
-    1856.9301
+    1857.25,
+    1856.7,
+    1857.24,
+    1856.77,
+    1856.3,
+    1858.54,
+    1859.97,
+    1859.67,
+    1858.33,
+    1857.53,
+    1857.52
    ]
   },
   "eurkrw": {
@@ -1144,16 +1144,22 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1MXRuaFFLYU15eXQ0V0xoQ18yc3R0MzNvNHRuS2wwaVVScFl4aEdpUGozT1hjcTAtN0NIMzlkLXBDbFpRNllBRTd5Rk1uOU1fa2FHQnFXNFZfaWRXdEE?oc=5"
   },
   {
+   "title": "“제헌절이 코스피 살렸다”…국내증시 휴장에 개미들 안도, 왜?",
+   "source": "매일경제",
+   "time": "2026-07-18T16:21:23+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LUU94ZlM0dFZJYTd1NUtsSzUtb05ZTHN2NkYyRnJqWVAzX2ctSjg0QzhmcUhMOE1YSlVJRGg3aUV1UkoxSVNhNk1GTjhtX1ZURFE?oc=5"
+  },
+  {
    "title": "뉴욕증시, 반도체 차익실현에 하락…나스닥 1.4%↓",
    "source": "서울경제TV",
    "time": "2026-07-18T09:47:16+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtX1F1cW1JNnlkLXRMN1ZzcU1XVm1pT1A2UHF4Z2EtY3o3b1ZSV2NROW9zdGRTZ19HTFoyN3dLUE5sWTQ4VmF1a3FDWWU2STdSNGEzU0JtSEQ4VmF3eFdaaWJZdGg?oc=5"
   },
   {
-   "title": "“제헌절이 코스피 살렸다”…국내증시 휴장에 개미들 안도, 왜?",
-   "source": "매일경제",
-   "time": "2026-07-18T16:21:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LUU94ZlM0dFZJYTd1NUtsSzUtb05ZTHN2NkYyRnJqWVAzX2ctSjg0QzhmcUhMOE1YSlVJRGg3aUV1UkoxSVNhNk1GTjhtX1ZURFE?oc=5"
+   "title": "이미 코스피 40% 잠식했는데…李 “레버리지 보완대책 신속 마련”",
+   "source": "중앙일보",
+   "time": "2026-07-15T17:54:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dTZpcHdHUzZMcW5aVVctTEl4YnE0cm9RM19KLU5zUUFLU2xhS1dpQXhvbm8wcGhtQVlKQTVMQXNRWXo5bG5fWGFOcGdOT2xtbHRTQmtn?oc=5"
   },
   {
    "title": "코스피 오르는데 코스닥은 왜 빠지나…'엇갈린 장세' 역대 최고",
@@ -1162,10 +1168,10 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4dGlQSUUzTmRzdTlYYWt2d1hlTFp3MlVVYjhpSzJUbnJvMjJiLUZiMEhjUVUtYUFMbzlmYTZZYVRUQmt3U3BHbXVzd3dLaV9kaURhVVpXaXNmM1RSQXE5TA?oc=5"
   },
   {
-   "title": "이미 코스피 40% 잠식했는데…李 “레버리지 보완대책 신속 마련”",
-   "source": "중앙일보",
-   "time": "2026-07-15T17:54:39+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dTZpcHdHUzZMcW5aVVctTEl4YnE0cm9RM19KLU5zUUFLU2xhS1dpQXhvbm8wcGhtQVlKQTVMQXNRWXo5bG5fWGFOcGdOT2xtbHRTQmtn?oc=5"
+   "title": "[분석] \"비트코인 시장, 개미는 매도…고래는 물량 흡수\"",
+   "source": "블루밍비트",
+   "time": "2026-07-18T17:24:57+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5leXF6ZS1uZGRCVW5NREJhczJMNFREY1RiVGc3aUpIS0p4bFA4NmdyR0c1eEJmWWRRc2hHanZOQ1Fya21VN2YxMnp0MmZ4emli?oc=5"
   },
   {
    "title": "\"점심 먹고 왔더니 반도체 또 오르네\"…코스피 6900 재진입 - 머니투데이",
@@ -1180,16 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TZ3NXMzl5TzlrY291azR0cEVLZDlZMGZveGxoWmpTQVlmZG9qNFRwbjhRU25sRFhGNHVFSWJJSWkwR2JTRTFEam1pcw?oc=5"
   },
   {
-   "title": "비트코인 ETF에 하루 1.3억弗…알트코인은 '잠잠' [오늘의 코인 ETF]",
-   "source": "블루밍비트",
-   "time": "2026-07-18T15:07:56+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dam1JRldtTENSRjBFQXNtNnlOTWF3RHZPbm1xVVU4cHkwZ3QyWW9hVnpjcllTb2hmS0ZaSlhqZDRiWFJFR0xFRmhLVjZCWmlv?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합)",
+   "title": "골드만 \"코스피 지지선 6,800…레버리지 기계적 매도가 낙폭키워\"",
    "source": "연합뉴스",
-   "time": "2026-07-18T05:47:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dU42bThtcEpsZGFBM3Ytdzg5X293V0txc2pMa1hOV1FIVVdHRUJ1N1NlTnItVVNnYkdzT04yb3FOLTFEOUxKajJBOEVZc0EteU0weDVud0l0MEXSAWBBVV95cUxQWjBhRDRjTGZDVExYTkptUlJBdEw2UDBJbk1KVW5nRlJ4YzVpRHZiaFV5TE1mOXFTbS1kdEIyc3d0aE9nczFKaEVqeHNkcTZFbnRWRno0aUFCbEVVQmMtMFg?oc=5"
+   "time": "2026-07-14T14:04:08+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrNkVGR3MzYmFlS1VpTjAxakNZY3IyU282QkNOamM5Rm9DYzJiTVVONkUwR054WTB4ekU1SFFvaWl6WWpOcmxwWWFsdjN4RHlEZDljZ011Q3lxcU3SAWBBVV95cUxQWENDUlR0c2pHSW5QdHI4WU5BMm02UjdtT1ktRWpocl9UbDdaN3k2OEJZcnNvcnlDZnlMVWtLMGlfYWxuRVhnRTZfcWVPUlJleEU1Tmt1QkdGYWg2bVd4UUs?oc=5"
   }
  ]
 }
