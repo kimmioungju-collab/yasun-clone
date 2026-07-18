@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T21:11:31.613668+09:00",
+ "updated": "2026-07-18T22:47:50.268384+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -738,28 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64074.58,
+   "price": 64011.57,
    "prev": 63888.2,
    "spark": [
-    63936.3203,
-    63925.0,
-    63930.1094,
-    63917.9297,
-    63920.0,
-    63899.75,
-    63916.7812,
-    63924.0391,
-    63928.9102,
-    63933.8008,
-    63942.1094,
-    63943.6992,
-    63945.75,
-    63942.9297,
-    63951.0312,
-    63946.5391,
-    63951.3398,
-    63960.6484,
-    63961.6992,
     63955.2188,
     63954.2617,
     63957.9219,
@@ -779,33 +760,33 @@
     64016.1914,
     64077.8203,
     64074.5703,
-    64076.1602,
-    64074.5781
+    64088.0391,
+    64059.5781,
+    64029.2695,
+    64046.7188,
+    64087.1602,
+    64149.75,
+    64138.3008,
+    64164.4805,
+    64157.1289,
+    64164.4805,
+    64121.1484,
+    64062.4219,
+    63966.7812,
+    63954.2109,
+    63924.0,
+    64010.0898,
+    64035.6719,
+    64017.2812,
+    64011.5781,
+    64011.5703,
+    64011.5703
    ]
   },
   "eth": {
-   "price": 1845.42,
+   "price": 1839.97,
    "prev": 1840.656,
    "spark": [
-    1845.37,
-    1845.25,
-    1845.2,
-    1843.0699,
-    1843.04,
-    1842.6,
-    1843.4,
-    1844.0601,
-    1844.05,
-    1843.8,
-    1844.39,
-    1843.87,
-    1843.87,
-    1844.24,
-    1843.55,
-    1843.6899,
-    1844.12,
-    1845.23,
-    1845.15,
     1843.51,
     1843.15,
     1843.55,
@@ -825,8 +806,27 @@
     1844.17,
     1846.3101,
     1845.49,
-    1845.5699,
-    1845.42
+    1845.21,
+    1842.72,
+    1840.74,
+    1840.23,
+    1841.1,
+    1843.2,
+    1843.2,
+    1844.53,
+    1845.42,
+    1843.41,
+    1842.01,
+    1840.36,
+    1837.84,
+    1837.4,
+    1837.5,
+    1840.15,
+    1840.09,
+    1840.62,
+    1840.2,
+    1840.14,
+    1839.97
    ]
   },
   "eurkrw": {
@@ -1114,6 +1114,12 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdE8tRTFrbVNWcE1GNUJNdWNSRFNTTmg5Q3g0UjJpdVA1YkZFZ25rd3VjMUFhY3NyaVlvVVliWFROeGxWSlk1a18yYXFNd2ZhcWFvM244bklvT2PSAWBBVV95cUxOUFJKczVRWkRSV19MbEY2NXkxNUljcVpyTHkxS19HaHplZ21qQTRUd2VvN2FtTTU1dV9OMWVjNk1UQkFzcHg0elYyMzl1RTcwSUliZEQza0NtSi0tNzh2Nk4?oc=5"
   },
   {
+   "title": "뉴욕증시, 반도체 매도세 지속에 하락",
+   "source": "경향신문",
+   "time": "2026-07-18T09:17:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IbVpnWjBJQk8tSkh4RjBFMkpUZVJXM3lmZXAxdGdPSmRKNGRDcFhaQ1ktX3ExWXNiLUl3dDFSeGYyN29CY0UtM2VJNHQzR1Bwd3oyOGNvRXNuZ9IBX0FVX3lxTE50UjFsOXFsLXh1OEdZZC0xdERYeTk5NjAyXzFUalpSeUZIdmdZZENyVTloTXQ5Q3NicEJFeFFWMldGMWZlVzFmaHFEZkU4bkpFRG80VmtBbUw4LWg2RHVJ?oc=5"
+  },
+  {
    "title": "코스피, 급락에도 6,800선 사수…골드만 제시한 지지선 되나",
    "source": "v.daum.net",
    "time": "2026-07-16T16:45:53+09:00",
@@ -1144,22 +1150,10 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UNlR4VGhVU0VfV1lreV9mUDNtZEc5em1JbFAwdnNTdG5VOXpVdnRUOEFXUlNmSVgxZkYtTG1Mem8zNTVQbHZ1M1ZpZWk3YnNiZEdNc1lMWklzQWpLblJFblZfOGxfZXZ0LXEzcQ?oc=5"
   },
   {
-   "title": "[속보]코스피, 6% 급등에 매수사이드카 발동",
-   "source": "경향신문",
-   "time": "2026-07-15T09:14:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83aUtMX3JYYWN2V21UOWdsYnUyaWhrd3lJQ3VBT0ZaUjZpS3ZCUzBYMll6WlUzWldLYkhyX3c3elh3Z3BDMlpPV2g4Y01xUkJmS01PQ1ZubkdkQdIBX0FVX3lxTE9ZQ2lzMUJmamd5X19UZ2hMVlctcXA0bDNVdFJySTAwR0tTdlU4bnFIYmxTaWZBSEU3SXZTRjNBaEVnUnBmX1ZTUU1GNVpnU3VfdEE4X2UtWGVlQjV0SzZR?oc=5"
-  },
-  {
    "title": "코스피 9%폭락에도 개인 '하닉 레버리지' 6천억 순매수…역추세추종 뚜렷",
    "source": "연합인포맥스",
    "time": "2026-07-14T09:08:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXU0FkZ2pXMl80STJiLXVNU04yYm5Zb1BLTlZHNUppR0NkNkppbDdseVJIR21mcGk3M1ZvTkJsVnJISmR4NUd4TmdwRW9LNENjQ3I4aDI1NFRSOS0wMzFrcy13c3AyeE1rVlYtRncwbXU?oc=5"
-  },
-  {
-   "title": "[분석] \"비트코인 시장, 개미는 매도…고래는 물량 흡수\"",
-   "source": "블루밍비트",
-   "time": "2026-07-18T17:24:57+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5leXF6ZS1uZGRCVW5NREJhczJMNFREY1RiVGc3aUpIS0p4bFA4NmdyR0c1eEJmWWRRc2hHanZOQ1Fya21VN2YxMnp0MmZ4emli?oc=5"
   },
   {
    "title": "'코스피 급락' 삼전닉스 버티기? 전문가 조언은",
@@ -1174,6 +1168,18 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LUU94ZlM0dFZJYTd1NUtsSzUtb05ZTHN2NkYyRnJqWVAzX2ctSjg0QzhmcUhMOE1YSlVJRGg3aUV1UkoxSVNhNk1GTjhtX1ZURFE?oc=5"
   },
   {
+   "title": "코스피 오를 때 코스닥은 왜 빠지나⋯반도체 쏠림 탓?",
+   "source": "아이뉴스24",
+   "time": "2026-07-18T19:54:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TZ3NXMzl5TzlrY291azR0cEVLZDlZMGZveGxoWmpTQVlmZG9qNFRwbjhRU25sRFhGNHVFSWJJSWkwR2JTRTFEam1pcw?oc=5"
+  },
+  {
+   "title": "이미 코스피 40% 잠식했는데…李 “레버리지 보완대책 신속 마련”",
+   "source": "중앙일보",
+   "time": "2026-07-15T17:54:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dTZpcHdHUzZMcW5aVVctTEl4YnE0cm9RM19KLU5zUUFLU2xhS1dpQXhvbm8wcGhtQVlKQTVMQXNRWXo5bG5fWGFOcGdOT2xtbHRTQmtn?oc=5"
+  },
+  {
    "title": "美 뉴욕증시 3대 지수 하락 마감… 반도체주 매도세 지속 - 조선비즈",
    "source": "Chosunbiz",
    "time": "2026-07-18T06:58:00+09:00",
@@ -1184,12 +1190,6 @@
    "source": "MBC 뉴스",
    "time": "2026-07-18T05:27:03+09:00",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iNkV3YTJFTjJremF5MHdkMTlHM2psWDZMVTltbVhneDRZcTJ3aUg5YkRTN1dVNUJJZDhVcWRtRVJfNGVJWEdrX2ZhWlN4eHRPblIwRVlMSk0xdGxiSFd1RkJKdm96NldFZFI0eHplSkpHa0kx0gF0QVVfeXFMUHRxclRKRjJwZ1FtYktFRWI5SG1MdDBQUGpNUmVQdDVmQ2wycFNrNDFEMVlMNGVMWlRPWVhWUHJmUkp4bS1qN1NDODhSbDVaZVBkR2hHeUxaN0EtODFwNWRvYUNDcGFBNHhYaWkyUTRwb3J1NmI?oc=5"
-  },
-  {
-   "title": "\"일주일 185% 폭등\" 하락장 속 개미가 띄운 기업들...전문가는 \"주의\"[김근희의 증시랩업] - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-07-18T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TZGEwUHUxcUxaYkMwd1lfNmVLQUJkX0dYWGpiRktjcW5YQVp2MmxuSEZaZFU2QWZZZDI0VnFfMXVQM1o5RU0tQjhqSFE5MlZQeTNicXVyZlMybG5Mb3F5MTY5bG80Qnhv0gFuQVVfeXFMTm0tV05hOXFnODFweHU3dVNqam5NbHVMbkJZNzlsaUFTOWxEclQ1SXdCOUVLQWdTV1JWemk0akFmLWR0Vm1ZejluQkJQWlVLeUM2V2c2QTIyZDFjeHBNSlA1d0dQX1JKdEQ5YTVYS3c?oc=5"
   }
  ]
 }
