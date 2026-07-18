@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T05:31:22.746360+09:00",
+ "updated": "2026-07-19T06:27:45.976636+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -738,20 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64569.29,
+   "price": 64701.75,
    "prev": 63888.2,
    "spark": [
-    64254.2617,
-    64254.9102,
-    64250.0508,
-    64365.1211,
-    64397.2617,
-    64400.3984,
-    64418.3906,
-    64438.7695,
-    64448.3789,
-    64438.0781,
-    64436.7891,
     64459.3594,
     64554.1719,
     64534.5195,
@@ -779,25 +768,25 @@
     64590.5898,
     64628.1719,
     64602.4102,
-    64569.2891,
-    64569.2891
+    64583.0898,
+    64561.9102,
+    64565.6016,
+    64539.3789,
+    64630.5117,
+    64654.5781,
+    64659.1914,
+    64619.7891,
+    64716.4688,
+    64753.2891,
+    64685.0195,
+    64698.0703,
+    64701.75
    ]
   },
   "eth": {
-   "price": 1857.52,
+   "price": 1859.04,
    "prev": 1840.656,
    "spark": [
-    1843.0,
-    1842.59,
-    1844.3,
-    1847.39,
-    1848.29,
-    1850.35,
-    1850.17,
-    1851.41,
-    1850.79,
-    1849.7,
-    1849.1,
     1850.5601,
     1856.79,
     1857.84,
@@ -825,8 +814,19 @@
     1859.97,
     1859.67,
     1858.33,
-    1857.53,
-    1857.52
+    1857.5601,
+    1856.03,
+    1856.67,
+    1855.1801,
+    1856.6801,
+    1855.92,
+    1856.92,
+    1855.86,
+    1860.59,
+    1860.79,
+    1857.99,
+    1858.92,
+    1859.04
    ]
   },
   "eurkrw": {
@@ -1114,6 +1114,12 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdE8tRTFrbVNWcE1GNUJNdWNSRFNTTmg5Q3g0UjJpdVA1YkZFZ25rd3VjMUFhY3NyaVlvVVliWFROeGxWSlk1a18yYXFNd2ZhcWFvM244bklvT2PSAWBBVV95cUxOUFJKczVRWkRSV19MbEY2NXkxNUljcVpyTHkxS19HaHplZ21qQTRUd2VvN2FtTTU1dV9OMWVjNk1UQkFzcHg0elYyMzl1RTcwSUliZEQza0NtSi0tNzh2Nk4?oc=5"
   },
   {
+   "title": "[마켓인사이트] 제헌절 연휴 美반도체 하락지속…韓증시 짓누르나",
+   "source": "매일경제 마켓",
+   "time": "2026-07-19T06:00:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wVTl3ZEdBZjd6cGZwTEFFdWhJY1hCUEVXT2Z4MkJTbGxtSHBOb2R6dlRsbXJHdmVwTk9zSXkzbEpKcnlHa0I2Vk56elZMYlZKSnc?oc=5"
+  },
+  {
    "title": "코스피, 급락에도 6,800선 사수…골드만 제시한 지지선 되나",
    "source": "v.daum.net",
    "time": "2026-07-16T16:45:53+09:00",
@@ -1132,10 +1138,22 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQVVUVVF0ZXgyTnMyTlg0c21iX0QxSnc5UUJZNXhLVHlXcXN1Yy16SWh1TDZpN3NGanBFSkVGaVVUdUZSR1FnTmgyQTRpRUxGbEkzOTBIbGhCc3c?oc=5"
   },
   {
+   "title": "美 나스닥 빗장에 中 상장 ‘뚝’… 체질 개선 나선 아시아 IPO 시장",
+   "source": "글로벌이코노믹",
+   "time": "2026-07-19T05:40:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYy00YkJnWEVQREk0eG1zNVJzNnFoMVNuWnd5U1pwUGQxT25DRVRuSGM0SGpNYW9pREhxLXh3dWdaZUpMejJzdElRSjduS0JabXVJZWlWZThjNVZreWZSWWxXUHUwQUs3dnNMTU5VaUhsdW4wYUhPSUtMLWJLSlgzM19EWG01T0tr?oc=5"
+  },
+  {
    "title": "코스피 9%폭락에도 개인 '하닉 레버리지' 6천억 순매수…역추세추종 뚜렷",
    "source": "연합인포맥스",
    "time": "2026-07-14T09:08:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXU0FkZ2pXMl80STJiLXVNU04yYm5Zb1BLTlZHNUppR0NkNkppbDdseVJIR21mcGk3M1ZvTkJsVnJISmR4NUd4TmdwRW9LNENjQ3I4aDI1NFRSOS0wMzFrcy13c3AyeE1rVlYtRncwbXU?oc=5"
+  },
+  {
+   "title": "코스피 급락 후 일주일 내 67% 반등…다음주 알파벳·인텔 '시험대'",
+   "source": "뉴스1",
+   "time": "2026-07-19T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3cG1YTVg5aHVGLVoyblpXVGhEX1lpUC1uRzJzYXFhdkdtWVkxc1FUVm13am1IaktSMVBYejFXZ1hMY3I5cXBVNUwtZTM0RTZWWWhqQWdtTWU1NWFfeUdn?oc=5"
   },
   {
    "title": "'코스피 급락' 삼전닉스 버티기? 전문가 조언은",
@@ -1144,22 +1162,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1MXRuaFFLYU15eXQ0V0xoQ18yc3R0MzNvNHRuS2wwaVVScFl4aEdpUGozT1hjcTAtN0NIMzlkLXBDbFpRNllBRTd5Rk1uOU1fa2FHQnFXNFZfaWRXdEE?oc=5"
   },
   {
-   "title": "“제헌절이 코스피 살렸다”…국내증시 휴장에 개미들 안도, 왜?",
-   "source": "매일경제",
-   "time": "2026-07-18T16:21:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LUU94ZlM0dFZJYTd1NUtsSzUtb05ZTHN2NkYyRnJqWVAzX2ctSjg0QzhmcUhMOE1YSlVJRGg3aUV1UkoxSVNhNk1GTjhtX1ZURFE?oc=5"
+   "title": "이미 코스피 40% 잠식했는데…李 “레버리지 보완대책 신속 마련”",
+   "source": "중앙일보",
+   "time": "2026-07-15T17:54:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dTZpcHdHUzZMcW5aVVctTEl4YnE0cm9RM19KLU5zUUFLU2xhS1dpQXhvbm8wcGhtQVlKQTVMQXNRWXo5bG5fWGFOcGdOT2xtbHRTQmtn?oc=5"
   },
   {
    "title": "뉴욕증시, 반도체 차익실현에 하락…나스닥 1.4%↓",
    "source": "서울경제TV",
    "time": "2026-07-18T09:47:16+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtX1F1cW1JNnlkLXRMN1ZzcU1XVm1pT1A2UHF4Z2EtY3o3b1ZSV2NROW9zdGRTZ19HTFoyN3dLUE5sWTQ4VmF1a3FDWWU2STdSNGEzU0JtSEQ4VmF3eFdaaWJZdGg?oc=5"
-  },
-  {
-   "title": "이미 코스피 40% 잠식했는데…李 “레버리지 보완대책 신속 마련”",
-   "source": "중앙일보",
-   "time": "2026-07-15T17:54:39+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dTZpcHdHUzZMcW5aVVctTEl4YnE0cm9RM19KLU5zUUFLU2xhS1dpQXhvbm8wcGhtQVlKQTVMQXNRWXo5bG5fWGFOcGdOT2xtbHRTQmtn?oc=5"
   },
   {
    "title": "코스피 오르는데 코스닥은 왜 빠지나…'엇갈린 장세' 역대 최고",
@@ -1178,18 +1190,6 @@
    "source": "머니투데이",
    "time": "2026-07-14T14:31:23+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTlM1TmNXMWl2SDBhUlc3ZV83OWdSbnBJblVPd1VyRGx6b3dXRmxNLXNLSjVrM2F5REVibW9vRVZIQ25mZ2xyazlKb1FRRlY2MjI4M2dYMG1DY3pTSEIzODVveDVJY21H0gFuQVVfeXFMTXp6VlFzY0RwdDJNTGVNRkNXYUhaZW94dGxQeC1waWRfM2ZyOWY4VTdLdGlmU3NpMWVVa0M3Q2J5V3dEdi11b0c3bmZMeGlLM1pNdVFQUnduSFZqNFBrY3Rxa0JlR3FLLV9kSmRrOEE?oc=5"
-  },
-  {
-   "title": "코스피 오를 때 코스닥은 왜 빠지나⋯반도체 쏠림 탓?",
-   "source": "아이뉴스24",
-   "time": "2026-07-18T19:54:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TZ3NXMzl5TzlrY291azR0cEVLZDlZMGZveGxoWmpTQVlmZG9qNFRwbjhRU25sRFhGNHVFSWJJSWkwR2JTRTFEam1pcw?oc=5"
-  },
-  {
-   "title": "골드만 \"코스피 지지선 6,800…레버리지 기계적 매도가 낙폭키워\"",
-   "source": "연합뉴스",
-   "time": "2026-07-14T14:04:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrNkVGR3MzYmFlS1VpTjAxakNZY3IyU282QkNOamM5Rm9DYzJiTVVONkUwR054WTB4ekU1SFFvaWl6WWpOcmxwWWFsdjN4RHlEZDljZ011Q3lxcU3SAWBBVV95cUxQWENDUlR0c2pHSW5QdHI4WU5BMm02UjdtT1ktRWpocl9UbDdaN3k2OEJZcnNvcnlDZnlMVWtLMGlfYWxuRVhnRTZfcWVPUlJleEU1Tmt1QkdGYWg2bVd4UUs?oc=5"
   }
  ]
 }
