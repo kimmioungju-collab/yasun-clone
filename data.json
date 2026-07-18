@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T03:33:10.165545+09:00",
+ "updated": "2026-07-19T04:46:09.892186+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -738,23 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64446.61,
+   "price": 64484.72,
    "prev": 63888.2,
    "spark": [
-    64059.2383,
-    64029.0781,
-    64014.1992,
-    64017.2812,
-    64009.0703,
-    64092.3398,
-    64075.0703,
-    64076.8789,
-    64056.1016,
-    64070.1289,
-    64100.0117,
-    64080.7617,
-    64085.5117,
-    64104.5,
     64102.9102,
     64087.1992,
     64097.6211,
@@ -779,29 +765,28 @@
     64459.3594,
     64554.1719,
     64534.5195,
-    64455.1992,
-    64446.6094
+    64456.8203,
+    64450.0,
+    64445.5586,
+    64450.4609,
+    64452.0898,
+    64468.2383,
+    64471.1992,
+    64488.3281,
+    64499.6719,
+    64526.5391,
+    64472.7383,
+    64445.5781,
+    64460.8398,
+    64484.6406,
+    64482.2305,
+    64484.7188
    ]
   },
   "eth": {
-   "price": 1854.48,
+   "price": 1856.93,
    "prev": 1840.656,
    "spark": [
-    1843.6,
-    1842.35,
-    1842.49,
-    1842.67,
-    1842.13,
-    1843.5601,
-    1842.73,
-    1842.5,
-    1840.76,
-    1841.96,
-    1842.72,
-    1842.72,
-    1841.9,
-    1842.23,
-    1842.65,
     1841.3199,
     1841.95,
     1842.9399,
@@ -825,8 +810,23 @@
     1850.5601,
     1856.79,
     1857.84,
-    1854.61,
-    1854.48
+    1854.72,
+    1853.41,
+    1853.87,
+    1855.33,
+    1855.33,
+    1856.29,
+    1857.49,
+    1857.67,
+    1857.61,
+    1857.96,
+    1855.0699,
+    1855.51,
+    1855.73,
+    1856.92,
+    1856.75,
+    1856.87,
+    1856.9301
    ]
   },
   "eurkrw": {
@@ -1138,22 +1138,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXU0FkZ2pXMl80STJiLXVNU04yYm5Zb1BLTlZHNUppR0NkNkppbDdseVJIR21mcGk3M1ZvTkJsVnJISmR4NUd4TmdwRW9LNENjQ3I4aDI1NFRSOS0wMzFrcy13c3AyeE1rVlYtRncwbXU?oc=5"
   },
   {
-   "title": "뉴욕증시, 반도체 차익실현에 하락…나스닥 1.4%↓",
-   "source": "서울경제TV",
-   "time": "2026-07-18T09:47:16+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtX1F1cW1JNnlkLXRMN1ZzcU1XVm1pT1A2UHF4Z2EtY3o3b1ZSV2NROW9zdGRTZ19HTFoyN3dLUE5sWTQ4VmF1a3FDWWU2STdSNGEzU0JtSEQ4VmF3eFdaaWJZdGg?oc=5"
-  },
-  {
    "title": "'코스피 급락' 삼전닉스 버티기? 전문가 조언은",
    "source": "YTN",
    "time": "2026-07-14T07:36:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1MXRuaFFLYU15eXQ0V0xoQ18yc3R0MzNvNHRuS2wwaVVScFl4aEdpUGozT1hjcTAtN0NIMzlkLXBDbFpRNllBRTd5Rk1uOU1fa2FHQnFXNFZfaWRXdEE?oc=5"
   },
   {
-   "title": "코스피 오르는데 코스닥은 왜 빠지나…'엇갈린 장세' 역대 최고",
-   "source": "KBC광주방송",
-   "time": "2026-07-18T07:42:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4dGlQSUUzTmRzdTlYYWt2d1hlTFp3MlVVYjhpSzJUbnJvMjJiLUZiMEhjUVUtYUFMbzlmYTZZYVRUQmt3U3BHbXVzd3dLaV9kaURhVVpXaXNmM1RSQXE5TA?oc=5"
+   "title": "뉴욕증시, 반도체 차익실현에 하락…나스닥 1.4%↓",
+   "source": "서울경제TV",
+   "time": "2026-07-18T09:47:16+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtX1F1cW1JNnlkLXRMN1ZzcU1XVm1pT1A2UHF4Z2EtY3o3b1ZSV2NROW9zdGRTZ19HTFoyN3dLUE5sWTQ4VmF1a3FDWWU2STdSNGEzU0JtSEQ4VmF3eFdaaWJZdGg?oc=5"
   },
   {
    "title": "“제헌절이 코스피 살렸다”…국내증시 휴장에 개미들 안도, 왜?",
@@ -1162,22 +1156,28 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LUU94ZlM0dFZJYTd1NUtsSzUtb05ZTHN2NkYyRnJqWVAzX2ctSjg0QzhmcUhMOE1YSlVJRGg3aUV1UkoxSVNhNk1GTjhtX1ZURFE?oc=5"
   },
   {
+   "title": "코스피 오르는데 코스닥은 왜 빠지나…'엇갈린 장세' 역대 최고",
+   "source": "KBC광주방송",
+   "time": "2026-07-18T07:42:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4dGlQSUUzTmRzdTlYYWt2d1hlTFp3MlVVYjhpSzJUbnJvMjJiLUZiMEhjUVUtYUFMbzlmYTZZYVRUQmt3U3BHbXVzd3dLaV9kaURhVVpXaXNmM1RSQXE5TA?oc=5"
+  },
+  {
    "title": "이미 코스피 40% 잠식했는데…李 “레버리지 보완대책 신속 마련”",
    "source": "중앙일보",
    "time": "2026-07-15T17:54:39+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dTZpcHdHUzZMcW5aVVctTEl4YnE0cm9RM19KLU5zUUFLU2xhS1dpQXhvbm8wcGhtQVlKQTVMQXNRWXo5bG5fWGFOcGdOT2xtbHRTQmtn?oc=5"
   },
   {
-   "title": "코스피 오를 때 코스닥은 왜 빠지나⋯반도체 쏠림 탓?",
-   "source": "아이뉴스24",
-   "time": "2026-07-18T19:54:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TZ3NXMzl5TzlrY291azR0cEVLZDlZMGZveGxoWmpTQVlmZG9qNFRwbjhRU25sRFhGNHVFSWJJSWkwR2JTRTFEam1pcw?oc=5"
-  },
-  {
    "title": "\"점심 먹고 왔더니 반도체 또 오르네\"…코스피 6900 재진입 - 머니투데이",
    "source": "머니투데이",
    "time": "2026-07-14T14:31:23+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTlM1TmNXMWl2SDBhUlc3ZV83OWdSbnBJblVPd1VyRGx6b3dXRmxNLXNLSjVrM2F5REVibW9vRVZIQ25mZ2xyazlKb1FRRlY2MjI4M2dYMG1DY3pTSEIzODVveDVJY21H0gFuQVVfeXFMTXp6VlFzY0RwdDJNTGVNRkNXYUhaZW94dGxQeC1waWRfM2ZyOWY4VTdLdGlmU3NpMWVVa0M3Q2J5V3dEdi11b0c3bmZMeGlLM1pNdVFQUnduSFZqNFBrY3Rxa0JlR3FLLV9kSmRrOEE?oc=5"
+  },
+  {
+   "title": "코스피 오를 때 코스닥은 왜 빠지나⋯반도체 쏠림 탓?",
+   "source": "아이뉴스24",
+   "time": "2026-07-18T19:54:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TZ3NXMzl5TzlrY291azR0cEVLZDlZMGZveGxoWmpTQVlmZG9qNFRwbjhRU25sRFhGNHVFSWJJSWkwR2JTRTFEam1pcw?oc=5"
   },
   {
    "title": "비트코인 ETF에 하루 1.3억弗…알트코인은 '잠잠' [오늘의 코인 ETF]",
