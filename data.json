@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T02:12:17.996043+09:00",
+ "updated": "2026-07-20T03:07:38.828050+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -289,7 +289,7 @@
   },
   "nikkei": {
    "price": 64141.12,
-   "prev": 66835.54,
+   "prev": 66835.5,
    "spark": [
     64036.2383,
     63896.4805,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1487.46,
+   "price": 1487.93,
    "prev": 1478.28,
    "spark": [
     1489.83,
@@ -451,20 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64609.76,
+   "price": 64378.49,
    "prev": 64794.25,
    "spark": [
-    64479.7188,
-    64452.0117,
-    64492.0,
-    64451.5195,
-    64396.5117,
-    64412.7188,
-    64459.0898,
-    64457.3516,
-    64478.7109,
-    64570.0,
-    64550.9219,
     64547.1992,
     64528.8086,
     64501.4492,
@@ -492,25 +481,25 @@
     64495.0781,
     64461.0117,
     64539.3008,
-    64639.1992,
-    64609.7617
+    64646.5508,
+    64613.4805,
+    64637.9492,
+    64606.2109,
+    64624.4883,
+    64624.0,
+    64573.6914,
+    64547.1992,
+    64530.3086,
+    64504.5586,
+    64434.0,
+    64418.3008,
+    64378.4883
    ]
   },
   "eth": {
-   "price": 1867.92,
+   "price": 1859.92,
    "prev": 1861.4141,
    "spark": [
-    1872.27,
-    1870.87,
-    1871.89,
-    1870.08,
-    1868.77,
-    1870.02,
-    1873.08,
-    1872.1,
-    1872.3199,
-    1874.9301,
-    1874.11,
     1873.3101,
     1872.84,
     1871.9,
@@ -538,8 +527,19 @@
     1865.36,
     1861.9301,
     1865.4301,
-    1868.88,
-    1867.92
+    1870.2,
+    1867.26,
+    1867.49,
+    1868.65,
+    1870.53,
+    1870.8,
+    1868.22,
+    1868.05,
+    1867.4,
+    1865.9301,
+    1861.58,
+    1861.33,
+    1859.92
    ]
   },
   "eurkrw": {
@@ -773,7 +773,7 @@
    ]
   },
   "dxy": {
-   "price": 100.765,
+   "price": 100.755,
    "prev": 100.765,
    "spark": []
   }
@@ -822,16 +822,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTUlkekUxWnJzaFdXN2g4V3B1Um1hQXNYUExDdDh5d0JFX3Z1OFFfYmNaOFRXdERFc1dfbjNEU3d6cTMtcGdtRE1sTERIYUxXWXZNaUQzUER2UlE?oc=5"
   },
   {
-   "title": "세일러, '오렌지 닷' 올렸다…비트코인 추매 암시",
-   "source": "블루밍비트",
-   "time": "2026-07-19T23:24:26+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94dHd0YzNZemFoSkdBUGZjYndrbVlFR0k5X2JXeFJVZW1BcnVwWXJFcHZTSVJ4MERhVlFtRFBJNkNzVjMxQzJmN2lfS19HMzAw?oc=5"
-  },
-  {
    "title": "1500원 아래로 하락한 원달러 환율",
    "source": "매일경제 마켓",
    "time": "2026-07-19T16:07:11+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JR0pUR0ZvU2pMelNrb1FlN2szdmdILVI1YktWNmJCYV9hQlVsX0dHLU5EeXc0cWJtZlpKRVVEN043dDFKUTU1MTJiRkUxdGd0Umc?oc=5"
+  },
+  {
+   "title": "세일러, '오렌지 닷' 올렸다…비트코인 추매 암시",
+   "source": "블루밍비트",
+   "time": "2026-07-19T23:24:26+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94dHd0YzNZemFoSkdBUGZjYndrbVlFR0k5X2JXeFJVZW1BcnVwWXJFcHZTSVJ4MERhVlFtRFBJNkNzVjMxQzJmN2lfS19HMzAw?oc=5"
   },
   {
    "title": "비트코인, $72,000 목표…거버넌스·채굴 집중 우려 고조",
@@ -840,16 +840,16 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Nc1JEQ1BMWER6MlNaRTZnM1VWbHdpZnpBSlJRRHVXNTFMRHhnUzZDM05qcTJnSjdCQnZOWkN5QUdTWkRhVktMekxJRUpydEZSclNBd0lvT19wTkk2Q3o2MFdZdDFOUGgzUHZWUkQza19KOGc?oc=5"
   },
   {
-   "title": "금리인상 후폭풍 우려… “증시 부담·주담대 8%대 가능성”",
-   "source": "아시아투데이",
-   "time": "2026-07-19T17:40:40+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15U0thWU1sb09jQ0VSaXpoZWpwZ0dqVU9IN2ozWUV3TFNFUlp1VG85SXAxYkxOQ3RyMXhSU3dFQlg1MzlUblNTVUZUa0FkWk4yVWhiTFVUOEI0NWRDTi1QeTExNHc0bFdSWXRha1hB?oc=5"
-  },
-  {
    "title": "1478원… 환율, 두달여 만에 최저 수준",
    "source": "동아일보",
    "time": "2026-07-20T00:30:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiYmFrMUtURDdROGRncjNycnJpR3JRWTRJWnJiZHFsYnJQVzVIN2FWNGp0Tk1ZSTdHWW1uaEtBSlg4WE9UNnZ6SWkweHNNM3hnMUZlMWFHcmZKMTRmYndxaW9OR1ZPOXNIMU8wenV3RkZkM0xGS0HSAWZBVV95cUxPdlRGSVk4bWtwZlBEbU9OUERXREllNHZSeHdRTlhxd1JDUzI4R0lfMFo3c29fOTBlOWk3UDE5SHVBMGJsb1l6ejZWWXJ2ZXFpaG9NTHZaNHllWHA2a0hoRXhJMUxWT3c?oc=5"
+  },
+  {
+   "title": "금리인상 후폭풍 우려… “증시 부담·주담대 8%대 가능성”",
+   "source": "아시아투데이",
+   "time": "2026-07-19T17:40:40+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15U0thWU1sb09jQ0VSaXpoZWpwZ0dqVU9IN2ozWUV3TFNFUlp1VG85SXAxYkxOQ3RyMXhSU3dFQlg1MzlUblNTVUZUa0FkWk4yVWhiTFVUOEI0NWRDTi1QeTExNHc0bFdSWXRha1hB?oc=5"
   },
   {
    "title": "“노후자금 다 날렸다…코스피가 도박판” [잇슈 머니]",
