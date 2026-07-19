@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T00:07:41.209044+09:00",
+ "updated": "2026-07-20T01:07:28.645149+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -451,21 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64532.14,
+   "price": 64500.01,
    "prev": 64794.25,
    "spark": [
-    64426.6992,
-    64386.0508,
-    64328.0312,
-    64302.1719,
-    64289.4102,
-    64388.6914,
-    64267.5117,
-    64318.0312,
-    64370.9883,
-    64369.0898,
-    64323.9883,
-    64381.6094,
     64398.0,
     64341.1211,
     64336.6719,
@@ -492,26 +480,26 @@
     64550.9219,
     64547.1992,
     64528.8086,
-    64528.0898,
-    64532.1406
+    64501.4492,
+    64531.6914,
+    64509.1797,
+    64490.1016,
+    64466.0703,
+    64454.3711,
+    64522.2383,
+    64520.0,
+    64520.6094,
+    64546.8906,
+    64540.0312,
+    64561.5,
+    64504.2109,
+    64500.0117
    ]
   },
   "eth": {
-   "price": 1873.44,
+   "price": 1868.89,
    "prev": 1861.4141,
    "spark": [
-    1870.05,
-    1867.89,
-    1864.12,
-    1863.64,
-    1866.92,
-    1872.13,
-    1867.84,
-    1869.8199,
-    1871.17,
-    1869.75,
-    1868.03,
-    1869.0601,
     1869.12,
     1866.66,
     1866.46,
@@ -538,8 +526,20 @@
     1874.11,
     1873.3101,
     1872.84,
-    1873.4399,
-    1873.4399
+    1871.9,
+    1872.84,
+    1871.5601,
+    1870.6,
+    1867.98,
+    1869.38,
+    1871.12,
+    1870.6,
+    1870.37,
+    1870.1,
+    1869.66,
+    1870.8,
+    1869.12,
+    1868.89
    ]
   },
   "eurkrw": {
@@ -786,28 +786,22 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sZEVQY2JJaUlOVHM5dm00dkJwTEpxZWFiOXlmaHFLRnlxS2JqVl9MTlVFb29KRlB5Y3ZnYmlSb1FuZXc1Q1pzUER2THF5Z1p2dDF2RVI1WE9hajZnVnNIR2MteVpnd2poTmZRc2lBWkUyckdV?oc=5"
   },
   {
-   "title": "6천선 후퇴한 코스피...반등 관건은 '알파벳·중동'",
-   "source": "YTN",
-   "time": "2026-07-19T16:24:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lOEEzTGRNSU9oTHp3ZHNfRVk3TkNIZGc4R3EwdnJ3TE8wYmw3WkI2UFNDQlZRQldOb1U0Nld2Y3BDV2k5ak9FTENJaEhZX0FZR3Z0dGxlSnZwZ3JOQUE?oc=5"
-  },
-  {
    "title": "코스피 '폭락'에 개미들이 웃는 이유",
    "source": "한경매거진&북",
    "time": "2026-07-19T07:11:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWVdkSW82TmlUMUg5WWNoRDBuZ3IxRkJDMzFrNHBWOWRKZFRBcnJUMzlORDk2ODFiamplUVI4NmZoTk9RQ0RpOXZPalE1UC1nRmd3QTA4WHNJVmtYcmtfaTRmUEJmU3BmTnVmRA?oc=5"
   },
   {
+   "title": "6천선 후퇴한 코스피...반등 관건은 '알파벳·중동'",
+   "source": "YTN",
+   "time": "2026-07-19T16:24:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lOEEzTGRNSU9oTHp3ZHNfRVk3TkNIZGc4R3EwdnJ3TE8wYmw3WkI2UFNDQlZRQldOb1U0Nld2Y3BDV2k5ak9FTENJaEhZX0FZR3Z0dGxlSnZwZ3JOQUE?oc=5"
+  },
+  {
    "title": "삼전닉스-코스피가 세계 AI주 흐름 좌우한다…“모두 韓 투자자”",
    "source": "v.daum.net",
    "time": "2026-07-19T20:11:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05cFc3dnlrYS0yaFNUamJaSzdoR3FPYkRyQTkwM0VzTGZZbVVRMloxTzh4WXBNYUxITlFVZUF4anJUaU9uMEw0b1hpM01rQmM?oc=5"
-  },
-  {
-   "title": "“코스피 급락했다고? 오늘 美증시 쉽지 않겠네”…전세계 투자자, 한국부터 본다",
-   "source": "매일경제 마켓",
-   "time": "2026-07-19T14:06:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fREtrMmJMbHJ4SnNnRWlxdE9KalBMaDNGZjNtTElTcTlCLW1xNy01ZFUyaEtmTTdhX2N5dzdkTVdMSEp3eFRnNUhVMlVlSXA2elE?oc=5"
   },
   {
    "title": "코스피, 6%대 급락 6,800대 후퇴…하루 만에 7,000선 내줘(종합)",
@@ -828,6 +822,18 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTUlkekUxWnJzaFdXN2g4V3B1Um1hQXNYUExDdDh5d0JFX3Z1OFFfYmNaOFRXdERFc1dfbjNEU3d6cTMtcGdtRE1sTERIYUxXWXZNaUQzUER2UlE?oc=5"
   },
   {
+   "title": "세일러, '오렌지 닷' 올렸다…비트코인 추매 암시",
+   "source": "블루밍비트",
+   "time": "2026-07-19T23:24:26+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94dHd0YzNZemFoSkdBUGZjYndrbVlFR0k5X2JXeFJVZW1BcnVwWXJFcHZTSVJ4MERhVlFtRFBJNkNzVjMxQzJmN2lfS19HMzAw?oc=5"
+  },
+  {
+   "title": "1500원 아래로 하락한 원달러 환율",
+   "source": "매일경제 마켓",
+   "time": "2026-07-19T16:07:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JR0pUR0ZvU2pMelNrb1FlN2szdmdILVI1YktWNmJCYV9hQlVsX0dHLU5EeXc0cWJtZlpKRVVEN043dDFKUTU1MTJiRkUxdGd0Umc?oc=5"
+  },
+  {
    "title": "비트코인, $72,000 목표…거버넌스·채굴 집중 우려 고조",
    "source": "Investing.com 한국어",
    "time": "2026-07-19T17:57:00+09:00",
@@ -840,6 +846,12 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15U0thWU1sb09jQ0VSaXpoZWpwZ0dqVU9IN2ozWUV3TFNFUlp1VG85SXAxYkxOQ3RyMXhSU3dFQlg1MzlUblNTVUZUa0FkWk4yVWhiTFVUOEI0NWRDTi1QeTExNHc0bFdSWXRha1hB?oc=5"
   },
   {
+   "title": "1478원… 환율, 두달여 만에 최저 수준",
+   "source": "동아일보",
+   "time": "2026-07-20T00:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiYmFrMUtURDdROGRncjNycnJpR3JRWTRJWnJiZHFsYnJQVzVIN2FWNGp0Tk1ZSTdHWW1uaEtBSlg4WE9UNnZ6SWkweHNNM3hnMUZlMWFHcmZKMTRmYndxaW9OR1ZPOXNIMU8wenV3RkZkM0xGS0HSAWZBVV95cUxPdlRGSVk4bWtwZlBEbU9OUERXREllNHZSeHdRTlhxd1JDUzI4R0lfMFo3c29fOTBlOWk3UDE5SHVBMGJsb1l6ejZWWXJ2ZXFpaG9NTHZaNHllWHA2a0hoRXhJMUxWT3c?oc=5"
+  },
+  {
    "title": "[뉴스ON] 역대급 변동성 '롤러코스피' ··경찰 수사 잇단 논란에 보완 수사권 폐지, 앞날은?",
    "source": "대구MBC",
    "time": "2026-07-19T10:00:00+09:00",
@@ -850,18 +862,6 @@
    "source": "중앙일보",
    "time": "2026-07-19T14:26:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaZnowRlp4OThxUnJ3S1pWZ0lPWXVFUHBJX2gyUWJGYTBwb09GT1gzSzRiVEZRNXA0ZEJ5U0RraXAtTkxnNkpJRG5CWlNhSjVxRWJrMTln?oc=5"
-  },
-  {
-   "title": "[기자의 눈] 환율 잡으려다 코스피를 흔들었다",
-   "source": "에너지경제신문",
-   "time": "2026-07-19T09:05:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIQUN6OWJOeFZBWkdLczNLVGZqWnAzZWwwZnN4eWJ4Vmh4NVRSYWk5R2hDdW9xR0tjaDg3SnlFcnRKWjlMNnRQOTNfRVZIU29FaGtpRTN0eGtUVDA?oc=5"
-  },
-  {
-   "title": "1500원 아래로 하락한 원달러 환율",
-   "source": "매일경제 마켓",
-   "time": "2026-07-19T16:07:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JR0pUR0ZvU2pMelNrb1FlN2szdmdILVI1YktWNmJCYV9hQlVsX0dHLU5EeXc0cWJtZlpKRVVEN043dDFKUTU1MTJiRkUxdGd0Umc?oc=5"
   }
  ]
 }
