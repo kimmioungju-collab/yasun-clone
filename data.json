@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T06:08:20.195571+09:00",
+ "updated": "2026-07-20T07:06:51.326538+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1486.21,
+   "price": 1486.68,
    "prev": 1478.28,
    "spark": [
     1489.83,
@@ -451,21 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64470.0,
+   "price": 64352.16,
    "prev": 64794.25,
    "spark": [
-    64504.5586,
-    64434.0,
-    64392.6289,
-    64429.0391,
-    64433.1094,
-    64440.1992,
-    64350.0117,
-    64385.7383,
-    64403.8281,
-    64380.9688,
-    64397.9883,
-    64333.1719,
     64374.2305,
     64343.4883,
     64411.0312,
@@ -493,25 +481,25 @@
     64488.3203,
     64492.0117,
     64470.0,
-    64470.0
+    64492.0117,
+    64444.8008,
+    64431.0,
+    64427.9883,
+    64374.2383,
+    64380.3594,
+    64307.2305,
+    64350.0,
+    64348.4883,
+    64372.6094,
+    64412.3398,
+    64367.7617,
+    64352.1602
    ]
   },
   "eth": {
-   "price": 1865.41,
+   "price": 1858.69,
    "prev": 1861.4141,
    "spark": [
-    1865.9301,
-    1861.58,
-    1860.1801,
-    1861.6899,
-    1861.4301,
-    1861.25,
-    1856.87,
-    1858.4399,
-    1859.26,
-    1858.4301,
-    1859.0699,
-    1857.86,
     1859.3199,
     1856.29,
     1858.92,
@@ -538,12 +526,24 @@
     1863.84,
     1865.76,
     1865.89,
-    1865.4399,
-    1865.41
+    1865.26,
+    1865.53,
+    1862.59,
+    1862.23,
+    1862.8,
+    1860.75,
+    1859.76,
+    1857.84,
+    1859.89,
+    1859.15,
+    1860.75,
+    1861.2,
+    1859.6,
+    1858.6899
    ]
   },
   "eurkrw": {
-   "price": 1700.8,
+   "price": 1698.7,
    "prev": 1691.7,
    "spark": [
     1702.9,
@@ -589,7 +589,7 @@
    ]
   },
   "jpykrw": {
-   "price": 9.143,
+   "price": 9.129,
    "prev": 9.086,
    "spark": [
     9.15,
@@ -635,7 +635,7 @@
    ]
   },
   "cnykrw": {
-   "price": 219.588,
+   "price": 219.258,
    "prev": 218.285,
    "spark": [
     219.844,
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 162.416,
+   "price": 162.513,
    "prev": 162.344,
    "spark": [
     162.457,
@@ -804,16 +804,10 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94dHd0YzNZemFoSkdBUGZjYndrbVlFR0k5X2JXeFJVZW1BcnVwWXJFcHZTSVJ4MERhVlFtRFBJNkNzVjMxQzJmN2lfS19HMzAw?oc=5"
   },
   {
-   "title": "나스닥 439% 찍은 미장 전문가…“지금은 中 사라” 점찍은 종목",
+   "title": "블룸버그 “한국 증시 첫 시험대…레버리지 ETF에 제동 건 이유”│Global Money Club",
    "source": "중앙일보",
-   "time": "2026-07-19T14:53:35+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZ1BhV3NwN00wQXBrbkZxLVpPVEFWX1ZydURjMGl4UG14UEtJXzJDSWtVX2xreThKOUh6X3FqMGtFeXlvYnBxVlhTSnVuLXBTcVFlWWhn?oc=5"
-  },
-  {
-   "title": "코스피 '폭락'에 개미들이 웃는 이유",
-   "source": "한경매거진&북",
-   "time": "2026-07-19T07:11:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWVdkSW82TmlUMUg5WWNoRDBuZ3IxRkJDMzFrNHBWOWRKZFRBcnJUMzlORDk2ODFiamplUVI4NmZoTk9RQ0RpOXZPalE1UC1nRmd3QTA4WHNJVmtYcmtfaTRmUEJmU3BmTnVmRA?oc=5"
+   "time": "2026-07-20T06:43:24+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZWmh6XzBTQlpJLXlyR0pjbko0YWJUZmxJUlBjYm9rbnZyTExBRll0alNhRU1uVV8tZzZ3dHhrNTM1TU9hZFFMNm8ta081dW14SHg4SWdTM09hVFE?oc=5"
   },
   {
    "title": "치솟던 환율, 왜 갑자기 꺾였나...원화의 ‘깜짝 반전’",
@@ -828,16 +822,16 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2R0ZocGo3M2Fic0FRb3lxaGVoVGxfa29aMWJ6UTgyRExNQ0xkWjlyQTNOY1NydkxNbUd3MDVDVVhYbEpReGRZZ0JuaTV3WGc?oc=5"
   },
   {
+   "title": "코스피 '폭락'에 개미들이 웃는 이유",
+   "source": "한경매거진&북",
+   "time": "2026-07-19T07:11:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWVdkSW82TmlUMUg5WWNoRDBuZ3IxRkJDMzFrNHBWOWRKZFRBcnJUMzlORDk2ODFiamplUVI4NmZoTk9RQ0RpOXZPalE1UC1nRmd3QTA4WHNJVmtYcmtfaTRmUEJmU3BmTnVmRA?oc=5"
+  },
+  {
    "title": "“노후자금 다 날렸다…코스피가 도박판” [잇슈 머니]",
    "source": "KBS 뉴스",
    "time": "2026-07-17T08:10:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQVVUVVF0ZXgyTnMyTlg0c21iX0QxSnc5UUJZNXhLVHlXcXN1Yy16SWh1TDZpN3NGanBFSkVGaVVUdUZSR1FnTmgyQTRpRUxGbEkzOTBIbGhCc3c?oc=5"
-  },
-  {
-   "title": "비트코인, $72,000 목표…거버넌스·채굴 집중 우려 고조",
-   "source": "Investing.com 한국어",
-   "time": "2026-07-19T17:57:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Nc1JEQ1BMWER6MlNaRTZnM1VWbHdpZnpBSlJRRHVXNTFMRHhnUzZDM05qcTJnSjdCQnZOWkN5QUdTWkRhVktMekxJRUpydEZSclNBd0lvT19wTkk2Q3o2MFdZdDFOUGgzUHZWUkQza19KOGc?oc=5"
   },
   {
    "title": "코스피 9000 재탈환 조건… 수급·초격차 기술·수요가 결정",
@@ -846,10 +840,16 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFZ2dkE2ZENSS0VTZEFiSkpfOG51VjVVdm42VWJRdVd2RWdrSjF5d1pIbm5PV0ZuWUlJZC1wRlZabWFwMW1zeS0ydXdPZ3VyY0dtZDRqeXpDUVJfenkwOHRjRnZ4TkczbGt0cXludzJjOTB4Tm1Edk5EbEtxV184SHd4NjhqTDNv?oc=5"
   },
   {
-   "title": "금리인상 후폭풍 우려… “증시 부담·주담대 8%대 가능성”",
-   "source": "아시아투데이",
-   "time": "2026-07-19T17:40:40+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15U0thWU1sb09jQ0VSaXpoZWpwZ0dqVU9IN2ozWUV3TFNFUlp1VG85SXAxYkxOQ3RyMXhSU3dFQlg1MzlUblNTVUZUa0FkWk4yVWhiTFVUOEI0NWRDTi1QeTExNHc0bFdSWXRha1hB?oc=5"
+   "title": "비트코인, $72,000 목표…거버넌스·채굴 집중 우려 고조",
+   "source": "Investing.com 한국어",
+   "time": "2026-07-19T17:57:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Nc1JEQ1BMWER6MlNaRTZnM1VWbHdpZnpBSlJRRHVXNTFMRHhnUzZDM05qcTJnSjdCQnZOWkN5QUdTWkRhVktMekxJRUpydEZSclNBd0lvT19wTkk2Q3o2MFdZdDFOUGgzUHZWUkQza19KOGc?oc=5"
+  },
+  {
+   "title": "삼전닉스 레버리지 4개월만에 '졸속 출시'…환율 못 잡고 주가 반토막",
+   "source": "뉴스1",
+   "time": "2026-07-20T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GVzg1T2U1UHJnbUFIQnk5V2Jrc3VpQlIzVi1VZE5JSjBOV2lZYnYzeXFLcGx2ZXhHeVJLczFTMnZoZkQtVVFlV3VrYlJqSlczWjliSXRmM2R1bEZrYmdV?oc=5"
   },
   {
    "title": "코스피 대신 코스닥 알테오젠…자금 흐름 주목",
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhRGJNT09DM05qbHNtS2VCTTlydG1CanZsMWVqVTF1eW1fdUlVWlJwdUQyMlV2T25kcFlQRXJuNmR0RE5tTjZDQm5Od0NyRXdOazFmcW1JWTIzN21EeHpCZF8ySXhQUTht?oc=5"
   },
   {
-   "title": "1478원… 환율, 두달여 만에 최저 수준",
-   "source": "동아일보",
-   "time": "2026-07-20T00:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiYmFrMUtURDdROGRncjNycnJpR3JRWTRJWnJiZHFsYnJQVzVIN2FWNGp0Tk1ZSTdHWW1uaEtBSlg4WE9UNnZ6SWkweHNNM3hnMUZlMWFHcmZKMTRmYndxaW9OR1ZPOXNIMU8wenV3RkZkM0xGS0HSAWZBVV95cUxPdlRGSVk4bWtwZlBEbU9OUERXREllNHZSeHdRTlhxd1JDUzI4R0lfMFo3c29fOTBlOWk3UDE5SHVBMGJsb1l6ejZWWXJ2ZXFpaG9NTHZaNHllWHA2a0hoRXhJMUxWT3c?oc=5"
+   "title": "금리인상 후폭풍 우려… “증시 부담·주담대 8%대 가능성”",
+   "source": "아시아투데이",
+   "time": "2026-07-19T17:40:40+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15U0thWU1sb09jQ0VSaXpoZWpwZ0dqVU9IN2ozWUV3TFNFUlp1VG85SXAxYkxOQ3RyMXhSU3dFQlg1MzlUblNTVUZUa0FkWk4yVWhiTFVUOEI0NWRDTi1QeTExNHc0bFdSWXRha1hB?oc=5"
   }
  ]
 }
