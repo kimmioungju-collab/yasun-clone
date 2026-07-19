@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T01:07:28.645149+09:00",
+ "updated": "2026-07-20T02:12:17.996043+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -197,7 +197,7 @@
   },
   "ndx": {
    "price": 25520.244,
-   "prev": 25881.947,
+   "prev": 25881.9,
    "spark": [
     25670.8223,
     25688.0234,
@@ -243,7 +243,7 @@
   },
   "sox": {
    "price": 11673.889,
-   "prev": 11867.503,
+   "prev": 11867.5,
    "spark": [
     11859.332,
     11866.917,
@@ -451,22 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64500.01,
+   "price": 64609.76,
    "prev": 64794.25,
    "spark": [
-    64398.0,
-    64341.1211,
-    64336.6719,
-    64312.4805,
-    64284.6211,
-    64316.75,
-    64363.2109,
-    64392.6289,
-    64377.9297,
-    64373.3086,
-    64422.0703,
-    64452.4102,
-    64432.6719,
     64479.7188,
     64452.0117,
     64492.0,
@@ -492,27 +479,27 @@
     64546.8906,
     64540.0312,
     64561.5,
-    64504.2109,
-    64500.0117
+    64490.9883,
+    64500.1484,
+    64523.9688,
+    64567.8281,
+    64569.4805,
+    64495.6797,
+    64507.6016,
+    64558.8516,
+    64552.8203,
+    64488.7109,
+    64495.0781,
+    64461.0117,
+    64539.3008,
+    64639.1992,
+    64609.7617
    ]
   },
   "eth": {
-   "price": 1868.89,
+   "price": 1867.92,
    "prev": 1861.4141,
    "spark": [
-    1869.12,
-    1866.66,
-    1866.46,
-    1865.77,
-    1865.86,
-    1866.0,
-    1867.5601,
-    1870.24,
-    1867.6899,
-    1867.87,
-    1870.38,
-    1870.53,
-    1870.42,
     1872.27,
     1870.87,
     1871.89,
@@ -538,8 +525,21 @@
     1870.1,
     1869.66,
     1870.8,
-    1869.12,
-    1868.89
+    1868.63,
+    1869.25,
+    1868.4,
+    1870.33,
+    1868.67,
+    1866.97,
+    1866.3,
+    1867.13,
+    1866.6899,
+    1865.09,
+    1865.36,
+    1861.9301,
+    1865.4301,
+    1868.88,
+    1867.92
    ]
   },
   "eurkrw": {
@@ -773,7 +773,7 @@
    ]
   },
   "dxy": {
-   "price": 100.755,
+   "price": 100.765,
    "prev": 100.765,
    "spark": []
   }
@@ -786,16 +786,16 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sZEVQY2JJaUlOVHM5dm00dkJwTEpxZWFiOXlmaHFLRnlxS2JqVl9MTlVFb29KRlB5Y3ZnYmlSb1FuZXc1Q1pzUER2THF5Z1p2dDF2RVI1WE9hajZnVnNIR2MteVpnd2poTmZRc2lBWkUyckdV?oc=5"
   },
   {
+   "title": "6천선 후퇴한 코스피...반등 관건은 '알파벳·중동'",
+   "source": "YTN",
+   "time": "2026-07-19T22:28:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yT3AtTFp0NzdFT0pfUHRpREd5Q04ydTdmWVVBWHU5TmV5cklwY2JHeHVfclZMTGt6UFdycTdTNmdVdmF3a3F1QXJONFBfd1ExdkFTRzNiMEgzZFpoR2c?oc=5"
+  },
+  {
    "title": "코스피 '폭락'에 개미들이 웃는 이유",
    "source": "한경매거진&북",
    "time": "2026-07-19T07:11:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWVdkSW82TmlUMUg5WWNoRDBuZ3IxRkJDMzFrNHBWOWRKZFRBcnJUMzlORDk2ODFiamplUVI4NmZoTk9RQ0RpOXZPalE1UC1nRmd3QTA4WHNJVmtYcmtfaTRmUEJmU3BmTnVmRA?oc=5"
-  },
-  {
-   "title": "6천선 후퇴한 코스피...반등 관건은 '알파벳·중동'",
-   "source": "YTN",
-   "time": "2026-07-19T16:24:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lOEEzTGRNSU9oTHp3ZHNfRVk3TkNIZGc4R3EwdnJ3TE8wYmw3WkI2UFNDQlZRQldOb1U0Nld2Y3BDV2k5ak9FTENJaEhZX0FZR3Z0dGxlSnZwZ3JOQUE?oc=5"
   },
   {
    "title": "삼전닉스-코스피가 세계 AI주 흐름 좌우한다…“모두 韓 투자자”",
@@ -852,16 +852,16 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiYmFrMUtURDdROGRncjNycnJpR3JRWTRJWnJiZHFsYnJQVzVIN2FWNGp0Tk1ZSTdHWW1uaEtBSlg4WE9UNnZ6SWkweHNNM3hnMUZlMWFHcmZKMTRmYndxaW9OR1ZPOXNIMU8wenV3RkZkM0xGS0HSAWZBVV95cUxPdlRGSVk4bWtwZlBEbU9OUERXREllNHZSeHdRTlhxd1JDUzI4R0lfMFo3c29fOTBlOWk3UDE5SHVBMGJsb1l6ejZWWXJ2ZXFpaG9NTHZaNHllWHA2a0hoRXhJMUxWT3c?oc=5"
   },
   {
+   "title": "“노후자금 다 날렸다…코스피가 도박판” [잇슈 머니]",
+   "source": "KBS 뉴스",
+   "time": "2026-07-17T08:10:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQVVUVVF0ZXgyTnMyTlg0c21iX0QxSnc5UUJZNXhLVHlXcXN1Yy16SWh1TDZpN3NGanBFSkVGaVVUdUZSR1FnTmgyQTRpRUxGbEkzOTBIbGhCc3c?oc=5"
+  },
+  {
    "title": "[뉴스ON] 역대급 변동성 '롤러코스피' ··경찰 수사 잇단 논란에 보완 수사권 폐지, 앞날은?",
    "source": "대구MBC",
    "time": "2026-07-19T10:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RdUxCR1pfRnpzY1Q2ejgyMFhZdkZhZFRlVGVwaFk0OVRFb3NBQUJXQmJKYk1GdmhTX1BESU9aamsyRnF1amJsdHg2NFk?oc=5"
-  },
-  {
-   "title": "“코스피 흔들리면 나스닥도 흔들”…전세계 투자자, 한국부터 본다",
-   "source": "중앙일보",
-   "time": "2026-07-19T14:26:46+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaZnowRlp4OThxUnJ3S1pWZ0lPWXVFUHBJX2gyUWJGYTBwb09GT1gzSzRiVEZRNXA0ZEJ5U0RraXAtTkxnNkpJRG5CWlNhSjVxRWJrMTln?oc=5"
   }
  ]
 }
