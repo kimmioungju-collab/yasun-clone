@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T04:22:26.354054+09:00",
+ "updated": "2026-07-20T05:13:31.597774+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -187,12 +187,12 @@
   },
   "nq": {
    "price": 28773.25,
-   "prev": 29225.75,
+   "prev": 28773.25,
    "spark": []
   },
   "es": {
    "price": 7497.75,
-   "prev": 7577.75,
+   "prev": 7497.75,
    "spark": []
   },
   "ndx": {
@@ -335,7 +335,7 @@
   },
   "wti": {
    "price": 81.78,
-   "prev": 78.28,
+   "prev": 81.78,
    "spark": []
   },
   "brent": {
@@ -345,12 +345,12 @@
   },
   "gold": {
    "price": 4018.8,
-   "prev": 3992.1,
+   "prev": 4018.8,
    "spark": []
   },
   "silver": {
    "price": 56.326,
-   "prev": 56.187,
+   "prev": 56.326,
    "spark": []
   },
   "gas": {
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1488.07,
+   "price": 1488.35,
    "prev": 1478.28,
    "spark": [
     1489.83,
@@ -451,19 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64380.03,
+   "price": 64473.37,
    "prev": 64794.25,
    "spark": [
-    64500.1484,
-    64523.9688,
-    64567.8281,
-    64569.4805,
-    64495.6797,
-    64507.6016,
-    64558.8516,
-    64552.8203,
-    64488.7109,
-    64495.0781,
     64461.0117,
     64539.3008,
     64646.5508,
@@ -492,24 +482,24 @@
     64411.0312,
     64399.9883,
     64390.25,
-    64380.0195,
-    64380.0312
+    64382.1484,
+    64390.0391,
+    64373.6797,
+    64368.1406,
+    64366.8906,
+    64364.2383,
+    64358.8203,
+    64410.0,
+    64444.1602,
+    64465.5,
+    64466.1914,
+    64473.3711
    ]
   },
   "eth": {
-   "price": 1857.89,
+   "price": 1863.17,
    "prev": 1861.4141,
    "spark": [
-    1869.25,
-    1868.4,
-    1870.33,
-    1868.67,
-    1866.97,
-    1866.3,
-    1867.13,
-    1866.6899,
-    1865.09,
-    1865.36,
     1861.9301,
     1865.4301,
     1870.2,
@@ -538,12 +528,22 @@
     1858.92,
     1858.7,
     1858.37,
-    1857.92,
-    1857.89
+    1858.28,
+    1858.8101,
+    1858.0699,
+    1858.04,
+    1857.83,
+    1858.3101,
+    1858.59,
+    1860.75,
+    1862.91,
+    1864.03,
+    1863.02,
+    1863.17
    ]
   },
   "eurkrw": {
-   "price": 1701.1,
+   "price": 1700.0,
    "prev": 1691.7,
    "spark": [
     1702.9,
@@ -589,7 +589,7 @@
    ]
   },
   "jpykrw": {
-   "price": 9.144,
+   "price": 9.139,
    "prev": 9.086,
    "spark": [
     9.15,
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 162.353,
+   "price": 162.414,
    "prev": 162.344,
    "spark": [
     162.457,
@@ -727,7 +727,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1446,
+   "price": 1.1431,
    "prev": 1.1444,
    "spark": [
     1.1438,
@@ -846,10 +846,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQVVUVVF0ZXgyTnMyTlg0c21iX0QxSnc5UUJZNXhLVHlXcXN1Yy16SWh1TDZpN3NGanBFSkVGaVVUdUZSR1FnTmgyQTRpRUxGbEkzOTBIbGhCc3c?oc=5"
   },
   {
-   "title": "1478원… 환율, 두달여 만에 최저 수준",
-   "source": "동아일보",
-   "time": "2026-07-20T00:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiYmFrMUtURDdROGRncjNycnJpR3JRWTRJWnJiZHFsYnJQVzVIN2FWNGp0Tk1ZSTdHWW1uaEtBSlg4WE9UNnZ6SWkweHNNM3hnMUZlMWFHcmZKMTRmYndxaW9OR1ZPOXNIMU8wenV3RkZkM0xGS0HSAWZBVV95cUxPdlRGSVk4bWtwZlBEbU9OUERXREllNHZSeHdRTlhxd1JDUzI4R0lfMFo3c29fOTBlOWk3UDE5SHVBMGJsb1l6ejZWWXJ2ZXFpaG9NTHZaNHllWHA2a0hoRXhJMUxWT3c?oc=5"
+   "title": "코스피 9000 재탈환 조건… 수급·초격차 기술·수요가 결정",
+   "source": "글로벌이코노믹",
+   "time": "2026-07-20T03:45:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFZ2dkE2ZENSS0VTZEFiSkpfOG51VjVVdm42VWJRdVd2RWdrSjF5d1pIbm5PV0ZuWUlJZC1wRlZabWFwMW1zeS0ydXdPZ3VyY0dtZDRqeXpDUVJfenkwOHRjRnZ4TkczbGt0cXludzJjOTB4Tm1Edk5EbEtxV184SHd4NjhqTDNv?oc=5"
   },
   {
    "title": "금리인상 후폭풍 우려… “증시 부담·주담대 8%대 가능성”",
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15U0thWU1sb09jQ0VSaXpoZWpwZ0dqVU9IN2ozWUV3TFNFUlp1VG85SXAxYkxOQ3RyMXhSU3dFQlg1MzlUblNTVUZUa0FkWk4yVWhiTFVUOEI0NWRDTi1QeTExNHc0bFdSWXRha1hB?oc=5"
   },
   {
-   "title": "코스피 9000 재탈환 조건… 수급·초격차 기술·수요가 결정",
-   "source": "글로벌이코노믹",
-   "time": "2026-07-20T03:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFZ2dkE2ZENSS0VTZEFiSkpfOG51VjVVdm42VWJRdVd2RWdrSjF5d1pIbm5PV0ZuWUlJZC1wRlZabWFwMW1zeS0ydXdPZ3VyY0dtZDRqeXpDUVJfenkwOHRjRnZ4TkczbGt0cXludzJjOTB4Tm1Edk5EbEtxV184SHd4NjhqTDNv?oc=5"
+   "title": "1478원… 환율, 두달여 만에 최저 수준",
+   "source": "동아일보",
+   "time": "2026-07-20T00:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiYmFrMUtURDdROGRncjNycnJpR3JRWTRJWnJiZHFsYnJQVzVIN2FWNGp0Tk1ZSTdHWW1uaEtBSlg4WE9UNnZ6SWkweHNNM3hnMUZlMWFHcmZKMTRmYndxaW9OR1ZPOXNIMU8wenV3RkZkM0xGS0HSAWZBVV95cUxPdlRGSVk4bWtwZlBEbU9OUERXREllNHZSeHdRTlhxd1JDUzI4R0lfMFo3c29fOTBlOWk3UDE5SHVBMGJsb1l6ejZWWXJ2ZXFpaG9NTHZaNHllWHA2a0hoRXhJMUxWT3c?oc=5"
   }
  ]
 }
