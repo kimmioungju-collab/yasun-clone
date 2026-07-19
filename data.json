@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T05:13:31.597774+09:00",
+ "updated": "2026-07-20T06:08:20.195571+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1488.35,
+   "price": 1486.21,
    "prev": 1478.28,
    "spark": [
     1489.83,
@@ -451,20 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64473.37,
+   "price": 64470.0,
    "prev": 64794.25,
    "spark": [
-    64461.0117,
-    64539.3008,
-    64646.5508,
-    64613.4805,
-    64637.9492,
-    64606.2109,
-    64624.4883,
-    64624.0,
-    64573.6914,
-    64547.1992,
-    64530.3086,
     64504.5586,
     64434.0,
     64392.6289,
@@ -492,25 +481,25 @@
     64410.0,
     64444.1602,
     64465.5,
-    64466.1914,
-    64473.3711
+    64458.8711,
+    64440.4805,
+    64476.1016,
+    64442.0391,
+    64466.2305,
+    64446.2109,
+    64455.1484,
+    64457.5781,
+    64463.6406,
+    64488.3203,
+    64492.0117,
+    64470.0,
+    64470.0
    ]
   },
   "eth": {
-   "price": 1863.17,
+   "price": 1865.41,
    "prev": 1861.4141,
    "spark": [
-    1861.9301,
-    1865.4301,
-    1870.2,
-    1867.26,
-    1867.49,
-    1868.65,
-    1870.53,
-    1870.8,
-    1868.22,
-    1868.05,
-    1867.4,
     1865.9301,
     1861.58,
     1860.1801,
@@ -538,12 +527,23 @@
     1860.75,
     1862.91,
     1864.03,
-    1863.02,
-    1863.17
+    1862.29,
+    1861.49,
+    1863.23,
+    1862.89,
+    1863.65,
+    1863.72,
+    1864.15,
+    1863.6,
+    1863.84,
+    1865.76,
+    1865.89,
+    1865.4399,
+    1865.41
    ]
   },
   "eurkrw": {
-   "price": 1700.0,
+   "price": 1700.8,
    "prev": 1691.7,
    "spark": [
     1702.9,
@@ -589,7 +589,7 @@
    ]
   },
   "jpykrw": {
-   "price": 9.139,
+   "price": 9.143,
    "prev": 9.086,
    "spark": [
     9.15,
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 162.414,
+   "price": 162.416,
    "prev": 162.344,
    "spark": [
     162.457,
@@ -804,22 +804,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94dHd0YzNZemFoSkdBUGZjYndrbVlFR0k5X2JXeFJVZW1BcnVwWXJFcHZTSVJ4MERhVlFtRFBJNkNzVjMxQzJmN2lfS19HMzAw?oc=5"
   },
   {
-   "title": "코스피 '폭락'에 개미들이 웃는 이유",
-   "source": "한경매거진&북",
-   "time": "2026-07-19T07:11:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWVdkSW82TmlUMUg5WWNoRDBuZ3IxRkJDMzFrNHBWOWRKZFRBcnJUMzlORDk2ODFiamplUVI4NmZoTk9RQ0RpOXZPalE1UC1nRmd3QTA4WHNJVmtYcmtfaTRmUEJmU3BmTnVmRA?oc=5"
-  },
-  {
    "title": "나스닥 439% 찍은 미장 전문가…“지금은 中 사라” 점찍은 종목",
    "source": "중앙일보",
    "time": "2026-07-19T14:53:35+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZ1BhV3NwN00wQXBrbkZxLVpPVEFWX1ZydURjMGl4UG14UEtJXzJDSWtVX2xreThKOUh6X3FqMGtFeXlvYnBxVlhTSnVuLXBTcVFlWWhn?oc=5"
   },
   {
-   "title": "“코스피 흔들리면 나스닥도 흔들”…전세계 투자자, 한국부터 본다",
-   "source": "v.daum.net",
-   "time": "2026-07-19T14:28:51+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2R0ZocGo3M2Fic0FRb3lxaGVoVGxfa29aMWJ6UTgyRExNQ0xkWjlyQTNOY1NydkxNbUd3MDVDVVhYbEpReGRZZ0JuaTV3WGc?oc=5"
+   "title": "코스피 '폭락'에 개미들이 웃는 이유",
+   "source": "한경매거진&북",
+   "time": "2026-07-19T07:11:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWVdkSW82TmlUMUg5WWNoRDBuZ3IxRkJDMzFrNHBWOWRKZFRBcnJUMzlORDk2ODFiamplUVI4NmZoTk9RQ0RpOXZPalE1UC1nRmd3QTA4WHNJVmtYcmtfaTRmUEJmU3BmTnVmRA?oc=5"
   },
   {
    "title": "치솟던 환율, 왜 갑자기 꺾였나...원화의 ‘깜짝 반전’",
@@ -828,22 +822,22 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTUlkekUxWnJzaFdXN2g4V3B1Um1hQXNYUExDdDh5d0JFX3Z1OFFfYmNaOFRXdERFc1dfbjNEU3d6cTMtcGdtRE1sTERIYUxXWXZNaUQzUER2UlE?oc=5"
   },
   {
-   "title": "1500원 아래로 하락한 원달러 환율",
-   "source": "매일경제 마켓",
-   "time": "2026-07-19T16:07:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JR0pUR0ZvU2pMelNrb1FlN2szdmdILVI1YktWNmJCYV9hQlVsX0dHLU5EeXc0cWJtZlpKRVVEN043dDFKUTU1MTJiRkUxdGd0Umc?oc=5"
-  },
-  {
-   "title": "비트코인, $72,000 목표…거버넌스·채굴 집중 우려 고조",
-   "source": "Investing.com 한국어",
-   "time": "2026-07-19T17:57:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Nc1JEQ1BMWER6MlNaRTZnM1VWbHdpZnpBSlJRRHVXNTFMRHhnUzZDM05qcTJnSjdCQnZOWkN5QUdTWkRhVktMekxJRUpydEZSclNBd0lvT19wTkk2Q3o2MFdZdDFOUGgzUHZWUkQza19KOGc?oc=5"
+   "title": "“코스피 흔들리면 나스닥도 흔들”…전세계 투자자, 한국부터 본다",
+   "source": "v.daum.net",
+   "time": "2026-07-19T14:28:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2R0ZocGo3M2Fic0FRb3lxaGVoVGxfa29aMWJ6UTgyRExNQ0xkWjlyQTNOY1NydkxNbUd3MDVDVVhYbEpReGRZZ0JuaTV3WGc?oc=5"
   },
   {
    "title": "“노후자금 다 날렸다…코스피가 도박판” [잇슈 머니]",
    "source": "KBS 뉴스",
    "time": "2026-07-17T08:10:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQVVUVVF0ZXgyTnMyTlg0c21iX0QxSnc5UUJZNXhLVHlXcXN1Yy16SWh1TDZpN3NGanBFSkVGaVVUdUZSR1FnTmgyQTRpRUxGbEkzOTBIbGhCc3c?oc=5"
+  },
+  {
+   "title": "비트코인, $72,000 목표…거버넌스·채굴 집중 우려 고조",
+   "source": "Investing.com 한국어",
+   "time": "2026-07-19T17:57:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Nc1JEQ1BMWER6MlNaRTZnM1VWbHdpZnpBSlJRRHVXNTFMRHhnUzZDM05qcTJnSjdCQnZOWkN5QUdTWkRhVktMekxJRUpydEZSclNBd0lvT19wTkk2Q3o2MFdZdDFOUGgzUHZWUkQza19KOGc?oc=5"
   },
   {
    "title": "코스피 9000 재탈환 조건… 수급·초격차 기술·수요가 결정",
@@ -856,6 +850,12 @@
    "source": "아시아투데이",
    "time": "2026-07-19T17:40:40+09:00",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15U0thWU1sb09jQ0VSaXpoZWpwZ0dqVU9IN2ozWUV3TFNFUlp1VG85SXAxYkxOQ3RyMXhSU3dFQlg1MzlUblNTVUZUa0FkWk4yVWhiTFVUOEI0NWRDTi1QeTExNHc0bFdSWXRha1hB?oc=5"
+  },
+  {
+   "title": "코스피 대신 코스닥 알테오젠…자금 흐름 주목",
+   "source": "데일리메디",
+   "time": "2026-07-20T05:39:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhRGJNT09DM05qbHNtS2VCTTlydG1CanZsMWVqVTF1eW1fdUlVWlJwdUQyMlV2T25kcFlQRXJuNmR0RE5tTjZDQm5Od0NyRXdOazFmcW1JWTIzN21EeHpCZF8ySXhQUTht?oc=5"
   },
   {
    "title": "1478원… 환율, 두달여 만에 최저 수준",
