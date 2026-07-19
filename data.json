@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T08:15:09.211885+09:00",
+ "updated": "2026-07-19T09:11:58.537534+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -738,95 +738,23 @@
    ]
   },
   "btc": {
-   "price": 64694.5,
-   "prev": 63888.2,
+   "price": 64808.19,
+   "prev": 64794.25,
    "spark": [
-    64521.9492,
-    64530.8789,
-    64576.0117,
-    64590.5898,
-    64628.1719,
-    64602.4102,
-    64583.0898,
-    64561.9102,
-    64565.6016,
-    64539.3789,
-    64630.5117,
-    64654.5781,
-    64659.1914,
-    64619.7891,
-    64716.4688,
-    64753.2891,
-    64685.0195,
-    64682.2617,
-    64664.9609,
-    64645.3281,
-    64609.75,
-    64631.7891,
-    64735.5312,
-    64692.0117,
-    64749.9883,
-    64738.5508,
-    64759.4609,
-    64742.2383,
-    64715.1914,
-    64691.0117,
-    64709.1211,
-    64699.6289,
-    64731.1992,
-    64727.0781,
-    64721.2188,
-    64764.3203,
-    64759.2109,
-    64702.7383,
-    64694.5,
-    64694.5
+    64791.0703,
+    64806.2812,
+    64806.2812,
+    64808.1914
    ]
   },
   "eth": {
-   "price": 1859.38,
-   "prev": 1840.656,
+   "price": 1861.71,
+   "prev": 1861.4141,
    "spark": [
-    1856.77,
-    1856.3,
-    1858.54,
-    1859.97,
-    1859.67,
-    1858.33,
-    1857.5601,
-    1856.03,
-    1856.67,
-    1855.1801,
-    1856.6801,
-    1855.92,
-    1856.92,
-    1855.86,
-    1860.59,
-    1860.79,
-    1857.99,
-    1858.14,
-    1858.03,
-    1857.53,
-    1856.6,
-    1857.49,
-    1860.6,
-    1859.64,
-    1861.79,
-    1861.97,
-    1861.6899,
-    1861.74,
-    1860.9399,
-    1860.08,
-    1860.49,
-    1860.6,
-    1861.39,
-    1861.34,
-    1861.3,
-    1862.42,
-    1862.41,
-    1860.37,
-    1859.22,
-    1859.38
+    1861.11,
+    1861.76,
+    1861.71,
+    1861.71
    ]
   },
   "eurkrw": {
@@ -1109,9 +1037,9 @@
  "news": [
   {
    "title": "[뉴욕증시-주간전망] AI 투자 시험대 오른 시장…알파벳·중동 갈등 주목",
-   "source": "연합뉴스",
-   "time": "2026-07-19T07:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VUW1kMHdzRVZYYkNhQzFZZ0QtSW8ySHdmdWRRbVdIRFVzTmpKS2EwSjY0UmQ5X1k2MGtkWkVTWFJOSkI2cU5TYkpkNmtoMFgtUV9XNm0wM0VRazjSAWBBVV95cUxQbjJ1dmlZbEwzUzVpQ1I2dE9jd1k5bDlVY1BXVl9ZNUNialdxWWZHVlRRamE0Z2ZiSUMwZmJRSllLcnRNZy1qc3Y1bzQtN3hxd0dfeTBTdlNPNGRrR2hpRzA?oc=5"
+   "source": "연합인포맥스",
+   "time": "2026-07-19T07:00:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iZEt1aUNtQXpPaWVrSXlxb0ZEVUUtcUVrSmNCMy10bDhvaW9DbTlGMS1qZzhnRzZ1VzhaamdwaDRmSHU4YzA5SGFWZGRlTWhrOWNmS3UxM2xFM3NhejhiTVFRZXA2LUZPZ19lWFdmeEc?oc=5"
   },
   {
    "title": "코스피지수 실적은 개선됐는데, 왜 주가는 더 크게 떨어지나?",
@@ -1120,10 +1048,22 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13Rk1IMmgzMnlDOGdzZlNrR2hFbnZqQTd5ZWl0TkNXZG0waDZKUHlUZEFGVWIxOHA4S1NTcmJwQ3UwWXRzdlhST003bDBJWkVLZEVBdEVyMWt4Q0JtX042Mkx1cE9HcXVFNnJHcVJUelg?oc=5"
   },
   {
-   "title": "코스피 '폭락'에 개미들이 웃는 이유",
-   "source": "v.daum.net",
-   "time": "2026-07-19T07:13:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jSnh3NG1LTkdDWld2Y0RzZk80SkdoS19TQThPUnlYTGF5TTN2U3lpMFM1dUtNLTNKUFVGZ2VKYng3TGJ3ZWJfb2ZIcGg1S28?oc=5"
+   "title": "코스피, 6%대 급락 6,800대 후퇴…하루 만에 7,000선 내줘(종합)",
+   "source": "연합뉴스",
+   "time": "2026-07-16T16:26:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdE8tRTFrbVNWcE1GNUJNdWNSRFNTTmg5Q3g0UjJpdVA1YkZFZ25rd3VjMUFhY3NyaVlvVVliWFROeGxWSlk1a18yYXFNd2ZhcWFvM244bklvT2PSAWBBVV95cUxOUFJKczVRWkRSV19MbEY2NXkxNUljcVpyTHkxS19HaHplZ21qQTRUd2VvN2FtTTU1dV9OMWVjNk1UQkFzcHg0elYyMzl1RTcwSUliZEQza0NtSi0tNzh2Nk4?oc=5"
+  },
+  {
+   "title": "[기자의 눈] 환율 잡으려다 코스피를 흔들었다",
+   "source": "에너지경제신문",
+   "time": "2026-07-19T09:05:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZbEZGS2IxdkxSbGlMOVQ0VW0tYURld19sVHFtZXh0ZTNwakZYLVVZLUN4cFoxMWxVa1VpTnFXcDFxV3NNWWNNdzB4VnpPYUxETjhtM0c1aXlqNldRbTR3T2Nn?oc=5"
+  },
+  {
+   "title": "국내 비트코인 현물 ETF 도입…자본시장법 개정 추진",
+   "source": "서울경제TV",
+   "time": "2026-07-19T08:00:04+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oSktyTlRncHlDMnN1RzRJRlJRSEoxLVkwUjhCY3ZmaUlQN1ZEa0hoUTNvYzZadVJVSzZ0WndZR2Nkb0xhSmpNRV9tRG9qOHA2eGJZU3VlQUx1QjMxRExwQm5Hck0?oc=5"
   },
   {
    "title": "[마켓인사이트] 제헌절 연휴 美반도체 하락지속…韓증시 짓누르나",
@@ -1138,6 +1078,12 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlNhbkVUQjJBSGJjYklMNTl1eDNQVTdlQk03aTVSc2h2UFp6UHpNRHFnY3pnRll0NF9Ba25ZYzFzTXpQQk0yTHdNMEdJa0pweVdyc1hBLU9ocm91QU5DUjJ6dlFvR3ZvdFBwVkhxUWtoV0hicFktXzFveF9Bby1ZV1VnR0ZsS1Bq?oc=5"
   },
   {
+   "title": "코스피 '폭락'에 개미들이 웃는 이유",
+   "source": "v.daum.net",
+   "time": "2026-07-19T07:13:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jSnh3NG1LTkdDWld2Y0RzZk80SkdoS19TQThPUnlYTGF5TTN2U3lpMFM1dUtNLTNKUFVGZ2VKYng3TGJ3ZWJfb2ZIcGg1S28?oc=5"
+  },
+  {
    "title": "“노후자금 다 날렸다…코스피가 도박판” [잇슈 머니]",
    "source": "KBS 뉴스",
    "time": "2026-07-17T08:10:00+09:00",
@@ -1150,46 +1096,28 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83aUtMX3JYYWN2V21UOWdsYnUyaWhrd3lJQ3VBT0ZaUjZpS3ZCUzBYMll6WlUzWldLYkhyX3c3elh3Z3BDMlpPV2g4Y01xUkJmS01PQ1ZubkdkQdIBX0FVX3lxTE9ZQ2lzMUJmamd5X19UZ2hMVlctcXA0bDNVdFJySTAwR0tTdlU4bnFIYmxTaWZBSEU3SXZTRjNBaEVnUnBmX1ZTUU1GNVpnU3VfdEE4X2UtWGVlQjV0SzZR?oc=5"
   },
   {
-   "title": "[기자의 눈] 비트코인 ETF 도입, 약속은 '두 번'이면 충분하다",
-   "source": "뉴스1",
-   "time": "2026-07-19T07:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMGdpbTlIVmVUR0QxOEo2bHVRUmcxUWp1NnNGZE1mN3ZkR01kYkpMd3hsdmJXMnNsb3hkUk5WUnJ6SkMyc1I1bHNqUXJPODZJZGxLU1Q0WThqcVE0YnRXY2ZNMHhZZw?oc=5"
-  },
-  {
-   "title": "국내 비트코인 현물 ETF 도입…자본시장법 개정 추진",
-   "source": "서울경제TV",
-   "time": "2026-07-19T08:00:04+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oSktyTlRncHlDMnN1RzRJRlJRSEoxLVkwUjhCY3ZmaUlQN1ZEa0hoUTNvYzZadVJVSzZ0WndZR2Nkb0xhSmpNRV9tRG9qOHA2eGJZU3VlQUx1QjMxRExwQm5Hck0?oc=5"
-  },
-  {
-   "title": "코스피 9%폭락에도 개인 '하닉 레버리지' 6천억 순매수…역추세추종 뚜렷",
-   "source": "연합인포맥스",
-   "time": "2026-07-14T09:08:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXU0FkZ2pXMl80STJiLXVNU04yYm5Zb1BLTlZHNUppR0NkNkppbDdseVJIR21mcGk3M1ZvTkJsVnJISmR4NUd4TmdwRW9LNENjQ3I4aDI1NFRSOS0wMzFrcy13c3AyeE1rVlYtRncwbXU?oc=5"
-  },
-  {
    "title": "알파벳이 코스피 운명 가른다…AI 투자 계획에 쏠린 눈 [주간전망]",
    "source": "한국경제",
    "time": "2026-07-19T08:00:06+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wZUlhcVlESHBUNzZOU0xWVW1BSUYyVWdzWnZweHJrX1RCQ2JkYVF0MVlvNm0wS2lxSzRfZlBMUnZLYzNfaFE3VGcyU0NoeE9XejE0N2VURjA2dw?oc=5"
   },
   {
-   "title": "'코스피 급락' 삼전닉스 버티기? 전문가 조언은",
-   "source": "YTN",
-   "time": "2026-07-14T07:36:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1MXRuaFFLYU15eXQ0V0xoQ18yc3R0MzNvNHRuS2wwaVVScFl4aEdpUGozT1hjcTAtN0NIMzlkLXBDbFpRNllBRTd5Rk1uOU1fa2FHQnFXNFZfaWRXdEE?oc=5"
+   "title": "[기자의 눈] 비트코인 ETF 도입, 약속은 '두 번'이면 충분하다",
+   "source": "뉴스1",
+   "time": "2026-07-19T07:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMGdpbTlIVmVUR0QxOEo2bHVRUmcxUWp1NnNGZE1mN3ZkR01kYkpMd3hsdmJXMnNsb3hkUk5WUnJ6SkMyc1I1bHNqUXJPODZJZGxLU1Q0WThqcVE0YnRXY2ZNMHhZZw?oc=5"
   },
   {
-   "title": "코스피, 6%대 급락 6,800대 후퇴…하루 만에 7,000선 내줘(종합)",
-   "source": "연합뉴스",
-   "time": "2026-07-16T16:26:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdE8tRTFrbVNWcE1GNUJNdWNSRFNTTmg5Q3g0UjJpdVA1YkZFZ25rd3VjMUFhY3NyaVlvVVliWFROeGxWSlk1a18yYXFNd2ZhcWFvM244bklvT2PSAWBBVV95cUxOUFJKczVRWkRSV19MbEY2NXkxNUljcVpyTHkxS19HaHplZ21qQTRUd2VvN2FtTTU1dV9OMWVjNk1UQkFzcHg0elYyMzl1RTcwSUliZEQza0NtSi0tNzh2Nk4?oc=5"
+   "title": "코스피 '금융위기'급 저평가…\"분할 매수 유효\"[주간증시전망]",
+   "source": "뉴시스",
+   "time": "2026-07-19T09:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82aUEwMFNJMk1ZUzZBZGhWSWg3ZlFyYjNlSC1uUmt0cTRwbWpVLV9zbUdUeDJFM0kyUE0zUU9JTm9waGt2ZzB2S1dhOWtfNjJkT29MNG9UR0pfRHNrWlRvR9IBeEFVX3lxTE84dzZzYjhudGdRbUw0LWZyRGJDZnUxQzN6bmxOWFQ3al92OUE5M1RaOWJtTVBXamF0MjRicFZwQU9jNThIQ1NpSkUzbS1IVTFkbUF5STUySXA4a0w2LUZVYS1yQkkxWVNTV0FVQ1REdktvQ0k1QjdweQ?oc=5"
   },
   {
-   "title": "코스피, 급락에도 6,800선 사수…골드만 제시한 지지선 되나",
-   "source": "v.daum.net",
-   "time": "2026-07-16T16:45:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Tdjc3MUE5ZVRiOFRPaGV1MlhXS3FCX1dFem1tSUpxbktGTkhaNmFVMlh6amdPMEdfMGNQUm9oOEM0ZlN4bWc?oc=5"
+   "title": "[이번주 환율] 금리 인상에 달러·원 1480원대로…중동 불안에도 원화 강세 이어져",
+   "source": "오피니언뉴스",
+   "time": "2026-07-19T09:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84MzJQNUZxY2kxM2oyM1J2Qm5LdjhsV21GeHhkcXBNVXhsaWo1MV9FZlpEcXFJOUh3UE82RWMydDlIanJLM0tOam9FV2lzelUxeU41YkYyM01iRkNhcG5LczJ2TEstUy15cWtTRnEzc2g?oc=5"
   }
  ]
 }
