@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T23:03:41.636792+09:00",
+ "updated": "2026-07-20T00:07:41.209044+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -451,22 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64448.99,
+   "price": 64532.14,
    "prev": 64794.25,
    "spark": [
-    64545.5898,
-    64553.6484,
-    64514.0703,
-    64564.1289,
-    64547.1914,
-    64572.9492,
-    64553.8086,
-    64504.0,
-    64498.4414,
-    64483.3008,
-    64491.9883,
-    64446.0,
-    64429.4414,
     64426.6992,
     64386.0508,
     64328.0312,
@@ -492,27 +479,27 @@
     64422.0703,
     64452.4102,
     64432.6719,
-    64458.9414,
-    64448.9883
+    64479.7188,
+    64452.0117,
+    64492.0,
+    64451.5195,
+    64396.5117,
+    64412.7188,
+    64459.0898,
+    64457.3516,
+    64478.7109,
+    64570.0,
+    64550.9219,
+    64547.1992,
+    64528.8086,
+    64528.0898,
+    64532.1406
    ]
   },
   "eth": {
-   "price": 1870.81,
+   "price": 1873.44,
    "prev": 1861.4141,
    "spark": [
-    1872.46,
-    1870.95,
-    1873.08,
-    1874.38,
-    1873.9301,
-    1875.2,
-    1876.2,
-    1874.88,
-    1875.11,
-    1874.1,
-    1874.27,
-    1871.77,
-    1870.75,
     1870.05,
     1867.89,
     1864.12,
@@ -538,8 +525,21 @@
     1870.38,
     1870.53,
     1870.42,
-    1870.67,
-    1870.8101
+    1872.27,
+    1870.87,
+    1871.89,
+    1870.08,
+    1868.77,
+    1870.02,
+    1873.08,
+    1872.1,
+    1872.3199,
+    1874.9301,
+    1874.11,
+    1873.3101,
+    1872.84,
+    1873.4399,
+    1873.4399
    ]
   },
   "eurkrw": {
@@ -635,7 +635,7 @@
    ]
   },
   "cnykrw": {
-   "price": 219.395,
+   "price": 219.588,
    "prev": 218.285,
    "spark": [
     219.844,
@@ -798,16 +798,16 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWVdkSW82TmlUMUg5WWNoRDBuZ3IxRkJDMzFrNHBWOWRKZFRBcnJUMzlORDk2ODFiamplUVI4NmZoTk9RQ0RpOXZPalE1UC1nRmd3QTA4WHNJVmtYcmtfaTRmUEJmU3BmTnVmRA?oc=5"
   },
   {
+   "title": "삼전닉스-코스피가 세계 AI주 흐름 좌우한다…“모두 韓 투자자”",
+   "source": "v.daum.net",
+   "time": "2026-07-19T20:11:50+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05cFc3dnlrYS0yaFNUamJaSzdoR3FPYkRyQTkwM0VzTGZZbVVRMloxTzh4WXBNYUxITlFVZUF4anJUaU9uMEw0b1hpM01rQmM?oc=5"
+  },
+  {
    "title": "“코스피 급락했다고? 오늘 美증시 쉽지 않겠네”…전세계 투자자, 한국부터 본다",
    "source": "매일경제 마켓",
    "time": "2026-07-19T14:06:01+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fREtrMmJMbHJ4SnNnRWlxdE9KalBMaDNGZjNtTElTcTlCLW1xNy01ZFUyaEtmTTdhX2N5dzdkTVdMSEp3eFRnNUhVMlVlSXA2elE?oc=5"
-  },
-  {
-   "title": "나스닥 439% 찍은 미장 전문가…“지금은 中 사라” 점찍은 종목",
-   "source": "중앙일보",
-   "time": "2026-07-19T14:53:35+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZ1BhV3NwN00wQXBrbkZxLVpPVEFWX1ZydURjMGl4UG14UEtJXzJDSWtVX2xreThKOUh6X3FqMGtFeXlvYnBxVlhTSnVuLXBTcVFlWWhn?oc=5"
   },
   {
    "title": "코스피, 6%대 급락 6,800대 후퇴…하루 만에 7,000선 내줘(종합)",
@@ -816,16 +816,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdE8tRTFrbVNWcE1GNUJNdWNSRFNTTmg5Q3g0UjJpdVA1YkZFZ25rd3VjMUFhY3NyaVlvVVliWFROeGxWSlk1a18yYXFNd2ZhcWFvM244bklvT2PSAWBBVV95cUxOUFJKczVRWkRSV19MbEY2NXkxNUljcVpyTHkxS19HaHplZ21qQTRUd2VvN2FtTTU1dV9OMWVjNk1UQkFzcHg0elYyMzl1RTcwSUliZEQza0NtSi0tNzh2Nk4?oc=5"
   },
   {
+   "title": "나스닥 439% 찍은 미장 전문가…“지금은 中 사라” 점찍은 종목",
+   "source": "중앙일보",
+   "time": "2026-07-19T14:53:35+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZ1BhV3NwN00wQXBrbkZxLVpPVEFWX1ZydURjMGl4UG14UEtJXzJDSWtVX2xreThKOUh6X3FqMGtFeXlvYnBxVlhTSnVuLXBTcVFlWWhn?oc=5"
+  },
+  {
    "title": "치솟던 환율, 왜 갑자기 꺾였나...원화의 ‘깜짝 반전’",
    "source": "에너지경제신문",
    "time": "2026-07-19T18:10:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTUlkekUxWnJzaFdXN2g4V3B1Um1hQXNYUExDdDh5d0JFX3Z1OFFfYmNaOFRXdERFc1dfbjNEU3d6cTMtcGdtRE1sTERIYUxXWXZNaUQzUER2UlE?oc=5"
-  },
-  {
-   "title": "“코스피 흔들리면 나스닥도 흔들”…전세계 투자자, 한국부터 본다",
-   "source": "v.daum.net",
-   "time": "2026-07-19T14:28:51+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2R0ZocGo3M2Fic0FRb3lxaGVoVGxfa29aMWJ6UTgyRExNQ0xkWjlyQTNOY1NydkxNbUd3MDVDVVhYbEpReGRZZ0JuaTV3WGc?oc=5"
   },
   {
    "title": "비트코인, $72,000 목표…거버넌스·채굴 집중 우려 고조",
@@ -846,10 +846,10 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RdUxCR1pfRnpzY1Q2ejgyMFhZdkZhZFRlVGVwaFk0OVRFb3NBQUJXQmJKYk1GdmhTX1BESU9aamsyRnF1amJsdHg2NFk?oc=5"
   },
   {
-   "title": "1500원 아래로 하락한 원달러 환율",
-   "source": "매일경제 마켓",
-   "time": "2026-07-19T16:07:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JR0pUR0ZvU2pMelNrb1FlN2szdmdILVI1YktWNmJCYV9hQlVsX0dHLU5EeXc0cWJtZlpKRVVEN043dDFKUTU1MTJiRkUxdGd0Umc?oc=5"
+   "title": "“코스피 흔들리면 나스닥도 흔들”…전세계 투자자, 한국부터 본다",
+   "source": "중앙일보",
+   "time": "2026-07-19T14:26:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaZnowRlp4OThxUnJ3S1pWZ0lPWXVFUHBJX2gyUWJGYTBwb09GT1gzSzRiVEZRNXA0ZEJ5U0RraXAtTkxnNkpJRG5CWlNhSjVxRWJrMTln?oc=5"
   },
   {
    "title": "[기자의 눈] 환율 잡으려다 코스피를 흔들었다",
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIQUN6OWJOeFZBWkdLczNLVGZqWnAzZWwwZnN4eWJ4Vmh4NVRSYWk5R2hDdW9xR0tjaDg3SnlFcnRKWjlMNnRQOTNfRVZIU29FaGtpRTN0eGtUVDA?oc=5"
   },
   {
-   "title": "[주간 증시전망] SK하이닉스 실적 발표, 코스피 방향성 결정",
-   "source": "v.daum.net",
-   "time": "2026-07-19T18:35:40+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwdGxMUjFlU19MWW5mdDBGTnBhaTU2WlhydF8yTGVXY3ZrVFZ3MDdIZVo0RmVZaFFNRHpqcWdaZGdTMGI5UEZxOWppenpKLXM?oc=5"
+   "title": "1500원 아래로 하락한 원달러 환율",
+   "source": "매일경제 마켓",
+   "time": "2026-07-19T16:07:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JR0pUR0ZvU2pMelNrb1FlN2szdmdILVI1YktWNmJCYV9hQlVsX0dHLU5EeXc0cWJtZlpKRVVEN043dDFKUTU1MTJiRkUxdGd0Umc?oc=5"
   }
  ]
 }
