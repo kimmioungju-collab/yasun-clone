@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T09:11:58.537534+09:00",
+ "updated": "2026-07-19T12:53:52.686969+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -738,23 +738,95 @@
    ]
   },
   "btc": {
-   "price": 64808.19,
+   "price": 64648.58,
    "prev": 64794.25,
    "spark": [
-    64791.0703,
-    64806.2812,
-    64806.2812,
-    64808.1914
+    64734.6992,
+    64740.0,
+    64748.8086,
+    64732.9414,
+    64736.5508,
+    64737.0117,
+    64735.9805,
+    64730.8711,
+    64732.4297,
+    64730.0,
+    64738.1484,
+    64727.5195,
+    64727.7383,
+    64724.0,
+    64742.6797,
+    64725.0,
+    64772.0,
+    64805.1016,
+    64848.9609,
+    64775.9805,
+    64785.5898,
+    64779.5117,
+    64841.6016,
+    64845.2812,
+    64798.8086,
+    64808.0391,
+    64800.0195,
+    64784.0898,
+    64744.0,
+    64691.6289,
+    64690.1602,
+    64635.9297,
+    64606.2695,
+    64624.1211,
+    64613.4414,
+    64616.0703,
+    64624.1992,
+    64646.3906,
+    64646.7812,
+    64648.5781
    ]
   },
   "eth": {
-   "price": 1861.71,
+   "price": 1865.18,
    "prev": 1861.4141,
    "spark": [
-    1861.11,
-    1861.76,
-    1861.71,
-    1861.71
+    1858.47,
+    1860.03,
+    1861.02,
+    1860.12,
+    1859.38,
+    1859.05,
+    1859.33,
+    1859.27,
+    1858.6801,
+    1858.86,
+    1858.92,
+    1858.2,
+    1857.92,
+    1857.71,
+    1858.79,
+    1857.87,
+    1861.23,
+    1865.59,
+    1869.1,
+    1866.24,
+    1866.4,
+    1866.73,
+    1871.88,
+    1873.33,
+    1871.8,
+    1870.6801,
+    1872.0699,
+    1870.25,
+    1869.22,
+    1867.64,
+    1866.73,
+    1864.58,
+    1862.9,
+    1864.11,
+    1864.65,
+    1864.1801,
+    1864.2,
+    1865.1801,
+    1865.24,
+    1865.1801
    ]
   },
   "eurkrw": {
@@ -1036,6 +1108,24 @@
  },
  "news": [
   {
+   "title": "코스피 '폭락'에 개미들이 웃는 이유",
+   "source": "한경매거진&북",
+   "time": "2026-07-19T07:11:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWVdkSW82TmlUMUg5WWNoRDBuZ3IxRkJDMzFrNHBWOWRKZFRBcnJUMzlORDk2ODFiamplUVI4NmZoTk9RQ0RpOXZPalE1UC1nRmd3QTA4WHNJVmtYcmtfaTRmUEJmU3BmTnVmRA?oc=5"
+  },
+  {
+   "title": "증시 호황에 대형 증권사 2분기 영업익 5조 원 돌파 전망",
+   "source": "KBS 뉴스",
+   "time": "2026-07-19T11:09:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RV1NMbmp0Q3VhTnNWX2ZnRUNsem5iT0FWZ25aZ2VnUVNnbTN2ajZZRDhCUkR1Y3l2dFpvRGttUjhxLXN6WGRsdWxNZ3A5cGdzVlp5NmpfODZKZk0?oc=5"
+  },
+  {
+   "title": "[기자의 눈] 환율 잡으려다 코스피를 흔들었다",
+   "source": "에너지경제신문",
+   "time": "2026-07-19T09:05:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIQUN6OWJOeFZBWkdLczNLVGZqWnAzZWwwZnN4eWJ4Vmh4NVRSYWk5R2hDdW9xR0tjaDg3SnlFcnRKWjlMNnRQOTNfRVZIU29FaGtpRTN0eGtUVDA?oc=5"
+  },
+  {
    "title": "[뉴욕증시-주간전망] AI 투자 시험대 오른 시장…알파벳·중동 갈등 주목",
    "source": "연합인포맥스",
    "time": "2026-07-19T07:00:11+09:00",
@@ -1048,16 +1138,22 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13Rk1IMmgzMnlDOGdzZlNrR2hFbnZqQTd5ZWl0TkNXZG0waDZKUHlUZEFGVWIxOHA4S1NTcmJwQ3UwWXRzdlhST003bDBJWkVLZEVBdEVyMWt4Q0JtX042Mkx1cE9HcXVFNnJHcVJUelg?oc=5"
   },
   {
+   "title": "[뉴스ON] 역대급 변동성 '롤러코스피' ··경찰 수사 잇단 논란에 보완 수사권 폐지, 앞날은?",
+   "source": "대구MBC",
+   "time": "2026-07-19T10:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RdUxCR1pfRnpzY1Q2ejgyMFhZdkZhZFRlVGVwaFk0OVRFb3NBQUJXQmJKYk1GdmhTX1BESU9aamsyRnF1amJsdHg2NFk?oc=5"
+  },
+  {
    "title": "코스피, 6%대 급락 6,800대 후퇴…하루 만에 7,000선 내줘(종합)",
    "source": "연합뉴스",
    "time": "2026-07-16T16:26:10+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdE8tRTFrbVNWcE1GNUJNdWNSRFNTTmg5Q3g0UjJpdVA1YkZFZ25rd3VjMUFhY3NyaVlvVVliWFROeGxWSlk1a18yYXFNd2ZhcWFvM244bklvT2PSAWBBVV95cUxOUFJKczVRWkRSV19MbEY2NXkxNUljcVpyTHkxS19HaHplZ21qQTRUd2VvN2FtTTU1dV9OMWVjNk1UQkFzcHg0elYyMzl1RTcwSUliZEQza0NtSi0tNzh2Nk4?oc=5"
   },
   {
-   "title": "[기자의 눈] 환율 잡으려다 코스피를 흔들었다",
-   "source": "에너지경제신문",
-   "time": "2026-07-19T09:05:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZbEZGS2IxdkxSbGlMOVQ0VW0tYURld19sVHFtZXh0ZTNwakZYLVVZLUN4cFoxMWxVa1VpTnFXcDFxV3NNWWNNdzB4VnpPYUxETjhtM0c1aXlqNldRbTR3T2Nn?oc=5"
+   "title": "중동 리스크에 CPI 호재 퇴색…비트코인, 클래리티법 촉각 [가상자산 나침반]",
+   "source": "v.daum.net",
+   "time": "2026-07-19T11:11:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hWV8xVEFVdkFfQW5LOEJFVkcxcXlIZE56S1pFUUNqd1RhNVFqY190ZlFhZEhIRng0NUI3dVdvcGNzR1hZbDZpZTFCdkZMLWM?oc=5"
   },
   {
    "title": "국내 비트코인 현물 ETF 도입…자본시장법 개정 추진",
@@ -1066,28 +1162,10 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oSktyTlRncHlDMnN1RzRJRlJRSEoxLVkwUjhCY3ZmaUlQN1ZEa0hoUTNvYzZadVJVSzZ0WndZR2Nkb0xhSmpNRV9tRG9qOHA2eGJZU3VlQUx1QjMxRExwQm5Hck0?oc=5"
   },
   {
-   "title": "[마켓인사이트] 제헌절 연휴 美반도체 하락지속…韓증시 짓누르나",
-   "source": "매일경제 마켓",
-   "time": "2026-07-19T06:00:18+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wVTl3ZEdBZjd6cGZwTEFFdWhJY1hCUEVXT2Z4MkJTbGxtSHBOb2R6dlRsbXJHdmVwTk9zSXkzbEpKcnlHa0I2Vk56elZMYlZKSnc?oc=5"
-  },
-  {
    "title": "SK하이닉스, 미국 나스닥 ADR 거래 개시… 마이크론과 양강 구도 형성",
    "source": "글로벌이코노믹",
    "time": "2026-07-19T07:07:04+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlNhbkVUQjJBSGJjYklMNTl1eDNQVTdlQk03aTVSc2h2UFp6UHpNRHFnY3pnRll0NF9Ba25ZYzFzTXpQQk0yTHdNMEdJa0pweVdyc1hBLU9ocm91QU5DUjJ6dlFvR3ZvdFBwVkhxUWtoV0hicFktXzFveF9Bby1ZV1VnR0ZsS1Bq?oc=5"
-  },
-  {
-   "title": "코스피 '폭락'에 개미들이 웃는 이유",
-   "source": "v.daum.net",
-   "time": "2026-07-19T07:13:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jSnh3NG1LTkdDWld2Y0RzZk80SkdoS19TQThPUnlYTGF5TTN2U3lpMFM1dUtNLTNKUFVGZ2VKYng3TGJ3ZWJfb2ZIcGg1S28?oc=5"
-  },
-  {
-   "title": "“노후자금 다 날렸다…코스피가 도박판” [잇슈 머니]",
-   "source": "KBS 뉴스",
-   "time": "2026-07-17T08:10:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQVVUVVF0ZXgyTnMyTlg0c21iX0QxSnc5UUJZNXhLVHlXcXN1Yy16SWh1TDZpN3NGanBFSkVGaVVUdUZSR1FnTmgyQTRpRUxGbEkzOTBIbGhCc3c?oc=5"
   },
   {
    "title": "[속보]코스피, 6% 급등에 매수사이드카 발동",
@@ -1096,28 +1174,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83aUtMX3JYYWN2V21UOWdsYnUyaWhrd3lJQ3VBT0ZaUjZpS3ZCUzBYMll6WlUzWldLYkhyX3c3elh3Z3BDMlpPV2g4Y01xUkJmS01PQ1ZubkdkQdIBX0FVX3lxTE9ZQ2lzMUJmamd5X19UZ2hMVlctcXA0bDNVdFJySTAwR0tTdlU4bnFIYmxTaWZBSEU3SXZTRjNBaEVnUnBmX1ZTUU1GNVpnU3VfdEE4X2UtWGVlQjV0SzZR?oc=5"
   },
   {
-   "title": "알파벳이 코스피 운명 가른다…AI 투자 계획에 쏠린 눈 [주간전망]",
-   "source": "한국경제",
-   "time": "2026-07-19T08:00:06+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wZUlhcVlESHBUNzZOU0xWVW1BSUYyVWdzWnZweHJrX1RCQ2JkYVF0MVlvNm0wS2lxSzRfZlBMUnZLYzNfaFE3VGcyU0NoeE9XejE0N2VURjA2dw?oc=5"
+   "title": "[마켓인사이트] 제헌절 연휴 美반도체 하락지속…韓증시 짓누르나",
+   "source": "매일경제 마켓",
+   "time": "2026-07-19T06:00:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wVTl3ZEdBZjd6cGZwTEFFdWhJY1hCUEVXT2Z4MkJTbGxtSHBOb2R6dlRsbXJHdmVwTk9zSXkzbEpKcnlHa0I2Vk56elZMYlZKSnc?oc=5"
   },
   {
-   "title": "[기자의 눈] 비트코인 ETF 도입, 약속은 '두 번'이면 충분하다",
-   "source": "뉴스1",
-   "time": "2026-07-19T07:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMGdpbTlIVmVUR0QxOEo2bHVRUmcxUWp1NnNGZE1mN3ZkR01kYkpMd3hsdmJXMnNsb3hkUk5WUnJ6SkMyc1I1bHNqUXJPODZJZGxLU1Q0WThqcVE0YnRXY2ZNMHhZZw?oc=5"
+   "title": "올해 1인당 GDP 3만9164달러 전망…환율 따라 4만달러도 가능",
+   "source": "중앙일보",
+   "time": "2026-07-19T09:20:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QNG9NXzZTTUNCblJyNFZ4SzBnZ2hTZ3lwWUxJVE4wVHl1MzQ1Y2pCNDdkNlNwYTctdW5DSFd3Q2tRbHBabm1DYXVWNmFuNjNIR3BaZTVR?oc=5"
   },
   {
-   "title": "코스피 '금융위기'급 저평가…\"분할 매수 유효\"[주간증시전망]",
-   "source": "뉴시스",
-   "time": "2026-07-19T09:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82aUEwMFNJMk1ZUzZBZGhWSWg3ZlFyYjNlSC1uUmt0cTRwbWpVLV9zbUdUeDJFM0kyUE0zUU9JTm9waGt2ZzB2S1dhOWtfNjJkT29MNG9UR0pfRHNrWlRvR9IBeEFVX3lxTE84dzZzYjhudGdRbUw0LWZyRGJDZnUxQzN6bmxOWFQ3al92OUE5M1RaOWJtTVBXamF0MjRicFZwQU9jNThIQ1NpSkUzbS1IVTFkbUF5STUySXA4a0w2LUZVYS1yQkkxWVNTV0FVQ1REdktvQ0k1QjdweQ?oc=5"
-  },
-  {
-   "title": "[이번주 환율] 금리 인상에 달러·원 1480원대로…중동 불안에도 원화 강세 이어져",
-   "source": "오피니언뉴스",
-   "time": "2026-07-19T09:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84MzJQNUZxY2kxM2oyM1J2Qm5LdjhsV21GeHhkcXBNVXhsaWo1MV9FZlpEcXFJOUh3UE82RWMydDlIanJLM0tOam9FV2lzelUxeU41YkYyM01iRkNhcG5LczJ2TEstUy15cWtTRnEzc2g?oc=5"
+   "title": "역대급 ‘코스피 9000’…5대 증권사 2분기 영업이익 ‘5조원’ 넘긴다",
+   "source": "에너지경제신문",
+   "time": "2026-07-19T10:39:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RFh1a3NYX1lNVy1nQXdmYWRCU1VFekNiV1NzSS1nYnBFT2ZjRzRZTTdmWTIybmQ5TDFuYXk0NHpyTkotVDMyNmtUb19QUVRNYWxmeks3aU01TWc?oc=5"
   }
  ]
 }
