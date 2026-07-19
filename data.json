@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T20:30:52.323191+09:00",
+ "updated": "2026-07-19T21:29:26.442729+09:00",
  "quotes": {
   "k200": {
    "price": 1080.36,
@@ -451,21 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64508.0,
+   "price": 64260.59,
    "prev": 64794.25,
    "spark": [
-    64618.0117,
-    64592.4219,
-    64617.5703,
-    64613.4492,
-    64613.4492,
-    64609.7617,
-    64660.7617,
-    64653.9102,
-    64668.4492,
-    64670.5391,
-    64631.8398,
-    64608.0781,
     64536.8008,
     64522.1094,
     64539.6719,
@@ -493,25 +481,25 @@
     64572.9492,
     64553.8086,
     64504.0,
-    64508.0
+    64498.4414,
+    64483.3008,
+    64491.9883,
+    64446.0,
+    64429.4414,
+    64426.6992,
+    64386.0508,
+    64328.0312,
+    64302.1719,
+    64289.4102,
+    64388.6914,
+    64257.9883,
+    64260.5898
    ]
   },
   "eth": {
-   "price": 1874.1,
+   "price": 1867.16,
    "prev": 1861.4141,
    "spark": [
-    1867.3,
-    1867.4399,
-    1867.76,
-    1867.8,
-    1868.05,
-    1869.48,
-    1871.4399,
-    1871.3,
-    1872.5,
-    1872.36,
-    1871.77,
-    1869.92,
     1865.88,
     1866.96,
     1867.54,
@@ -539,7 +527,19 @@
     1875.2,
     1876.2,
     1874.88,
-    1874.1
+    1875.11,
+    1874.1,
+    1874.27,
+    1871.77,
+    1870.75,
+    1870.05,
+    1867.89,
+    1864.12,
+    1863.64,
+    1866.92,
+    1872.13,
+    1867.1801,
+    1867.16
    ]
   },
   "eurkrw": {
@@ -780,6 +780,18 @@
  },
  "news": [
   {
+   "title": "6800선까지 밀린 코스피…향후 지수 향방은",
+   "source": "대한경제",
+   "time": "2026-07-19T15:12:47+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sZEVQY2JJaUlOVHM5dm00dkJwTEpxZWFiOXlmaHFLRnlxS2JqVl9MTlVFb29KRlB5Y3ZnYmlSb1FuZXc1Q1pzUER2THF5Z1p2dDF2RVI1WE9hajZnVnNIR2MteVpnd2poTmZRc2lBWkUyckdV?oc=5"
+  },
+  {
+   "title": "6천선 후퇴한 코스피...반등 관건은 '알파벳·중동'",
+   "source": "YTN",
+   "time": "2026-07-19T16:24:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lOEEzTGRNSU9oTHp3ZHNfRVk3TkNIZGc4R3EwdnJ3TE8wYmw3WkI2UFNDQlZRQldOb1U0Nld2Y3BDV2k5ak9FTENJaEhZX0FZR3Z0dGxlSnZwZ3JOQUE?oc=5"
+  },
+  {
    "title": "코스피 '폭락'에 개미들이 웃는 이유",
    "source": "한경매거진&북",
    "time": "2026-07-19T07:11:00+09:00",
@@ -798,22 +810,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZ1BhV3NwN00wQXBrbkZxLVpPVEFWX1ZydURjMGl4UG14UEtJXzJDSWtVX2xreThKOUh6X3FqMGtFeXlvYnBxVlhTSnVuLXBTcVFlWWhn?oc=5"
   },
   {
-   "title": "세계 증시 흔드는 삼전닉스…월가 아침 ‘의식’은 코스피 체크",
-   "source": "v.daum.net",
-   "time": "2026-07-19T17:01:36+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYaXFJa1pnaDBBUjVOdk94ZXRlX0EteWdkTEsxYzc4ZEY3TGx2N2NkR3lMejVvMXVkUlpKTnhyTENWZHpUYjJ0N1pFZHpTLTQ?oc=5"
-  },
-  {
-   "title": "6천선 후퇴한 코스피...반등 관건은 '알파벳·중동'",
-   "source": "YTN",
-   "time": "2026-07-19T16:24:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lOEEzTGRNSU9oTHp3ZHNfRVk3TkNIZGc4R3EwdnJ3TE8wYmw3WkI2UFNDQlZRQldOb1U0Nld2Y3BDV2k5ak9FTENJaEhZX0FZR3Z0dGxlSnZwZ3JOQUE?oc=5"
-  },
-  {
    "title": "치솟던 환율, 왜 갑자기 꺾였나...원화의 ‘깜짝 반전’",
    "source": "에너지경제신문",
    "time": "2026-07-19T18:10:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTUlkekUxWnJzaFdXN2g4V3B1Um1hQXNYUExDdDh5d0JFX3Z1OFFfYmNaOFRXdERFc1dfbjNEU3d6cTMtcGdtRE1sTERIYUxXWXZNaUQzUER2UlE?oc=5"
+  },
+  {
+   "title": "“코스피 흔들리면 나스닥도 흔들”…전세계 투자자, 한국부터 본다",
+   "source": "v.daum.net",
+   "time": "2026-07-19T14:28:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2R0ZocGo3M2Fic0FRb3lxaGVoVGxfa29aMWJ6UTgyRExNQ0xkWjlyQTNOY1NydkxNbUd3MDVDVVhYbEpReGRZZ0JuaTV3WGc?oc=5"
   },
   {
    "title": "코스피, 6%대 급락 6,800대 후퇴…하루 만에 7,000선 내줘(종합)",
@@ -840,28 +846,22 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RdUxCR1pfRnpzY1Q2ejgyMFhZdkZhZFRlVGVwaFk0OVRFb3NBQUJXQmJKYk1GdmhTX1BESU9aamsyRnF1amJsdHg2NFk?oc=5"
   },
   {
-   "title": "6800선까지 밀린 코스피…향후 지수 향방은",
-   "source": "대한경제",
-   "time": "2026-07-19T15:12:47+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sZEVQY2JJaUlOVHM5dm00dkJwTEpxZWFiOXlmaHFLRnlxS2JqVl9MTlVFb29KRlB5Y3ZnYmlSb1FuZXc1Q1pzUER2THF5Z1p2dDF2RVI1WE9hajZnVnNIR2MteVpnd2poTmZRc2lBWkUyckdV?oc=5"
-  },
-  {
    "title": "[뉴욕증시-주간전망] AI 투자 시험대 오른 시장…알파벳·중동 갈등 주목",
    "source": "연합인포맥스",
    "time": "2026-07-19T07:00:11+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iZEt1aUNtQXpPaWVrSXlxb0ZEVUUtcUVrSmNCMy10bDhvaW9DbTlGMS1qZzhnRzZ1VzhaamdwaDRmSHU4YzA5SGFWZGRlTWhrOWNmS3UxM2xFM3NhejhiTVFRZXA2LUZPZ19lWFdmeEc?oc=5"
   },
   {
-   "title": "[이번주 증시] 급락 뒤 반등 노리는 코스피…SK하이닉스 실적 ‘주목’",
-   "source": "뉴시안",
-   "time": "2026-07-19T17:42:32+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sRVc2RF9tTExtLThZSUpBbC1STHZ0MlBNNU1BSEFsSzdJc3E0NVpQVzJNQkFHdWttSzh5R3liWE1ON0ZhaVhQcENQRmtnbjhZZU9nYlY2NWhJMXpCeDFPQUFYZDVLWDA0RFHSAW5BVV95cUxOcWQ1WXRyOEt1ZTg1UFh3T3A4Q3ZLX0tVN0lMRDNPSHZKVENHY1JWNHlwSFhYM1JJUEJRbEpwY1oxRFNUY25FMmZxYXI5TloyT3F4RGg4MnEyNWZ0c3FGQUYtN01WVWVMc3dzSUM0QQ?oc=5"
+   "title": "[기자의 눈] 환율 잡으려다 코스피를 흔들었다",
+   "source": "에너지경제신문",
+   "time": "2026-07-19T09:05:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIQUN6OWJOeFZBWkdLczNLVGZqWnAzZWwwZnN4eWJ4Vmh4NVRSYWk5R2hDdW9xR0tjaDg3SnlFcnRKWjlMNnRQOTNfRVZIU29FaGtpRTN0eGtUVDA?oc=5"
   },
   {
-   "title": "“코스피 흔들리면 나스닥도 흔들”…전세계 투자자, 한국부터 본다",
-   "source": "중앙일보",
-   "time": "2026-07-19T14:26:46+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaZnowRlp4OThxUnJ3S1pWZ0lPWXVFUHBJX2gyUWJGYTBwb09GT1gzSzRiVEZRNXA0ZEJ5U0RraXAtTkxnNkpJRG5CWlNhSjVxRWJrMTln?oc=5"
+   "title": "1500원 아래로 하락한 원달러 환율",
+   "source": "매일경제 마켓",
+   "time": "2026-07-19T16:07:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JR0pUR0ZvU2pMelNrb1FlN2szdmdILVI1YktWNmJCYV9hQlVsX0dHLU5EeXc0cWJtZlpKRVVEN043dDFKUTU1MTJiRkUxdGd0Umc?oc=5"
   }
  ]
 }
