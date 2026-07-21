@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T06:35:09.398309+09:00",
+ "updated": "2026-07-22T07:31:28.423575+09:00",
  "quotes": {
   "k200": {
    "price": 1073.39,
@@ -186,14 +186,9 @@
    ]
   },
   "nq": {
-   "price": 29289.75,
-   "prev": 28778.75,
+   "price": 29299.75,
+   "prev": 29316.0,
    "spark": [
-    29357.0,
-    29344.0,
-    29341.25,
-    29344.0,
-    29350.75,
     29337.75,
     29339.25,
     29340.0,
@@ -228,18 +223,18 @@
     29283.0,
     29285.0,
     29289.75,
-    29289.75
+    29293.0,
+    29289.0,
+    29296.5,
+    29296.5,
+    29274.0,
+    29299.75
    ]
   },
   "es": {
-   "price": 7542.75,
-   "prev": 7484.25,
+   "price": 7545.0,
+   "prev": 7545.75,
    "spark": [
-    7551.25,
-    7549.75,
-    7549.25,
-    7546.0,
-    7547.5,
     7544.75,
     7545.0,
     7546.0,
@@ -274,7 +269,12 @@
     7541.25,
     7541.0,
     7542.75,
-    7542.75
+    7543.0,
+    7542.75,
+    7544.5,
+    7544.75,
+    7541.25,
+    7545.0
    ]
   },
   "ndx": {
@@ -416,14 +416,9 @@
    ]
   },
   "wti": {
-   "price": 84.54,
-   "prev": 82.48,
+   "price": 84.61,
+   "prev": 84.34,
    "spark": [
-    84.34,
-    84.41,
-    84.36,
-    84.21,
-    84.04,
     84.19,
     84.29,
     84.25,
@@ -458,15 +453,18 @@
     84.44,
     84.51,
     84.54,
-    84.54
+    84.61,
+    84.65,
+    84.65,
+    84.61,
+    84.64,
+    84.61
    ]
   },
   "brent": {
-   "price": 91.44,
-   "prev": 89.22,
+   "price": 91.56,
+   "prev": 91.01,
    "spark": [
-    91.09,
-    91.15,
     91.13,
     90.91,
     90.78,
@@ -504,18 +502,15 @@
     91.31,
     91.41,
     91.44,
-    91.44
+    91.52,
+    91.54,
+    91.56
    ]
   },
   "gold": {
-   "price": 4082.2,
-   "prev": 4015.9,
+   "price": 4086.0,
+   "prev": 4076.4,
    "spark": [
-    4071.3,
-    4072.1001,
-    4073.0,
-    4072.2,
-    4076.1001,
     4075.8,
     4077.5,
     4085.8999,
@@ -550,18 +545,18 @@
     4082.6001,
     4082.2,
     4082.2,
-    4082.2
+    4082.6001,
+    4081.8999,
+    4083.2,
+    4084.3,
+    4084.8,
+    4086.0
    ]
   },
   "silver": {
-   "price": 59.07,
-   "prev": 57.072,
+   "price": 59.13,
+   "prev": 59.108,
    "spark": [
-    59.04,
-    59.045,
-    59.045,
-    59.06,
-    59.115,
     59.085,
     59.14,
     59.22,
@@ -596,17 +591,18 @@
     59.1,
     59.08,
     59.07,
-    59.07
+    59.105,
+    59.115,
+    59.115,
+    59.135,
+    59.15,
+    59.13
    ]
   },
   "gas": {
-   "price": 2.892,
-   "prev": 2.86,
+   "price": 2.882,
+   "prev": 2.865,
    "spark": [
-    2.85,
-    2.848,
-    2.855,
-    2.862,
     2.866,
     2.859,
     2.865,
@@ -642,7 +638,11 @@
     2.885,
     2.888,
     2.892,
-    2.892
+    2.888,
+    2.888,
+    2.885,
+    2.882,
+    2.882
    ]
   },
   "vix": {
@@ -692,21 +692,9 @@
    ]
   },
   "usdkrw": {
-   "price": 1480.19,
+   "price": 1480.54,
    "prev": 1475.41,
    "spark": [
-    1479.76,
-    1480.46,
-    1479.66,
-    1480.78,
-    1481.49,
-    1480.58,
-    1480.6801,
-    1480.36,
-    1480.37,
-    1480.8,
-    1480.62,
-    1480.6,
     1480.87,
     1480.97,
     1480.91,
@@ -734,25 +722,25 @@
     1480.1,
     1480.09,
     1480.1,
-    1480.1899
+    1479.67,
+    1479.65,
+    1479.79,
+    1479.87,
+    1480.28,
+    1480.0699,
+    1480.08,
+    1480.01,
+    1480.09,
+    1480.17,
+    1480.5699,
+    1480.38,
+    1480.54
    ]
   },
   "btc": {
-   "price": 66274.0,
+   "price": 66250.08,
    "prev": 65214.098,
    "spark": [
-    66210.6797,
-    66199.3672,
-    66175.6172,
-    66225.4062,
-    66241.0078,
-    66294.4297,
-    66258.3984,
-    66282.0078,
-    66326.9375,
-    66337.6875,
-    66270.1328,
-    66333.0,
     66344.7109,
     66366.6172,
     66390.2031,
@@ -780,25 +768,25 @@
     66323.6016,
     66286.1406,
     66274.0,
-    66274.0
+    66299.8281,
+    66314.1328,
+    66311.5469,
+    66337.9219,
+    66346.9062,
+    66320.0,
+    66296.9766,
+    66274.4609,
+    66190.5234,
+    66197.0703,
+    66240.3594,
+    66223.7109,
+    66250.0781
    ]
   },
   "eth": {
-   "price": 1924.32,
+   "price": 1920.3,
    "prev": 1903.3511,
    "spark": [
-    1918.45,
-    1919.0601,
-    1918.3101,
-    1919.99,
-    1920.5,
-    1919.6899,
-    1918.48,
-    1918.95,
-    1921.2,
-    1922.05,
-    1918.6899,
-    1920.91,
     1922.1899,
     1923.22,
     1922.91,
@@ -826,24 +814,25 @@
     1924.09,
     1923.04,
     1924.3199,
-    1924.3199
+    1925.16,
+    1925.15,
+    1923.36,
+    1923.54,
+    1923.17,
+    1921.33,
+    1922.8199,
+    1921.5699,
+    1919.8,
+    1919.33,
+    1920.54,
+    1919.37,
+    1920.3
    ]
   },
   "eurkrw": {
-   "price": 1686.5,
+   "price": 1687.2,
    "prev": 1682.9,
    "spark": [
-    1686.6,
-    1686.3,
-    1686.8,
-    1686.4,
-    1688.0,
-    1687.6,
-    1687.5,
-    1687.5,
-    1687.4,
-    1687.3,
-    1687.8,
     1687.3,
     1687.4,
     1688.0,
@@ -872,24 +861,24 @@
     1686.5,
     1686.5,
     1686.6,
-    1686.5
+    1686.5,
+    1686.1,
+    1686.3,
+    1686.6,
+    1686.5,
+    1687.3,
+    1686.7,
+    1686.5,
+    1686.4,
+    1686.5,
+    1686.6,
+    1687.2
    ]
   },
   "jpykrw": {
-   "price": 9.048,
+   "price": 9.051,
    "prev": 9.057,
    "spark": [
-    9.049,
-    9.048,
-    9.049,
-    9.047,
-    9.056,
-    9.05,
-    9.049,
-    9.05,
-    9.05,
-    9.049,
-    9.051,
     9.049,
     9.049,
     9.053,
@@ -918,18 +907,24 @@
     9.049,
     9.048,
     9.048,
-    9.048
+    9.048,
+    9.046,
+    9.046,
+    9.049,
+    9.048,
+    9.052,
+    9.048,
+    9.048,
+    9.047,
+    9.048,
+    9.048,
+    9.051
    ]
   },
   "cnykrw": {
-   "price": 218.658,
+   "price": 218.913,
    "prev": 217.942,
    "spark": [
-    218.715,
-    218.704,
-    218.797,
-    218.782,
-    218.842,
     218.854,
     218.743,
     218.603,
@@ -964,25 +959,18 @@
     219.121,
     219.12,
     219.117,
-    218.658
+    218.658,
+    218.594,
+    218.6,
+    218.637,
+    218.624,
+    218.913
    ]
   },
   "usdjpy": {
-   "price": 163.153,
+   "price": 163.189,
    "prev": 162.458,
    "spark": [
-    163.16,
-    163.148,
-    163.17,
-    163.171,
-    163.223,
-    163.227,
-    163.203,
-    163.183,
-    163.2,
-    163.201,
-    163.212,
-    163.196,
     163.172,
     163.168,
     163.158,
@@ -1010,25 +998,25 @@
     163.162,
     163.182,
     163.174,
-    163.153
+    163.143,
+    163.144,
+    163.136,
+    163.153,
+    163.141,
+    163.174,
+    163.164,
+    163.182,
+    163.174,
+    163.181,
+    163.182,
+    163.189,
+    163.189
    ]
   },
   "eurusd": {
    "price": 1.1404,
    "prev": 1.1414,
    "spark": [
-    1.1403,
-    1.1405,
-    1.1405,
-    1.1404,
-    1.1405,
-    1.1405,
-    1.1405,
-    1.1406,
-    1.1405,
-    1.1406,
-    1.1404,
-    1.1405,
     1.1406,
     1.1406,
     1.1406,
@@ -1055,22 +1043,26 @@
     1.1401,
     1.1404,
     1.1403,
+    1.1404,
+    1.1405,
+    1.1405,
+    1.1404,
+    1.1404,
+    1.1406,
+    1.1404,
+    1.1404,
     1.1403,
+    1.1403,
+    1.1403,
+    1.1404,
+    1.1404,
     1.1404
    ]
   },
   "dxy": {
-   "price": 101.195,
+   "price": 101.192,
    "prev": 100.949,
    "spark": [
-    101.18,
-    101.187,
-    101.195,
-    101.172,
-    101.189,
-    101.193,
-    101.188,
-    101.188,
     101.181,
     101.173,
     101.177,
@@ -1102,7 +1094,15 @@
     101.194,
     101.197,
     101.195,
-    101.195
+    101.196,
+    101.196,
+    101.188,
+    101.181,
+    101.183,
+    101.182,
+    101.186,
+    101.189,
+    101.192
    ]
   }
  },
@@ -1112,6 +1112,12 @@
    "source": "Investing.com 한국어",
    "time": "2026-07-22T02:00:56+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TOGxaeWVGRXpIWHZEQnlMdU1WdUI3X09UVWNOZEFqLXZ0ZDVCa2p4UTNUelp1NmVVU0pVLTJlMm5IU1JqemNrMUxMNy01dHNkUk4zUktUWTE2ZnJTd0pUbVd2N1dCbjZhakNtUDQxZlQ?oc=5"
+  },
+  {
+   "title": "‘포모’에서 ‘조모’로 돌아선 개미들···증시 하락에 “안 사길 다행”",
+   "source": "경향신문",
+   "time": "2026-07-22T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRU9kM1hRWjZzNnZtMVVGY3FyRTU1bTB0YU5XN1BQNG9Wa1NxTGhpVWlGZjRxNFpNR3ZSRmFUaTJYRUlGcUFwSURyeUszblotVnc5QS00VlZFUdIBX0FVX3lxTFA4Yk8wUXNDd0E4VEU1OTdwT2twd0RMUkg0LW5jSS16SUlLOVlFMENUYUUxTjNIUGRHWE5FaDNoVzZ5ZDQ3ZllITllyM08wbEItem83OGQzWUE0UEFZZ2Jn?oc=5"
   },
   {
    "title": "6000 바닥 전망까지 나와... 코스피 ‘포모’가 ‘조모’됐다",
@@ -1126,16 +1132,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56MEliYXh0aWZxRGZYa0M2QjhvNEMzMHN2MTNzMTVGSU5IMjliV3NwaTZ5bmpIQ21od3N4ZU15Y2ZOYnh0aXhBVS1YRE9uQ0ZrTWltTGJB?oc=5"
   },
   {
-   "title": "‘포모’에서 ‘조모’로 돌아선 개미들···증시 하락에 “안 사길 다행”",
-   "source": "v.daum.net",
-   "time": "2026-07-22T06:06:44+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nR0J3amNxQzdYRFRBNWVGTWxyai1tU0dkUDdDcHFPQnFDaTVaMzVNQzgwRnpoUjNxMFVETEZmX3RTSW56M1FuUzRyNTVha0E?oc=5"
-  },
-  {
    "title": "[코스피·코스닥 전 거래일(21일) 주요공시]",
    "source": "연합뉴스",
    "time": "2026-07-22T06:05:01+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHeklZTjlFR01oYmNfb21SYXd4N2JSVXJ5cEFjVU5XNG9uS0ZuQnRCNHhwQjJlR0VwTDd1NWpMenNXMUdOb1A1cUJnSkdBZU5UOEpqbENaQnBuUGPSAWBBVV95cUxNNkdhdEFwYXZjZUZBaVpldzlEcFpMRGxhQmZVQmNxUGVsYVRqb2ROeUVQMTI3TkNGT0MtNUk4NWtEUE1INjJhaFBkSXc4cURWWWxDLTluYjdaczNKTk42Rzg?oc=5"
+  },
+  {
+   "title": "달러-엔 환율, 163엔 돌파…40년 만에 최고",
+   "source": "v.daum.net",
+   "time": "2026-07-22T06:33:08+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqcVlFRmlsWDh5ZzhvbmhDdEt5dFdaa3o5RFhUS3Z4Y1JwaklvZEIxN3pCNTVDTnVtNTF6aFIyeTl1cGo4NGlUVXg0LUN5WUk?oc=5"
   },
   {
    "title": "뉴욕증시, 실적 호조·반도체주 반등에 상승‥나스닥 1.3%↑",
@@ -1144,16 +1150,28 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxbUpMTXM2aEFscTl2TG5WbnQtZ0t6Q2tyWlo3VzRYSy10LUdya2dLNl9lYkcxUzhJWWk5Q2Jfb2RGWFJEZDdBcGk0NDRkREpzSFVUSnhnTkJqQVhzZExsaUJpX2dqc2ZtaUdBeDNBeFg1Y1U50gF0QVVfeXFMTVltaTBvbVQ1LWhSVGhWZkhHZ2ROMkZNdWFVVWZiV2Y5Ym9VMTN4NXlVdkZ4YVdWc3BSYWppc0hWdzBTUm95VVZCTUgtcVVMTmt2ZGhtQVQ2bEFCOWZYQ2lzMGllZzg2QTNwdmdsM0hOQ2dqS1o?oc=5"
   },
   {
-   "title": "코스피, 3%대 상승해 6,700대 회복…환율 1,470원대",
-   "source": "KBS 뉴스",
-   "time": "2026-07-21T16:31:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NWlIxNEthRTA3c2RWMWlMMlVieFdCRUk2NUpBdUh2bi1rTUVIdFpPS3NyZlNfQWFGcmRwNVJ2OGV5ZHEzMkdLTWVKNDNkZ1FwRGVvclBnSlY0Yzg?oc=5"
+   "title": "[속보]하닉ADR 14% 급등…나스닥 1.3%↑",
+   "source": "문화일보",
+   "time": "2026-07-22T06:04:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tUnZ1YkdYdFdtU1ZGTjNGeGh1dE8wQVpVaGVRdW5tMTlVeGZOQWlpUTJPTVlGbldIc2luRGJEYTZNRElnRXZpYkJ1RWlHU2ZI?oc=5"
   },
   {
    "title": "뉴욕증시, 유가 상승에도 반도체주 반등에 강세…나스닥 1.3%↑",
    "source": "매일경제 마켓",
    "time": "2026-07-22T06:20:05+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OTDhKeWl0V05pOXdwZXJOUGJaeEFqVXhOcVhISXVqenB1N0tVMExWaXM2Skh2cy1tVWxwdjUtNTlzNXVmUlFXWGEwZnF6LXU3Q0E?oc=5"
+  },
+  {
+   "title": "[뉴욕증시] 반도체·실적 호조에 나스닥 329.13P↑",
+   "source": "글로벌이코노믹",
+   "time": "2026-07-22T05:32:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTzhxZHJrR1NpXzBGdF9YQnZyWWZTXy1TU2RzcVNEUks0MjFzN3YtWm8teWNtbzc1NDJzbG9KUVE2TEhNZFVtUEY5aG85enJPOUU5X1UxWlI3Skl2eWJGV0ViUEZiUWZfT0gtZXJUb2pfODZrOWJCLWxVbDAwRFUzVzFzVlVfYTQ?oc=5"
+  },
+  {
+   "title": "[오늘의 글로벌마켓] 뉴욕증시, 반도체주 중심 상승세 지속...나스닥 1.3%↑",
+   "source": "오피니언뉴스",
+   "time": "2026-07-22T07:08:56+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kVlFNeU8wcTVIdG5MbjhqOUNSR3ptVmplcXNCNnoxbmc4V0Jaa25yTWppN1pBQ2lLRVF2ZGRfem04V0Q4OVF5dXhDMDJYUjFPSl83SUNSREx6UVBDQk1FTTV2SjRxVXQ4aElXN0ZLN2I?oc=5"
   },
   {
    "title": "씨티 \"코스피 최근 급락은 기술적 조정…10,000선 목표 유지\"",
@@ -1168,28 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QY0tqekd2Nld2a0tOTUYtdGNjbDhuMUR3Q3drbEltOUk5Q3FsajQ2YzhNSXdRS28wZXFUYm1HRnFBVWJUY2loOFBMbDRub3pZZlNMZmcwWG0tZw?oc=5"
   },
   {
-   "title": "하이닉스 효과·한은 금리인상…환율 1470원대 초반까지 하락",
-   "source": "JTBC",
-   "time": "2026-07-21T17:06:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBT3QwSkV3TTBweUlIWG0wSjBZQzd0ZHczTTg0QlVEWTJwanRKdFhHTk1jcGp3alBnX2NHR2RXcWdWeFFTOFJBbzlnYUllQ0xjdEx6RQ?oc=5"
-  },
-  {
-   "title": "반도체가 뉴욕 증시 반등 이끌었다…나스닥 1.3%↑",
-   "source": "조선일보",
-   "time": "2026-07-22T05:22:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHBka2JmYl9sZG45YkhGSXBkOVRybms1RHdvY2RaQndTNC1lRlJuLU5jbThUWDFWUHAwWmZSMHhIa2tSQWRaM2dxZDVFZkZkMlpoZmxfSTMxMmQ1QXhtTnV0QUR5VzlMYnJoWHlERENwSTZrN01jZ29iZ1A3WHNlSkZTOGI4dkgxR1B6WW5OVDQ3bkVqeWdoNFQ2RGpkZw?oc=5"
-  },
-  {
-   "title": "[코스피·코스닥 전 거래일(21일) 주요공시]",
-   "source": "매일경제 마켓",
-   "time": "2026-07-22T06:05:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90Nzl2VXMtV2tuSFd3dlNxcUdZcUR5Y24wb0taaF91UVFqQ0dYWERPSVptTTk3dk1aZXFPWW9FbmY1eDdjMUprb0o2LS1CYUFaWFE?oc=5"
-  },
-  {
-   "title": "코스피 급등에 매수 사이드카 발동…'삼전닉스' 6~7%대 상승",
-   "source": "연합인포맥스",
-   "time": "2026-07-21T13:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90TFhUangyQzVSN0R2Ukx2ckVoY2NhT0hVVjZfcUducENUM25sd29wbmNneXpsODNLUGVoTHdSUWtJRXBadW0xckFkOGw5SWEwYTZ4RmlyNC1Fd0VXUWF3M1AzdDJlMnVwLVJVMWN5U2s?oc=5"
+   "title": "[서울데이터랩]미국 증시, 반도체 강세에 일제히 상승 마감…나스닥 1%대 오름세",
+   "source": "서울신문",
+   "time": "2026-07-22T06:35:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NVktOcUwwUG44US1KR3M2bE9wZHU0aEh0WTd5MXpJRlJXYXRWYXc1UG9sUmIxR2R3bVk4UEdXd015U21YMlUwSThZcmJLQWRfUkFIdURHREMyWmdhLWpIZnhSbnlOeHZ1S2d2VG5IOTdXSDdqajJGV0ppbVQyUQ?oc=5"
   }
  ]
 }
