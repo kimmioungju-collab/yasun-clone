@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T08:35:05.156087+09:00",
+ "updated": "2026-07-25T10:06:22.160818+09:00",
  "quotes": {
   "k200": {
    "price": 1055.58,
@@ -141,7 +141,7 @@
   },
   "kosdaq": {
    "price": 748.22,
-   "prev": 751.09,
+   "prev": 790.28,
    "spark": [
     752.46,
     749.89,
@@ -738,95 +738,45 @@
    ]
   },
   "btc": {
-   "price": 64114.99,
-   "prev": 65047.87,
+   "price": 64056.25,
+   "prev": 64091.96,
    "spark": [
-    64191.6797,
-    64178.4883,
-    64142.2305,
-    64145.0312,
-    64116.2695,
-    64088.4883,
-    64109.1406,
-    64102.6016,
-    64129.7812,
-    64113.4805,
-    64089.4609,
-    64090.0703,
-    64104.0195,
-    64093.9609,
-    64110.4492,
-    64102.6797,
-    64103.6719,
-    64117.5195,
-    64083.2305,
-    64088.0898,
-    64077.6211,
-    64089.0703,
-    64089.4219,
-    64109.0586,
-    64110.4102,
-    64106.3008,
-    64125.9102,
-    64122.1719,
-    64122.9102,
-    64120.4219,
-    64107.0781,
-    64100.5195,
-    64095.1992,
-    64101.1719,
-    64094.9414,
-    64082.4805,
-    64114.2617,
-    64112.1406,
-    64114.9883,
-    64114.9883
+    64103.6289,
+    64079.4609,
+    64079.25,
+    64077.9883,
+    64099.7305,
+    64094.7109,
+    64101.8516,
+    64093.8008,
+    64040.0,
+    64031.7383,
+    64027.3516,
+    64009.0,
+    64060.1211,
+    64058.6719,
+    64056.25
    ]
   },
   "eth": {
-   "price": 1859.88,
-   "prev": 1876.9178,
+   "price": 1860.56,
+   "prev": 1860.0153,
    "spark": [
-    1862.6801,
-    1861.55,
-    1860.49,
-    1860.7,
-    1859.92,
-    1857.91,
-    1859.8,
-    1859.23,
-    1858.95,
-    1858.5601,
-    1857.78,
-    1857.97,
-    1857.61,
-    1858.25,
-    1858.7,
-    1857.88,
-    1857.96,
-    1858.08,
-    1857.23,
-    1855.62,
-    1856.63,
-    1857.17,
-    1857.64,
-    1858.23,
-    1857.49,
-    1857.45,
+    1861.26,
+    1860.59,
+    1861.14,
+    1860.9399,
+    1862.05,
+    1862.1801,
+    1862.11,
+    1861.88,
     1858.6899,
-    1858.5,
-    1859.03,
-    1858.2,
-    1858.53,
-    1857.6801,
-    1858.4399,
-    1858.21,
-    1858.22,
-    1858.3199,
-    1859.5699,
-    1859.38,
-    1859.88,
-    1859.88
+    1858.03,
+    1857.38,
+    1858.51,
+    1860.65,
+    1860.49,
+    1860.5601
    ]
   },
   "eurkrw": {
@@ -1144,22 +1094,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHdE9UMlpDanJuS1NiMXBlbnh5bEhZLUdKTVBndlNUU0dSM0ZaRkdCV2RCVkk5WlRrclJPYUhfT2o0di16ZnZLR1NGSjRJQjlnb19HUEJEWkg?oc=5"
   },
   {
-   "title": "7천피 무너진 코스피…다음주(27~31일) 주목해야 할 증시 이벤트는?",
-   "source": "한국경제",
-   "time": "2026-07-24T16:05:31+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQb1IySW1mdGRCaW9GYW5KNGVjV2lfSFdTWmtMQUNYODJKUEpRSzRuNEdjeERKdW9lRDBwRjZ4aGJ4RFhZUllWNlZBLWhmajVfU1BmcVNJZUJEdw?oc=5"
-  },
-  {
    "title": "[뉴욕증시] 다우·S&P500 반등…반도체 약세 속 나스닥만 하락",
    "source": "v.daum.net",
    "time": "2026-07-25T05:41:08+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOTUZKTURNdGluUTVSbGR0UHBZU1c0aEtLZzBEc28tOGJGLS1keVplTVJfbF8xTFBMZWF4NUFtNUJocFVwV2tFQW0yQ1VWN1E?oc=5"
   },
   {
-   "title": "AI 투자 부담 확산…반도체주 흔들리며 나스닥 2주 연속 하락",
-   "source": "조세일보",
-   "time": "2026-07-25T06:37:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMjVCN1F6bkxYZ0tTSGdTS1czZzN1Ym9sWWRlY0FjclR3bnFQcGtScmpOLVNQOFZ5RzMwRjBwNzdnOGVnYUJ5RThwRTN2ejhKVHZkVDZFMFFpUmVuVVdj?oc=5"
+   "title": "7천피 무너진 코스피…다음주(27~31일) 주목해야 할 증시 이벤트는?",
+   "source": "한국경제",
+   "time": "2026-07-24T16:05:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQb1IySW1mdGRCaW9GYW5KNGVjV2lfSFdTWmtMQUNYODJKUEpRSzRuNEdjeERKdW9lRDBwRjZ4aGJ4RFhZUllWNlZBLWhmajVfU1BmcVNJZUJEdw?oc=5"
+  },
+  {
+   "title": "뉴욕증시 혼조 마감…반도체주 약세에 나스닥 0.64%↓",
+   "source": "서울경제TV",
+   "time": "2026-07-25T08:58:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16dGVzQUFoaDR1QUZUM0h3WkpLSW1GNWNUVzUwTHEzUU8xX3ZsM2QtRlRjM0tUZVdRY3p5ZV8wYlVqd1ozY0JKYUJ2OGN4ckd3d0NiVkY3blZHc0dPQmZjZVJHNTQ?oc=5"
   },
   {
    "title": "SK하이닉스 ADR 환전 랠리에도 원·달러 환율 회귀는 어렵다?",
@@ -1168,10 +1118,16 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS0JZZVN6cmdkZzhHdVFjQVVHLWt6YzQxWFNsdVRCOVI4UXpibE5LNVdGUG1TenU5WF9UcU9CTGN5Q002ajVGRFhoWXNDRTBkNE5Rbi12bjhrUzVaZnRqUkRSclZYX216aUxhWVpiMzhFYl8tVVFwaklYU084TWlEX1JDYw?oc=5"
   },
   {
-   "title": "코스피·코스닥 5%대 급락 마감‥'7천' 또다시 무너져",
-   "source": "MBC 뉴스",
-   "time": "2026-07-24T16:06:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9udnJMMW9rRkVGOE85ZFByMU1Vd0swZXJEUFFEV1NEYVh1NkpjY2htY1NFT09ZOVJQLW5DbTdqOGJzbmRkSkNTS2ttenJnU1RnVVhvU2FVMXJvcDR0ZnFLLVpTbHVOWEtZMWJHamdSc0Rja1Rh0gF0QVVfeXFMTWJxT05TUVAxTlk5MnpBX2tLd3Izcnk5T1RNZE42R00tdE13X0VMUlJoWUtKSGlEWHcwS2l6MEl6c0IyN3NpeEZBSmVqV29iNVBYSmRmNzBlMC1sUFBNU3ZfZjBBUW0wTktENDBycTB3a2xVaVM?oc=5"
+   "title": "AI 투자 부담 확산…반도체주 흔들리며 나스닥 2주 연속 하락",
+   "source": "조세일보",
+   "time": "2026-07-25T06:37:23+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMjVCN1F6bkxYZ0tTSGdTS1czZzN1Ym9sWWRlY0FjclR3bnFQcGtScmpOLVNQOFZ5RzMwRjBwNzdnOGVnYUJ5RThwRTN2ejhKVHZkVDZFMFFpUmVuVVdj?oc=5"
+  },
+  {
+   "title": "[뉴욕증시]유가 하락에도 반도체 매도에 혼조세 마감…나스닥 0.64%↓",
+   "source": "아시아경제",
+   "time": "2026-07-25T09:31:58+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0YkNFLURDa1BOc2hTbXJWMGpZVzVfMUd6aG9JLUIzTlh0NExxS09EczFMM3d2TTlFWmc2SHZNWmJGektEWXJoWjZ1YkI5MWpZSlJSa1VkY0ZMR2lLNVFYVw?oc=5"
   },
   {
    "title": "[뉴욕증시] 이란 리스크·반도체 매도세에 나스닥 161p↓...마이크론 7% 급락",
@@ -1180,16 +1136,10 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTQxaWk1WU9BbmZWYWJBclB2a1YwR3pGOG52MjdKLUNUX2k0U0JxY1hSbzJpOUVZX3lrXy1QX0RnRnAzdzluZ3VhS1JmTWtVRGVnVGZPcnpxOW9qLTc1WXVURWRqU1BBYm1kTWk1d05oRTFOM18xYnNvNE5qaXBWbDhuUzFoLWpZ?oc=5"
   },
   {
-   "title": "[이슈]“정말 더는 못 견뎌”…‘롤러코스피’ 개미 대탈출",
-   "source": "문화일보",
-   "time": "2026-07-25T02:59:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PbFl0THk4OTZsTUNFZkFMdVppNDFGSG9HX3ROUUd1WDM4Sms5ejFwSl9rNGVYYTkwUHVNdlJmbnJtVDlHS2FLN21VWFZ5UEc3?oc=5"
-  },
-  {
-   "title": "10일 내내 사이드카… 도박판 뺨친 코스피",
-   "source": "조선일보",
-   "time": "2026-07-25T00:55:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnpJc200OVNtUF8yTFFORm5zSDBSa0Y3dU1JdFdac09jMzViQTRHa2FYdEowSXNFcHpLZFVfLTViWFNpcnBhWmpWYVZvSXdEV3lJVEhtV2pRcXdpZTROY3BOMFNxZXlWQ29hazlrOTNOTXZJUmE5V2JVWGJOVzBLanNxS2NvajdSbk9IVDlB?oc=5"
+   "title": "[속보] 미 재무부, 한국 등 10개국 환율 관찰대상국 유지",
+   "source": "중앙일보",
+   "time": "2026-07-24T05:25:30+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pLS1PbzRpdEtJMGpnWDNKMmJDV1dOVEtqOTV0OG9PZnVmMGdPWVhCRV8xWEw4RVZzeHExY3JqTXNaTXRfV0hyclpjeEtjZkVuc0JhTGdn?oc=5"
   }
  ]
 }
