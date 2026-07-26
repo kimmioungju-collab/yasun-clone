@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T21:05:26.255083+09:00",
+ "updated": "2026-07-26T22:50:29.069327+09:00",
  "quotes": {
   "k200": {
    "price": 1055.58,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1462.1,
+   "price": 1459.42,
    "prev": 1474.13,
    "spark": [
     1460.41,
@@ -451,30 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64497.42,
+   "price": 64478.07,
    "prev": 64310.72,
    "spark": [
-    64429.2812,
-    64423.0117,
-    64451.8906,
-    64438.7891,
-    64437.0,
-    64478.5898,
-    64486.3711,
-    64477.7383,
-    64462.4414,
-    64480.6289,
-    64482.4219,
-    64492.8281,
-    64480.0,
-    64481.6406,
-    64448.5586,
-    64450.0117,
-    64451.9609,
-    64441.9883,
-    64468.75,
-    64456.1719,
-    64471.8008,
     64487.9688,
     64485.4414,
     64464.0117,
@@ -493,34 +472,34 @@
     64447.4688,
     64450.4805,
     64494.8398,
-    64497.4219
+    64530.0,
+    64543.8594,
+    64485.8203,
+    64508.7305,
+    64523.4688,
+    64491.9219,
+    64478.0703,
+    64443.1211,
+    64405.5312,
+    64423.6914,
+    64405.0195,
+    64366.8984,
+    64360.9688,
+    64362.9688,
+    64414.9297,
+    64439.5312,
+    64411.3203,
+    64416.4102,
+    64427.9688,
+    64500.3086,
+    64480.2109,
+    64478.0703
    ]
   },
   "eth": {
-   "price": 1886.61,
+   "price": 1885.6,
    "prev": 1873.2323,
    "spark": [
-    1880.78,
-    1879.83,
-    1880.87,
-    1880.87,
-    1880.3,
-    1882.1,
-    1882.42,
-    1882.4399,
-    1881.49,
-    1883.26,
-    1882.9301,
-    1883.2,
-    1882.08,
-    1882.09,
-    1882.5601,
-    1881.98,
-    1883.28,
-    1882.15,
-    1884.13,
-    1883.72,
-    1884.5601,
     1884.63,
     1885.1801,
     1883.55,
@@ -531,15 +510,36 @@
     1885.0,
     1885.78,
     1885.52,
-    1885.3199,
+    1885.41,
     1885.98,
     1885.75,
     1884.73,
-    1884.78,
+    1884.86,
     1884.11,
-    1884.21,
+    1884.23,
     1886.53,
-    1886.61
+    1887.1,
+    1889.1,
+    1886.4,
+    1888.0,
+    1888.41,
+    1887.4,
+    1886.54,
+    1886.42,
+    1885.36,
+    1885.88,
+    1884.78,
+    1882.77,
+    1881.25,
+    1881.47,
+    1883.64,
+    1885.64,
+    1884.25,
+    1884.1,
+    1884.0601,
+    1886.37,
+    1885.6,
+    1885.6
    ]
   },
   "eurkrw": {
@@ -635,7 +635,7 @@
    ]
   },
   "cnykrw": {
-   "price": 215.965,
+   "price": 215.58,
    "prev": 217.462,
    "spark": [
     215.725,
@@ -822,6 +822,18 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mcEcxX0xqZ0pXdDVGbXQ5Z3FnbmZLSmNBbU1ncmJCLThsZjdTTF9vY2g0MGU2Y3IxNDNqd3ItZXU1MFVxSHBfcTdpYUZYZDJpVHlPa1RsbmNDZjdrWmp6NXRyRWM0V05o0gFuQVVfeXFMTUhKb2x0OE0xSW8zdVM3eG92a09hcG5MNDFGcU9QM0dlQ08tVmJaRHlLa1N3bWd0c1hRXzBHekZzY1gyUEIzQV83cFBfLVBWR1E5QWpLVDl6ME1BT1RTNXM5SURuWENuNzFMT1lvY3c?oc=5"
   },
   {
+   "title": "“하루도 안 빼고…”롤러코스터 증시에 지난주 1주일 내내 사이드카 경보음",
+   "source": "문화일보",
+   "time": "2026-07-26T21:35:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43MGJuYUQ2X1J4RklWQ0VMZVpyOXZmN21mbFVyV1RMUzdzdnRDUnJDMG1kb0V4RWhzSDRvUmdkeFQzOV9YUHpuVXZkS2dwSlA2?oc=5"
+  },
+  {
+   "title": "[코스피 시대, 미국서 TK경제의 길을 묻다 ①] 9,000 넘은 증시, TK는 왜 비켜갔나",
+   "source": "영남일보",
+   "time": "2026-07-26T21:43:04+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42Nk5ucVhRNDBDRnZGRUxZbmFFWEcwZHJsQXlsOWVob2tkQlNzM2xlVkFUMlpUdGRHWHpPNDhpeVdoenozYS04Q3hnei1DekFwVEs5SXdMU2dsTFRDakFVNHRObzVRZXpPOVE?oc=5"
+  },
+  {
    "title": "'레버리지 규제' 본격시행 앞둔 국내증시, 변동성 완화될까",
    "source": "연합뉴스",
    "time": "2026-07-26T06:20:01+09:00",
@@ -834,34 +846,22 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fOHN1R1dWNWFCV21JVDBmemw1a0JuQ2lneDJPeGJlVC1MR1VOWHBCUzlGY1d2ZVM2YkhTTFVJMXloeDU1VmlzaEg1NVhfQlRUZDh2Vk5uNHJQR1ZKX1BnNy1HVnhLbE9XS2ZwUGdob0JFRzQ?oc=5"
   },
   {
-   "title": "레버리지 규제 강화에도 코스피 변동성 '안갯속'",
-   "source": "신아일보",
-   "time": "2026-07-26T12:56:31+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTnI2Y083cmRteUtYR2gwODRoRkJQN2MtSDdBMnZwNTcxNFMtTTd6cXJvNjB2TEZzZnZMRDU1a3NBczdMbXJMT3NlY2lHMjlMTHprMGhKaDJfd0Noc2xWYkE3SW5YWl8wdV9BRGRwdlQ?oc=5"
-  },
-  {
    "title": "개미들, 코스피 110조 살 때 ETF도 70조 순매수했다 - 조선비즈",
    "source": "Chosunbiz",
    "time": "2026-07-26T10:37:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2N6WWYwZms3SllEb3RxRm1Tb2FsNE5ydjlqa1ZodDE5WTJhbU9xZ01sQ1R3SjZPTFllYlh3bmFkNHVlamlLcG1nVEJOaHAyQjYzcGZ6Xy05VFdndXhCTzBwUnlBRU5iU2x6djZVSlllUHJuMjRIMnRTNmJudE84S1VYVnQ5bGdH0gGcAUFVX3lxTFBBeF81NmJFRGpkZWZuMXNwMXRrOFBLQ01VX3ljUHFfVzVFRnR5ODU3WTczTzhzaFF0Q25halR3anM5Y0l6SDdXTDVQV0RsdzZ3Z2c5WVdNdW44QkhmUUdxemFMNjJueEk4anU3YWpPb19yR2c1LTJzSVczVW05VFFxV1ZOTmJlUXcwZ2tRRlRMYllTRFJCbkFzRDFHRw?oc=5"
   },
   {
+   "title": "레버리지 규제 강화에도 코스피 변동성 '안갯속'",
+   "source": "신아일보",
+   "time": "2026-07-26T12:56:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTnI2Y083cmRteUtYR2gwODRoRkJQN2MtSDdBMnZwNTcxNFMtTTd6cXJvNjB2TEZzZnZMRDU1a3NBczdMbXJMT3NlY2lHMjlMTHprMGhKaDJfd0Noc2xWYkE3SW5YWl8wdV9BRGRwdlQ?oc=5"
+  },
+  {
    "title": "[Weekly Coin] 비트코인, 중동 전쟁 심화에 또 관망세",
    "source": "시사저널e",
    "time": "2026-07-26T15:20:06+09:00",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WU1VLNUFBTG5uUks1V05sV1V0NVliQ21qaHc1Ymljd3NONHQ4c3BPRTZVVUFJd21tU2ZDQ1BpMVpQbmxIbzAtbHRxTGp3YVF1ZlhLTEtCNTk5SUFuX2kyS0ZOMEYyT0c5VnVEbHU2WmVRQdIBdkFVX3lxTE5tbXdiN1FHU1pSd3oyWWt2NnNvQUtkS05DcWZXbXBHNVFqbXFJcldyYjA5ZmhCQnpsTENEUWl3YXQ1VlFMUHQ4cWo2VTJNOHpHM19kaXgwUnJKb184OEEwZkJBUWhfdFRjd1ZnRWFmd3VnZlNPQkE?oc=5"
-  },
-  {
-   "title": "[구자문칼럼]환율고공행진의 결과는?",
-   "source": "영남경제",
-   "time": "2026-07-26T16:00:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iX1VNYmpXZmNpalVyeWQtYk9CcXBOR1dFRHBQOURXQUdrbFdaQkhCc0hpWWtaTl94YjZaQXdMS2tBSThjMzZfZF9BZ2preldsc1dydFMtOFo2UG9Db2IyYWhzMFhWMFk?oc=5"
-  },
-  {
-   "title": "SK하이닉스 ADR 환전 랠리에도 원·달러 환율 회귀는 어렵다?",
-   "source": "인베스트조선",
-   "time": "2026-07-23T07:00:25+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS0JZZVN6cmdkZzhHdVFjQVVHLWt6YzQxWFNsdVRCOVI4UXpibE5LNVdGUG1TenU5WF9UcU9CTGN5Q002ajVGRFhoWXNDRTBkNE5Rbi12bjhrUzVaZnRqUkRSclZYX216aUxhWVpiMzhFYl8tVVFwaklYU084TWlEX1JDYw?oc=5"
   }
  ]
 }
