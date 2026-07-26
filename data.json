@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T03:45:57.560961+09:00",
+ "updated": "2026-07-27T04:56:18.841468+09:00",
  "quotes": {
   "k200": {
    "price": 1055.58,
@@ -187,12 +187,12 @@
   },
   "nq": {
    "price": 28282.25,
-   "prev": 28620.75,
+   "prev": 28282.25,
    "spark": []
   },
   "es": {
    "price": 7447.5,
-   "prev": 7445.0,
+   "prev": 7447.5,
    "spark": []
   },
   "ndx": {
@@ -335,27 +335,27 @@
   },
   "wti": {
    "price": 89.31,
-   "prev": 92.19,
+   "prev": 89.31,
    "spark": []
   },
   "brent": {
    "price": 96.78,
-   "prev": 100.69,
+   "prev": 96.78,
    "spark": []
   },
   "gold": {
    "price": 4070.8,
-   "prev": 4050.2,
+   "prev": 4070.8,
    "spark": []
   },
   "silver": {
    "price": 58.906,
-   "prev": 58.054,
+   "prev": 58.906,
    "spark": []
   },
   "gas": {
    "price": 2.888,
-   "prev": 2.92,
+   "prev": 2.888,
    "spark": []
   },
   "vix": {
@@ -451,41 +451,26 @@
    ]
   },
   "btc": {
-   "price": 64656.02,
+   "price": 64639.27,
    "prev": 64310.72,
    "spark": [
-    64688.5586,
-    64737.3594,
-    64746.5508,
-    64711.6914,
-    64705.4883,
-    64710.2812,
-    64680.0117,
-    64643.9883,
-    64664.0391,
-    64687.0195,
-    64697.9883,
-    64746.0,
-    64799.6484,
-    64764.9883,
-    64771.5117,
-    64768.2109,
-    64693.6719,
-    64674.9414,
+    64768.0898,
+    64696.8398,
+    64672.6992,
     64658.2695,
     64648.8398,
     64721.8594,
-    64696.0,
+    64702.0117,
     64667.9219,
-    64660.6406,
+    64660.6289,
     64694.4883,
     64622.8281,
-    64621.3203,
-    64622.8281,
+    64621.3086,
+    64633.9102,
     64644.1914,
-    64644.0586,
+    64644.0508,
     64635.3203,
-    64640.1602,
+    64640.1484,
     64633.1719,
     64617.8984,
     64641.7812,
@@ -493,53 +478,68 @@
     64646.4414,
     64670.9805,
     64655.7109,
-    64656.0195
+    64666.0703,
+    64695.0117,
+    64686.1914,
+    64678.9609,
+    64644.0,
+    64626.3203,
+    64641.8984,
+    64651.5117,
+    64666.4805,
+    64685.3711,
+    64667.8398,
+    64670.0,
+    64649.2695,
+    64648.3398,
+    64639.2891,
+    64639.2695
    ]
   },
   "eth": {
-   "price": 1912.02,
+   "price": 1912.2,
    "prev": 1873.2323,
    "spark": [
-    1906.1899,
-    1913.47,
-    1913.0,
-    1911.35,
-    1912.6,
-    1913.29,
-    1910.9301,
-    1907.4,
-    1908.5,
-    1911.78,
-    1912.6801,
-    1918.2,
-    1921.49,
-    1917.98,
-    1917.72,
-    1919.05,
+    1918.98,
     1915.55,
-    1914.52,
+    1914.61,
     1913.53,
     1913.6899,
     1915.35,
     1913.29,
     1912.72,
-    1912.5699,
+    1912.51,
     1913.72,
     1909.67,
-    1910.47,
-    1910.8,
-    1911.37,
-    1909.55,
+    1910.5,
+    1910.9,
+    1911.36,
+    1909.35,
     1910.36,
-    1909.9399,
+    1909.84,
     1910.67,
-    1912.2,
+    1912.27,
     1912.21,
-    1911.48,
-    1911.84,
-    1912.3199,
+    1911.49,
+    1911.89,
+    1912.66,
     1912.28,
-    1912.02
+    1911.42,
+    1913.3101,
+    1912.74,
+    1913.0601,
+    1911.72,
+    1910.21,
+    1911.55,
+    1912.37,
+    1912.28,
+    1913.59,
+    1913.48,
+    1913.04,
+    1912.1,
+    1912.92,
+    1912.1899,
+    1912.2
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 163.791,
+   "price": 163.696,
    "prev": 163.762,
    "spark": [
     163.822,
@@ -780,6 +780,12 @@
  },
  "news": [
   {
+   "title": "‘삼전·닉스’ 영향 받나…‘몸값 125조’ 메모리 공룡, 中증시 상장",
+   "source": "v.daum.net",
+   "time": "2026-07-26T23:13:37+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NaTlITHRkQi0xMnN1VFRMRlB0cjJ1T1QtakdpNFdBVHJXa2VkWUFHekxXU3hLYy1aS0lSUFFoYVl4MWFxbzFiSXNNQktQREE?oc=5"
+  },
+  {
    "title": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’",
    "source": "경향신문",
    "time": "2026-07-26T16:07:00+09:00",
@@ -804,22 +810,10 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EQndWbk9vYkxHTGNtQ3JFRkw0dV8xWUNzUTZFeXlsaWNIY3BjMjctNmNqY3A0NUpsaFVKSU5wTzBmVnIyXzByWlNOXzVyQmxoSkE?oc=5"
   },
   {
-   "title": "환율 떨어졌지만 안심 못한다?… “ADR 환전 일시적 효과”",
-   "source": "v.daum.net",
-   "time": "2026-07-27T02:36:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kWkpYQk44RjgtSDliT0hlcEF2UThJMVQ2azcxenlhRUZ2aC1wd2owNHczb2doVTNfUXRUNk1tdFFqTlNhQWc0M25YUlh4eUk?oc=5"
-  },
-  {
-   "title": "CXMT, 내일 중국 증시 데뷔…올해 아시아 증시 최대 IPO",
-   "source": "KBS 뉴스",
-   "time": "2026-07-26T19:04:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lNzFIY1dsNEF5WFh1WFFicTV2dG1TeDFnNDZPT3pZQW9GUXUzbUxuQzQ2Y1kzRVBzUmI1T2ZWU2JVNFo1cXl6VkpQM0pYSXpTd1NDa2JTcjFTMk0?oc=5"
-  },
-  {
-   "title": "원화 가치 17년 만에 최저…“운 좋게 내린 환율, 대응체계 만들어야”",
-   "source": "국민일보",
-   "time": "2026-07-26T05:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TOGdtWGJKakRoVHdvMlNNQ0RFLVpma0xHU0YzaFBRTW1ZMkw4OEJReXJUNkZFaG5ZMV9jMlNXc3J2SlloX1FfLWxpaHJ1VVozejRiYzNnV0ttMXFTN2JrOFhPYV93TzDSAWxBVV95cUxNSHprbFVtVWZQLVlTTXBpOHp2aVctanRNVVlYU2tScnEyUEloaVhoUEFicktFQ1hYejltZ0hqMVBPT0lXdWdpa1BJLUQ4aGRXajlUUFhDQmFuemdpenduamtPUnh6ZTY5cnQweUo?oc=5"
+   "title": "SK하이닉스 ADR 환전 랠리에도 원·달러 환율 회귀는 어렵다?",
+   "source": "인베스트조선",
+   "time": "2026-07-23T07:00:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS0JZZVN6cmdkZzhHdVFjQVVHLWt6YzQxWFNsdVRCOVI4UXpibE5LNVdGUG1TenU5WF9UcU9CTGN5Q002ajVGRFhoWXNDRTBkNE5Rbi12bjhrUzVaZnRqUkRSclZYX216aUxhWVpiMzhFYl8tVVFwaklYU084TWlEX1JDYw?oc=5"
   },
   {
    "title": "SK하이닉스 실적·한미 반도체 협력에 'AI 투심' 살아날까 - 머니투데이",
@@ -840,18 +834,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iX1VNYmpXZmNpalVyeWQtYk9CcXBOR1dFRHBQOURXQUdrbFdaQkhCc0hpWWtaTl94YjZaQXdMS2tBSThjMzZfZF9BZ2preldsc1dydFMtOFo2UG9Db2IyYWhzMFhWMFk?oc=5"
   },
   {
-   "title": "“하루도 안 빼고…”롤러코스터 증시에 지난주 1주일 내내 사이드카 경보음",
-   "source": "문화일보",
-   "time": "2026-07-26T21:35:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43MGJuYUQ2X1J4RklWQ0VMZVpyOXZmN21mbFVyV1RMUzdzdnRDUnJDMG1kb0V4RWhzSDRvUmdkeFQzOV9YUHpuVXZkS2dwSlA2?oc=5"
-  },
-  {
-   "title": "SK하이닉스 ADR 환전 랠리에도 원·달러 환율 회귀는 어렵다?",
-   "source": "인베스트조선",
-   "time": "2026-07-23T07:00:25+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS0JZZVN6cmdkZzhHdVFjQVVHLWt6YzQxWFNsdVRCOVI4UXpibE5LNVdGUG1TenU5WF9UcU9CTGN5Q002ajVGRFhoWXNDRTBkNE5Rbi12bjhrUzVaZnRqUkRSclZYX216aUxhWVpiMzhFYl8tVVFwaklYU084TWlEX1JDYw?oc=5"
-  },
-  {
    "title": "고유가에 물가 불안 커진다…금리·관세·환율 ’삼중 부담’",
    "source": "연합뉴스TV",
    "time": "2026-07-26T10:00:00+09:00",
@@ -862,6 +844,24 @@
    "source": "영남일보",
    "time": "2026-07-26T21:43:04+09:00",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PLVdKNkhSb0JXQkU2YWN3ckdYNjFURFUtMFdTa1pidE1UcmdpbXp4c1YwWjZXa1FySzlQWXdLa3ZWbUxmYlpmVWc3cFlpUUdjNk9LSmtZaEwtMkExNmduVXJSMTJ5Tkh6Y3NJ?oc=5"
+  },
+  {
+   "title": "원화 가치 17년 만에 최저…“운 좋게 내린 환율, 대응체계 만들어야”",
+   "source": "국민일보",
+   "time": "2026-07-26T05:01:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TOGdtWGJKakRoVHdvMlNNQ0RFLVpma0xHU0YzaFBRTW1ZMkw4OEJReXJUNkZFaG5ZMV9jMlNXc3J2SlloX1FfLWxpaHJ1VVozejRiYzNnV0ttMXFTN2JrOFhPYV93TzDSAWxBVV95cUxNSHprbFVtVWZQLVlTTXBpOHp2aVctanRNVVlYU2tScnEyUEloaVhoUEFicktFQ1hYejltZ0hqMVBPT0lXdWdpa1BJLUQ4aGRXajlUUFhDQmFuemdpenduamtPUnh6ZTY5cnQweUo?oc=5"
+  },
+  {
+   "title": "레버리지 규제 강화에도 코스피 변동성 '안갯속'",
+   "source": "신아일보",
+   "time": "2026-07-26T12:56:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTnI2Y083cmRteUtYR2gwODRoRkJQN2MtSDdBMnZwNTcxNFMtTTd6cXJvNjB2TEZzZnZMRDU1a3NBczdMbXJMT3NlY2lHMjlMTHprMGhKaDJfd0Noc2xWYkE3SW5YWl8wdV9BRGRwdlQ?oc=5"
+  },
+  {
+   "title": "1년 전으로 무너진 코스닥…코스피와 성과 격차 ‘극과 극’",
+   "source": "dt.co.kr",
+   "time": "2026-07-26T17:41:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fdGRlNWpBUDVHeWtKMWlVdTdNV0RYNlcyZmRLOE9vT3VsYUtGdFhkOExwZkRwSlkwU1VfdDFaZUpfamhtR0gtd3lQLWxfQQ?oc=5"
   }
  ]
 }
