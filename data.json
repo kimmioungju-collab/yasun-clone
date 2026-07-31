@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T06:47:58.915397+09:00",
+ "updated": "2026-08-01T07:44:48.709973+09:00",
  "quotes": {
   "k200": {
    "price": 1046.81,
@@ -738,20 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62993.28,
+   "price": 62888.14,
    "prev": 64724.03,
    "spark": [
-    62910.0312,
-    62960.6211,
-    63015.3516,
-    63068.9609,
-    63026.4688,
-    62976.0781,
-    62986.6211,
-    62996.2617,
-    62976.0898,
-    62965.75,
-    62963.7891,
     62932.9688,
     62896.6016,
     62928.0312,
@@ -779,25 +768,25 @@
     62954.6094,
     62967.9492,
     62970.6289,
-    62979.5195,
-    62993.2812
+    62989.8281,
+    62929.4688,
+    62894.8203,
+    62891.9219,
+    62960.9883,
+    62940.5117,
+    62940.3203,
+    62928.3086,
+    62919.4609,
+    62914.1719,
+    62891.2617,
+    62892.5703,
+    62888.1406
    ]
   },
   "eth": {
-   "price": 1862.29,
+   "price": 1861.99,
    "prev": 1917.157,
    "spark": [
-    1863.45,
-    1867.2,
-    1869.04,
-    1870.9,
-    1869.78,
-    1868.21,
-    1868.4399,
-    1868.29,
-    1867.47,
-    1866.8101,
-    1866.89,
     1865.8,
     1864.62,
     1866.25,
@@ -825,8 +814,19 @@
     1860.78,
     1861.41,
     1860.8199,
-    1861.25,
-    1862.29
+    1862.02,
+    1860.41,
+    1860.0,
+    1859.83,
+    1861.2,
+    1860.9,
+    1861.0,
+    1862.11,
+    1861.8101,
+    1862.9301,
+    1862.2,
+    1861.9,
+    1861.99
    ]
   },
   "eurkrw": {
@@ -925,7 +925,6 @@
    "price": 213.426,
    "prev": 210.384,
    "spark": [
-    212.829,
     212.872,
     212.851,
     212.94,
@@ -960,6 +959,7 @@
     213.587,
     213.573,
     213.559,
+    213.426,
     213.426,
     213.426,
     213.426,
@@ -1106,90 +1106,5 @@
    ]
   }
  },
- "news": [
-  {
-   "title": "코스피 18% 역대급 폭등한 날, 개미는 역대 최대 10조 던졌다",
-   "source": "조선일보",
-   "time": "2026-07-31T18:54:24+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUJOeXp3N0xTcHBCYjNCa2FSRjNLNmlHdHVTWElLRE9QRS0yVzlZdnpjd1d4TnA4YThLVzlodEEyaXRwWVRySDROMDAtRkllZ1VhRUlyQkdqZHk0RzJSVGdBUFdmOVBXRGcwWTdDUTY5MVZuTnRVTkxEQmVwek5vZVlYd2VfbHBYYURVNVZ3?oc=5"
-  },
-  {
-   "title": "코스피, 상승폭 1001 상승률 17.9% 사상 최대…널뛰는 증시에 ‘어질’",
-   "source": "hani.co.kr",
-   "time": "2026-07-31T18:15:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VLTVDM1VleEZXVjRjTFBGM3d6ZUwxQVIzODA5SEZKMndkWFpuRzVNeDluUC0yOEJKeWRfUFRDeXZSdTFkT2VLc29nZ3lqaXlURGR0RENKVUZpRjVlLURmbkZ5dFlKUi1yeDc3SVVRQXE1dw?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 아마존 실적 훈풍에 강세 마감…나스닥 1%↑(종합)",
-   "source": "연합뉴스",
-   "time": "2026-08-01T05:53:15+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xOGFQY056eFQxVVR1LTZWRXFPc1B6S0piMFp3cHBIa3lKRGhaOVFZMFNQbFYwZVZVc05fWF9DSzJta0JNRHMyemRHM1ptOExXOGhVZU11d2p3cXfSAWBBVV95cUxNR3hyVThGay1lV0d2T2FMYjZpdGFqcTBPMjBVRG92bG81N0s0SFBYdVBZWUpjcFlnVm9CLThLV3hESWlKT0tkRkxrQ1RIQWRvR2JDVDNncEZ3dUJreUFBeU4?oc=5"
-  },
-  {
-   "title": "코스피 18% 급등 ‘역대 최대’…SK하이닉스 상한가",
-   "source": "KBS 뉴스",
-   "time": "2026-07-31T19:43:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95X2xINHBoUE5mVG9HYVVsU3BKTkh6bHl5RjNmRjdjNHlnMTEwWlVDY1p4QjFxMEF6UUp5dUY2bWxQWENKdENpYS1JYVk5ajdWUlZld3pFTm82Vm8?oc=5"
-  },
-  {
-   "title": "유니-퓨얼스 홀딩스, 나스닥 최소 주가 1달러 미달 통보",
-   "source": "매일경제 마켓",
-   "time": "2026-08-01T06:17:17+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KcU41emxFeFk4aVMtWl9nb0ExSkY5RmVwaVh6VWZrRlFfZDZnLVFnQXFLVU1vTE1nMnY4NjdiZm1SR0l1RUFtY3dPSER6WHVOU2c?oc=5"
-  },
-  {
-   "title": "하이닉스 '사상 최대실적'에도 코스피 하락...이유는? [뉴스나우]",
-   "source": "YTN",
-   "time": "2026-07-29T13:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY1RUWk9aUmpEVHpaSVlKVG8zbjZZTGg3alRrWVNXN0V4bVNGQXo0SG1lX2pKOWo3ZGVueHcyd2JjM3plUE5vaDlvMGxESmwybXVHcV9YVEZzb2FOWlE?oc=5"
-  },
-  {
-   "title": "한달만에 141원 '수직 낙하'…고환율 끌어내린 세 가지 요인",
-   "source": "한국경제",
-   "time": "2026-07-31T19:00:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qZDdTYlZVLUxJSU5fclZnOFBhQkFWb0hXcTNad05mTWFlNzZ1X29JdUZTY3Z2N0h3WEQtS0dIXzFId1ZtREdMVk9lTUxJWkZrMktWS3RGLWx2QQ?oc=5"
-  },
-  {
-   "title": "코스피 17.9% 사상 초유의 폭등…불안한 개미들은 8.2조 팔았다",
-   "source": "joongang.co.kr",
-   "time": "2026-07-31T15:37:14+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UbWl1OE5ndlRrYWxvNUZSWXlEZ21Gdm5DbnhWSG9EOTcwdGN5MjlCTzlJdTJiVDhaYjJRN2NEczdFb1N0bVdRZUFiMlYzdUEwcDlOenJR?oc=5"
-  },
-  {
-   "title": "[속보]코스피, 12% 급등에 매수사이드카…삼전·닉스 20% 폭등",
-   "source": "경향신문",
-   "time": "2026-07-31T09:13:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBWm5oZEdFSmNqbDhJMjhPOUlWeW9LY2JZYmpjblhMWWZ1X2tJbjBWaE1ReEtrWVNnblE5VUhEUjFOZ0FfUzZLUjJkdVFPRkZ5Y2JlVXNVaW00UdIBX0FVX3lxTE1URDdkMkRPU2NPN0hDTGxSRlREajk5My16LVJORUVmS1NIQ1IwTVJHNk5HNHZhSUpwYWtuRzhlU2kyN3NhWUJES1hkdUxpY0VXdEJ1Nk1TRHBCTmVDRUxF?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 아마존 실적 훈풍에 강세 마감…나스닥 1%↑",
-   "source": "v.daum.net",
-   "time": "2026-08-01T05:34:50+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nMzZ5Z0lOVkU2Zzh5dFFxR2V0ZkgtVTdOR3NydkoxX0pwc0FTSWMtZUlQZ2U2X1kydHNGdXJyYllMdkRKUFp4bnFRZmM5UDQ?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 아마존 훈풍에 일제히 상승 마감…나스닥 1%↑",
-   "source": "뉴스핌",
-   "time": "2026-08-01T05:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNmszdjZmakUwd3QxYVZBNnpDdlJiV2NGNFRBb2pKNk1oWUZYZzZEMU03Y0lTdlJSZC01bVV4dHdKWlM2Y2syNmd5aGVuczhvaW00eUhPVFZNY0Ut?oc=5"
-  },
-  {
-   "title": "코스피, 사상 처음 하루 1000포인트 올라...삼성전자 26.8% 폭등, SK하이닉스는 상한가",
-   "source": "조선일보",
-   "time": "2026-07-31T15:54:32+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX0ZKd0ZpWlI3NzFudEd0Tnh0dDBYcWhCRjNtOGpwdVVGaldiYkRDX2RtT3VYdDl2WW82SXZWVE1QQ1ktVGJNcFBjMkJsQ1c5VkpDM0s1d2tpVHBlSi1BWTVXejloQ1pfLTUtbnotUGdMLUw4U05ZLUVZVTlWSWFDeA?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 아마존 실적 훈풍에 강세 마감…나스닥 1%↑",
-   "source": "연합뉴스",
-   "time": "2026-08-01T05:33:28+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Y0VJMVFFQXFSd19udHFiUDVmUDktczB2X3htVlJHd0ZlbDg3cTlYdzNoellUOEJlbzhzWTkzSzcwUHZyZm5qSkN4a3p1MDJkdFpzMTdSSWlLUEnSAWBBVV95cUxPYi1FNmlxYXNHdXFyRjl4VEVGYkhaVXVxb1JDejFka08zbV81YUEyYnBTSndVY0RpWkNSQjFha0NVREhjZkFQQW9CZDc4R1I3My00eWE3ZFMwZWtGUFdKWGo?oc=5"
-  },
-  {
-   "title": "[속보] 코스피, 10%대 이상 폭등…장중 ‘6000피’ 회복",
-   "source": "매일경제 마켓",
-   "time": "2026-07-31T09:05:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ZzR3Z2hZOWJpSkRCYlUtR2ZYS0R4b1ZDSU5sTGE2UGZUNVpOSDBsLXNZaG1aTEp5Ry1RV3piSFNYX2FDOGVoQXl3ZmE4YU1aX3c?oc=5"
-  }
- ]
+ "news": []
 }
