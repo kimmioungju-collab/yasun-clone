@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T05:36:56.479601+09:00",
+ "updated": "2026-08-02T06:32:03.866191+09:00",
  "quotes": {
   "k200": {
    "price": 1046.81,
@@ -738,20 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62564.16,
+   "price": 62740.48,
    "prev": 62823.297,
    "spark": [
-    62779.4805,
-    62698.9492,
-    62709.3086,
-    62760.3594,
-    62739.5195,
-    62658.3281,
-    62652.5781,
-    62638.7188,
-    62675.4688,
-    62648.1914,
-    62546.1797,
     62450.7891,
     62508.2383,
     62341.0195,
@@ -779,25 +768,25 @@
     62558.25,
     62560.5,
     62533.4492,
-    62559.3398,
-    62564.1602
+    62512.9102,
+    62539.8398,
+    62568.5508,
+    62597.25,
+    62604.9102,
+    62697.5195,
+    62707.5391,
+    62690.5508,
+    62720.8906,
+    62703.6094,
+    62743.4883,
+    62720.25,
+    62740.4805
    ]
   },
   "eth": {
-   "price": 1835.72,
+   "price": 1841.88,
    "prev": 1860.5466,
    "spark": [
-    1861.98,
-    1858.6,
-    1858.42,
-    1861.8199,
-    1860.33,
-    1860.65,
-    1860.47,
-    1860.36,
-    1861.11,
-    1859.4,
-    1857.65,
     1850.0,
     1851.8,
     1837.63,
@@ -825,8 +814,19 @@
     1836.59,
     1836.08,
     1834.37,
-    1835.2,
-    1835.72
+    1831.92,
+    1832.99,
+    1834.9,
+    1835.45,
+    1836.62,
+    1838.8199,
+    1838.03,
+    1836.73,
+    1840.64,
+    1840.5699,
+    1841.4301,
+    1840.71,
+    1841.88
    ]
   },
   "eurkrw": {
@@ -1106,90 +1106,5 @@
    ]
   }
  },
- "news": [
-  {
-   "title": "하이닉스 '사상 최대실적'에도 코스피 하락...이유는? [뉴스나우]",
-   "source": "YTN",
-   "time": "2026-07-29T13:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY1RUWk9aUmpEVHpaSVlKVG8zbjZZTGg3alRrWVNXN0V4bVNGQXo0SG1lX2pKOWo3ZGVueHcyd2JjM3plUE5vaDlvMGxESmwybXVHcV9YVEZzb2FOWlE?oc=5"
-  },
-  {
-   "title": "“290만→132만 원”…지금 코스피가 바닥인지 확인하는 3가지 신호 [잇슈 머니]",
-   "source": "KBS 뉴스",
-   "time": "2026-07-31T06:58:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TR1NFbUUweEY0ZVdfSWQ1bkFWZWc1UjVBdWlxRUszSGJXdTNlMzBudFNCTDA5Q3RRMzA1NlFyZFRCZUZ2US1xb1FDOUg2cTdzdjZaMXFSckxycGc?oc=5"
-  },
-  {
-   "title": "코스피, 사상 처음 하루 1000포인트 올라...삼성전자 26.8% 폭등, SK하이닉스는 상한가",
-   "source": "조선일보",
-   "time": "2026-07-31T15:54:32+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX0ZKd0ZpWlI3NzFudEd0Tnh0dDBYcWhCRjNtOGpwdVVGaldiYkRDX2RtT3VYdDl2WW82SXZWVE1QQ1ktVGJNcFBjMkJsQ1c5VkpDM0s1d2tpVHBlSi1BWTVXejloQ1pfLTUtbnotUGdMLUw4U05ZLUVZVTlWSWFDeA?oc=5"
-  },
-  {
-   "title": "서킷도 못 막은 패닉장…코스피 추가 하락에 '2단계 서킷' 공포 현실화",
-   "source": "연합인포맥스",
-   "time": "2026-07-29T13:36:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHTFlZdGF0ZnZ2WDZFRGFoNlFESzlEbmpkaVN3elRmQ0M0ZVdGQUdMM1dLb1hvRkQ3VWNxZlFNcmZfWDQ5d2dYTkdjZjIyT1FVdzZvTVZIS29JVjJ3U1lLSDJrVTdhS2NwakxNVkVCYVk?oc=5"
-  },
-  {
-   "title": "코스피, 상승폭 1001 상승률 17.9% 사상 최대…널뛰는 증시에 ‘어질’",
-   "source": "한겨레",
-   "time": "2026-07-31T18:15:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VLTVDM1VleEZXVjRjTFBGM3d6ZUwxQVIzODA5SEZKMndkWFpuRzVNeDluUC0yOEJKeWRfUFRDeXZSdTFkT2VLc29nZ3lqaXlURGR0RENKVUZpRjVlLURmbkZ5dFlKUi1yeDc3SVVRQXE1dw?oc=5"
-  },
-  {
-   "title": "CTA 나스닥 위험 축소 대부분 완료 — BofA",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-01T22:56:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fOGZreHBESjhONDYxTkc2Sjk4b00wV0ZNTnF1d2s0ZlJQTUF1Rkd6amdKQXR0bTlHRTQ4WXliN2drcng1X2RNS0EycFdPNTJXOE9OZjFaUTRuaGxQNE9VTUxFNkJMMFFWcXRwSDlNN0w?oc=5"
-  },
-  {
-   "title": "'널뛰기 코스피' 아마존 훈풍 탈까…8월 첫 거래일 변수는",
-   "source": "v.daum.net",
-   "time": "2026-08-01T19:54:42+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ybk5DXzF3c3c5OFVrQUp5bllqMXlwNS13dTFtNXJHblZrVk5BZlJZdHhlLVJ4MWx0Rm1xdk5GSXJHaUpZemE0bk1XRFA1ems?oc=5"
-  },
-  {
-   "title": "[속보] 코스피, 10%대 이상 폭등…장중 ‘6000피’ 회복",
-   "source": "매일경제 마켓",
-   "time": "2026-07-31T09:05:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ZzR3Z2hZOWJpSkRCYlUtR2ZYS0R4b1ZDSU5sTGE2UGZUNVpOSDBsLXNZaG1aTEp5Ry1RV3piSFNYX2FDOGVoQXl3ZmE4YU1aX3c?oc=5"
-  },
-  {
-   "title": "[속보]“‘레버리지 ETF’ 국정조사… 김용범 경질”… ‘롤러코스피’ 공세 수위 높이는 국민의힘",
-   "source": "munhwa.com",
-   "time": "2026-08-01T15:14:25+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94LV9rbjBIdU53X2NHaWp0VG1Sb0pxLXRSeE16ZzFway1jTkc3VFZBNC11TU9nYVpLUElGYmk5RVJKNlJRdC1SQ1lKNjNrMlZP?oc=5"
-  },
-  {
-   "title": "[속보]코스피, 12% 급등에 매수사이드카…삼전·닉스 20% 폭등",
-   "source": "경향신문",
-   "time": "2026-07-31T09:13:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBWm5oZEdFSmNqbDhJMjhPOUlWeW9LY2JZYmpjblhMWWZ1X2tJbjBWaE1ReEtrWVNnblE5VUhEUjFOZ0FfUzZLUjJkdVFPRkZ5Y2JlVXNVaW00UQ?oc=5"
-  },
-  {
-   "title": "日정부 엔화 환율 개입 규모 60조원 안팎 추정",
-   "source": "연합뉴스",
-   "time": "2026-08-01T10:03:32+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXN04tRnhyWFNGN2E1UDhPSUpHbkl6U0FuU25Wcm5xbkY0cDY0SUhKZk5oZ1ozSHNQZzBWVkE2VzZJZWotai1pYmhQRWNaU0FJUlctV1hFdHlxUFnSAWBBVV95cUxQTWE4RW1pSUMzekJiOHdNYjFBTER0VktidXQ3MlNmWXZvOFNobGN3c1pEWWlTUkRCWkIxU1B4dGVSLUlZZHJPb1JFaVdtX3QwaUxla19PTWE0UFdXbWFKREo?oc=5"
-  },
-  {
-   "title": "코스피·코스닥 급락에 매도 사이드카‥이번 주에만 두 번째",
-   "source": "MBC 뉴스",
-   "time": "2026-07-29T11:13:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQnJRNW1famhJS2pPY0taYVFRTXNSSk5tV3paazlGRG1pbVZsYlQ4Uk9WRlFKSTJrcjI1eUhDR1ZVd1VGakhDOEh6bkNwVS15M19mTTVweGdIdkNPNEVPdWpZZy1QUGIzX2dzZmw4a3dqa01R0gF0QVVfeXFMTzVMT0xRTFczeXU4YTNyR1NJdjZwOEQ1MUI5Z25oSFZkcFhTVVlMODZ4QnJnUkFHYl9CYWd3bk9LanFBWHlpcWQzSWUydllKSkxkZUJuVlNSenhOallKTDRwLXZrOEptWDU4WkRzRVhvQW50X3A?oc=5"
-  },
-  {
-   "title": "\"이 정도 폭락은 심하지\" 코스피 반등 시도...'공포의 7월' 뒤엔 다시 뛸까 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-07-30T11:15:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yaEVPZjJTdGF5R1dLYVhoZEJwNzVtakJFbFlfaE9ual9EcjBnVkozT1puQXB3cGJvQVZRWllLeTNCaTUwQUZfRVNnTDUycWNVOVEtdm05ZUxwZVZUbU5XTkZlTHU2bXow0gFuQVVfeXFMTUpMc0NXZjd2aWRKUy1QMktzekpsZUo3R3JVWmYtV1ZYTFdFUFVNWDdDZWp5R1ZRenk3NjVCUDZNWi1NOGc3N2NOZm1oN1VUTWUwNE9jcHFyVldLR2JSZzhpOG0tSVE3aG5EMFpNVUE?oc=5"
-  },
-  {
-   "title": "코스피 18% 역대급 폭등한 날, 개미는 역대 최대 10조 던졌다",
-   "source": "조선일보",
-   "time": "2026-07-31T15:35:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUJOeXp3N0xTcHBCYjNCa2FSRjNLNmlHdHVTWElLRE9QRS0yVzlZdnpjd1d4TnA4YThLVzlodEEyaXRwWVRySDROMDAtRkllZ1VhRUlyQkdqZHk0RzJSVGdBUFdmOVBXRGcwWTdDUTY5MVZuTnRVTkxEQmVwek5vZVlYd2VfbHBYYURVNVZ3?oc=5"
-  }
- ]
+ "news": []
 }
