@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T20:54:18.306791+09:00",
+ "updated": "2026-08-01T21:59:06.114661+09:00",
  "quotes": {
   "k200": {
    "price": 1046.81,
@@ -738,22 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63016.98,
+   "price": 63033.2,
    "prev": 62823.297,
    "spark": [
-    63041.1211,
-    63051.0,
-    63075.0,
-    63061.3398,
-    63072.8984,
-    63057.2305,
-    63056.8711,
-    63046.3516,
-    63040.4102,
-    63048.3398,
-    63043.7383,
-    63048.6289,
-    63052.9102,
     63013.9102,
     62986.6797,
     62993.2891,
@@ -779,27 +766,27 @@
     63013.5312,
     63009.5898,
     63019.2188,
-    63016.9609,
-    63016.9805
+    63011.7812,
+    63016.4688,
+    63039.2383,
+    63041.4492,
+    63031.4492,
+    63042.3008,
+    63039.0,
+    63027.0,
+    63024.2383,
+    63019.9883,
+    63028.8906,
+    63039.8789,
+    63041.0312,
+    63041.1602,
+    63033.1992
    ]
   },
   "eth": {
-   "price": 1864.93,
+   "price": 1867.16,
    "prev": 1860.5466,
    "spark": [
-    1866.39,
-    1866.1,
-    1867.13,
-    1867.6,
-    1867.2,
-    1866.91,
-    1868.26,
-    1868.55,
-    1868.4,
-    1867.98,
-    1868.41,
-    1868.79,
-    1868.29,
     1866.9399,
     1866.17,
     1866.2,
@@ -825,8 +812,21 @@
     1865.3,
     1864.8101,
     1864.72,
-    1864.92,
-    1864.9301
+    1864.89,
+    1865.1899,
+    1866.47,
+    1865.52,
+    1866.11,
+    1866.16,
+    1866.04,
+    1865.86,
+    1866.09,
+    1865.61,
+    1866.02,
+    1867.47,
+    1867.48,
+    1867.8101,
+    1867.16
    ]
   },
   "eurkrw": {
@@ -1108,16 +1108,16 @@
  },
  "news": [
   {
-   "title": "[뉴스초점] 하루에 1,001p↑…코스피, 역대 최대폭 상승",
-   "source": "v.daum.net",
-   "time": "2026-08-01T14:10:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yT2YybnFzdnRLTEhDWjBiUW5jdy1lREFjdlRqNTBrMHpTSFpYUmUyUTJRdWo0Z19rSjR5MG1xaF9wT2xENndxTEZqZXNJUW8?oc=5"
-  },
-  {
    "title": "[속보]“‘레버리지 ETF’ 국정조사… 김용범 경질”… ‘롤러코스피’ 공세 수위 높이는 국민의힘",
    "source": "문화일보",
    "time": "2026-08-01T15:14:25+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94LV9rbjBIdU53X2NHaWp0VG1Sb0pxLXRSeE16ZzFway1jTkc3VFZBNC11TU9nYVpLUElGYmk5RVJKNlJRdC1SQ1lKNjNrMlZP?oc=5"
+  },
+  {
+   "title": "[뉴스초점] 하루에 1,001p↑…코스피, 역대 최대폭 상승",
+   "source": "v.daum.net",
+   "time": "2026-08-01T14:10:43+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yT2YybnFzdnRLTEhDWjBiUW5jdy1lREFjdlRqNTBrMHpTSFpYUmUyUTJRdWo0Z19rSjR5MG1xaF9wT2xENndxTEZqZXNJUW8?oc=5"
   },
   {
    "title": "하이닉스 '사상 최대실적'에도 코스피 하락...이유는? [뉴스나우]",
@@ -1127,13 +1127,13 @@
   },
   {
    "title": "“290만→132만 원”…지금 코스피가 바닥인지 확인하는 3가지 신호 [잇슈 머니]",
-   "source": "news.kbs.co.kr",
+   "source": "KBS 뉴스",
    "time": "2026-07-31T06:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TR1NFbUUweEY0ZVdfSWQ1bkFWZWc1UjVBdWlxRUszSGJXdTNlMzBudFNCTDA5Q3RRMzA1NlFyZFRCZUZ2US1xb1FDOUg2cTdzdjZaMXFSckxycGc?oc=5"
   },
   {
-   "title": "\"韓 변동성 오히려 좋아\"...코스피200 커버드콜 홍콩 첫 출시",
-   "source": "한국경제",
+   "title": "\"韓 변동성 오히려 좋아\"…코스피200 커버드콜 홍콩 첫 출시",
+   "source": "hankyung.com",
    "time": "2026-08-01T20:22:15+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QQmptbEFCWTJTS29SbjVBVDE1Y2ZpZmdyZFFxZHNHdVNEYndkNTJZRkQtQjNMMFBHTmFQVTZQaGNoTTJWSDBlRy1FbW9qaW1YWmZGYlBnN0hYZw?oc=5"
   },
@@ -1150,10 +1150,22 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHTFlZdGF0ZnZ2WDZFRGFoNlFESzlEbmpkaVN3elRmQ0M0ZVdGQUdMM1dLb1hvRkQ3VWNxZlFNcmZfWDQ5d2dYTkdjZjIyT1FVdzZvTVZIS29JVjJ3U1lLSDJrVTdhS2NwakxNVkVCYVk?oc=5"
   },
   {
+   "title": "코스피, 상승폭 1001 상승률 17.9% 사상 최대…널뛰는 증시에 ‘어질’",
+   "source": "한겨레",
+   "time": "2026-07-31T18:15:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VLTVDM1VleEZXVjRjTFBGM3d6ZUwxQVIzODA5SEZKMndkWFpuRzVNeDluUC0yOEJKeWRfUFRDeXZSdTFkT2VLc29nZ3lqaXlURGR0RENKVUZpRjVlLURmbkZ5dFlKUi1yeDc3SVVRQXE1dw?oc=5"
+  },
+  {
    "title": "뉴욕증시, 아마존 실적 훈풍에 강세 마감…나스닥 1%↑(종합)",
-   "source": "yna.co.kr",
+   "source": "연합뉴스",
    "time": "2026-08-01T05:53:15+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xOGFQY056eFQxVVR1LTZWRXFPc1B6S0piMFp3cHBIa3lKRGhaOVFZMFNQbFYwZVZVc05fWF9DSzJta0JNRHMyemRHM1ptOExXOGhVZU11d2p3cXfSAWBBVV95cUxNR3hyVThGay1lV0d2T2FMYjZpdGFqcTBPMjBVRG92bG81N0s0SFBYdVBZWUpjcFlnVm9CLThLV3hESWlKT0tkRkxrQ1RIQWRvR2JDVDNncEZ3dUJreUFBeU4?oc=5"
+  },
+  {
+   "title": "[속보] 코스피, 10%대 이상 폭등…장중 ‘6000피’ 회복",
+   "source": "매일경제 마켓",
+   "time": "2026-07-31T09:05:08+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ZzR3Z2hZOWJpSkRCYlUtR2ZYS0R4b1ZDSU5sTGE2UGZUNVpOSDBsLXNZaG1aTEp5Ry1RV3piSFNYX2FDOGVoQXl3ZmE4YU1aX3c?oc=5"
   },
   {
    "title": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄",
@@ -1162,16 +1174,10 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lRTV5cEZPNVFTU2tYUFk1T1R1WTB0RDgxQ2RvNGRLdjZvdjJDekZTSDZTWG9VSzloNk9TRDk0bzl2MU5tNHlUWFYwOGxMd0tENVlRWWh2c1RBSTl4ejE5TlJIS21jSzEtLURiVWxiOA?oc=5"
   },
   {
-   "title": "코스피, 상승폭 1001 상승률 17.9% 사상 최대…널뛰는 증시에 ‘어질’",
-   "source": "hani.co.kr",
-   "time": "2026-07-31T18:15:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VLTVDM1VleEZXVjRjTFBGM3d6ZUwxQVIzODA5SEZKMndkWFpuRzVNeDluUC0yOEJKeWRfUFRDeXZSdTFkT2VLc29nZ3lqaXlURGR0RENKVUZpRjVlLURmbkZ5dFlKUi1yeDc3SVVRQXE1dw?oc=5"
-  },
-  {
-   "title": "[속보] 코스피, 10%대 이상 폭등…장중 ‘6000피’ 회복",
-   "source": "매일경제 마켓",
-   "time": "2026-07-31T09:05:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ZzR3Z2hZOWJpSkRCYlUtR2ZYS0R4b1ZDSU5sTGE2UGZUNVpOSDBsLXNZaG1aTEp5Ry1RV3piSFNYX2FDOGVoQXl3ZmE4YU1aX3c?oc=5"
+   "title": "[속보]코스피, 12% 급등에 매수사이드카…삼전·닉스 20% 폭등",
+   "source": "경향신문",
+   "time": "2026-07-31T09:13:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBWm5oZEdFSmNqbDhJMjhPOUlWeW9LY2JZYmpjblhMWWZ1X2tJbjBWaE1ReEtrWVNnblE5VUhEUjFOZ0FfUzZLUjJkdVFPRkZ5Y2JlVXNVaW00UQ?oc=5"
   },
   {
    "title": "‘한미일 환율 공조’ 157엔 만들었다…추가 개입 촉각 [이슈+]",
@@ -1184,12 +1190,6 @@
    "source": "v.daum.net",
    "time": "2026-08-01T06:01:07+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42V2xFV1BsSkh1ZlBHVGhBWl9mZTlxeC05c2ZhWTF0SVpqc3dtd2pYZ1h6MzI1ejk0TlMxWkl2dEZxSkZXZlRibHNjZEFoaUE?oc=5"
-  },
-  {
-   "title": "현금은 적자인데...아마존, 뉴욕 증시를 웃게 한 비결",
-   "source": "YTN",
-   "time": "2026-08-01T06:53:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnS2dCcy1BR2UzLWd1a19aWXV2STJmOXVTbndEV0VxNHgzYkg5NlhmZngtbDFjRHgyWkE3a1QyTkUxX2hKaFJtcTNuWThkdWlMdm5YTmhfbVFlNjJXWFE?oc=5"
   }
  ]
 }
