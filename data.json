@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T08:44:31.033671+09:00",
+ "updated": "2026-08-01T10:16:36.622095+09:00",
  "quotes": {
   "k200": {
    "price": 1046.81,
@@ -141,7 +141,7 @@
   },
   "kosdaq": {
    "price": 719.76,
-   "prev": 662.68,
+   "prev": 644.78,
    "spark": [
     705.43,
     704.88,
@@ -738,95 +738,49 @@
    ]
   },
   "btc": {
-   "price": 62897.26,
-   "prev": 64724.03,
+   "price": 62909.95,
+   "prev": 62823.297,
    "spark": [
-    62944.3984,
+    62891.8516,
+    62887.2188,
+    62888.1914,
     62896.9688,
-    62924.3203,
-    62915.4609,
-    62893.3594,
-    62892.3984,
-    62852.2305,
-    62906.7695,
-    62946.1914,
-    62962.0312,
-    62979.0195,
-    62947.9492,
-    62953.3516,
-    62967.9492,
-    62981.2305,
-    62993.1992,
-    62929.4492,
-    62895.6992,
-    62891.9297,
-    62949.8984,
-    62940.5117,
-    62940.3203,
-    62928.3086,
-    62919.4609,
-    62915.3203,
-    62887.7383,
-    62888.0312,
-    62866.5508,
-    62869.8516,
-    62884.9414,
-    62917.5117,
-    62924.5703,
-    62917.5898,
-    62945.4805,
-    62925.9883,
-    62925.3984,
-    62922.4609,
-    62921.5,
-    62900.0,
-    62897.2617
+    62905.0,
+    62902.1992,
+    62919.6992,
+    62928.0312,
+    62937.1406,
+    62939.3086,
+    62908.8203,
+    62875.75,
+    62891.6289,
+    62895.1211,
+    62901.8984,
+    62911.8203,
+    62909.9492
    ]
   },
   "eth": {
-   "price": 1862.07,
-   "prev": 1917.157,
+   "price": 1864.87,
+   "prev": 1860.5466,
    "spark": [
-    1865.16,
-    1863.24,
-    1865.01,
-    1862.64,
-    1862.49,
-    1860.4,
-    1859.99,
-    1861.79,
-    1861.01,
-    1861.21,
-    1861.34,
-    1861.22,
-    1860.78,
-    1861.41,
-    1860.8199,
-    1862.01,
-    1860.41,
-    1860.0,
-    1859.8199,
-    1861.2,
-    1860.9,
-    1861.25,
-    1862.11,
-    1861.8101,
-    1862.9301,
-    1862.2,
-    1862.25,
-    1861.21,
-    1860.14,
-    1859.63,
-    1861.67,
-    1861.46,
-    1860.87,
-    1861.96,
-    1861.83,
-    1862.35,
-    1862.38,
-    1862.1899,
-    1862.0699,
-    1862.0699
+    1863.3,
+    1862.8101,
+    1863.08,
+    1864.0699,
+    1863.99,
+    1864.05,
+    1864.6899,
+    1864.71,
+    1865.3101,
+    1865.21,
+    1864.5601,
+    1862.86,
+    1864.8199,
+    1864.89,
+    1864.48,
+    1864.8101,
+    1864.87
    ]
   },
   "eurkrw": {
@@ -1138,28 +1092,22 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BekY2el93cXlQa25tZVVNZ2FTM3RGazFGLUk3VjF3ODRIODAyNThjUGdmQkVQc0c2alYzM0ZVYm03bmhwUlhsSTFnbGE4ZWFj?oc=5"
   },
   {
-   "title": "뉴욕증시, 아마존 실적 훈풍에 강세 마감…나스닥 1%↑",
+   "title": "다시 만난 ‘800원대’ 엔화···환전 미리 해둘까?[경제뭔데]",
    "source": "v.daum.net",
-   "time": "2026-08-01T07:24:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02QXZTR2Y5aDJ1bzhwbE9oOERnM01rRHNlVzJVU2NpbzhHNU4xMS1GOWVhZTVMRDZlRTlIZklUVmZlUW9mTE5sUmZWNGkwa0U?oc=5"
+   "time": "2026-08-01T06:01:07+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42V2xFV1BsSkh1ZlBHVGhBWl9mZTlxeC05c2ZhWTF0SVpqc3dtd2pYZ1h6MzI1ejk0TlMxWkl2dEZxSkZXZlRibHNjZEFoaUE?oc=5"
   },
   {
    "title": "하이닉스 '사상 최대실적'에도 코스피 하락...이유는? [뉴스나우]",
-   "source": "YTN",
+   "source": "ytn.co.kr",
    "time": "2026-07-29T13:01:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY1RUWk9aUmpEVHpaSVlKVG8zbjZZTGg3alRrWVNXN0V4bVNGQXo0SG1lX2pKOWo3ZGVueHcyd2JjM3plUE5vaDlvMGxESmwybXVHcV9YVEZzb2FOWlE?oc=5"
   },
   {
    "title": "코스피 18% 급등 ‘역대 최대’…SK하이닉스 상한가",
-   "source": "news.kbs.co.kr",
+   "source": "KBS 뉴스",
    "time": "2026-07-31T19:43:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95X2xINHBoUE5mVG9HYVVsU3BKTkh6bHl5RjNmRjdjNHlnMTEwWlVDY1p4QjFxMEF6UUp5dUY2bWxQWENKdENpYS1JYVk5ajdWUlZld3pFTm82Vm8?oc=5"
-  },
-  {
-   "title": "코스피 17.9% 사상 초유의 폭등…불안한 개미들은 8.2조 팔았다",
-   "source": "중앙일보",
-   "time": "2026-07-31T15:37:14+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UbWl1OE5ndlRrYWxvNUZSWXlEZ21Gdm5DbnhWSG9EOTcwdGN5MjlCTzlJdTJiVDhaYjJRN2NEczdFb1N0bVdRZUFiMlYzdUEwcDlOenJR?oc=5"
   },
   {
    "title": "한 달 만에 141원 '수직 낙하'…고환율 끌어내린 세 가지 요인",
@@ -1168,16 +1116,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qZDdTYlZVLUxJSU5fclZnOFBhQkFWb0hXcTNad05mTWFlNzZ1X29JdUZTY3Z2N0h3WEQtS0dIXzFId1ZtREdMVk9lTUxJWkZrMktWS3RGLWx2QQ?oc=5"
   },
   {
+   "title": "코스피 17.9% 사상 초유의 폭등…불안한 개미들은 8.2조 팔았다",
+   "source": "중앙일보",
+   "time": "2026-07-31T15:37:14+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UbWl1OE5ndlRrYWxvNUZSWXlEZ21Gdm5DbnhWSG9EOTcwdGN5MjlCTzlJdTJiVDhaYjJRN2NEczdFb1N0bVdRZUFiMlYzdUEwcDlOenJR?oc=5"
+  },
+  {
    "title": "[증시-마감] '검은 화요일' 코스피 10.84% 폭락…6,000선 겨우 지켰다",
    "source": "연합인포맥스",
    "time": "2026-07-28T16:10:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zdTRzX2M5bjh4NmhqclF0Uy12YlBuejZHdFplWjgxaVUyNVFTMXZjMDlVdTMtb1JHRm9PdU1MMGl0Ym40S3FWLUl0T1VVUDZrOTFyLVd0UkdudmdmV0pLYVhOTkJmTFNPQnlHQWhhcVM?oc=5"
   },
   {
-   "title": "[속보] 코스피, 10%대 이상 폭등…장중 ‘6000피’ 회복",
-   "source": "매일경제 마켓",
-   "time": "2026-07-31T09:05:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ZzR3Z2hZOWJpSkRCYlUtR2ZYS0R4b1ZDSU5sTGE2UGZUNVpOSDBsLXNZaG1aTEp5Ry1RV3piSFNYX2FDOGVoQXl3ZmE4YU1aX3c?oc=5"
+   "title": "증시 반등에 바이오주 동반 강세…오름테라퓨틱은 18% 급등 [바이오맥짚기]",
+   "source": "팜이데일리",
+   "time": "2026-08-01T08:00:08+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOLVBNYmRtczR1SEdqaEVjcXFqRzg5NERCZUpTOUtNckhqeXZDeXRqWGJJYlFRcGN0NVA4ZWJMQUV3N1QwUGVQQ2dYWlk2dnBCT2l3cmFyTWhEU1lSemN2R1lNU1Npa2lCVnBBZ2Z3?oc=5"
   },
   {
    "title": "코스피, 사상 처음 하루 1000포인트 올라...삼성전자 26.8% 폭등, SK하이닉스는 상한가",
