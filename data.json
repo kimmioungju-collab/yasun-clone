@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T08:32:17.898687+09:00",
+ "updated": "2026-08-02T10:08:34.887949+09:00",
  "quotes": {
   "k200": {
    "price": 1046.81,
@@ -738,95 +738,45 @@
    ]
   },
   "btc": {
-   "price": 62721.86,
-   "prev": 62823.297,
+   "price": 62845.97,
+   "prev": 62762.418,
    "spark": [
-    62558.25,
-    62560.5,
-    62533.4492,
-    62513.3789,
-    62539.8398,
-    62568.5508,
-    62597.2383,
-    62604.9219,
-    62697.5195,
-    62707.5391,
-    62690.5508,
-    62720.8906,
-    62703.6094,
-    62741.3008,
-    62794.2109,
-    62731.8516,
-    62740.3516,
-    62758.6289,
-    62742.1484,
-    62761.3594,
-    62773.1211,
-    62783.7617,
-    62800.4883,
-    62787.4414,
-    62772.1289,
-    62800.8594,
-    62793.6406,
-    62791.0117,
-    62789.6094,
-    62786.8906,
-    62777.3008,
-    62765.3594,
-    62786.5898,
-    62776.0195,
-    62750.9492,
-    62719.5703,
-    62729.3008,
-    62715.0781,
-    62723.9805,
-    62721.8594
+    62836.0117,
+    62851.2812,
+    62869.4414,
+    62867.4805,
+    62851.0195,
+    62822.9688,
+    62815.1484,
+    62793.0117,
+    62787.3594,
+    62773.1289,
+    62748.1992,
+    62775.0,
+    62807.1797,
+    62854.9492,
+    62845.9688
    ]
   },
   "eth": {
-   "price": 1842.51,
-   "prev": 1860.5466,
+   "price": 1850.19,
+   "prev": 1843.4186,
    "spark": [
-    1836.89,
-    1836.0601,
-    1834.37,
-    1831.91,
-    1832.99,
-    1834.9,
-    1835.45,
-    1836.6801,
-    1838.8199,
-    1838.24,
-    1836.63,
-    1840.64,
-    1840.5699,
-    1841.4301,
-    1843.4,
-    1841.91,
-    1842.95,
-    1843.2,
-    1842.48,
-    1844.03,
-    1844.9301,
-    1845.8101,
-    1846.17,
-    1846.12,
-    1845.0699,
-    1847.49,
-    1846.22,
-    1845.6801,
-    1846.0,
-    1845.8101,
-    1846.0,
-    1845.5,
-    1846.0,
-    1846.11,
-    1844.86,
-    1843.22,
-    1842.78,
-    1841.78,
-    1843.04,
-    1842.51
+    1846.38,
+    1845.0601,
+    1845.95,
+    1846.29,
+    1845.86,
+    1843.53,
+    1843.46,
+    1842.8101,
+    1843.72,
+    1843.45,
+    1842.04,
+    1844.96,
+    1846.61,
+    1850.4,
+    1850.1899
    ]
   },
   "eurkrw": {
@@ -1108,10 +1058,22 @@
  },
  "news": [
   {
+   "title": "반도체 쇼크, 코스피 종목 73% 무너졌다…순환매 언제쯤 오나",
+   "source": "v.daum.net",
+   "time": "2026-08-02T06:02:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BWGNHUnVNU19oVktEWmphWkJDQ21LNU5TeGI3VFNwTDJGWlRka0I4N3JJbUxFWWhFSkVmX1JCRUR3RUc1dXEtR2E4ZGtRck0?oc=5"
+  },
+  {
    "title": "[주간증시전망] 역사적 변동성에도 주간 하락률 1%대…추세적 반등 ’촉각’ By EBN",
    "source": "Investing.com 한국어",
    "time": "2026-08-02T06:42:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTS2pZa1ZTVE5CMXBpbUI0RXV4SkppVmtGQ3VFM2M1NmJoSjhCRm96OElEV1pSOWxRZVQ0RTJYc0VoOEgwbDFrN3pkbXZTU0tVbUxTLUpEZUcxZ3J0V05sdDNoOEVXbTQ4NzFleWJTQXM?oc=5"
+  },
+  {
+   "title": "새 역사 쓴 코스피, 8월엔 변동성 줄어들까[주간증시]",
+   "source": "에너지경제신문",
+   "time": "2026-08-02T08:44:47+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tdkNWV2hieHE5NUhzb2oyTjBNSEh4Z2tmdDJOM3M0c3l5XzVnbXFydjhoNXkwZzhxeGRaLUViSmY2VHp5YlhsR0hFcVZTdEJOWUwzaHNVRDlPTHptMjVibGJSWQ?oc=5"
   },
   {
    "title": "하이닉스 '사상 최대실적'에도 코스피 하락...이유는? [뉴스나우]",
@@ -1127,15 +1089,9 @@
   },
   {
    "title": "코스피, 사상 처음 하루 1000포인트 올라...삼성전자 26.8% 폭등, SK하이닉스는 상한가",
-   "source": "chosun.com",
+   "source": "조선일보",
    "time": "2026-07-31T15:54:32+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX0ZKd0ZpWlI3NzFudEd0Tnh0dDBYcWhCRjNtOGpwdVVGaldiYkRDX2RtT3VYdDl2WW82SXZWVE1QQ1ktVGJNcFBjMkJsQ1c5VkpDM0s1d2tpVHBlSi1BWTVXejloQ1pfLTUtbnotUGdMLUw4U05ZLUVZVTlWSWFDeA?oc=5"
-  },
-  {
-   "title": "[뉴욕증시-주간전망] 겨우 살아난 AI 투심…美·이란 분쟁 속 고용 주목",
-   "source": "연합뉴스",
-   "time": "2026-08-02T07:00:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UeDhwSHVHQjlEd2p0eEtWQ2VtOVhPdVVkdW1FUHpQdWtXanFTT0Z6UUdNcndzWGVLMWt6SHZZR0NmUHBHX3VaaXJfdU1LRnZ2Uko0RHVUdmxvdEXSAWBBVV95cUxNQUp2aTVzOHlkdTNKTGhmUVhMUEtWd1FTeTMtRVFSV2VDVGpfdUt6akpiUzFiLXlhbU9sZm9VdVJOTkIzWkZvWVRhdDJPbUNVS3gwUzloWFc2MHpDblg3dk8?oc=5"
   },
   {
    "title": "서킷도 못 막은 패닉장…코스피 추가 하락에 '2단계 서킷' 공포 현실화",
@@ -1144,10 +1100,10 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHTFlZdGF0ZnZ2WDZFRGFoNlFESzlEbmpkaVN3elRmQ0M0ZVdGQUdMM1dLb1hvRkQ3VWNxZlFNcmZfWDQ5d2dYTkdjZjIyT1FVdzZvTVZIS29JVjJ3U1lLSDJrVTdhS2NwakxNVkVCYVk?oc=5"
   },
   {
-   "title": "환율, 1600원 문턱서 1400원대로 급락…\"장기적 고환율 국면은 계속\"",
-   "source": "v.daum.net",
-   "time": "2026-08-02T07:31:28+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50VHlBZzdONDd1eHVESGl6bkVDWE9SNUgxUHRqdE5GTUV2V0g2eHNnckU1ZmkxRXNCN3NLUkJ5SEpreW10SDZPX3dLNTZpUk0?oc=5"
+   "title": "[뉴욕증시-주간전망] 겨우 살아난 AI 투심…美·이란 분쟁 속 고용 주목",
+   "source": "연합뉴스",
+   "time": "2026-08-02T07:00:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UeDhwSHVHQjlEd2p0eEtWQ2VtOVhPdVVkdW1FUHpQdWtXanFTT0Z6UUdNcndzWGVLMWt6SHZZR0NmUHBHX3VaaXJfdU1LRnZ2Uko0RHVUdmxvdEXSAWBBVV95cUxNQUp2aTVzOHlkdTNKTGhmUVhMUEtWd1FTeTMtRVFSV2VDVGpfdUt6akpiUzFiLXlhbU9sZm9VdVJOTkIzWkZvWVRhdDJPbUNVS3gwUzloWFc2MHpDblg3dk8?oc=5"
   },
   {
    "title": "코스피, 상승폭 1001 상승률 17.9% 사상 최대…널뛰는 증시에 ‘어질’",
@@ -1156,22 +1112,22 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VLTVDM1VleEZXVjRjTFBGM3d6ZUwxQVIzODA5SEZKMndkWFpuRzVNeDluUC0yOEJKeWRfUFRDeXZSdTFkT2VLc29nZ3lqaXlURGR0RENKVUZpRjVlLURmbkZ5dFlKUi1yeDc3SVVRQXE1dw?oc=5"
   },
   {
-   "title": "반도체 쇼크, 코스피 종목 73% 무너졌다…순환매 언제쯤 오나",
-   "source": "중앙일보",
-   "time": "2026-08-02T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GMVBpUVBQUEROSzVtbTJMYkdYNGtrVjBjanduQlhJbTcxdk01LTlSaVZkZlJ2WXNTS0dLei1jUENHTjRYYWhtOUt5UF9qaHpuT2I5dEpB?oc=5"
-  },
-  {
    "title": "\"다 내려놓고 갑니다\" 절망한 가장…이틀 후 급반전 증시에 안타까움만",
    "source": "뉴스1",
    "time": "2026-08-02T05:50:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FcjB4LXdWTWZMdWt1SEdlVUFSejQ4ekNPRlY4MVpGMVhZZy15amZvRHhxb0tVbGlPeV91WjQyeVBCdmxZdm9kZDVYTXExVEpFT0hGSmMwZE9YY0hzNVA1bWRn?oc=5"
   },
   {
-   "title": "[속보] 코스피, 10%대 이상 폭등…장중 ‘6000피’ 회복",
-   "source": "매일경제 마켓",
-   "time": "2026-07-31T09:05:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ZzR3Z2hZOWJpSkRCYlUtR2ZYS0R4b1ZDSU5sTGE2UGZUNVpOSDBsLXNZaG1aTEp5Ry1RV3piSFNYX2FDOGVoQXl3ZmE4YU1aX3c?oc=5"
+   "title": "[이번주 환율] 달러·원 환율 1400원대 초중반 숨고르기 국면…수급 개선에 5개월만 최저",
+   "source": "오피니언뉴스",
+   "time": "2026-08-02T09:32:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56YnRwdElzVHozckhGME9DRUM3RUZ1TVNrT0JNLTMwcjFSVHU1SGNsSkQ3czVNOVVaX0tvcWhqdUpQRl9fODA3dzhwcTRIeERLeHNXUVNSeWo3NEZhZG45NVBqS29aQ0l0M1ZLc0tHdUs?oc=5"
+  },
+  {
+   "title": "상반기 유증 6.3조…코스피는 줄고 코스닥은 늘었다",
+   "source": "서울경제TV",
+   "time": "2026-08-02T08:00:04+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGR2FrWkFIdGZieVdXNTJxVGJTOXhQaGRpMGdPRDRFLVFaWklPMm1MX3NSSFdqT0xkdnFuX08wT2tMbEQza0VvWTRVZUFvVGpjRTVmakR4eHJYZ3l3NVJoU1p1bjY?oc=5"
   },
   {
    "title": "\"미련하게 누가 '4% 적금' 드냐\"더니…코스피 폭락하자 \"차라리 적금 들 걸\" [개미의 세계]",
@@ -1180,16 +1136,10 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aZnVLWnpVSkFQa2h0bExCQWtqZnV4RENSUU5SQy03Zmw4czFnYncyeHZsYXRycUFvNVRjc3BNejRibmJESS05T25XWFNVTFc1NEVrczlXRktMZw?oc=5"
   },
   {
-   "title": "[속보]코스피, 12% 급등에 매수사이드카…삼전·닉스 20% 폭등",
-   "source": "경향신문",
-   "time": "2026-07-31T09:13:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBWm5oZEdFSmNqbDhJMjhPOUlWeW9LY2JZYmpjblhMWWZ1X2tJbjBWaE1ReEtrWVNnblE5VUhEUjFOZ0FfUzZLUjJkdVFPRkZ5Y2JlVXNVaW00UdIBX0FVX3lxTE1URDdkMkRPU2NPN0hDTGxSRlREajk5My16LVJORUVmS1NIQ1IwTVJHNk5HNHZhSUpwYWtuRzhlU2kyN3NhWUJES1hkdUxpY0VXdEJ1Nk1TRHBCTmVDRUxF?oc=5"
-  },
-  {
-   "title": "코스피, 역대 상승률 1위 대폭등…\"기술적 반등 시작\" [주간전망]",
-   "source": "한국경제",
-   "time": "2026-08-02T08:00:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83OU9WYVVfYk9nMzEzNzZKNDFnWkVreGViQ0RzdzFoUmFLUTBHSW5rYzZJZEI3dHcwTFp5ZldSNEhQMjZfMkE5R1hoVnNyWFdOM2g3ZWVDSmhvUQ?oc=5"
+   "title": "[속보] 코스피, 10%대 이상 폭등…장중 ‘6000피’ 회복",
+   "source": "매일경제 마켓",
+   "time": "2026-07-31T09:05:08+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ZzR3Z2hZOWJpSkRCYlUtR2ZYS0R4b1ZDSU5sTGE2UGZUNVpOSDBsLXNZaG1aTEp5Ry1RV3piSFNYX2FDOGVoQXl3ZmE4YU1aX3c?oc=5"
   }
  ]
 }
