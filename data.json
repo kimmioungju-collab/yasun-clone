@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T06:37:31.151852+09:00",
+ "updated": "2026-08-03T07:34:41.947084+09:00",
  "quotes": {
   "k200": {
    "price": 1046.81,
@@ -186,14 +186,24 @@
    ]
   },
   "nq": {
-   "price": 28404.25,
+   "price": 28617.0,
    "prev": 28404.25,
-   "spark": []
+   "spark": [
+    28623.0,
+    28595.75,
+    28612.5,
+    28617.0
+   ]
   },
   "es": {
-   "price": 7519.25,
+   "price": 7552.75,
    "prev": 7519.25,
-   "spark": []
+   "spark": [
+    7555.5,
+    7551.0,
+    7552.25,
+    7552.75
+   ]
   },
   "ndx": {
    "price": 25373.854,
@@ -334,9 +344,14 @@
    ]
   },
   "wti": {
-   "price": 84.67,
+   "price": 80.54,
    "prev": 84.67,
-   "spark": []
+   "spark": [
+    79.88,
+    80.8,
+    80.61,
+    80.54
+   ]
   },
   "brent": {
    "price": 90.12,
@@ -344,19 +359,34 @@
    "spark": []
   },
   "gold": {
-   "price": 4107.0,
+   "price": 4122.5,
    "prev": 4107.0,
-   "spark": []
+   "spark": [
+    4133.2998,
+    4125.2998,
+    4121.8999,
+    4122.5
+   ]
   },
   "silver": {
-   "price": 57.786,
+   "price": 58.55,
    "prev": 57.786,
-   "spark": []
+   "spark": [
+    58.64,
+    58.495,
+    58.505,
+    58.55
+   ]
   },
   "gas": {
-   "price": 2.747,
+   "price": 2.735,
    "prev": 2.747,
-   "spark": []
+   "spark": [
+    2.724,
+    2.729,
+    2.734,
+    2.735
+   ]
   },
   "vix": {
    "price": 15.99,
@@ -451,20 +481,9 @@
    ]
   },
   "btc": {
-   "price": 63482.92,
+   "price": 63393.87,
    "prev": 62762.418,
    "spark": [
-    63220.4883,
-    63239.8594,
-    63347.7695,
-    63406.0781,
-    63339.1094,
-    63314.9883,
-    63307.6016,
-    63274.4805,
-    63276.7305,
-    63282.6484,
-    63283.1094,
     63278.8398,
     63253.5117,
     63261.9609,
@@ -492,25 +511,25 @@
     63456.9688,
     63472.4883,
     63460.3789,
-    63480.0,
-    63482.9219
+    63441.5,
+    63625.5117,
+    63614.6094,
+    63531.6602,
+    63503.8086,
+    63623.9805,
+    63635.2305,
+    63622.8086,
+    63611.2695,
+    63591.8398,
+    63526.2695,
+    63399.0117,
+    63393.8711
    ]
   },
   "eth": {
-   "price": 1885.45,
+   "price": 1883.93,
    "prev": 1843.4186,
    "spark": [
-    1866.91,
-    1868.71,
-    1873.3101,
-    1878.39,
-    1875.45,
-    1873.38,
-    1873.72,
-    1874.16,
-    1875.3,
-    1874.4399,
-    1874.6,
     1874.86,
     1873.99,
     1874.1,
@@ -538,8 +557,19 @@
     1883.39,
     1884.98,
     1884.92,
-    1886.12,
-    1885.45
+    1884.45,
+    1892.11,
+    1892.2,
+    1888.63,
+    1888.39,
+    1893.39,
+    1893.0601,
+    1891.71,
+    1891.09,
+    1890.6,
+    1887.99,
+    1883.5,
+    1883.9301
    ]
   },
   "eurkrw": {
@@ -681,7 +711,7 @@
    ]
   },
   "usdjpy": {
-   "price": 157.45,
+   "price": 157.369,
    "prev": 159.608,
    "spark": [
     158.38,
@@ -727,7 +757,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.155,
+   "price": 1.1554,
    "prev": 1.1529,
    "spark": [
     1.1534,
@@ -773,15 +803,22 @@
    ]
   },
   "dxy": {
-   "price": 99.803,
+   "price": 99.659,
    "prev": 99.914,
-   "spark": []
+   "spark": [
+    99.615,
+    99.589,
+    99.561,
+    99.638,
+    99.659,
+    99.659
+   ]
   }
  },
  "news": [
   {
    "title": "귀국 직후 부동산·증시 점검...국정 복귀 '속도'",
-   "source": "YTN",
+   "source": "ytn.co.kr",
    "time": "2026-08-02T23:31:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1faXA1NG1TaC16aUhObUdKQ3J2NGtPbkMyb2QybUtobnVDQ1haNzdnSEZCczVSeW5jYjRqbk1fdmR4dnIxVDh1VllPMnlQcVdtWE5tbW9FZHFHQ0RCNnc?oc=5"
   },
@@ -798,22 +835,34 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uZkpPZndBeXJrRGJOcGstZXdKQkhsLVFTMHp2bl94NFRpa3d2YnFUQVZvZUhwZXVjTjdVSHl6eTNtcFR4SWhMbDhOYjRhOUJzLVRkNmVuOWRQZw?oc=5"
   },
   {
+   "title": "“레버리지 투자했다 60% 손실”…정부, 증시 긴급조치권 꺼냈다 [잇슈 머니]",
+   "source": "KBS 뉴스",
+   "time": "2026-08-03T06:54:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ1AwUDhtS3dPcVNla1hUSFJsb0RFSGtFNjhTOE53WGw4NXBzYTdvV05RT0ppbWFnXzJnUkN2R0s3eEVIRkdhYkRxMEtseTUxeDljeThmSTBwenNEY2I1THdYWEtjUQ?oc=5"
+  },
+  {
    "title": "오르는 장도 무섭다… 한국 증시를 흔드는 '3중 쏠림' - 머니투데이",
    "source": "머니투데이",
    "time": "2026-08-03T05:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5INVNYR2dLTnVhYzJRdHBkQnhCZThWYmNPYWluMmpEbHk2YkppdHlWM0dFVmFQSWd1VHBZa2dtQTNmaEhBRDZhUG0xcEEzOWU5cTJwdGsxd0VOLV94X0lJWE1YNEJBcGZ50gFuQVVfeXFMUDV0YWpWZ2N3RUpYcmVqTHY0NVJtdFR4dUZGX1NnYy1kdnUxNFMtYlRXampWcWhzS01XWG9CNllyNF9qOWh5aWg0NlpYQk5ld3haOWptbVdSdnN2WE5ZZmRmbHNQNWZvamhZcjgxLWc?oc=5"
   },
   {
-   "title": "李대통령, 순방 마치자마자 부동산·증시 점검…3일 비공개 회의(종합)",
+   "title": "[코스피·코스닥 전 거래일(31일) 주요공시]",
    "source": "연합뉴스",
-   "time": "2026-08-02T21:29:57+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rMVVLaEVmeGg1d250T3NfVUlYUmhHNnJjcXFuRnFoajhjeVJUUmhoZkR1dHFVdER2aWFKd0VGS2JvRWFEemZjaWQ1bXNYejdrbXJTX1pEYnEyQ2vSAWBBVV95cUxOMm1yeF9Wem16dk5fZm54M013UENvVUV4YlBXUGhhSTBkMGF6c3ljLTRXUnlvamt5c1JtS2VQOE9TRjJ4YWNPc3NSYjhWYUNWaE9OSml4NlEyY1ZiaThvYUo?oc=5"
+   "time": "2026-08-03T06:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rR0tVcVNlVzd5QkVGM3hEMl92M3NmRmZQLVh2eGg0QjZpQU9uNUU2dV9pRzdaZ1dQbnhMZFhxa09JWG9DQ0pKeWtwVWVwWFRSdHBjc0llUGJ4VzTSAWBBVV95cUxPSE8tZVI0ak1EMkI4SEV1cW1LZGczMEZqdEpvcnQ2VzNNLXRDd1E2a2RGZ0pua0htVTgzQnBmV09SZjlHQlhuSVNfcWRzcDE1WWFmZmYzSEJEbHhsZ3BuaFk?oc=5"
   },
   {
    "title": "역대급 악몽의 달 보낸 코스피, 8월 반등 전망…불안요소 잠복",
-   "source": "국제신문",
+   "source": "kookje.co.kr",
    "time": "2026-08-02T19:23:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUJfLW9tUFlQT0lWME9RUHA0NXR2dHNHWERHSVNibmdJajhRNTBwLWxQLVdKcXVqQm1wTjJEOVI5M1hUTjdsSUVNdGtzTjdoZWNsYUFEN0FUMTRkOG50aWcyTjUtNlZ5amdTTEpqSkU1UFg0Qk1WUEx1dTc0cTJ0dHZsRGxZQkZSLWJHT1NR?oc=5"
+  },
+  {
+   "title": "투자자 예탁금 한 달 만에 20조원 줄어… 말라가는 증시 대기 자금 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-08-03T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUF6NkxzOGs5X2hkUmhncTBXWXZBRGVSTExLQWlDZVUyWEJtTVh4dTgzNnJfY2xKQkhtcFg5MjY0SEJjV2p4UnlXblZnekdMeUFQcGR6Q2NzdW5WSUgtbUg1VlM0R0NLZUlteGxsYmNuZHNyc2IwekJfS282UnpwemhvTEtXdkdj0gGcAUFVX3lxTE5VYm1Vc09GVmRBM2VKb2xQS01nSTRybm1sVW5aWVNpYm1SOERnYzR4NEY3Nkh1Tmk3eDdtdG5lYTZFVjQxRWM5b1EyeWpid3JqekpmWnpCdHJKY0dfYjE4LVcwVUFhc3Q1YmFCX1U5d21zOXJ6bXpkRVhzVHJGV1JBazY1Snc1MnVBcWJpMlVGQW9QTnFtUUNaM21wWQ?oc=5"
   },
   {
    "title": "최장 순방 마친 李대통령, 귀국 후 내치 시험대…증시·부동산 '난제 산적'",
@@ -828,22 +877,10 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzMzlZcUZJUEtRMDdVM2xnWkdaa2FScTlqV0tzemxSZ3lWYl9RS0s2TEF0NGIyMWg4ejBuVGxmZkJOak82V05SUnlmelV1bnNiV1IyM0xKRlhuRTJJMEEtZTdFX1MtZzQ?oc=5"
   },
   {
-   "title": "증시 쏠림에 가상자산 시장 휘청… 하반기 전망 ‘냉온탕’ [심층기획]",
-   "source": "v.daum.net",
-   "time": "2026-08-03T06:02:50+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrczk2a052b2hWYkNQc1NtNlJFbzUyMEhnZl9CdGg4X3FDT1hWRVpVUW5GbTQwcVFjZmZMbzdRUXlKQ2tpdlB4Q3dDLXVTZU0?oc=5"
-  },
-  {
-   "title": "30년 만의 미·일 환율 공조 개입… 월요일 증시, 엔캐리트레이드 청산 경계령",
-   "source": "chosun.com",
-   "time": "2026-08-02T17:22:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOW5CcTI2UVBqc3NocWgzQks4ZXN0UHZpNnBxY0c3ODBYejZIWEhzbkNRbHBkMjNqbHpWNWFoQmJfa29wQ3d4OTJhY3Aza3c3Ui1tNXNSQ0lyOWpsZTIwRHdLa2dzTl92Z3ZCMUdTay1DbHdOS19SWEZsRmhoSjhPYg?oc=5"
-  },
-  {
-   "title": "“290만→132만 원”…지금 코스피가 바닥인지 확인하는 3가지 신호 [잇슈 머니]",
-   "source": "KBS 뉴스",
-   "time": "2026-07-31T06:58:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TR1NFbUUweEY0ZVdfSWQ1bkFWZWc1UjVBdWlxRUszSGJXdTNlMzBudFNCTDA5Q3RRMzA1NlFyZFRCZUZ2US1xb1FDOUg2cTdzdjZaMXFSckxycGc?oc=5"
+   "title": "환율 한달새 114원 급락… 美日, 28년만에 ‘엔화 방어’ 동시 개입",
+   "source": "동아일보",
+   "time": "2026-08-03T04:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2RzJfWklPeDRJU2FXYXZ4ZjZnQTVoVWh6LWsxbGRkVFR3RnNxYmN3TXdtQzc5dTVSSVZiLUM3UmFvLWgxM3hMaXV5UWppbG11Tk9CRUo4MXlaV0ZKTV9lYzJEZDc0VXBSQjY0RHREOWh3MlJOU2fSAWZBVV95cUxPMjV2SzZNY3B6TDNiM2JUek1ScGRaYzQ4ZFl3YzZZQ25vX3h5UXdrNTRNSnNESERLazdwS0RmclVVcmJ3ajdGWHZPelVHc3REWE93OGtUU0tSSDZ0N2RiZ3dqNnpuNmc?oc=5"
   },
   {
    "title": "[김화균 칼럼] 고약해진 코스피, 이제 ‘읍참마속’ 생각할 때다",
@@ -852,14 +889,14 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hZXZZMmZNOENFRUZSUlhwTzI1d3JxcG93M1lnaUY0ekE4ZW1ILVVBcDc4Y0VKdG9hWExjaFRrWGU3NnM3SEdBZFQ0eXF1dw?oc=5"
   },
   {
-   "title": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기",
+   "title": "李대통령, 순방 마치자마자 부동산·증시 점검…3일 비공개 회의(종합)",
    "source": "연합뉴스",
-   "time": "2026-08-02T05:49:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WVTBvcm56U3loQjROVWVSMkRLOU5fUTZqRkVJVDZzeHhBNFFiMktPbzlqRkVTQ0VaR2FOeEhQQkd3ai12Q1J1SVNLN2czR2NFTWEtclMxQXVxdGvSAWBBVV95cUxOdlBfYk9tT2pnQXdpZTJhS196bUZySlVlSS1FSE02TDZ2aVVjd0tmYVl5elJia25NWmt0bmx4MndMR09EM0Y0bUJ1b3hKd3ZEVm5IZkk1SXNSSVJQVmhxUmE?oc=5"
+   "time": "2026-08-02T21:29:57+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rMVVLaEVmeGg1d250T3NfVUlYUmhHNnJjcXFuRnFoajhjeVJUUmhoZkR1dHFVdER2aWFKd0VGS2JvRWFEemZjaWQ1bXNYejdrbXJTX1pEYnEyQ2vSAWBBVV95cUxOMm1yeF9Wem16dk5fZm54M013UENvVUV4YlBXUGhhSTBkMGF6c3ljLTRXUnlvamt5c1JtS2VQOE9TRjJ4YWNPc3NSYjhWYUNWaE9OSml4NlEyY1ZiaThvYUo?oc=5"
   },
   {
    "title": "급락 후 급등한 코스피...8월에도 상승세 이어질까",
-   "source": "YTN",
+   "source": "ytn.co.kr",
    "time": "2026-08-02T15:23:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50eTR6U0k5TjU4OVZUZjZnOU1ZdUJ4QUd4Q0gtbHFoYUJ1TldJWFRPdThCQ3RpVEEtUzZ2d3p3WURmYkZUSC14d0VXcVY0eC1mR29lemNVWHJkNnV0c2RUYUZxbzNIbWJoTi1PaGxKejB4eGdkLUE?oc=5"
   }
