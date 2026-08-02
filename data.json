@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T18:21:42.745852+09:00",
+ "updated": "2026-08-02T19:54:18.571567+09:00",
  "quotes": {
   "k200": {
    "price": 1046.81,
@@ -451,27 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63186.69,
+   "price": 63134.04,
    "prev": 62762.418,
    "spark": [
-    63375.6211,
-    63374.6289,
-    63394.0703,
-    63431.6992,
-    63407.6602,
-    63398.1484,
-    63430.7383,
-    63427.5586,
-    63421.7383,
-    63409.7383,
-    63414.5195,
-    63421.4609,
-    63426.3008,
-    63421.4414,
-    63418.1914,
-    63423.2812,
-    63419.4688,
-    63445.5,
     63468.0,
     63434.9883,
     63436.1992,
@@ -492,32 +474,32 @@
     63171.4883,
     63198.1406,
     63194.6914,
-    63189.3711,
-    63186.6914
+    63217.9883,
+    63168.7305,
+    63243.0117,
+    63208.5391,
+    63200.8906,
+    63193.25,
+    63209.8516,
+    63205.2109,
+    63173.1016,
+    63173.2617,
+    63138.1992,
+    63206.5898,
+    63084.5117,
+    63073.8594,
+    63123.9297,
+    63137.7617,
+    63140.5312,
+    63137.7305,
+    63133.5781,
+    63134.0391
    ]
   },
   "eth": {
-   "price": 1868.19,
+   "price": 1867.43,
    "prev": 1843.4186,
    "spark": [
-    1874.01,
-    1873.84,
-    1875.51,
-    1875.72,
-    1874.9,
-    1874.7,
-    1875.99,
-    1874.87,
-    1874.7,
-    1875.65,
-    1875.34,
-    1876.3199,
-    1876.24,
-    1876.17,
-    1876.6899,
-    1875.62,
-    1874.83,
-    1875.1801,
     1875.84,
     1874.76,
     1874.41,
@@ -538,8 +520,26 @@
     1867.08,
     1868.42,
     1868.58,
-    1868.14,
-    1868.1899
+    1870.12,
+    1868.52,
+    1870.11,
+    1869.0,
+    1868.63,
+    1869.0601,
+    1869.64,
+    1869.11,
+    1868.6,
+    1868.62,
+    1867.3,
+    1868.75,
+    1864.5699,
+    1864.4399,
+    1866.33,
+    1867.3,
+    1867.2,
+    1867.55,
+    1867.38,
+    1867.4301
    ]
   },
   "eurkrw": {
@@ -778,90 +778,5 @@
    "spark": []
   }
  },
- "news": [
-  {
-   "title": "급락 후 급등한 코스피...8월에도 상승세 이어질까",
-   "source": "YTN",
-   "time": "2026-08-02T15:23:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50eTR6U0k5TjU4OVZUZjZnOU1ZdUJ4QUd4Q0gtbHFoYUJ1TldJWFRPdThCQ3RpVEEtUzZ2d3p3WURmYkZUSC14d0VXcVY0eC1mR29lemNVWHJkNnV0c2RUYUZxbzNIbWJoTi1PaGxKejB4eGdkLUE?oc=5"
-  },
-  {
-   "title": "코스피 급락에 ‘마통’ 1.8조 급증…‘빚투’로 “분할매수 노려”",
-   "source": "한겨레",
-   "time": "2026-08-02T17:20:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzMzlZcUZJUEtRMDdVM2xnWkdaa2FScTlqV0tzemxSZ3lWYl9RS0s2TEF0NGIyMWg4ejBuVGxmZkJOak82V05SUnlmelV1bnNiV1IyM0xKRlhuRTJJMEEtZTdFX1MtZzQ?oc=5"
-  },
-  {
-   "title": "외신 “한국개미들 Lee 욕하며 코스피 떠난다…레버리지 대책도 뒷북”",
-   "source": "v.daum.net",
-   "time": "2026-08-02T14:18:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UbWpBTXdpRlE5VjNZTkxYSkE2am42ZEtQSWoxTDNXNWxxamRBVXBOdllNWEVwUjJadnBrdEJNaTVlUE90aVpidHlxT3lVOUE?oc=5"
-  },
-  {
-   "title": "[주간증시전망] 코스피 6500선까지 반등했지만… 널뛰는 증시에 웃지 못하는 개미들 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-08-02T10:09:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUk1TMC02NFJkRDB6WGFGaHpOTWZZZUZHWUo1aFFHLVpYX3o4bXFyM3ZTU00xb1F5aWp0QWN5TjZEcFNKNjF0b3VzdjRPZE5Yem9PREdweGlvQkVzN3p2THQ2dXJuS1F1Vzc1MTRaWXE3aDBoaUhiSHpxdVJ4UllkaFFoOUdDZlZC0gGcAUFVX3lxTE5zTjVvME5SbFhUSEhVYklrdzRxZFZrck52b0xnTU9KaUVGTGhvSnF5STF4ak5KSWx5T2tob1VpRWN6RzV1Z2pab3dQeHVZWnJqX0ZuMnJCS0ZMNDV3bzhxTVdJZHE3eE1XOVpvWF9FbzdzNFZ6cWpsLXlvM1V6WTZCa09GS29MTkhIeEJodi1uUHFoQWdvZ3NPUWZfUg?oc=5"
-  },
-  {
-   "title": "코스피 급반등에도 TK 시총 회복은 더뎠다",
-   "source": "대구일보",
-   "time": "2026-08-02T13:28:59+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFOExHdEZQR2VJRU1EbFAyX1VoUEZnQW8ycHBlZzVnQjlwdmQ1dVQ3MXhtc1g0bS1YSnVpNHNOUGdHN0VCOTN6NUZnMkdNc1QwVWItOGFiajZCRVJRbXpvMnNBdGMxZXNy?oc=5"
-  },
-  {
-   "title": "반도체 쇼크, 코스피 종목 73% 무너졌다…순환매 언제쯤 오나",
-   "source": "중앙일보",
-   "time": "2026-08-02T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GMVBpUVBQUEROSzVtbTJMYkdYNGtrVjBjanduQlhJbTcxdk01LTlSaVZkZlJ2WXNTS0dLei1jUENHTjRYYWhtOUt5UF9qaHpuT2I5dEpB?oc=5"
-  },
-  {
-   "title": "“오른 종목 찾기가 더 어려웠다”…7월 증시, 상장사 10곳 중 7곳 ‘마이너스’",
-   "source": "매일경제 마켓",
-   "time": "2026-08-02T10:38:29+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRnBzVFFVSVJNZndLSVdBNFRIVV9QcEhYeXlQVDJVdVlMV3BCRzZKazJiREt4TGNCLUYycktORzJOQWU4TGV2REllYzlhelBVRUE?oc=5"
-  },
-  {
-   "title": "[속보]7월 상장종목 10개 중 7개 ‘마이너스’… 코스피 22% 급락",
-   "source": "문화일보",
-   "time": "2026-08-02T15:50:37+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WS1pmdVhnTXlUQzVmZTRhUlItclZsM2ZkWXozTXBSUWxXemp6S2Y2MHB4SHlsMUJwTEg3NER2R3FUbXZoM0RWRzgxYzI3bTFU?oc=5"
-  },
-  {
-   "title": "[주간증시전망] 역사적 변동성에도 주간 하락률 1%대…추세적 반등 ’촉각’ By EBN",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-02T06:42:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTS2pZa1ZTVE5CMXBpbUI0RXV4SkppVmtGQ3VFM2M1NmJoSjhCRm96OElEV1pSOWxRZVQ0RTJYc0VoOEgwbDFrN3pkbXZTU0tVbUxTLUpEZUcxZ3J0V05sdDNoOEVXbTQ4NzFleWJTQXM?oc=5"
-  },
-  {
-   "title": "코스피, 역대급 하락 후 반등...상승세 이어질까",
-   "source": "YTN",
-   "time": "2026-08-02T16:59:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CbWEwRDl4M2lPRTJqalliU1d2d29teWVPZzdCaGl1UVRqQXhCWlQ3YUVTTmRGallFS2VXNWJsU1VKYXZxcjZZTnBySnJOTElvMnZvTFlUZ3JOLXFWU3BQTktXeHJqc3ZmUjgyeHk0UWxnWHRIcHc?oc=5"
-  },
-  {
-   "title": "패닉 견딘 코스피… PER 5.1배 ‘저평가’ 속 8월 반등 시험대",
-   "source": "v.daum.net",
-   "time": "2026-08-02T16:10:47+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFd3EwUDgzRWRjbGlEcUdjQ3A0ekQzeWpRYTdrRnZGYjh6eXQtMk9nTUVUQ1dFSmthQVE5eHc4TVAtTC1ERTE3akVnZXJidTQ?oc=5"
-  },
-  {
-   "title": "30년 만의 미·일 환율 공조 개입… 월요일 증시, 엔캐리트레이드 청산 경계령",
-   "source": "조선일보",
-   "time": "2026-08-02T13:26:29+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOW5CcTI2UVBqc3NocWgzQks4ZXN0UHZpNnBxY0c3ODBYejZIWEhzbkNRbHBkMjNqbHpWNWFoQmJfa29wQ3d4OTJhY3Aza3c3Ui1tNXNSQ0lyOWpsZTIwRHdLa2dzTl92Z3ZCMUdTay1DbHdOS19SWEZsRmhoSjhPYg?oc=5"
-  },
-  {
-   "title": "코스피, 상승폭 1001 상승률 17.9% 사상 최대…널뛰는 증시에 ‘어질’",
-   "source": "한겨레",
-   "time": "2026-07-31T18:15:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VLTVDM1VleEZXVjRjTFBGM3d6ZUwxQVIzODA5SEZKMndkWFpuRzVNeDluUC0yOEJKeWRfUFRDeXZSdTFkT2VLc29nZ3lqaXlURGR0RENKVUZpRjVlLURmbkZ5dFlKUi1yeDc3SVVRQXE1dw?oc=5"
-  },
-  {
-   "title": "[프리즘] 전례 없이 널뛰는 코스피…레버리지 규제 통할까",
-   "source": "v.daum.net",
-   "time": "2026-08-02T13:10:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LRG85RnpKMWdmT1N2ejFDVUxxcXp6cWJZczAwMVA2SjlnVjZkeW14SWd2anlza2JxNGVqeDExWVpONmtTR3ZRUnU1SkFuRVk?oc=5"
-  }
- ]
+ "news": []
 }
