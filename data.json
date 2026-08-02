@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T19:54:18.571567+09:00",
+ "updated": "2026-08-02T20:55:22.802686+09:00",
  "quotes": {
   "k200": {
    "price": 1046.81,
@@ -451,21 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63134.04,
+   "price": 63000.15,
    "prev": 62762.418,
    "spark": [
-    63468.0,
-    63434.9883,
-    63436.1992,
-    63447.6211,
-    63425.3516,
-    63453.6484,
-    63423.2891,
-    63421.5117,
-    63401.0117,
-    63324.0,
-    63290.9102,
-    63172.5117,
     63158.4805,
     63161.4219,
     63152.0508,
@@ -492,26 +480,26 @@
     63137.7617,
     63140.5312,
     63137.7305,
-    63133.5781,
-    63134.0391
+    63134.0391,
+    63142.7695,
+    63111.0117,
+    63084.1016,
+    63094.6016,
+    63078.4883,
+    63086.8086,
+    63093.0508,
+    63088.2695,
+    63106.7188,
+    63054.0117,
+    63041.4414,
+    62988.0781,
+    63000.1484
    ]
   },
   "eth": {
-   "price": 1867.43,
+   "price": 1850.9,
    "prev": 1843.4186,
    "spark": [
-    1875.84,
-    1874.76,
-    1874.41,
-    1874.05,
-    1874.6801,
-    1875.79,
-    1874.76,
-    1875.02,
-    1873.63,
-    1871.36,
-    1870.64,
-    1865.4399,
     1867.4,
     1867.6801,
     1867.8199,
@@ -538,8 +526,20 @@
     1867.3,
     1867.2,
     1867.55,
-    1867.38,
-    1867.4301
+    1867.34,
+    1866.85,
+    1866.1801,
+    1866.17,
+    1865.8,
+    1865.8101,
+    1863.7,
+    1862.9,
+    1862.8,
+    1861.79,
+    1854.22,
+    1854.2,
+    1850.3,
+    1850.9
    ]
   },
   "eurkrw": {
@@ -778,5 +778,90 @@
    "spark": []
   }
  },
- "news": []
+ "news": [
+  {
+   "title": "30년 만의 미·일 환율 공조 개입… 월요일 증시, 엔캐리트레이드 청산 경계령",
+   "source": "조선일보",
+   "time": "2026-08-02T17:22:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOW5CcTI2UVBqc3NocWgzQks4ZXN0UHZpNnBxY0c3ODBYejZIWEhzbkNRbHBkMjNqbHpWNWFoQmJfa29wQ3d4OTJhY3Aza3c3Ui1tNXNSQ0lyOWpsZTIwRHdLa2dzTl92Z3ZCMUdTay1DbHdOS19SWEZsRmhoSjhPYg?oc=5"
+  },
+  {
+   "title": "7월 국내 증시 종목 70%가 ‘마이너스 수익률’",
+   "source": "주간경향",
+   "time": "2026-08-02T18:39:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9STmZ4X0FwU1hfbnJGeE9XOVhxZV9zSDVUSHZHZWdJQmFONXJjSzBhX3RvOUxCMHZLY1p3N01xSHlWZjVONWQyM0xpbU5wZ1prRFV2czlPemdmcUdrcmc?oc=5"
+  },
+  {
+   "title": "최장 순방 마친 李대통령, 귀국 후 내치 시험대…증시·부동산 '난제 산적'",
+   "source": "연합인포맥스",
+   "time": "2026-08-02T17:16:44+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nR3dFek14U0dueWJsbnFIYjdaUHdPeTFEM05DUDMtM3RacEpNY3YyX0VGbXpBcFZWSkZrZDNqRTFkNF9fYl9uVjh3eTN4cWpQNlRxVXNOWmJSZ0JlTFgxMDd3TWNMWjRwWFJyWm1LLTQ?oc=5"
+  },
+  {
+   "title": "급락 후 급등한 코스피...8월에도 상승세 이어질까",
+   "source": "YTN",
+   "time": "2026-08-02T15:23:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50eTR6U0k5TjU4OVZUZjZnOU1ZdUJ4QUd4Q0gtbHFoYUJ1TldJWFRPdThCQ3RpVEEtUzZ2d3p3WURmYkZUSC14d0VXcVY0eC1mR29lemNVWHJkNnV0c2RUYUZxbzNIbWJoTi1PaGxKejB4eGdkLUE?oc=5"
+  },
+  {
+   "title": "한 달 새 서킷 4회·사이드카 15회…신뢰 갉아먹는 ‘투전판 증시’",
+   "source": "한겨레",
+   "time": "2026-08-02T19:58:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55LVhaeDlZNUU2UlFtdjI4WEhRZUpFcE5ySnFKY0hzNTh3ZlQtYVZYYVBaTGh6Vy1XYVE1RTVsZ1dFaHlYd1ZOeHA0bEJKTTBuQndkU0hjUXc5UFc1NGtWcWd4YmlSNmpzbEUycmRDMEFVdw?oc=5"
+  },
+  {
+   "title": "[마켓인사이트] 역대급 '폭락→폭등' 韓증시, 상승흐름 이어갈까",
+   "source": "연합뉴스",
+   "time": "2026-08-02T06:00:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qd1hBZHlGT2p3dHo4MWxUb0VkNXlyS2M1Tm9aaXM1RUJfaEdVT0pILTN4dTdHLURIYmpHVHpoeEFHRUx6NWozdkxVUXNPRXIzaXhaalh6aUg5YmvSAWBBVV95cUxOMlJuYjdHWHJHbHY2T1NUQjBZakNrZFJzTE9kT0hqUElDUUJjVk1sd1Vicm5WUFZOSGtnUDdHQTViX19DWDNsVndlUUVpU0ROTXR3c0twM2RZYUNmZDNKOUY?oc=5"
+  },
+  {
+   "title": "패닉 견딘 코스피… PER 5.1배 ‘저평가’ 속 8월 반등 시험대",
+   "source": "v.daum.net",
+   "time": "2026-08-02T16:10:47+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFd3EwUDgzRWRjbGlEcUdjQ3A0ekQzeWpRYTdrRnZGYjh6eXQtMk9nTUVUQ1dFSmthQVE5eHc4TVAtTC1ERTE3akVnZXJidTQ?oc=5"
+  },
+  {
+   "title": "반도체 쇼크, 코스피 종목 73% 무너졌다…순환매 언제쯤 오나",
+   "source": "중앙일보",
+   "time": "2026-08-02T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GMVBpUVBQUEROSzVtbTJMYkdYNGtrVjBjanduQlhJbTcxdk01LTlSaVZkZlJ2WXNTS0dLei1jUENHTjRYYWhtOUt5UF9qaHpuT2I5dEpB?oc=5"
+  },
+  {
+   "title": "역대급 악몽의 달 보낸 코스피, 8월 반등 전망…불안요소 잠복",
+   "source": "국제신문",
+   "time": "2026-08-02T19:23:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUJfLW9tUFlQT0lWME9RUHA0NXR2dHNHWERHSVNibmdJajhRNTBwLWxQLVdKcXVqQm1wTjJEOVI5M1hUTjdsSUVNdGtzTjdoZWNsYUFEN0FUMTRkOG50aWcyTjUtNlZ5amdTTEpqSkU1UFg0Qk1WUEx1dTc0cTJ0dHZsRGxZQkZSLWJHT1NR?oc=5"
+  },
+  {
+   "title": "코스피 급반등에도 TK 시총 회복은 더뎠다",
+   "source": "대구일보",
+   "time": "2026-08-02T13:28:59+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFOExHdEZQR2VJRU1EbFAyX1VoUEZnQW8ycHBlZzVnQjlwdmQ1dVQ3MXhtc1g0bS1YSnVpNHNOUGdHN0VCOTN6NUZnMkdNc1QwVWItOGFiajZCRVJRbXpvMnNBdGMxZXNy?oc=5"
+  },
+  {
+   "title": "“오른 종목 찾기가 더 어려웠다”…7월 증시, 상장사 10곳 중 7곳 ‘마이너스’",
+   "source": "매일경제 마켓",
+   "time": "2026-08-02T10:38:29+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRnBzVFFVSVJNZndLSVdBNFRIVV9QcEhYeXlQVDJVdVlMV3BCRzZKazJiREt4TGNCLUYycktORzJOQWU4TGV2REllYzlhelBVRUE?oc=5"
+  },
+  {
+   "title": "코스피, 역대급 하락 후 반등...상승세 이어질까",
+   "source": "YTN",
+   "time": "2026-08-02T16:59:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CbWEwRDl4M2lPRTJqalliU1d2d29teWVPZzdCaGl1UVRqQXhCWlQ3YUVTTmRGallFS2VXNWJsU1VKYXZxcjZZTnBySnJOTElvMnZvTFlUZ3JOLXFWU3BQTktXeHJqc3ZmUjgyeHk0UWxnWHRIcHc?oc=5"
+  },
+  {
+   "title": "코스피 급락에 ‘마통’ 1.8조 급증…‘빚투’로 “분할매수 노려”",
+   "source": "한겨레",
+   "time": "2026-08-02T20:11:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzMzlZcUZJUEtRMDdVM2xnWkdaa2FScTlqV0tzemxSZ3lWYl9RS0s2TEF0NGIyMWg4ejBuVGxmZkJOak82V05SUnlmelV1bnNiV1IyM0xKRlhuRTJJMEEtZTdFX1MtZzQ?oc=5"
+  },
+  {
+   "title": "[주간증시전망] 코스피 6500선까지 반등했지만… 널뛰는 증시에 웃지 못하는 개미들 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-08-02T10:09:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUk1TMC02NFJkRDB6WGFGaHpOTWZZZUZHWUo1aFFHLVpYX3o4bXFyM3ZTU00xb1F5aWp0QWN5TjZEcFNKNjF0b3VzdjRPZE5Yem9PREdweGlvQkVzN3p2THQ2dXJuS1F1Vzc1MTRaWXE3aDBoaUhiSHpxdVJ4UllkaFFoOUdDZlZC0gGcAUFVX3lxTE5zTjVvME5SbFhUSEhVYklrdzRxZFZrck52b0xnTU9KaUVGTGhvSnF5STF4ak5KSWx5T2tob1VpRWN6RzV1Z2pab3dQeHVZWnJqX0ZuMnJCS0ZMNDV3bzhxTVdJZHE3eE1XOVpvWF9FbzdzNFZ6cWpsLXlvM1V6WTZCa09GS29MTkhIeEJodi1uUHFoQWdvZ3NPUWZfUg?oc=5"
+  }
+ ]
 }
