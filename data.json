@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T01:38:39.229180+09:00",
+ "updated": "2026-08-03T02:42:45.308860+09:00",
  "quotes": {
   "k200": {
    "price": 1046.81,
@@ -197,7 +197,7 @@
   },
   "ndx": {
    "price": 25373.854,
-   "prev": 25122.178,
+   "prev": 25122.2,
    "spark": [
     25257.4707,
     25262.1758,
@@ -243,7 +243,7 @@
   },
   "sox": {
    "price": 11311.075,
-   "prev": 11302.987,
+   "prev": 11303.0,
    "spark": [
     11390.9668,
     11409.4805,
@@ -289,7 +289,7 @@
   },
   "nikkei": {
    "price": 64362.02,
-   "prev": 61867.43,
+   "prev": 61867.4,
    "spark": [
     64580.7617,
     64572.25,
@@ -451,95 +451,95 @@
    ]
   },
   "btc": {
-   "price": 63109.0,
+   "price": 63223.77,
    "prev": 62762.418,
    "spark": [
-    63013.9219,
-    63024.9688,
-    62945.3984,
-    63031.1094,
-    63058.6484,
-    63051.7617,
-    63054.0,
-    63027.6797,
-    62998.3516,
-    63022.5391,
-    63059.7695,
-    63035.9102,
-    63060.3906,
-    63070.5586,
-    63055.7109,
-    63092.6797,
-    63053.9414,
+    63067.6914,
+    63063.0,
+    63093.9414,
+    63053.9297,
     62997.2109,
-    63002.3008,
+    63002.3086,
     62993.8906,
     63027.6914,
-    63058.6484,
+    63058.6406,
     63049.6211,
-    63050.8008,
-    63060.7891,
-    63099.1016,
-    63072.4102,
+    63039.2305,
+    63060.5391,
+    63104.6211,
+    63072.3984,
     63082.7188,
     63062.9609,
-    63058.7109,
+    63059.6016,
     63041.4297,
     63025.1211,
     63056.8516,
     63033.2812,
-    63012.0117,
+    63015.25,
     63063.1992,
     63047.2695,
-    63111.1406,
-    63100.6289,
-    63109.0
+    63108.0,
+    63132.4609,
+    63151.5898,
+    63141.2109,
+    63116.8594,
+    63119.2812,
+    63122.7891,
+    63084.0586,
+    63137.25,
+    63136.5,
+    63268.4805,
+    63212.9883,
+    63220.8906,
+    63241.8398,
+    63223.7812,
+    63223.7695
    ]
   },
   "eth": {
-   "price": 1860.38,
+   "price": 1865.55,
    "prev": 1843.4186,
    "spark": [
-    1854.24,
-    1854.37,
-    1851.22,
-    1853.6,
-    1854.54,
-    1854.24,
-    1853.13,
-    1852.51,
-    1851.63,
-    1853.6899,
-    1855.0,
-    1854.09,
-    1855.37,
-    1855.11,
-    1856.2,
+    1855.12,
+    1856.3,
     1856.91,
     1855.4399,
-    1852.99,
+    1852.92,
     1853.02,
     1852.99,
     1854.1899,
     1857.23,
-    1856.03,
-    1856.13,
+    1856.05,
+    1856.35,
     1857.08,
-    1859.49,
+    1859.51,
     1858.29,
     1858.35,
-    1857.85,
+    1857.71,
     1856.59,
-    1856.99,
+    1857.12,
     1855.3101,
     1856.3199,
     1856.01,
-    1856.12,
-    1857.7,
-    1857.11,
+    1856.01,
+    1857.6,
+    1857.12,
     1859.66,
-    1859.9399,
-    1860.38
+    1860.89,
+    1862.8199,
+    1862.61,
+    1861.9399,
+    1861.3101,
+    1862.51,
+    1861.0,
+    1863.91,
+    1863.02,
+    1867.25,
+    1864.47,
+    1865.37,
+    1866.25,
+    1865.5,
+    1865.55
    ]
   },
   "eurkrw": {
@@ -799,7 +799,7 @@
   },
   {
    "title": "코스피 급락에 ‘마통’ 1.8조 급증…‘빚투’로 “분할매수 노려”",
-   "source": "한겨레",
+   "source": "hani.co.kr",
    "time": "2026-08-02T22:11:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzMzlZcUZJUEtRMDdVM2xnWkdaa2FScTlqV0tzemxSZ3lWYl9RS0s2TEF0NGIyMWg4ejBuVGxmZkJOak82V05SUnlmelV1bnNiV1IyM0xKRlhuRTJJMEEtZTdFX1MtZzQ?oc=5"
   },
@@ -822,16 +822,16 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOW5CcTI2UVBqc3NocWgzQks4ZXN0UHZpNnBxY0c3ODBYejZIWEhzbkNRbHBkMjNqbHpWNWFoQmJfa29wQ3d4OTJhY3Aza3c3Ui1tNXNSQ0lyOWpsZTIwRHdLa2dzTl92Z3ZCMUdTay1DbHdOS19SWEZsRmhoSjhPYg?oc=5"
   },
   {
+   "title": "李대통령, 순방 마치자마자 부동산·증시 점검…3일 비공개 회의(종합)",
+   "source": "연합뉴스",
+   "time": "2026-08-02T21:29:57+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rMVVLaEVmeGg1d250T3NfVUlYUmhHNnJjcXFuRnFoajhjeVJUUmhoZkR1dHFVdER2aWFKd0VGS2JvRWFEemZjaWQ1bXNYejdrbXJTX1pEYnEyQ2vSAWBBVV95cUxOMm1yeF9Wem16dk5fZm54M013UENvVUV4YlBXUGhhSTBkMGF6c3ljLTRXUnlvamt5c1JtS2VQOE9TRjJ4YWNPc3NSYjhWYUNWaE9OSml4NlEyY1ZiaThvYUo?oc=5"
+  },
+  {
    "title": "\"앞으로 몇 달간 급등락 각오해라\" 외신, 코스피 등 돌린 개미들 조명",
    "source": "v.daum.net",
    "time": "2026-08-02T19:14:49+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91bVlVT3NSS3ZfN01YNzVfd0JUS0EyTmp3TEl0VVpkLXZoTF8wLURPNjdEd0d4d1JKLVJvQ3JDVC1HUHFzbzNXR3gwM3BQOUU?oc=5"
-  },
-  {
-   "title": "中, 비트코인 자금세탁 등 불법거래 탐지 AI 개발…\"정확도 90%\"",
-   "source": "연합뉴스",
-   "time": "2026-08-02T18:56:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZXJUb3YxQ0dBcXpGVjczX2t6Tl9lUTQ1Um9NZXJ6UjVJc1JPT0VPRFZ5Y2xOLUtoUU9CRHhjMmdoZGhkUUZfcXUtMm9kOUVNdl92N0FMM0hyNHfSAWBBVV95cUxPX09HWHBucEhob05BejRZQ3FtdEJaRGZaNTZkUHRRenZPRlJYcTdjemlHV3I1YlBBcTVFZWZuYk5fekNsWVVkNnFsTzg1dktWVlM3Wkw4UVFOU1Y4RXVEbDQ?oc=5"
   },
   {
    "title": "[김화균 칼럼] 고약해진 코스피, 이제 ‘읍참마속’ 생각할 때다",
@@ -840,16 +840,16 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hZXZZMmZNOENFRUZSUlhwTzI1d3JxcG93M1lnaUY0ekE4ZW1ILVVBcDc4Y0VKdG9hWExjaFRrWGU3NnM3SEdBZFQ0eXF1dw?oc=5"
   },
   {
-   "title": "코스피 ‘7000선 탈환’ 가를 3대 변수 ①빅테크 실적②금리③세법",
-   "source": "경향신문",
-   "time": "2026-08-02T15:06:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNN1NTeTBzQXFPYU5PeENhWllyclo0R2xYclNfc0xWLTcwWjlkdTJKYU5RWDRfVzkyUEVVemxKR0lMMHMwU0FSUmtlc0N4TWtkVWJXaFRqRE41d9IBX0FVX3lxTE5TQXA0TEdOSDh5QWZWT2NCb3JCYW04WVlDZDRUTkVWeDVBWXhSWHpSeWpKTzNZYVpZYjE5ZW41N2xZdEZDb3pCSTlCanp6WlFnOFpXNUt2M1FsWWdfSm9Z?oc=5"
-  },
-  {
    "title": "“290만→132만 원”…지금 코스피가 바닥인지 확인하는 3가지 신호 [잇슈 머니]",
    "source": "KBS 뉴스",
    "time": "2026-07-31T06:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TR1NFbUUweEY0ZVdfSWQ1bkFWZWc1UjVBdWlxRUszSGJXdTNlMzBudFNCTDA5Q3RRMzA1NlFyZFRCZUZ2US1xb1FDOUg2cTdzdjZaMXFSckxycGc?oc=5"
+  },
+  {
+   "title": "코스피 ‘7000선 탈환’ 가를 3대 변수 ①빅테크 실적②금리③세법",
+   "source": "경향신문",
+   "time": "2026-08-02T15:06:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNN1NTeTBzQXFPYU5PeENhWllyclo0R2xYclNfc0xWLTcwWjlkdTJKYU5RWDRfVzkyUEVVemxKR0lMMHMwU0FSUmtlc0N4TWtkVWJXaFRqRE41d9IBX0FVX3lxTE5TQXA0TEdOSDh5QWZWT2NCb3JCYW04WVlDZDRUTkVWeDVBWXhSWHpSeWpKTzNZYVpZYjE5ZW41N2xZdEZDb3pCSTlCanp6WlFnOFpXNUt2M1FsWWdfSm9Z?oc=5"
   },
   {
    "title": "급락 후 급등한 코스피...8월에도 상승세 이어질까",
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50eTR6U0k5TjU4OVZUZjZnOU1ZdUJ4QUd4Q0gtbHFoYUJ1TldJWFRPdThCQ3RpVEEtUzZ2d3p3WURmYkZUSC14d0VXcVY0eC1mR29lemNVWHJkNnV0c2RUYUZxbzNIbWJoTi1PaGxKejB4eGdkLUE?oc=5"
   },
   {
-   "title": "李대통령, 순방 후 부동산·증시 점검…3일 비공개 회의",
-   "source": "국제신문",
-   "time": "2026-08-02T22:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblBIemZsaDlOZDQ0RW12VDNuZWpXcFBjTU1hUGlnVEZyWDhvYzZtQ1hleFZhdWNyc2YtWC1iNWo4UE16RzB0YzBsMVhQT3puVkZzWlhPMEpuclE4anhQQUIyU2Jab0ExN1ZaVjJHUDFIck5uM0ZGY3NnanZucTVZc0dKV0M3R2JKVkhQMEVB?oc=5"
+   "title": "코스피, 역대 상승률 1위 대폭등…\"기술적 반등 시작\" [주간전망]",
+   "source": "한국경제",
+   "time": "2026-08-02T08:00:03+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83OU9WYVVfYk9nMzEzNzZKNDFnWkVreGViQ0RzdzFoUmFLUTBHSW5rYzZJZEI3dHcwTFp5ZldSNEhQMjZfMkE5R1hoVnNyWFdOM2g3ZWVDSmhvUQ?oc=5"
   }
  ]
 }
