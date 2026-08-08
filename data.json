@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T19:37:23.897129+09:00",
+ "updated": "2026-08-08T20:04:30.228844+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,39 +738,34 @@
    ]
   },
   "btc": {
-   "price": 64980.05,
+   "price": 64968.03,
    "prev": 64884.16,
    "spark": [
-    64965.5703,
-    64958.1211,
-    64920.5898,
-    64910.2812,
-    64915.8398,
     64930.7695,
     64928.8008,
     64924.3398,
     64925.3711,
-    64934.3711,
+    64934.3789,
     64927.7305,
     64928.9609,
     64945.4219,
     64975.3789,
-    64966.6484,
+    64966.6406,
     64979.0,
     64957.0586,
     64957.0703,
     64957.7188,
-    64950.6719,
-    64963.4883,
+    64952.0586,
+    64963.4805,
     64971.5195,
     64983.8008,
-    64975.3789,
+    64975.3906,
     64974.7109,
     64965.1797,
     64974.9883,
     64969.8906,
     64953.6602,
-    64955.0,
+    64955.0117,
     64955.2891,
     64955.2695,
     64967.6484,
@@ -779,19 +774,19 @@
     64967.4805,
     64983.9102,
     64980.0391,
-    64980.0508,
-    64980.0508
+    64986.6914,
+    64976.3984,
+    64976.3984,
+    64969.5312,
+    64966.6797,
+    64966.6797,
+    64968.0312
    ]
   },
   "eth": {
-   "price": 1919.97,
+   "price": 1920.21,
    "prev": 1913.2822,
    "spark": [
-    1914.75,
-    1914.49,
-    1913.4399,
-    1913.77,
-    1913.63,
     1914.28,
     1914.27,
     1913.88,
@@ -823,10 +818,15 @@
     1919.3,
     1919.15,
     1920.3,
-    1921.59,
+    1921.42,
     1920.04,
+    1920.12,
     1919.98,
-    1919.97
+    1919.6,
+    1919.9,
+    1919.99,
+    1920.3199,
+    1920.21
    ]
   },
   "eurkrw": {
@@ -1157,7 +1157,7 @@
   },
   {
    "title": "\"이럴거면 굳이\"…SK하이닉스는 ADR 나스닥 상장 왜 추진한 걸까",
-   "source": "인베스트조선",
+   "source": "investchosun.com",
    "time": "2026-08-06T07:32:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX3lCeEs2cTVoMWk1RkxmVzM4eWtVUnNxMTFzUU02S28xdG50bmJ5elRDVXJTSFhFVmlpdld4LU1GdmFTT0JRSkxzczZtOXJOQ1RLZTFwY2RyVUdGRng1N0VOeWRUNlQ0bU5rWWsxYnV5cEJyLTFNUTN5X0pMU3BVTlJ4UQ?oc=5"
   },
@@ -1168,16 +1168,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GRjNOZnVxSkhuTnMwT3I5bExzczNuS0pQaGs4TzJrQi1LbjVSbWt0eXhkY3FwVnc2eVhfajJKMktmdVdGUWpZcUlmdjBGS180UFE?oc=5"
   },
   {
-   "title": "美 ‘고용 쇼크’에 금리 인상론 후퇴…비트코인 6만5000달러 회복 [주간 블록체인]",
-   "source": "디지털데일리",
-   "time": "2026-08-08T12:40:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZE03SVFLVGJrV241M3I5MGtZUVRkNmlOU3k0dXNTSUs3NUlvV1hZaHBPS1dlenBNTExyalpVbXBzcWVRNEtVcWstRmdiQkRtZldGeUhwZG45UVF1NGpvbnZXOG8?oc=5"
-  },
-  {
    "title": "반도체 레버리지 경각심 속 뉴욕 증시에서 3배 레버리지 투자 상품 경쟁 치열",
    "source": "YTN",
    "time": "2026-08-08T08:33:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5neEEzNjdJT09IR1NJa01FV1lsRjJCamJEN29yLUVtVExCZktoNTRjeVFjV1gxXzQwSlFPQlJyaklXeE0zMzVTQlJ4cjRHOXB5NkwtTzJLOC05eUFRc1E?oc=5"
+  },
+  {
+   "title": "美 ‘고용 쇼크’에 금리 인상론 후퇴…비트코인 6만5000달러 회복 [주간 블록체인]",
+   "source": "디지털데일리",
+   "time": "2026-08-08T12:40:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZE03SVFLVGJrV241M3I5MGtZUVRkNmlOU3k0dXNTSUs3NUlvV1hZaHBPS1dlenBNTExyalpVbXBzcWVRNEtVcWstRmdiQkRtZldGeUhwZG45UVF1NGpvbnZXOG8?oc=5"
   },
   {
    "title": "비트코인 노린 해킹 또 발생…이번엔 '결제 서버' 공격",
