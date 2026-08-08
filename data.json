@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T08:37:45.055939+09:00",
+ "updated": "2026-08-09T08:59:52.124372+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64920.87,
+   "price": 64911.18,
    "prev": 64884.16,
    "spark": [
-    65016.0117,
-    65036.9219,
-    65021.8086,
-    65032.3086,
     65045.3906,
     65031.8594,
     65032.1797,
@@ -779,18 +775,18 @@
     64919.0312,
     64882.0898,
     64897.5898,
-    64915.9492,
-    64920.8711
+    64912.25,
+    64908.9609,
+    64919.2109,
+    64914.7812,
+    64904.3398,
+    64911.1797
    ]
   },
   "eth": {
-   "price": 1917.37,
+   "price": 1915.42,
    "prev": 1913.2822,
    "spark": [
-    1918.55,
-    1919.76,
-    1919.4399,
-    1919.47,
     1919.62,
     1918.8,
     1918.84,
@@ -825,8 +821,12 @@
     1915.8199,
     1915.4,
     1916.26,
-    1917.23,
-    1917.37
+    1916.99,
+    1916.97,
+    1917.1801,
+    1917.09,
+    1915.5,
+    1915.42
    ]
   },
   "eurkrw": {
@@ -1114,16 +1114,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aFRRMmgwRG9IaXZIUDJfc3I5bTFrT2U1SDE2c21kd09pWjZQV05QSVpqeWNXQlVCSndYSzZYOXpKWHkzVTQwNTg4dEtteHI1UFNGaVdacnpIMzNGS0E?oc=5"
   },
   {
-   "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
-   "source": "v.daum.net",
-   "time": "2026-08-09T05:52:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUSlhwcS00OVhYZW5UTFh4VlZhNFh0X0ZvX2h0OXIwMmhUb0JLck1pZ3ZQRFNvMnc2OGpXX1ZneWZzTXVGMFl3VmxwMlc2ck0?oc=5"
-  },
-  {
    "title": "판 깔아주고 나 몰라라… 롤러코스피에 우는 2030",
    "source": "조선일보",
    "time": "2026-08-09T05:30:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUgwNWxYbmxLQmpPal9lNFdvQjgyQkVuRkZjSXc2VmVwdDBZM0tTem9tSU02MnJYRndnYTR2THZHdEtuOGxTRHRHTVU2VGViZnVLZzF6dFV1bG91VnZieDVpeXRWWS1SOFRGamhHb2lCYWw0djh1VU42RjN2NnNEYl8zdFFVZEpkNHJ3SGhR?oc=5"
+  },
+  {
+   "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
+   "source": "v.daum.net",
+   "time": "2026-08-09T05:52:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUSlhwcS00OVhYZW5UTFh4VlZhNFh0X0ZvX2h0OXIwMmhUb0JLck1pZ3ZQRFNvMnc2OGpXX1ZneWZzTXVGMFl3VmxwMlc2ck0?oc=5"
   },
   {
    "title": "[마켓인사이트] 韓증시, 역대급 변동성은 다소 완화…반등계기 찾나",
@@ -1150,6 +1150,12 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX3lCeEs2cTVoMWk1RkxmVzM4eWtVUnNxMTFzUU02S28xdG50bmJ5elRDVXJTSFhFVmlpdld4LU1GdmFTT0JRSkxzczZtOXJOQ1RLZTFwY2RyVUdGRng1N0VOeWRUNlQ0bU5rWWsxYnV5cEJyLTFNUTN5X0pMU3BVTlJ4UQ?oc=5"
   },
   {
+   "title": "반도체 쉬어가자 비반도체 '꿈틀'…이번주 증시는?",
+   "source": "MTN 머니투데이방송",
+   "time": "2026-08-09T08:40:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11MllRQUNwWUl0aTY5T241YnNzaUd1S0xQMW9aTmRTa21YT3g4R3RfbDE3ZG4tbkRRN1BsVGJ6Yzd0WVlOZ1RKS2U3VU5DLWZ5MXhQdVZEcmxobTZWSmhZYndHeUI?oc=5"
+  },
+  {
    "title": "비트코인 6만 5천 달러 상승, 인프라 보안 위험 부상",
    "source": "Investing.com 한국어",
    "time": "2026-08-08T17:51:00+09:00",
@@ -1174,22 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VMHg1TjJOaGtUYXBxRGZKRkdsQ0FSVlJKcllBSi1pdmlmNEJ0S0UwbFpsSHl6R0NLT05DTFdiR3VoYjlUMTlnYVVhVmw4VVVQSUotSFpBMlNDRHPSAWBBVV95cUxOMDJaTXBYaW9ldlZuRHdyc3FSdlpuMF9mbllnRFRqVERPbGZXUG1WRDg2aXVjNno5cHBwODBaMzl6ZTNzWHNTc2Y0TjdISU8zeEt2OWJmbWVoaFBUVkVFbl8?oc=5"
   },
   {
-   "title": "변동성 잦아드나…AI 실적 주목, 코스피 6000~7000 [주간 증시 전망]",
-   "source": "데일리안",
-   "time": "2026-08-09T07:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSHdTbmo5b1hLMFI2RGtpaUlsVXBLQVpzN3gzLTZWeEpnY0pvS1ZobXV4X05BTVNzUjR1S2VaVnZxa3g3SEF4U0JxejNqWFN4Nl9ZNDhPampQeERWTzg1NnBWQ3VRTW1MN0V3b1ZSQnBJVUJNNHJrNHVJbG10UGNfYXRZamJMaW1nNC1vRjVjcjZkZk1OeXBsZ0IzcFUyVDRNenJyYzdjRzRtclBFY1VBNFBGcUVlT1F3ODVLOFdTMkhZRWlIX3ZIYnlBSk1ieG1od0M0RjJJVExaOENfTkVJU2VQWG5hNWZQeWlpSldEWEVaWmI5M0JfUndhdklzeU5Xd0s0ZkU5WWw3QThXZ1E?oc=5"
-  },
-  {
    "title": "비트코인 6만5000달러선 터치 목전…10만달러 가려면 ‘이것’ 필요하다는데 [크립토360]",
    "source": "헤럴드경제",
    "time": "2026-08-09T08:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sSl92SV9iQjZCMWROQXJSTXR0WVBnSVNNWXFQYzRuem0wSURPNnlnZTE2NHlKS2RTWlBpeTRSMjZoNnZUektLdnlFTzRYb2lCcFAxS2Rn?oc=5"
   },
   {
-   "title": "S&P500, 자사주 매입 재개로 증시 수급 개선 전망",
-   "source": "글로벌이코노믹",
-   "time": "2026-08-09T04:25:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeldOaG5kd1VSc2o1U1o3Y1AwdERxcGlCYU0tR2owYTdrbmJxeXlHdEdJU2VEMTdBS3BIcXI5d1JkYkVUdVlldTNiQlI2Y3ZGQTBieGRkX19NWmpvWkZta2FrMVVnd2RmMXRQQzE4MUtCamdraE9hQ2gxeF9pVzVMc05OcWg0ajdP?oc=5"
+   "title": "변동성 잦아드나…AI 실적 주목, 코스피 6000~7000 [주간 증시 전망]",
+   "source": "데일리안",
+   "time": "2026-08-09T07:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSHdTbmo5b1hLMFI2RGtpaUlsVXBLQVpzN3gzLTZWeEpnY0pvS1ZobXV4X05BTVNzUjR1S2VaVnZxa3g3SEF4U0JxejNqWFN4Nl9ZNDhPampQeERWTzg1NnBWQ3VRTW1MN0V3b1ZSQnBJVUJNNHJrNHVJbG10UGNfYXRZamJMaW1nNC1vRjVjcjZkZk1OeXBsZ0IzcFUyVDRNenJyYzdjRzRtclBFY1VBNFBGcUVlT1F3ODVLOFdTMkhZRWlIX3ZIYnlBSk1ieG1od0M0RjJJVExaOENfTkVJU2VQWG5hNWZQeWlpSldEWEVaWmI5M0JfUndhdklzeU5Xd0s0ZkU5WWw3QThXZ1E?oc=5"
   }
  ]
 }
