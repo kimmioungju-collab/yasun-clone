@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T18:58:58.328037+09:00",
+ "updated": "2026-08-08T19:37:23.897129+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,17 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64955.28,
+   "price": 64980.05,
    "prev": 64884.16,
    "spark": [
-    64973.0508,
-    64968.7383,
-    64968.7305,
-    64966.2695,
-    64968.7617,
-    64955.1602,
-    64955.1602,
-    64966.8711,
     64965.5703,
     64958.1211,
     64920.5898,
@@ -758,43 +750,43 @@
     64928.8008,
     64924.3398,
     64925.3711,
-    64934.3789,
+    64934.3711,
     64927.7305,
     64928.9609,
     64945.4219,
     64975.3789,
-    64966.6406,
+    64966.6484,
     64979.0,
     64957.0586,
     64957.0703,
     64957.7188,
-    64952.0586,
-    64963.4805,
+    64950.6719,
+    64963.4883,
     64971.5195,
     64983.8008,
-    64975.3906,
+    64975.3789,
     64974.7109,
     64965.1797,
     64974.9883,
     64969.8906,
     64953.6602,
-    64955.0117,
-    64955.2812,
-    64955.2812
+    64955.0,
+    64955.2891,
+    64955.2695,
+    64967.6484,
+    64959.1016,
+    64960.0,
+    64967.4805,
+    64983.9102,
+    64980.0391,
+    64980.0508,
+    64980.0508
    ]
   },
   "eth": {
-   "price": 1917.85,
+   "price": 1919.97,
    "prev": 1913.2822,
    "spark": [
-    1916.67,
-    1915.66,
-    1915.55,
-    1915.1899,
-    1915.14,
-    1915.0699,
-    1915.0,
-    1914.9399,
     1914.75,
     1914.49,
     1913.4399,
@@ -825,8 +817,16 @@
     1918.27,
     1917.91,
     1917.85,
-    1917.85,
-    1917.85
+    1917.72,
+    1918.1899,
+    1919.34,
+    1919.3,
+    1919.15,
+    1920.3,
+    1921.59,
+    1920.04,
+    1919.98,
+    1919.97
    ]
   },
   "eurkrw": {
@@ -1132,16 +1132,16 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EVEpya3NJNEhXcGZnZkxJTWlFQkoyakNFRmROWHlOa3I5VnRhSnlvbUhRdUFLNlFFT0ctcDQyQ0Y0NktQQ2xscmpkRFBCNUxDQWExRkFtRUdTTG1jdFc5bDB3emh3eTQzM2fSAW5BVV95cUxOSklITWp6YVdDaGQ2MExEYkNIczZpLTRuQ3cyWW1SdjNzMW40emxQS1Q4SnZOaHM2cjBmd0xMVjVNUndXUDlLY2t0UnhkbmU5WmJfSlNlbUlQTE1LMFVzel8xRFpVUGlRSFJTRTV5Zw?oc=5"
   },
   {
+   "title": "상승 동력 부재에…비트코인 6만4000달러 박스권 형성",
+   "source": "MTN 머니투데이방송",
+   "time": "2026-08-08T15:48:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZ002YUZMSmxpbk1ZalZLY0RabDJMUWFNR3hpVXF6c3dfYkhkZUlWSzBNTGV3aUJVdndiNnFFY0NpM3hQUzlhdXVfSTIxUktOVzNSS2VVbHZsVGtJd081M0hmdVU?oc=5"
+  },
+  {
    "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
    "source": "머니투데이",
    "time": "2026-08-06T15:49:27+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
-  },
-  {
-   "title": "상승 동력 부재에…비트코인 6만4000달러 박스권 형성",
-   "source": "news.mtn.co.kr",
-   "time": "2026-08-08T15:48:28+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZ002YUZMSmxpbk1ZalZLY0RabDJMUWFNR3hpVXF6c3dfYkhkZUlWSzBNTGV3aUJVdndiNnFFY0NpM3hQUzlhdXVfSTIxUktOVzNSS2VVbHZsVGtJd081M0hmdVU?oc=5"
   },
   {
    "title": "코스피, 최악 지났다는데…'진짜' 반등의 조건",
