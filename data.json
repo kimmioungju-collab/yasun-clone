@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T02:20:48.004373+09:00",
+ "updated": "2026-08-09T02:52:15.540026+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,23 +738,16 @@
    ]
   },
   "btc": {
-   "price": 65065.53,
+   "price": 65083.15,
    "prev": 64884.16,
    "spark": [
-    64989.8984,
-    65019.3594,
-    65012.9102,
-    65076.8789,
-    65087.6016,
-    65119.1719,
-    65099.6094,
     65067.6602,
-    65112.9297,
+    65112.2617,
     65111.6484,
     65082.7383,
     65071.6797,
     65056.7188,
-    65053.7891,
+    65053.7812,
     65039.4492,
     65058.3398,
     65046.6289,
@@ -763,37 +756,37 @@
     65015.3398,
     65026.9883,
     65048.4102,
-    65029.6602,
+    65029.6719,
     65042.3906,
     65046.4805,
     65038.8711,
     65047.6797,
     65034.9414,
     65027.0,
-    65004.6992,
+    65004.7109,
     65003.3398,
     65015.6719,
     65015.2305,
     65036.9219,
-    65039.9883,
-    65040.0,
-    65060.9102,
+    65043.8516,
+    65037.8086,
+    65060.8984,
     65070.1992,
     65065.6914,
-    65065.5312
+    65063.0312,
+    65072.0195,
+    65093.7109,
+    65087.3516,
+    65084.7188,
+    65081.6914,
+    65083.1602,
+    65083.1484
    ]
   },
   "eth": {
-   "price": 1921.7,
+   "price": 1923.51,
    "prev": 1913.2822,
    "spark": [
-    1919.67,
-    1920.35,
-    1920.39,
-    1922.01,
-    1922.49,
-    1924.26,
-    1922.2,
     1921.1,
     1923.11,
     1923.62,
@@ -826,7 +819,14 @@
     1921.62,
     1922.0,
     1921.71,
-    1921.7
+    1921.41,
+    1922.78,
+    1923.99,
+    1924.11,
+    1923.79,
+    1923.42,
+    1923.51,
+    1923.51
    ]
   },
   "eurkrw": {
@@ -1127,7 +1127,7 @@
   },
   {
    "title": "달러 수급 개선에 원화 강세…환율 ‘1300원대’ 시험대",
-   "source": "에너지경제신문",
+   "source": "ekn.kr",
    "time": "2026-08-08T17:05:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSzlGRWdxOHRXVG5RYncybWU4ajFmYlRhVGQzS1BXVldrQkl0WEh4ei1qcW8zNTNpNkw3RmhNQ256WllfaEIteGczUzFjMkdOU0lwYjF6cUFMMDA?oc=5"
   },
@@ -1150,16 +1150,16 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX3lCeEs2cTVoMWk1RkxmVzM4eWtVUnNxMTFzUU02S28xdG50bmJ5elRDVXJTSFhFVmlpdld4LU1GdmFTT0JRSkxzczZtOXJOQ1RLZTFwY2RyVUdGRng1N0VOeWRUNlQ0bU5rWWsxYnV5cEJyLTFNUTN5X0pMU3BVTlJ4UQ?oc=5"
   },
   {
-   "title": "판 깔아주고 나 몰라라… ‘롤러코스피’에 우는 2030",
-   "source": "주간조선",
-   "time": "2026-08-08T05:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EVEpya3NJNEhXcGZnZkxJTWlFQkoyakNFRmROWHlOa3I5VnRhSnlvbUhRdUFLNlFFT0ctcDQyQ0Y0NktQQ2xscmpkRFBCNUxDQWExRkFtRUdTTG1jdFc5bDB3emh3eTQzM2fSAW5BVV95cUxOSklITWp6YVdDaGQ2MExEYkNIczZpLTRuQ3cyWW1SdjNzMW40emxQS1Q4SnZOaHM2cjBmd0xMVjVNUndXUDlLY2t0UnhkbmU5WmJfSlNlbUlQTE1LMFVzel8xRFpVUGlRSFJTRTV5Zw?oc=5"
-  },
-  {
    "title": "상승 동력 부재에…비트코인 6만4000달러 박스권 형성",
    "source": "MTN 머니투데이방송",
    "time": "2026-08-08T15:48:28+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZ002YUZMSmxpbk1ZalZLY0RabDJMUWFNR3hpVXF6c3dfYkhkZUlWSzBNTGV3aUJVdndiNnFFY0NpM3hQUzlhdXVfSTIxUktOVzNSS2VVbHZsVGtJd081M0hmdVU?oc=5"
+  },
+  {
+   "title": "판 깔아주고 나 몰라라… ‘롤러코스피’에 우는 2030",
+   "source": "주간조선",
+   "time": "2026-08-08T05:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EVEpya3NJNEhXcGZnZkxJTWlFQkoyakNFRmROWHlOa3I5VnRhSnlvbUhRdUFLNlFFT0ctcDQyQ0Y0NktQQ2xscmpkRFBCNUxDQWExRkFtRUdTTG1jdFc5bDB3emh3eTQzM2fSAW5BVV95cUxOSklITWp6YVdDaGQ2MExEYkNIczZpLTRuQ3cyWW1SdjNzMW40emxQS1Q4SnZOaHM2cjBmd0xMVjVNUndXUDlLY2t0UnhkbmU5WmJfSlNlbUlQTE1LMFVzel8xRFpVUGlRSFJTRTV5Zw?oc=5"
   },
   {
    "title": "[8월 첫째 주 세계경제동향 브리핑] 코스피 6,200선 후퇴…코스닥은 10%대 반등",
@@ -1180,16 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jRzVSNHpfZVE4dFhVdFo4b1dLV0Y5MzV2QjhJVHN2LW9XVTVqNkMzSXdsT3p0cGpuT0lEeDB2cllnWWlTeUpNY3RvVDRyellH?oc=5"
   },
   {
-   "title": "코스피, 최악 지났다는데…'진짜' 반등의 조건",
+   "title": "“겁먹고 팔 때 아니다”…지금 코스피를 담아야 하는 이유 [화제의 리포트]",
    "source": "v.daum.net",
-   "time": "2026-08-08T08:01:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Sektwb0FkYVBfaU9VLTRHVlRkNERsRnhFSVgybTdZVEtwZjBUUGkzdGpjNWw0R1FiTWctZEQ4eEZIVVBCZnFRcl9TRDRXdE0?oc=5"
+   "time": "2026-08-08T14:49:37+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02NHlRc191c2lFcDdtSThEMk5BRVU2dW9TbmJkYTZpX3E3MzA3RE9acm03VkJLTU5WMVlOR3FiVld0UFNOVHp5b0kyYVJrUmM?oc=5"
   },
   {
-   "title": "美 ‘고용 쇼크’에 금리 인상론 후퇴…비트코인 6만5000달러 회복 [주간 블록체인]",
-   "source": "디지털데일리",
-   "time": "2026-08-08T12:40:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZE03SVFLVGJrV241M3I5MGtZUVRkNmlOU3k0dXNTSUs3NUlvV1hZaHBPS1dlenBNTExyalpVbXBzcWVRNEtVcWstRmdiQkRtZldGeUhwZG45UVF1NGpvbnZXOG8?oc=5"
+   "title": "뉴욕증시, 4거래일 랠리 마치고 ’숨고르기’…나스닥 0.8%↓",
+   "source": "연합뉴스TV",
+   "time": "2026-08-06T06:28:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KM1VRN0ZLSjR4UFN1QXlla3dvTUNyTGxLemoxS3dnTy1QOTJfdHRIVW9hWjJfZTk0VnZjemQwOEZqMzdSX0Y5Y1BDTU41a1J3WF9LQkhQcXJxWHl6UmI5WXFQWERWM3c?oc=5"
   }
  ]
 }
