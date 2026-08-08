@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T01:14:43.729206+09:00",
+ "updated": "2026-08-09T01:53:54.587661+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,36 +738,28 @@
    ]
   },
   "btc": {
-   "price": 65038.86,
+   "price": 65023.21,
    "prev": 64884.16,
    "spark": [
-    64954.6719,
-    64960.4688,
-    64957.5195,
-    64970.7617,
-    64970.0312,
-    64979.3398,
-    64960.6289,
-    64960.6211,
-    64966.0,
-    64973.0312,
-    64972.4688,
+    64970.7383,
+    64973.0391,
+    64972.8086,
     64973.6094,
-    64975.6719,
-    64989.8906,
+    64975.6797,
+    64989.8984,
     65019.3594,
     65012.9102,
     65076.8789,
-    65087.6094,
-    65117.8594,
-    65099.6211,
+    65087.6016,
+    65119.1719,
+    65099.6094,
     65067.6602,
-    65112.2617,
+    65112.9297,
     65111.6484,
     65082.7383,
     65071.6797,
     65056.7188,
-    65053.7812,
+    65053.7891,
     65039.4492,
     65058.3398,
     65046.6289,
@@ -776,25 +768,25 @@
     65015.3398,
     65026.9883,
     65048.4102,
-    65029.6719,
+    65029.6602,
     65042.3906,
     65046.4805,
-    65038.9219,
-    65038.8594
+    65038.8711,
+    65047.6797,
+    65034.9414,
+    65027.0,
+    65004.6992,
+    65003.3398,
+    65015.6719,
+    65015.2305,
+    65023.2109,
+    65023.2109
    ]
   },
   "eth": {
-   "price": 1921.49,
+   "price": 1920.99,
    "prev": 1913.2822,
    "spark": [
-    1918.91,
-    1918.8101,
-    1918.33,
-    1918.36,
-    1918.3101,
-    1918.27,
-    1917.49,
-    1917.91,
     1918.03,
     1918.3,
     1918.46,
@@ -809,7 +801,7 @@
     1922.2,
     1921.1,
     1923.11,
-    1923.61,
+    1923.62,
     1922.6,
     1922.1801,
     1921.65,
@@ -825,8 +817,16 @@
     1921.24,
     1921.83,
     1922.12,
-    1922.13,
-    1921.49
+    1921.53,
+    1921.3199,
+    1921.6,
+    1921.25,
+    1920.9399,
+    1920.64,
+    1920.62,
+    1920.79,
+    1920.76,
+    1920.99
    ]
   },
   "eurkrw": {
@@ -1108,28 +1108,28 @@
  },
  "news": [
   {
+   "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
+   "source": "중앙일보",
+   "time": "2026-08-08T08:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rdFZVeGlLeHczYkR0VlJad0VZemdlU1hmclZXQm1OcEJfTWp0U1hoQjlSYktzWTlMbWdJMTNhclQ0NXVOVkNMWXhJTGh3MmN0RUxLSm1n?oc=5"
+  },
+  {
    "title": "한 달 만에 22% 폭락한 코스피…\"지금이라도 팔까 버틸까\"",
    "source": "한국경제",
    "time": "2026-08-08T06:00:19+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zNExZVmJJWGNDdzh3aE9PcUpiN1dBOTg3N1hsbjQwVnA4TFRGY1V4QjNPT293VzNzQkRETlhHa1RlWTRPc2pGY1F4VXhiRjgtR2RxdWEyejZNZw?oc=5"
   },
   {
-   "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
-   "source": "joongang.co.kr",
-   "time": "2026-08-08T08:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rdFZVeGlLeHczYkR0VlJad0VZemdlU1hmclZXQm1OcEJfTWp0U1hoQjlSYktzWTlMbWdJMTNhclQ0NXVOVkNMWXhJTGh3MmN0RUxLSm1n?oc=5"
+   "title": "비트코인 6만 5천 달러 상승, 인프라 보안 위험 부상",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-08T17:51:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oTjNvLVNtMWN3TmR0ZHUxR01Ea0h1MEpQNjlINURfa1VseGlyckRhdW9VMzVvX3ltX0F6Xy1tOEJTcnN1bV83ZWNZTGQ4QUhDZ05hMlBybXJObUZ2bDBEMEVWa3FoUHQ5RktsaWU1R01remc?oc=5"
   },
   {
    "title": "달러 수급 개선에 원화 강세…환율 ‘1300원대’ 시험대",
    "source": "에너지경제신문",
    "time": "2026-08-08T17:05:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSzlGRWdxOHRXVG5RYncybWU4ajFmYlRhVGQzS1BXVldrQkl0WEh4ei1qcW8zNTNpNkw3RmhNQ256WllfaEIteGczUzFjMkdOU0lwYjF6cUFMMDA?oc=5"
-  },
-  {
-   "title": "비트코인, 새로운 보안 위협 속 $65,000 향해 상승",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-08T17:51:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFRkQ185Mk9sLVZVVFBQeHdreGI1X01SNkdPYlFoaTAtazBNYWdFQjBEWWxQUXJodHF6ZTRBWi02MWx6ZF9oTS1yVDA1cjB3WEpuUEJrbkFkUmdrU2Y2UVlRdmRNdWVSaXFWYk1YTmtGTjJVUWRIaDU0dVpmSHBPWUZVTUdQa3hvQnh6SmhES1NfeFdRVXU4UU9HU0ZfbHZtV19rd213NjZMYWJ2X2NGWHV3TjN3WlV6S0pDUWk2UDI2YUlYbVFNcTVkT3pQem1pSUZz?oc=5"
   },
   {
    "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
@@ -1139,21 +1139,21 @@
   },
   {
    "title": "반도체 레버리지 경각심 속 뉴욕 증시에서 3배 레버리지 투자 상품 경쟁 치열",
-   "source": "ytn.co.kr",
+   "source": "YTN",
    "time": "2026-08-08T08:33:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5neEEzNjdJT09IR1NJa01FV1lsRjJCamJEN29yLUVtVExCZktoNTRjeVFjV1gxXzQwSlFPQlJyaklXeE0zMzVTQlJ4cjRHOXB5NkwtTzJLOC05eUFRc1E?oc=5"
-  },
-  {
-   "title": "판 깔아주고 나 몰라라… ‘롤러코스피’에 우는 2030",
-   "source": "주간조선",
-   "time": "2026-08-08T05:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EVEpya3NJNEhXcGZnZkxJTWlFQkoyakNFRmROWHlOa3I5VnRhSnlvbUhRdUFLNlFFT0ctcDQyQ0Y0NktQQ2xscmpkRFBCNUxDQWExRkFtRUdTTG1jdFc5bDB3emh3eTQzM2fSAW5BVV95cUxOSklITWp6YVdDaGQ2MExEYkNIczZpLTRuQ3cyWW1SdjNzMW40emxQS1Q4SnZOaHM2cjBmd0xMVjVNUndXUDlLY2t0UnhkbmU5WmJfSlNlbUlQTE1LMFVzel8xRFpVUGlRSFJTRTV5Zw?oc=5"
   },
   {
    "title": "\"이럴거면 굳이\"…SK하이닉스는 ADR 나스닥 상장 왜 추진한 걸까",
    "source": "인베스트조선",
    "time": "2026-08-06T07:32:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX3lCeEs2cTVoMWk1RkxmVzM4eWtVUnNxMTFzUU02S28xdG50bmJ5elRDVXJTSFhFVmlpdld4LU1GdmFTT0JRSkxzczZtOXJOQ1RLZTFwY2RyVUdGRng1N0VOeWRUNlQ0bU5rWWsxYnV5cEJyLTFNUTN5X0pMU3BVTlJ4UQ?oc=5"
+  },
+  {
+   "title": "판 깔아주고 나 몰라라… ‘롤러코스피’에 우는 2030",
+   "source": "주간조선",
+   "time": "2026-08-08T05:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EVEpya3NJNEhXcGZnZkxJTWlFQkoyakNFRmROWHlOa3I5VnRhSnlvbUhRdUFLNlFFT0ctcDQyQ0Y0NktQQ2xscmpkRFBCNUxDQWExRkFtRUdTTG1jdFc5bDB3emh3eTQzM2fSAW5BVV95cUxOSklITWp6YVdDaGQ2MExEYkNIczZpLTRuQ3cyWW1SdjNzMW40emxQS1Q4SnZOaHM2cjBmd0xMVjVNUndXUDlLY2t0UnhkbmU5WmJfSlNlbUlQTE1LMFVzel8xRFpVUGlRSFJTRTV5Zw?oc=5"
   },
   {
    "title": "상승 동력 부재에…비트코인 6만4000달러 박스권 형성",
