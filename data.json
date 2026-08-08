@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T04:59:12.937853+09:00",
+ "updated": "2026-08-09T05:35:14.998515+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,16 +738,9 @@
    ]
   },
   "btc": {
-   "price": 65032.98,
+   "price": 65036.91,
    "prev": 64884.16,
    "spark": [
-    65015.2305,
-    65036.9219,
-    65039.9883,
-    65040.0,
-    65060.9102,
-    65070.1992,
-    65065.6914,
     65063.0312,
     65072.0195,
     65093.7109,
@@ -760,41 +753,41 @@
     65057.6719,
     65062.1914,
     65026.0117,
-    64997.1016,
-    64990.5703,
-    65010.1719,
+    64999.3203,
+    64990.5586,
+    65010.1602,
     64996.9492,
-    65010.4883,
+    65010.5,
     65015.0781,
-    64999.0,
-    64992.8516,
-    64990.6484,
+    64999.0117,
+    64992.8398,
+    64990.6406,
     64979.2109,
     64975.0508,
     64964.8711,
-    64972.8398,
+    64972.8281,
     64967.4883,
-    64985.1719,
+    64985.1602,
     64995.6992,
-    64996.3711,
+    64996.3594,
     65011.5586,
     65032.8789,
-    65032.9805,
-    65032.9805
+    65025.4102,
+    65031.3906,
+    65027.3711,
+    65033.9219,
+    65025.1797,
+    65011.5898,
+    65016.0117,
+    65036.9219,
+    65036.9102
    ]
   },
   "eth": {
-   "price": 1919.2,
+   "price": 1919.53,
    "prev": 1913.2822,
    "spark": [
-    1920.79,
-    1921.39,
     1921.42,
-    1921.51,
-    1921.62,
-    1922.0,
-    1921.71,
-    1921.41,
     1922.78,
     1923.99,
     1924.11,
@@ -802,7 +795,7 @@
     1923.42,
     1923.11,
     1922.48,
-    1922.05,
+    1922.02,
     1922.01,
     1921.3,
     1919.33,
@@ -810,7 +803,7 @@
     1919.23,
     1919.59,
     1919.66,
-    1919.84,
+    1919.83,
     1920.11,
     1919.61,
     1920.11,
@@ -825,8 +818,15 @@
     1918.8199,
     1919.51,
     1919.99,
-    1919.51,
-    1919.2
+    1919.16,
+    1918.85,
+    1918.52,
+    1919.03,
+    1918.62,
+    1918.55,
+    1918.55,
+    1919.76,
+    1919.53
    ]
   },
   "eurkrw": {
@@ -1108,6 +1108,18 @@
  },
  "news": [
   {
+   "title": "판 깔아주고 나 몰라라… 롤러코스피에 우는 2030",
+   "source": "조선일보",
+   "time": "2026-08-09T05:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUgwNWxYbmxLQmpPal9lNFdvQjgyQkVuRkZjSXc2VmVwdDBZM0tTem9tSU02MnJYRndnYTR2THZHdEtuOGxTRHRHTVU2VGViZnVLZzF6dFV1bG91VnZieDVpeXRWWS1SOFRGamhHb2lCYWw0djh1VU42RjN2NnNEYl8zdFFVZEpkNHJ3SGhR?oc=5"
+  },
+  {
+   "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-06T15:49:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
+  },
+  {
    "title": "비트코인 6만 5천 달러 상승, 인프라 보안 위험 부상",
    "source": "Investing.com 한국어",
    "time": "2026-08-08T17:51:00+09:00",
@@ -1120,34 +1132,28 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSzlGRWdxOHRXVG5RYncybWU4ajFmYlRhVGQzS1BXVldrQkl0WEh4ei1qcW8zNTNpNkw3RmhNQ256WllfaEIteGczUzFjMkdOU0lwYjF6cUFMMDA?oc=5"
   },
   {
-   "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-08-06T15:49:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
-  },
-  {
    "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
-   "source": "중앙일보",
+   "source": "joongang.co.kr",
    "time": "2026-08-08T08:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rdFZVeGlLeHczYkR0VlJad0VZemdlU1hmclZXQm1OcEJfTWp0U1hoQjlSYktzWTlMbWdJMTNhclQ0NXVOVkNMWXhJTGh3MmN0RUxLSm1n?oc=5"
   },
   {
-   "title": "한 달 만에 22% 폭락한 코스피…\"지금이라도 팔까 버틸까\"",
+   "title": "코스피 33% 급락했는데…피치가 내놓은 '뜻밖의 경고' 뭐길래",
    "source": "한국경제",
-   "time": "2026-08-08T06:00:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zNExZVmJJWGNDdzh3aE9PcUpiN1dBOTg3N1hsbjQwVnA4TFRGY1V4QjNPT293VzNzQkRETlhHa1RlWTRPc2pGY1F4VXhiRjgtR2RxdWEyejZNZw?oc=5"
-  },
-  {
-   "title": "반도체 레버리지 경각심 속 뉴욕 증시에서 3배 레버리지 투자 상품 경쟁 치열",
-   "source": "ytn.co.kr",
-   "time": "2026-08-08T08:33:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5neEEzNjdJT09IR1NJa01FV1lsRjJCamJEN29yLUVtVExCZktoNTRjeVFjV1gxXzQwSlFPQlJyaklXeE0zMzVTQlJ4cjRHOXB5NkwtTzJLOC05eUFRc1E?oc=5"
+   "time": "2026-08-06T22:00:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yWjY0S090eUljT0pwRVRYd2FWNS1hdlBGVkMtUDBfX3VWc05scjVVSUJqa0NvSGdGTHhGUElPSzB4N1Y4UmR5MXUyVEZyVHhPU2V6RmppVWlUQQ?oc=5"
   },
   {
    "title": "\"이럴거면 굳이\"…SK하이닉스는 ADR 나스닥 상장 왜 추진한 걸까",
    "source": "인베스트조선",
    "time": "2026-08-06T07:32:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX3lCeEs2cTVoMWk1RkxmVzM4eWtVUnNxMTFzUU02S28xdG50bmJ5elRDVXJTSFhFVmlpdld4LU1GdmFTT0JRSkxzczZtOXJOQ1RLZTFwY2RyVUdGRng1N0VOeWRUNlQ0bU5rWWsxYnV5cEJyLTFNUTN5X0pMU3BVTlJ4UQ?oc=5"
+  },
+  {
+   "title": "반도체 레버리지 경각심 속 뉴욕 증시에서 3배 레버리지 투자 상품 경쟁 치열",
+   "source": "YTN",
+   "time": "2026-08-08T08:33:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5neEEzNjdJT09IR1NJa01FV1lsRjJCamJEN29yLUVtVExCZktoNTRjeVFjV1gxXzQwSlFPQlJyaklXeE0zMzVTQlJ4cjRHOXB5NkwtTzJLOC05eUFRc1E?oc=5"
   },
   {
    "title": "S&P500, 자사주 매입 재개로 증시 수급 개선 전망",
@@ -1169,27 +1175,21 @@
   },
   {
    "title": "[8월 첫째 주 세계경제동향 브리핑] 코스피 6,200선 후퇴…코스닥은 10%대 반등",
-   "source": "기호일보",
+   "source": "kihoilbo.co.kr",
    "time": "2026-08-08T10:32:20+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MMDdGQUhTQjJldG50WU5kd01QUXZfTjhheWlCbkZUdkhQLUpuOXNRN3hKLVJDaUJYVF9fb2h4cTVhUllRdDQzMHpBVUxKVnJyTmxrbUhER1dXcE5ISEdtcWRIOWdvZnYwVFltZF91dw?oc=5"
+  },
+  {
+   "title": "1% 상승 출발했던 코스피 장중 하락전환‥코스닥도 6일 만에 하락",
+   "source": "MBC 뉴스",
+   "time": "2026-08-07T16:05:21+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uWE9HWFFjNDNUdlc0SXZZZHFGekNYamRLYXlRb0RfLXVaYVlSNDd6RzJDemlpUlB4d2xyQTg4QjlKb2hzd0lRZUF2VnhiT2VIdGhFZTNNeXpvNTRrVVo2cUxLZ3F5b3RNOVF1RDdYenZUYzll?oc=5"
   },
   {
    "title": "“겁먹고 팔 때 아니다”…지금 코스피를 담아야 하는 이유 [화제의 리포트]",
    "source": "v.daum.net",
    "time": "2026-08-08T14:49:37+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02NHlRc191c2lFcDdtSThEMk5BRVU2dW9TbmJkYTZpX3E3MzA3RE9acm03VkJLTU5WMVlOR3FiVld0UFNOVHp5b0kyYVJrUmM?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 4거래일 랠리 마치고 ’숨고르기’…나스닥 0.8%↓",
-   "source": "연합뉴스TV",
-   "time": "2026-08-06T06:28:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KM1VRN0ZLSjR4UFN1QXlla3dvTUNyTGxLemoxS3dnTy1QOTJfdHRIVW9hWjJfZTk0VnZjemQwOEZqMzdSX0Y5Y1BDTU41a1J3WF9LQkhQcXJxWHl6UmI5WXFQWERWM3c?oc=5"
-  },
-  {
-   "title": "\"비트코인, 다시는 6만달러 아래로 안 떨어질 것\"",
-   "source": "블루밍비트",
-   "time": "2026-08-08T22:42:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jRzVSNHpfZVE4dFhVdFo4b1dLV0Y5MzV2QjhJVHN2LW9XVTVqNkMzSXdsT3p0cGpuT0lEeDB2cllnWWlTeUpNY3RvVDRyellH?oc=5"
   }
  ]
 }
