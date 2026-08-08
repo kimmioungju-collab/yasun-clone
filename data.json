@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T18:21:46.013129+09:00",
+ "updated": "2026-08-08T18:58:58.328037+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,21 +738,14 @@
    ]
   },
   "btc": {
-   "price": 64975.39,
+   "price": 64955.28,
    "prev": 64884.16,
    "spark": [
-    64939.1992,
-    64935.0,
-    64943.5898,
-    64936.3008,
-    64931.9219,
-    64934.3203,
-    64955.9883,
-    64973.0586,
+    64973.0508,
     64968.7383,
     64968.7305,
     64966.2695,
-    64968.75,
+    64968.7617,
     64955.1602,
     64955.1602,
     64966.8711,
@@ -765,38 +758,38 @@
     64928.8008,
     64924.3398,
     64925.3711,
-    64934.3711,
+    64934.3789,
     64927.7305,
     64928.9609,
     64945.4219,
     64975.3789,
-    64966.6484,
+    64966.6406,
     64979.0,
     64957.0586,
     64957.0703,
     64957.7188,
-    64950.6719,
-    64963.4883,
+    64952.0586,
+    64963.4805,
     64971.5195,
     64983.8008,
-    64983.8008,
-    64975.3906
+    64975.3906,
+    64974.7109,
+    64965.1797,
+    64974.9883,
+    64969.8906,
+    64953.6602,
+    64955.0117,
+    64955.2812,
+    64955.2812
    ]
   },
   "eth": {
-   "price": 1915.51,
+   "price": 1917.85,
    "prev": 1913.2822,
    "spark": [
-    1916.4,
-    1915.76,
-    1915.96,
-    1915.7,
-    1915.53,
-    1915.61,
-    1916.1,
     1916.67,
     1915.66,
-    1915.5601,
+    1915.55,
     1915.1899,
     1915.14,
     1915.0699,
@@ -825,8 +818,15 @@
     1915.54,
     1915.9,
     1915.73,
-    1915.61,
-    1915.51
+    1915.2,
+    1915.46,
+    1918.77,
+    1918.11,
+    1918.27,
+    1917.91,
+    1917.85,
+    1917.85,
+    1917.85
    ]
   },
   "eurkrw": {
@@ -1138,6 +1138,12 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
   },
   {
+   "title": "상승 동력 부재에…비트코인 6만4000달러 박스권 형성",
+   "source": "news.mtn.co.kr",
+   "time": "2026-08-08T15:48:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZ002YUZMSmxpbk1ZalZLY0RabDJMUWFNR3hpVXF6c3dfYkhkZUlWSzBNTGV3aUJVdndiNnFFY0NpM3hQUzlhdXVfSTIxUktOVzNSS2VVbHZsVGtJd081M0hmdVU?oc=5"
+  },
+  {
    "title": "코스피, 최악 지났다는데…'진짜' 반등의 조건",
    "source": "v.daum.net",
    "time": "2026-08-08T08:01:49+09:00",
@@ -1148,12 +1154,6 @@
    "source": "기호일보",
    "time": "2026-08-08T10:32:20+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MMDdGQUhTQjJldG50WU5kd01QUXZfTjhheWlCbkZUdkhQLUpuOXNRN3hKLVJDaUJYVF9fb2h4cTVhUllRdDQzMHpBVUxKVnJyTmxrbUhER1dXcE5ISEdtcWRIOWdvZnYwVFltZF91dw?oc=5"
-  },
-  {
-   "title": "상승 동력 부재에…비트코인 6만4000달러 박스권 형성",
-   "source": "MTN 머니투데이방송",
-   "time": "2026-08-08T15:48:28+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZ002YUZMSmxpbk1ZalZLY0RabDJMUWFNR3hpVXF6c3dfYkhkZUlWSzBNTGV3aUJVdndiNnFFY0NpM3hQUzlhdXVfSTIxUktOVzNSS2VVbHZsVGtJd081M0hmdVU?oc=5"
   },
   {
    "title": "\"이럴거면 굳이\"…SK하이닉스는 ADR 나스닥 상장 왜 추진한 걸까",
@@ -1168,28 +1168,28 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GRjNOZnVxSkhuTnMwT3I5bExzczNuS0pQaGs4TzJrQi1LbjVSbWt0eXhkY3FwVnc2eVhfajJKMktmdVdGUWpZcUlmdjBGS180UFE?oc=5"
   },
   {
-   "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
-   "source": "joongang.co.kr",
-   "time": "2026-08-08T08:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rdFZVeGlLeHczYkR0VlJad0VZemdlU1hmclZXQm1OcEJfTWp0U1hoQjlSYktzWTlMbWdJMTNhclQ0NXVOVkNMWXhJTGh3MmN0RUxLSm1n?oc=5"
+   "title": "美 ‘고용 쇼크’에 금리 인상론 후퇴…비트코인 6만5000달러 회복 [주간 블록체인]",
+   "source": "디지털데일리",
+   "time": "2026-08-08T12:40:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZE03SVFLVGJrV241M3I5MGtZUVRkNmlOU3k0dXNTSUs3NUlvV1hZaHBPS1dlenBNTExyalpVbXBzcWVRNEtVcWstRmdiQkRtZldGeUhwZG45UVF1NGpvbnZXOG8?oc=5"
   },
   {
-   "title": "‘코스피 8000 시대’, 세종투자연구회가 알려주는 대학생을 위한 재테크 방법",
-   "source": "세종대학교 뉴스룸",
-   "time": "2026-08-08T02:40:33+09:00",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DN040OXYtNGw4M1hfOFBrMDc0M2VWUnFTSHE0V2phZkwzUV96MHdQdWk5RmhXN285dGVuQmFKTkhzSTNPTUJzSkxOMW9FeEZoSktZY2hmaUdUMk5lc0ExdVZaa3l0MnFvOUw3R1l0U1I5amV5NkFqQlM3eEhDX0U?oc=5"
-  },
-  {
-   "title": "고개 드는 서학개미…달러-원 하락 걸림돌 될까",
-   "source": "KB Think",
-   "time": "2026-08-08T08:05:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdFc4bFBNZFVlRzZ5OW1JRlJPbVBkOFdZa1pOd1BFUHQ5U2lmOEhmWkoxblN4OUFWdzNJSGk4emlKMjQ5UVprRE9LQkI3aUM4OVl3dWl5bzVEQ09UYWJmNjJvVnN3U2o3RDJMRlpYV0hOZw?oc=5"
+   "title": "반도체 레버리지 경각심 속 뉴욕 증시에서 3배 레버리지 투자 상품 경쟁 치열",
+   "source": "YTN",
+   "time": "2026-08-08T08:33:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5neEEzNjdJT09IR1NJa01FV1lsRjJCamJEN29yLUVtVExCZktoNTRjeVFjV1gxXzQwSlFPQlJyaklXeE0zMzVTQlJ4cjRHOXB5NkwtTzJLOC05eUFRc1E?oc=5"
   },
   {
    "title": "비트코인 노린 해킹 또 발생…이번엔 '결제 서버' 공격",
    "source": "블루밍비트",
    "time": "2026-08-08T17:04:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hSDJ6VlNjOHBpVzdJV0dEMnI1bHVKcFR6RU5yZWlLUmlVX1pVLV9JUldJWDJGZUVRLUVLUGpFc3l5SktKeWNfcFViY09ncHY4?oc=5"
+  },
+  {
+   "title": "코스피 변동성 줄어들자 다시 고개 든 '빚투'…감소하던 신용잔고 '꿈틀'",
+   "source": "프레시안",
+   "time": "2026-08-08T14:12:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQXhyWTRMcXJXdUlKeUQ0Q1ZGaGY4aUpmelFFTXRrZmQ3ZHdGb1dmWXBLRE9pZDg2RHFMNmpRYzJ4a3d2VXNqMjVvcUQyTDZWZGVBdXpxZ0c2R0pJdGxpWlJhV0llOEVtR3cw?oc=5"
   }
  ]
 }
