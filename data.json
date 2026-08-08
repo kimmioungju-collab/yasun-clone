@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T07:37:56.025594+09:00",
+ "updated": "2026-08-09T08:02:22.411919+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,17 +738,12 @@
    ]
   },
   "btc": {
-   "price": 64927.32,
+   "price": 64894.48,
    "prev": 64884.16,
    "spark": [
-    64967.4883,
-    64985.1719,
-    64995.6992,
-    64996.3711,
-    65011.5586,
     65032.8789,
-    65025.4219,
-    65031.3984,
+    65025.4102,
+    65031.3906,
     65027.3711,
     65033.9219,
     65025.1797,
@@ -756,42 +751,42 @@
     65016.0117,
     65036.9219,
     65021.8086,
-    65032.3086,
+    65032.3008,
     65045.3906,
     65031.8594,
     65032.1797,
-    65023.7617,
-    65020.1602,
+    65023.75,
+    65020.1719,
     65000.0117,
     64993.4688,
-    64992.1719,
+    64992.1484,
     64980.1211,
-    65001.7695,
+    65001.7812,
     64990.6719,
-    65008.3906,
-    64986.4609,
-    64978.2383,
+    65008.3789,
+    64988.2305,
+    64978.25,
     64968.0312,
     64970.1719,
-    64968.1406,
-    64952.2188,
+    64971.7617,
+    64952.2109,
     64949.0586,
     64953.3906,
     64940.3906,
     64939.8398,
-    64933.4609,
-    64927.3203
+    64931.8789,
+    64920.0117,
+    64919.0703,
+    64909.3203,
+    64892.5117,
+    64894.4883,
+    64894.4805
    ]
   },
   "eth": {
-   "price": 1917.99,
+   "price": 1915.5,
    "prev": 1913.2822,
    "spark": [
-    1918.5,
-    1918.64,
-    1918.96,
-    1918.8199,
-    1919.51,
     1919.99,
     1919.16,
     1918.85,
@@ -825,8 +820,13 @@
     1919.11,
     1919.2,
     1918.04,
-    1917.98,
-    1917.99
+    1918.3,
+    1918.15,
+    1917.75,
+    1917.9,
+    1915.4399,
+    1915.52,
+    1915.5
    ]
   },
   "eurkrw": {
@@ -1126,10 +1126,10 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUSlhwcS00OVhYZW5UTFh4VlZhNFh0X0ZvX2h0OXIwMmhUb0JLck1pZ3ZQRFNvMnc2OGpXX1ZneWZzTXVGMFl3VmxwMlc2ck0?oc=5"
   },
   {
-   "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
-   "source": "중앙일보",
-   "time": "2026-08-08T08:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rdFZVeGlLeHczYkR0VlJad0VZemdlU1hmclZXQm1OcEJfTWp0U1hoQjlSYktzWTlMbWdJMTNhclQ0NXVOVkNMWXhJTGh3MmN0RUxLSm1n?oc=5"
+   "title": "[마켓인사이트] 韓증시, 역대급 변동성은 다소 완화…반등계기 찾나",
+   "source": "매일경제 마켓",
+   "time": "2026-08-09T06:00:16+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ODg4V2NUelFQWHZvUGo3Yl92aWZjSXZ2S0NEM0RudmtKQUlFVjNVTWRBQmx5Q1ppVTlLZVNBdENxeG9SVVJwYTFuX0pOQW9WWXc?oc=5"
   },
   {
    "title": "비트코인 6만 5천 달러 상승, 인프라 보안 위험 부상",
@@ -1138,16 +1138,22 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oTjNvLVNtMWN3TmR0ZHUxR01Ea0h1MEpQNjlINURfa1VseGlyckRhdW9VMzVvX3ltX0F6Xy1tOEJTcnN1bV83ZWNZTGQ4QUhDZ05hMlBybXJObUZ2bDBEMEVWa3FoUHQ5RktsaWU1R01remc?oc=5"
   },
   {
-   "title": "달러 수급 개선에 원화 강세…환율 ‘1300원대’ 시험대",
-   "source": "에너지경제신문",
-   "time": "2026-08-08T17:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSzlGRWdxOHRXVG5RYncybWU4ajFmYlRhVGQzS1BXVldrQkl0WEh4ei1qcW8zNTNpNkw3RmhNQ256WllfaEIteGczUzFjMkdOU0lwYjF6cUFMMDA?oc=5"
+   "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
+   "source": "중앙일보",
+   "time": "2026-08-08T08:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rdFZVeGlLeHczYkR0VlJad0VZemdlU1hmclZXQm1OcEJfTWp0U1hoQjlSYktzWTlMbWdJMTNhclQ0NXVOVkNMWXhJTGh3MmN0RUxLSm1n?oc=5"
   },
   {
    "title": "\"이럴거면 굳이\"…SK하이닉스는 ADR 나스닥 상장 왜 추진한 걸까",
    "source": "인베스트조선",
    "time": "2026-08-06T07:32:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX3lCeEs2cTVoMWk1RkxmVzM4eWtVUnNxMTFzUU02S28xdG50bmJ5elRDVXJTSFhFVmlpdld4LU1GdmFTT0JRSkxzczZtOXJOQ1RLZTFwY2RyVUdGRng1N0VOeWRUNlQ0bU5rWWsxYnV5cEJyLTFNUTN5X0pMU3BVTlJ4UQ?oc=5"
+  },
+  {
+   "title": "달러 수급 개선에 원화 강세…환율 ‘1300원대’ 시험대",
+   "source": "에너지경제신문",
+   "time": "2026-08-08T17:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSzlGRWdxOHRXVG5RYncybWU4ajFmYlRhVGQzS1BXVldrQkl0WEh4ei1qcW8zNTNpNkw3RmhNQ256WllfaEIteGczUzFjMkdOU0lwYjF6cUFMMDA?oc=5"
   },
   {
    "title": "개인 투자자, 올해 국내 주식시장 순매수 200조원 넘었다",
@@ -1180,16 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1abF90bEJSeDVxSnhfRXN3TTdTSWNwNmhnVE5kbkFIVVBoa3ZjSkVtV0w1QTZFWENvbW13aWpxMjUtR2hqYzROQzNpSEJzT1BPRk1ZNkRtVHZrRmJyOXA2MEUyeElPcFg5RlMwR282VQ?oc=5"
   },
   {
-   "title": "코스피 폭락 경고 8배 급증…이번엔 샌디 공포 [플러스 관심종목]",
-   "source": "매일경제",
-   "time": "2026-08-07T18:45:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtUE80Tk5EZUc5SWkzTkRUb1Jmb0k3ejExeU1tYnFpWEhpNjdXRngyTDMyX0ZIMllBS3NsUGYtckFrRlM0V1dBTU00M1d6WThTM0JwLW1B?oc=5"
-  },
-  {
-   "title": "\"비트코인, 다시는 6만달러 아래로 안 떨어질 것\"",
-   "source": "블루밍비트",
-   "time": "2026-08-08T22:42:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jRzVSNHpfZVE4dFhVdFo4b1dLV0Y5MzV2QjhJVHN2LW9XVTVqNkMzSXdsT3p0cGpuT0lEeDB2cllnWWlTeUpNY3RvVDRyellH?oc=5"
+   "title": "뉴욕증시, 4거래일 랠리 마치고 ’숨고르기’…나스닥 0.8%↓",
+   "source": "연합뉴스TV",
+   "time": "2026-08-06T06:28:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KM1VRN0ZLSjR4UFN1QXlla3dvTUNyTGxLemoxS3dnTy1QOTJfdHRIVW9hWjJfZTk0VnZjemQwOEZqMzdSX0Y5Y1BDTU41a1J3WF9LQkhQcXJxWHl6UmI5WXFQWERWM3c?oc=5"
   }
  ]
 }
