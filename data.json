@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T01:53:54.587661+09:00",
+ "updated": "2026-08-09T02:20:48.004373+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 65023.21,
+   "price": 65065.53,
    "prev": 64884.16,
    "spark": [
-    64970.7383,
-    64973.0391,
-    64972.8086,
-    64973.6094,
-    64975.6797,
     64989.8984,
     65019.3594,
     65012.9102,
@@ -779,19 +774,19 @@
     65003.3398,
     65015.6719,
     65015.2305,
-    65023.2109,
-    65023.2109
+    65036.9219,
+    65039.9883,
+    65040.0,
+    65060.9102,
+    65070.1992,
+    65065.6914,
+    65065.5312
    ]
   },
   "eth": {
-   "price": 1920.99,
+   "price": 1921.7,
    "prev": 1913.2822,
    "spark": [
-    1918.03,
-    1918.3,
-    1918.46,
-    1918.95,
-    1920.14,
     1919.67,
     1920.35,
     1920.39,
@@ -825,8 +820,13 @@
     1920.64,
     1920.62,
     1920.79,
-    1920.76,
-    1920.99
+    1921.39,
+    1921.42,
+    1921.51,
+    1921.62,
+    1922.0,
+    1921.71,
+    1921.7
    ]
   },
   "eurkrw": {
@@ -1174,16 +1174,16 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1abF90bEJSeDVxSnhfRXN3TTdTSWNwNmhnVE5kbkFIVVBoa3ZjSkVtV0w1QTZFWENvbW13aWpxMjUtR2hqYzROQzNpSEJzT1BPRk1ZNkRtVHZrRmJyOXA2MEUyeElPcFg5RlMwR282VQ?oc=5"
   },
   {
-   "title": "코스피, 최악 지났다는데…'진짜' 반등의 조건",
-   "source": "v.daum.net",
-   "time": "2026-08-08T08:01:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Sektwb0FkYVBfaU9VLTRHVlRkNERsRnhFSVgybTdZVEtwZjBUUGkzdGpjNWw0R1FiTWctZEQ4eEZIVVBCZnFRcl9TRDRXdE0?oc=5"
-  },
-  {
    "title": "\"비트코인, 다시는 6만달러 아래로 안 떨어질 것\"",
    "source": "블루밍비트",
    "time": "2026-08-08T22:42:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jRzVSNHpfZVE4dFhVdFo4b1dLV0Y5MzV2QjhJVHN2LW9XVTVqNkMzSXdsT3p0cGpuT0lEeDB2cllnWWlTeUpNY3RvVDRyellH?oc=5"
+  },
+  {
+   "title": "코스피, 최악 지났다는데…'진짜' 반등의 조건",
+   "source": "v.daum.net",
+   "time": "2026-08-08T08:01:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Sektwb0FkYVBfaU9VLTRHVlRkNERsRnhFSVgybTdZVEtwZjBUUGkzdGpjNWw0R1FiTWctZEQ4eEZIVVBCZnFRcl9TRDRXdE0?oc=5"
   },
   {
    "title": "美 ‘고용 쇼크’에 금리 인상론 후퇴…비트코인 6만5000달러 회복 [주간 블록체인]",
