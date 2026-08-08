@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T04:37:16.794325+09:00",
+ "updated": "2026-08-09T04:59:12.937853+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64984.57,
+   "price": 65032.98,
    "prev": 64884.16,
    "spark": [
-    65027.0,
-    65004.6992,
-    65003.3398,
-    65015.6719,
     65015.2305,
     65036.9219,
     65039.9883,
@@ -779,18 +775,18 @@
     64972.8398,
     64967.4883,
     64985.1719,
-    64984.5703,
-    64984.5703
+    64995.6992,
+    64996.3711,
+    65011.5586,
+    65032.8789,
+    65032.9805,
+    65032.9805
    ]
   },
   "eth": {
-   "price": 1918.57,
+   "price": 1919.2,
    "prev": 1913.2822,
    "spark": [
-    1921.25,
-    1920.9399,
-    1920.64,
-    1920.62,
     1920.79,
     1921.39,
     1921.42,
@@ -825,8 +821,12 @@
     1919.49,
     1918.5,
     1918.64,
-    1918.6,
-    1918.5699
+    1918.96,
+    1918.8199,
+    1919.51,
+    1919.99,
+    1919.51,
+    1919.2
    ]
   },
   "eurkrw": {
@@ -1150,16 +1150,16 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX3lCeEs2cTVoMWk1RkxmVzM4eWtVUnNxMTFzUU02S28xdG50bmJ5elRDVXJTSFhFVmlpdld4LU1GdmFTT0JRSkxzczZtOXJOQ1RLZTFwY2RyVUdGRng1N0VOeWRUNlQ0bU5rWWsxYnV5cEJyLTFNUTN5X0pMU3BVTlJ4UQ?oc=5"
   },
   {
-   "title": "상승 동력 부재에…비트코인 6만4000달러 박스권 형성",
-   "source": "MTN 머니투데이방송",
-   "time": "2026-08-08T15:48:28+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZ002YUZMSmxpbk1ZalZLY0RabDJMUWFNR3hpVXF6c3dfYkhkZUlWSzBNTGV3aUJVdndiNnFFY0NpM3hQUzlhdXVfSTIxUktOVzNSS2VVbHZsVGtJd081M0hmdVU?oc=5"
-  },
-  {
    "title": "S&P500, 자사주 매입 재개로 증시 수급 개선 전망",
    "source": "글로벌이코노믹",
    "time": "2026-08-09T04:25:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeldOaG5kd1VSc2o1U1o3Y1AwdERxcGlCYU0tR2owYTdrbmJxeXlHdEdJU2VEMTdBS3BIcXI5d1JkYkVUdVlldTNiQlI2Y3ZGQTBieGRkX19NWmpvWkZta2FrMVVnd2RmMXRQQzE4MUtCamdraE9hQ2gxeF9pVzVMc05OcWg0ajdP?oc=5"
+  },
+  {
+   "title": "상승 동력 부재에…비트코인 6만4000달러 박스권 형성",
+   "source": "MTN 머니투데이방송",
+   "time": "2026-08-08T15:48:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZ002YUZMSmxpbk1ZalZLY0RabDJMUWFNR3hpVXF6c3dfYkhkZUlWSzBNTGV3aUJVdndiNnFFY0NpM3hQUzlhdXVfSTIxUktOVzNSS2VVbHZsVGtJd081M0hmdVU?oc=5"
   },
   {
    "title": "피치 \"증시 약세, 금융권 직접 충격 적지만 부동산에 영향\"",
@@ -1174,22 +1174,22 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MMDdGQUhTQjJldG50WU5kd01QUXZfTjhheWlCbkZUdkhQLUpuOXNRN3hKLVJDaUJYVF9fb2h4cTVhUllRdDQzMHpBVUxKVnJyTmxrbUhER1dXcE5ISEdtcWRIOWdvZnYwVFltZF91dw?oc=5"
   },
   {
-   "title": "\"비트코인, 다시는 6만달러 아래로 안 떨어질 것\"",
-   "source": "블루밍비트",
-   "time": "2026-08-08T22:42:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jRzVSNHpfZVE4dFhVdFo4b1dLV0Y5MzV2QjhJVHN2LW9XVTVqNkMzSXdsT3p0cGpuT0lEeDB2cllnWWlTeUpNY3RvVDRyellH?oc=5"
-  },
-  {
    "title": "“겁먹고 팔 때 아니다”…지금 코스피를 담아야 하는 이유 [화제의 리포트]",
    "source": "v.daum.net",
    "time": "2026-08-08T14:49:37+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02NHlRc191c2lFcDdtSThEMk5BRVU2dW9TbmJkYTZpX3E3MzA3RE9acm03VkJLTU5WMVlOR3FiVld0UFNOVHp5b0kyYVJrUmM?oc=5"
   },
   {
-   "title": "판 깔아주고 나 몰라라… ‘롤러코스피’에 우는 2030",
-   "source": "주간조선",
-   "time": "2026-08-08T05:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EVEpya3NJNEhXcGZnZkxJTWlFQkoyakNFRmROWHlOa3I5VnRhSnlvbUhRdUFLNlFFT0ctcDQyQ0Y0NktQQ2xscmpkRFBCNUxDQWExRkFtRUdTTG1jdFc5bDB3emh3eTQzM2fSAW5BVV95cUxOSklITWp6YVdDaGQ2MExEYkNIczZpLTRuQ3cyWW1SdjNzMW40emxQS1Q4SnZOaHM2cjBmd0xMVjVNUndXUDlLY2t0UnhkbmU5WmJfSlNlbUlQTE1LMFVzel8xRFpVUGlRSFJTRTV5Zw?oc=5"
+   "title": "뉴욕증시, 4거래일 랠리 마치고 ’숨고르기’…나스닥 0.8%↓",
+   "source": "연합뉴스TV",
+   "time": "2026-08-06T06:28:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KM1VRN0ZLSjR4UFN1QXlla3dvTUNyTGxLemoxS3dnTy1QOTJfdHRIVW9hWjJfZTk0VnZjemQwOEZqMzdSX0Y5Y1BDTU41a1J3WF9LQkhQcXJxWHl6UmI5WXFQWERWM3c?oc=5"
+  },
+  {
+   "title": "\"비트코인, 다시는 6만달러 아래로 안 떨어질 것\"",
+   "source": "블루밍비트",
+   "time": "2026-08-08T22:42:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jRzVSNHpfZVE4dFhVdFo4b1dLV0Y5MzV2QjhJVHN2LW9XVTVqNkMzSXdsT3p0cGpuT0lEeDB2cllnWWlTeUpNY3RvVDRyellH?oc=5"
   }
  ]
 }
