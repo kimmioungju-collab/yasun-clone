@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T06:39:29.952379+09:00",
+ "updated": "2026-08-09T07:00:50.083729+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,29 +738,25 @@
    ]
   },
   "btc": {
-   "price": 64995.67,
+   "price": 64968.15,
    "prev": 64884.16,
    "spark": [
-    64990.5586,
-    65010.1602,
-    64996.9492,
-    65010.5,
     65015.0781,
-    64999.0117,
-    64992.8398,
-    64990.6406,
+    64999.0,
+    64992.8516,
+    64990.6484,
     64979.2109,
     64975.0508,
     64964.8711,
-    64972.8281,
+    64972.8398,
     64967.4883,
-    64985.1602,
+    64985.1719,
     64995.6992,
-    64996.3594,
+    64996.3711,
     65011.5586,
     65032.8789,
-    65025.4102,
-    65031.3906,
+    65025.4219,
+    65031.3984,
     65027.3711,
     65033.9219,
     65025.1797,
@@ -768,29 +764,29 @@
     65016.0117,
     65036.9219,
     65021.8086,
-    65032.3008,
+    65032.3086,
     65045.3906,
     65031.8594,
     65032.1797,
-    65023.75,
-    65020.1719,
+    65023.7617,
+    65020.1602,
     65000.0117,
     64993.4688,
-    64992.1484,
+    64992.1719,
     64980.1211,
-    65001.7812,
-    65007.8594,
-    64995.6719
+    65001.7695,
+    64990.6719,
+    65008.3906,
+    64986.4609,
+    64978.2383,
+    64968.0312,
+    64968.1484
    ]
   },
   "eth": {
-   "price": 1920.76,
+   "price": 1919.15,
    "prev": 1913.2822,
    "spark": [
-    1919.23,
-    1919.59,
-    1919.66,
-    1919.83,
     1920.11,
     1919.61,
     1920.11,
@@ -825,8 +821,12 @@
     1918.9301,
     1919.46,
     1919.8,
-    1920.76,
-    1920.76
+    1920.3199,
+    1920.8101,
+    1920.0,
+    1919.7,
+    1919.24,
+    1919.15
    ]
   },
   "eurkrw": {
@@ -1126,10 +1126,10 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oTjNvLVNtMWN3TmR0ZHUxR01Ea0h1MEpQNjlINURfa1VseGlyckRhdW9VMzVvX3ltX0F6Xy1tOEJTcnN1bV83ZWNZTGQ4QUhDZ05hMlBybXJObUZ2bDBEMEVWa3FoUHQ5RktsaWU1R01remc?oc=5"
   },
   {
-   "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
-   "source": "중앙일보",
-   "time": "2026-08-08T08:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rdFZVeGlLeHczYkR0VlJad0VZemdlU1hmclZXQm1OcEJfTWp0U1hoQjlSYktzWTlMbWdJMTNhclQ0NXVOVkNMWXhJTGh3MmN0RUxLSm1n?oc=5"
+   "title": "(주간증시전망)지수보다 종목…선별 장세 이어진다",
+   "source": "뉴스토마토",
+   "time": "2026-08-09T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uWTJtMXFGaFY0MUxMUlQ3dGZLU1VPM0hiWk9mZGxwTTQtaEtfcFU0M2trVUk4bHZHRGQycUJDdk5QeEc1YU4xbTcyQmVHUzlZSndER0ZQZEF2V1poZFVYYw?oc=5"
   },
   {
    "title": "달러 수급 개선에 원화 강세…환율 ‘1300원대’ 시험대",
@@ -1138,10 +1138,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSzlGRWdxOHRXVG5RYncybWU4ajFmYlRhVGQzS1BXVldrQkl0WEh4ei1qcW8zNTNpNkw3RmhNQ256WllfaEIteGczUzFjMkdOU0lwYjF6cUFMMDA?oc=5"
   },
   {
-   "title": "(주간증시전망)지수보다 종목…선별 장세 이어진다",
-   "source": "뉴스토마토",
-   "time": "2026-08-09T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uWTJtMXFGaFY0MUxMUlQ3dGZLU1VPM0hiWk9mZGxwTTQtaEtfcFU0M2trVUk4bHZHRGQycUJDdk5QeEc1YU4xbTcyQmVHUzlZSndER0ZQZEF2V1poZFVYYw?oc=5"
+   "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
+   "source": "중앙일보",
+   "time": "2026-08-08T08:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rdFZVeGlLeHczYkR0VlJad0VZemdlU1hmclZXQm1OcEJfTWp0U1hoQjlSYktzWTlMbWdJMTNhclQ0NXVOVkNMWXhJTGh3MmN0RUxLSm1n?oc=5"
   },
   {
    "title": "개인 투자자, 올해 국내 주식시장 순매수 200조원 넘었다",
@@ -1186,10 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uWE9HWFFjNDNUdlc0SXZZZHFGekNYamRLYXlRb0RfLXVaYVlSNDd6RzJDemlpUlB4d2xyQTg4QjlKb2hzd0lRZUF2VnhiT2VIdGhFZTNNeXpvNTRrVVo2cUxLZ3F5b3RNOVF1RDdYenZUYzll?oc=5"
   },
   {
-   "title": "피치 \"증시 약세, 금융권 직접 충격 적지만 부동산에 영향\"",
-   "source": "대전일보",
-   "time": "2026-08-08T22:15:47+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1abF90bEJSeDVxSnhfRXN3TTdTSWNwNmhnVE5kbkFIVVBoa3ZjSkVtV0w1QTZFWENvbW13aWpxMjUtR2hqYzROQzNpSEJzT1BPRk1ZNkRtVHZrRmJyOXA2MEUyeElPcFg5RlMwR282VQ?oc=5"
+   "title": "부동산부터 증시까지..여야 '정책 대전' 서막",
+   "source": "v.daum.net",
+   "time": "2026-08-09T06:31:30+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9STjQxTk9oOFZmbFhvclVseXVsdDFOSGYxOGczbFBXZ2gyQ3MxNjU1WUk2Qm84eldZMkZTWjdidVcwb19PTDR0dWVxODZCZnc?oc=5"
   }
  ]
 }
