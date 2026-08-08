@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T00:19:07.347078+09:00",
+ "updated": "2026-08-09T00:50:37.983756+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,15 +738,9 @@
    ]
   },
   "btc": {
-   "price": 65044.48,
+   "price": 65029.71,
    "prev": 64884.16,
    "spark": [
-    64882.1094,
-    64964.7891,
-    64979.0117,
-    64941.6914,
-    64932.5703,
-    64945.5898,
     64973.4102,
     64956.0781,
     64965.2383,
@@ -779,20 +773,20 @@
     65071.6797,
     65056.7188,
     65053.7812,
-    65044.5117,
-    65044.4805
+    65039.4492,
+    65058.3398,
+    65046.6289,
+    65032.4219,
+    65021.9414,
+    65015.3398,
+    65026.9883,
+    65029.7109
    ]
   },
   "eth": {
-   "price": 1922.41,
+   "price": 1921.32,
    "prev": 1913.2822,
    "spark": [
-    1918.2,
-    1919.96,
-    1920.26,
-    1919.39,
-    1918.87,
-    1918.9,
     1919.0601,
     1919.0,
     1919.09,
@@ -825,8 +819,14 @@
     1922.1801,
     1921.65,
     1922.64,
-    1922.42,
-    1922.41
+    1922.0,
+    1921.7,
+    1921.58,
+    1920.38,
+    1920.63,
+    1920.72,
+    1921.1899,
+    1921.3199
    ]
   },
   "eurkrw": {
@@ -1151,21 +1151,21 @@
   },
   {
    "title": "\"이럴거면 굳이\"…SK하이닉스는 ADR 나스닥 상장 왜 추진한 걸까",
-   "source": "인베스트조선",
+   "source": "investchosun.com",
    "time": "2026-08-06T07:32:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX3lCeEs2cTVoMWk1RkxmVzM4eWtVUnNxMTFzUU02S28xdG50bmJ5elRDVXJTSFhFVmlpdld4LU1GdmFTT0JRSkxzczZtOXJOQ1RLZTFwY2RyVUdGRng1N0VOeWRUNlQ0bU5rWWsxYnV5cEJyLTFNUTN5X0pMU3BVTlJ4UQ?oc=5"
-  },
-  {
-   "title": "상승 동력 부재에…비트코인 6만4000달러 박스권 형성",
-   "source": "MTN 머니투데이방송",
-   "time": "2026-08-08T15:48:28+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZ002YUZMSmxpbk1ZalZLY0RabDJMUWFNR3hpVXF6c3dfYkhkZUlWSzBNTGV3aUJVdndiNnFFY0NpM3hQUzlhdXVfSTIxUktOVzNSS2VVbHZsVGtJd081M0hmdVU?oc=5"
   },
   {
    "title": "[8월 첫째 주 세계경제동향 브리핑] 코스피 6,200선 후퇴…코스닥은 10%대 반등",
    "source": "기호일보",
    "time": "2026-08-08T10:32:20+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MMDdGQUhTQjJldG50WU5kd01QUXZfTjhheWlCbkZUdkhQLUpuOXNRN3hKLVJDaUJYVF9fb2h4cTVhUllRdDQzMHpBVUxKVnJyTmxrbUhER1dXcE5ISEdtcWRIOWdvZnYwVFltZF91dw?oc=5"
+  },
+  {
+   "title": "상승 동력 부재에…비트코인 6만4000달러 박스권 형성",
+   "source": "MTN 머니투데이방송",
+   "time": "2026-08-08T15:48:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZ002YUZMSmxpbk1ZalZLY0RabDJMUWFNR3hpVXF6c3dfYkhkZUlWSzBNTGV3aUJVdndiNnFFY0NpM3hQUzlhdXVfSTIxUktOVzNSS2VVbHZsVGtJd081M0hmdVU?oc=5"
   },
   {
    "title": "피치 \"증시 약세, 금융권 직접 충격 적지만 부동산에 영향\"",
@@ -1186,10 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jRzVSNHpfZVE4dFhVdFo4b1dLV0Y5MzV2QjhJVHN2LW9XVTVqNkMzSXdsT3p0cGpuT0lEeDB2cllnWWlTeUpNY3RvVDRyellH?oc=5"
   },
   {
-   "title": "美증시, 고용 악화에 금리인상 기대 후퇴…S&P500 사상최고치 마감",
-   "source": "매일경제 마켓",
-   "time": "2026-08-08T06:52:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GRjNOZnVxSkhuTnMwT3I5bExzczNuS0pQaGs4TzJrQi1LbjVSbWt0eXhkY3FwVnc2eVhfajJKMktmdVdGUWpZcUlmdjBGS180UFE?oc=5"
+   "title": "美 ‘고용 쇼크’에 금리 인상론 후퇴…비트코인 6만5000달러 회복 [주간 블록체인]",
+   "source": "디지털데일리",
+   "time": "2026-08-08T12:40:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZE03SVFLVGJrV241M3I5MGtZUVRkNmlOU3k0dXNTSUs3NUlvV1hZaHBPS1dlenBNTExyalpVbXBzcWVRNEtVcWstRmdiQkRtZldGeUhwZG45UVF1NGpvbnZXOG8?oc=5"
   }
  ]
 }
