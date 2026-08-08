@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T14:27:59.436355+09:00",
+ "updated": "2026-08-08T15:06:57.412669+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -738,17 +738,9 @@
    ]
   },
   "btc": {
-   "price": 64982.61,
+   "price": 64939.72,
    "prev": 64884.16,
    "spark": [
-    64868.4297,
-    64867.6797,
-    64893.4492,
-    64879.5117,
-    64881.7383,
-    64882.7109,
-    64882.7109,
-    64882.8516,
     64888.1211,
     64891.2891,
     64900.1797,
@@ -779,22 +771,22 @@
     64951.1406,
     64966.8594,
     64986.2383,
-    64984.1602,
-    64982.6094
+    64982.6289,
+    64980.8711,
+    64982.1484,
+    64974.3203,
+    64959.8086,
+    64939.7305,
+    64961.0,
+    64947.4688,
+    64947.4609,
+    64939.7188
    ]
   },
   "eth": {
-   "price": 1916.33,
+   "price": 1916.24,
    "prev": 1913.2822,
    "spark": [
-    1912.4,
-    1911.63,
-    1912.52,
-    1912.42,
-    1912.6801,
-    1912.5,
-    1912.41,
-    1912.41,
     1912.46,
     1913.47,
     1913.62,
@@ -825,8 +817,16 @@
     1915.91,
     1915.61,
     1916.46,
-    1916.14,
-    1916.33
+    1916.25,
+    1916.9301,
+    1917.74,
+    1917.11,
+    1916.09,
+    1915.27,
+    1916.5699,
+    1916.13,
+    1916.4,
+    1916.24
    ]
   },
   "eurkrw": {
@@ -1109,7 +1109,7 @@
  "news": [
   {
    "title": "한 달 만에 22% 폭락한 코스피…\"지금이라도 팔까 버틸까\"",
-   "source": "hankyung.com",
+   "source": "한국경제",
    "time": "2026-08-08T06:00:19+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zNExZVmJJWGNDdzh3aE9PcUpiN1dBOTg3N1hsbjQwVnA4TFRGY1V4QjNPT293VzNzQkRETlhHa1RlWTRPc2pGY1F4VXhiRjgtR2RxdWEyejZNZw?oc=5"
   },
@@ -1163,7 +1163,7 @@
   },
   {
    "title": "고개 드는 서학개미…달러-원 하락 걸림돌 될까",
-   "source": "KB Think",
+   "source": "kbthink.com",
    "time": "2026-08-08T08:05:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdFc4bFBNZFVlRzZ5OW1JRlJPbVBkOFdZa1pOd1BFUHQ5U2lmOEhmWkoxblN4OUFWdzNJSGk4emlKMjQ5UVprRE9LQkI3aUM4OVl3dWl5bzVEQ09UYWJmNjJvVnN3U2o3RDJMRlpYV0hOZw?oc=5"
   },
@@ -1174,16 +1174,16 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DN040OXYtNGw4M1hfOFBrMDc0M2VWUnFTSHE0V2phZkwzUV96MHdQdWk5RmhXN285dGVuQmFKTkhzSTNPTUJzSkxOMW9FeEZoSktZY2hmaUdUMk5lc0ExdVZaa3l0MnFvOUw3R1l0U1I5amV5NkFqQlM3eEhDX0U?oc=5"
   },
   {
-   "title": "비트코인·이더리움 버티는데 리플만 '털썩'",
-   "source": "비즈워치",
-   "time": "2026-08-08T11:00:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QaXRDVnMwN3dEbkdwTHVMNWt5NnBiNzNXOUh2NWJtcjRuTVlkeDNpckZZeEp3RXI3ZFoyaW5scU5MYWMzRm1BOEJmUlprNU1xVjU0bHdGSTU5OTdJa0szWEdsY2xCYjlZ?oc=5"
-  },
-  {
    "title": "\"이럴거면 굳이\"…SK하이닉스는 ADR 나스닥 상장 왜 추진한 걸까",
    "source": "인베스트조선",
    "time": "2026-08-06T07:32:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX3lCeEs2cTVoMWk1RkxmVzM4eWtVUnNxMTFzUU02S28xdG50bmJ5elRDVXJTSFhFVmlpdld4LU1GdmFTT0JRSkxzczZtOXJOQ1RLZTFwY2RyVUdGRng1N0VOeWRUNlQ0bU5rWWsxYnV5cEJyLTFNUTN5X0pMU3BVTlJ4UQ?oc=5"
+  },
+  {
+   "title": "비트코인·이더리움 버티는데 리플만 '털썩'",
+   "source": "비즈워치",
+   "time": "2026-08-08T11:00:03+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QaXRDVnMwN3dEbkdwTHVMNWt5NnBiNzNXOUh2NWJtcjRuTVlkeDNpckZZeEp3RXI3ZFoyaW5scU5MYWMzRm1BOEJmUlprNU1xVjU0bHdGSTU5OTdJa0szWEdsY2xCYjlZ?oc=5"
   },
   {
    "title": "환율 이틀째 1,410원대…수급 개선 영향",
