@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T03:00:22.000430+09:00",
+ "updated": "2026-08-10T03:53:10.289953+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -451,20 +451,9 @@
    ]
   },
   "btc": {
-   "price": 65145.02,
+   "price": 65160.01,
    "prev": 64908.484,
    "spark": [
-    65124.4883,
-    65145.7109,
-    65214.2891,
-    65203.0,
-    65201.25,
-    65194.7109,
-    65186.6289,
-    65188.9609,
-    65180.1797,
-    65180.8203,
-    65187.5586,
     65177.4688,
     65185.7188,
     65178.9414,
@@ -493,24 +482,24 @@
     65163.7891,
     65146.3711,
     65142.0,
-    65145.0195
+    65155.0703,
+    65156.3711,
+    65154.2109,
+    65150.1602,
+    65153.0117,
+    65166.75,
+    65174.0703,
+    65170.8516,
+    65170.3906,
+    65160.0117,
+    65160.0117,
+    65160.0117
    ]
   },
   "eth": {
-   "price": 1921.67,
+   "price": 1920.18,
    "prev": 1915.4414,
    "spark": [
-    1922.45,
-    1922.61,
-    1923.49,
-    1924.12,
-    1924.0601,
-    1924.9399,
-    1924.7,
-    1924.9301,
-    1924.73,
-    1924.61,
-    1924.75,
     1924.75,
     1924.9399,
     1924.9399,
@@ -539,7 +528,18 @@
     1922.02,
     1921.79,
     1921.67,
-    1921.67
+    1922.36,
+    1922.1801,
+    1921.3101,
+    1920.1801,
+    1920.3199,
+    1920.89,
+    1920.89,
+    1920.05,
+    1919.9,
+    1919.9301,
+    1920.1801,
+    1920.1801
    ]
   },
   "eurkrw": {
@@ -781,7 +781,7 @@
  "news": [
   {
    "title": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
-   "source": "한겨레",
+   "source": "hani.co.kr",
    "time": "2026-08-09T20:11:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5"
   },
@@ -823,9 +823,15 @@
   },
   {
    "title": "\"환율 하락도 코스닥 유리...이번 주도 코스닥 상승 전망\"",
-   "source": "YTN",
+   "source": "ytn.co.kr",
    "time": "2026-08-09T07:21:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aFRRMmgwRG9IaXZIUDJfc3I5bTFrT2U1SDE2c21kd09pWjZQV05QSVpqeWNXQlVCSndYSzZYOXpKWHkzVTQwNTg4dEtteHI1UFNGaVdacnpIMzNGS0E?oc=5"
+  },
+  {
+   "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-06T15:49:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
   },
   {
    "title": "이젠 1300원대 환율? 변동폭 금융위기 이후 최대",
@@ -840,12 +846,6 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZktXbGgxa1NISFlEVHdRdm43NUdMbDYydm9ScThiSTZaVFUzWm5NVThSU3JYcHVxQ2hOV3JXR3lKTzhZTmgzbURIU2JTbzd5M09ScHFYX1FRUXZkR3BmNkRXaXFSczk0ODl2eFZ1RlZzRWxk0gF0QVVfeXFMUEZOMExDOFJUWG50NGI2ckJkRktnYkgyaWZSeHNXUDBJbHRKTjhBdUFJa3YtZzRhd3I0eUhYejBVTVRFWm5BMmVxUEtWVERFbkU0OVhjemQwSG81azZ1eUUyQllSZGRYYWpiazVIeFQ2MERRcEM?oc=5"
   },
   {
-   "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-08-06T15:49:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
-  },
-  {
    "title": "블룸버그 “코스피 변동성 완화 조짐…레버리지 청산·규제 강화 효과”",
    "source": "경기일보",
    "time": "2026-08-09T17:07:14+09:00",
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YemRwYWFtVjlFdXpJcGJKeFQ4YkNBVU8wcGRGMkhpdDRHSHlmTDVIYi1nc0tRRlRIa3NpVldkZW00VlBUaWg0SDd1eWpqV2hNVTA1REFCV0dJeFnSAWBBVV95cUxPZi1OamxCMmdJdE1mV2NlVldJbTVyRHJoODVnVzFtcFhQQkJpalliajJuaklZS3poa0x4YU5TOVh0dUE0Y1dMLWFVQXRpRWhoRXQ1cG1sNkM4ekotXzdzZ0E?oc=5"
   },
   {
-   "title": "한달 전 1556원이었는데... 환율 어느새 1300원대 눈앞",
-   "source": "조선일보",
-   "time": "2026-08-09T11:55:12+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkJVTW1oU3JlUHhSRFdrbldvNlRLYi1TQ1NvalpRNGdNRlhqd0tqOXNVTUZPYzdEZEdYWE9FQWlmeXIwUzQ0OUZfLVM1U2tMYlZpV2dpOUM1R2oxZk9WeVpZN1pfeDR1LXNCOXpfTU1Ed1B2ZUhzajRXVGRUUXhyb2c4OVQxRlkwT21j?oc=5"
+   "title": "돈줄 떨어진 코스피…개인·기관·외국인 ‘트리플 자금’ 모두 줄었다",
+   "source": "중앙일보",
+   "time": "2026-08-09T16:34:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyLVlQR2lzSzdWaW9TcWRudy1pM2FiNFA2bW1VWk9PdjctOE1LOUVlLXhrUlRvYnozUmJsSmt1Wk1xWFBJakR4VkJpdGtZQ3Zxc0ViSjJn?oc=5"
   }
  ]
 }
