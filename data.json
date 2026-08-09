@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T21:26:52.440546+09:00",
+ "updated": "2026-08-09T22:30:48.090641+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -451,21 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64889.66,
+   "price": 65047.79,
    "prev": 64908.484,
    "spark": [
-    64780.9883,
-    64780.9805,
-    64765.1289,
-    64765.9883,
-    64768.2305,
-    64766.1406,
-    64772.1211,
-    64804.5,
-    64832.3086,
-    64844.75,
-    64847.1211,
-    64900.1602,
     64900.1719,
     64912.2812,
     64920.6406,
@@ -493,25 +481,25 @@
     64888.5117,
     64889.6602,
     64889.6602,
-    64889.6602
+    64892.1094,
+    64890.4688,
+    64890.4609,
+    64893.9609,
+    64895.7305,
+    64906.5898,
+    64955.0195,
+    64968.5703,
+    64971.7695,
+    64997.3711,
+    64990.5586,
+    65040.4609,
+    65047.7891
    ]
   },
   "eth": {
-   "price": 1916.77,
+   "price": 1923.38,
    "prev": 1915.4414,
    "spark": [
-    1913.41,
-    1912.8101,
-    1912.71,
-    1913.95,
-    1914.8101,
-    1915.11,
-    1915.51,
-    1919.22,
-    1919.83,
-    1920.15,
-    1920.37,
-    1920.6,
     1920.02,
     1919.4301,
     1919.24,
@@ -538,8 +526,20 @@
     1916.6899,
     1916.53,
     1916.55,
-    1916.59,
-    1916.77
+    1916.87,
+    1916.72,
+    1916.38,
+    1916.1,
+    1916.02,
+    1916.3199,
+    1916.27,
+    1917.3199,
+    1917.97,
+    1918.71,
+    1921.88,
+    1922.13,
+    1923.8101,
+    1923.38
    ]
   },
   "eurkrw": {
@@ -786,16 +786,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyU2N4WFZNNGJJMFItZnRmTXlWYW1RcVFBNVV1M2pGdXU4NzBPQmVUVDV5QTJQUDZoQlJyeG1qU1ljZVhHZHlqbTZxOG5tZ1VpQXl6MzcyTmdYQ2c?oc=5"
   },
   {
+   "title": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
+   "source": "한겨레",
+   "time": "2026-08-09T20:11:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5"
+  },
+  {
    "title": "레버리지 거품 걷힌 한국 증시… ‘역대급 저평가’에도 외인이 머뭇거리는 이유 By EBN",
    "source": "Investing.com 한국어",
    "time": "2026-08-09T12:41:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLeDNYd0stR1FrR2tLTU50SFQ2czhtOHFJMkVsNXpjOXR5T0VjM0s3LXgtdlFyak5PR040MUtpTVctT3dMcXFqRmJVaWJKT252QmpWZXVEbXFfdFRHQWc5dWVWdFdyenlQY3lRc2RueFA?oc=5"
-  },
-  {
-   "title": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
-   "source": "hani.co.kr",
-   "time": "2026-08-09T20:11:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5"
   },
   {
    "title": "[엔 캐리 시험대] 2년전 증시·코인 폭락 재현되나",
@@ -822,16 +822,16 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkJVTW1oU3JlUHhSRFdrbldvNlRLYi1TQ1NvalpRNGdNRlhqd0tqOXNVTUZPYzdEZEdYWE9FQWlmeXIwUzQ0OUZfLVM1U2tMYlZpV2dpOUM1R2oxZk9WeVpZN1pfeDR1LXNCOXpfTU1Ed1B2ZUhzajRXVGRUUXhyb2c4OVQxRlkwT21j?oc=5"
   },
   {
+   "title": "코스피 전고점 회복 올해 안엔 어려울 듯 3분기 삼전실적 주목",
+   "source": "v.daum.net",
+   "time": "2026-08-09T17:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YeTFTSWgzSDdtMzQ2VFNPOHI1LW9VS05NOU85RW84RE52ajNIZmk1dUZJQVZrQW9Oc2JfMTUweXNBeGViaGpTOXhPeC1OQ3M?oc=5"
+  },
+  {
    "title": "올해 월간 환율 변동폭 50원 육박…금융위기 이후 최고",
    "source": "중앙일보",
    "time": "2026-08-09T15:29:16+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WV2NkVmU2MmlRdTh5aDRCR1QxVS0xczQtcmVhbFJqWk4wY1JlUnY0TlJQLXdHY0dpTC1XVDZiZ0NHbHJ4VmtuVC1tdWxlaGN3Q0NHVkZ3?oc=5"
-  },
-  {
-   "title": "반도체 빠진 증시서 은행주 ‘역주행’…기준금리·환율 호재에 상승세",
-   "source": "v.daum.net",
-   "time": "2026-08-09T18:43:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GaDRGSHJsNnNnSHRaeHlOd1BQa1A5N2ltdU1ZYXJXTlN0LURoOEpxUERLMlRJcGc2MU5kdU0teTFYVlVfa3d1bVZkOTFybDg?oc=5"
   },
   {
    "title": "이젠 1300원대 환율? 변동폭 금융위기 이후 최대",
@@ -847,7 +847,7 @@
   },
   {
    "title": "상승 모멘텀 못찾는 코스피‥이달 거래대금·거래량 올해 최저",
-   "source": "imnews.imbc.com",
+   "source": "MBC 뉴스",
    "time": "2026-08-09T10:45:26+09:00",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZktXbGgxa1NISFlEVHdRdm43NUdMbDYydm9ScThiSTZaVFUzWm5NVThSU3JYcHVxQ2hOV3JXR3lKTzhZTmgzbURIU2JTbzd5M09ScHFYX1FRUXZkR3BmNkRXaXFSczk0ODl2eFZ1RlZzRWxk0gF0QVVfeXFMUEZOMExDOFJUWG50NGI2ckJkRktnYkgyaWZSeHNXUDBJbHRKTjhBdUFJa3YtZzRhd3I0eUhYejBVTVRFWm5BMmVxUEtWVERFbkU0OVhjemQwSG81azZ1eUUyQllSZGRYYWpiazVIeFQ2MERRcEM?oc=5"
   },
