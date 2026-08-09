@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T05:56:46.442329+09:00",
+ "updated": "2026-08-10T06:30:05.528887+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1407.45,
+   "price": 1407.78,
    "prev": 1422.69,
    "spark": [
     1408.96,
@@ -451,15 +451,9 @@
    ]
   },
   "btc": {
-   "price": 65099.0,
+   "price": 65088.58,
    "prev": 64908.484,
    "spark": [
-    65163.7891,
-    65146.3711,
-    65142.0,
-    65155.0703,
-    65156.3711,
-    65154.2109,
     65150.1602,
     65153.0117,
     65166.75,
@@ -492,20 +486,20 @@
     65100.0117,
     65089.1797,
     65099.0195,
-    65099.0195,
-    65099.0
+    65095.5703,
+    65091.0,
+    65094.7383,
+    65086.3008,
+    65077.6016,
+    65089.0195,
+    65093.7891,
+    65088.5781
    ]
   },
   "eth": {
-   "price": 1919.72,
+   "price": 1922.86,
    "prev": 1915.4414,
    "spark": [
-    1922.02,
-    1921.79,
-    1921.67,
-    1922.36,
-    1922.1801,
-    1921.3101,
     1920.1801,
     1920.3199,
     1920.89,
@@ -538,12 +532,18 @@
     1919.16,
     1919.3,
     1919.79,
-    1919.72,
-    1919.72
+    1919.78,
+    1919.58,
+    1918.6,
+    1920.28,
+    1920.27,
+    1920.98,
+    1922.86,
+    1922.86
    ]
   },
   "eurkrw": {
-   "price": 1626.1,
+   "price": 1627.4,
    "prev": 1638.4,
    "spark": [
     1628.5,
@@ -589,7 +589,7 @@
    ]
   },
   "jpykrw": {
-   "price": 8.898,
+   "price": 8.905,
    "prev": 8.956,
    "spark": [
     8.92,
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 157.696,
+   "price": 157.651,
    "prev": 158.449,
    "spark": [
     157.435,
@@ -727,7 +727,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1562,
+   "price": 1.1567,
    "prev": 1.1525,
    "spark": [
     1.1565,
@@ -810,10 +810,22 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KRjJBZmF1bTVJWGRZUmZUSnJDcTdzckRRalJsbnViUTJtbkhQNHR1WWpOdDVoT0lHSVo1NXZfTU5ZcHVCMTBOWklfanF0REZ3NV9SZmdTamMxMFJWcW9kdjd3TlJNUHBG0gFuQVVfeXFMUFVpbFZBVHdZSXdUaXJqMkJuVDd6X0hYbjN3cjZkdmRnQTdzaFBmMGVIYzB0SEVpNlhEUy1lQ2t6N2lDSmFmTWV1eU9jbXpmTWJBZzZiWVlMWUdZbWp0TUl5eXVxbmJGWmJHWmhlemc?oc=5"
   },
   {
+   "title": "“상한가 두번 터져야 원금 회복”…홀짝판 증시에 개미들 비명",
+   "source": "주간경향",
+   "time": "2026-08-10T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83ZExhLW1reU9FWlFldU0zanZNaFpiS1RDOU90VFNxR0hnQ2ZTVk1VVi1RaWJ5TjZ0ZjJEczdDNHVHeW11S2JtQU1HeGVpWGRRZlhaY3RpcnBmTDIxaWc?oc=5"
+  },
+  {
    "title": "올해 월간 환율 변동폭 50원 육박…금융위기 이후 최고",
    "source": "중앙일보",
    "time": "2026-08-09T15:29:16+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WV2NkVmU2MmlRdTh5aDRCR1QxVS0xczQtcmVhbFJqWk4wY1JlUnY0TlJQLXdHY0dpTC1XVDZiZ0NHbHJ4VmtuVC1tdWxlaGN3Q0NHVkZ3?oc=5"
+  },
+  {
+   "title": "유럽 증시로 글로벌 자금 복귀…2분기 이익 22% 급증",
+   "source": "글로벌이코노믹",
+   "time": "2026-08-10T03:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHg1OWFBYjVITjJCazhCR2JGWFVXdGtYd1U5UXh0Wk5oTV8yS1VIMzVoc1h6YjFzdFBrTEh2OThsQmpyd3NRYVVmUlNYeUZpVVFhM0hBcXpXX2R0STdkUFR1M1hUNFdXMG9NS3hWbUFGc1pTTnBtMVZDU2VvWXZ5YTNaOTV2Y3JM?oc=5"
   },
   {
    "title": "[엔 캐리 시험대] 2년전 증시·코인 폭락 재현되나",
@@ -828,40 +840,28 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10ZkplaEkxYThISDhtY3VKMEkzeVRmNVlnSW5XWkJoWDcyeTBxblR0OVZNd2FhczZkSFItZXRjcGpTVXh0MFhWejVIT0M3SEJybC1Gd2NIdXJDdjJ6ZUxpZEJvTmNPMWxma0Vn?oc=5"
   },
   {
+   "title": "나스닥 사라던 ETF의 아버지 \"생태계 갖춘 국내산업, 투자하기 좋아\"",
+   "source": "v.daum.net",
+   "time": "2026-08-10T06:02:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ud2c4NnJjdkpQT3E1QzU4T3FGbk51cVN2eS1XdEFQaXRCeXRiTzQ5aDE1eng3WUpSN2M3cUZ6cUp5QXdMYWFjcnoxWkJoZWc?oc=5"
+  },
+  {
    "title": "유럽 증시, 실적 개선과 경제 성장에 힘입어 투자자 유입 확대",
-   "source": "kr.investing.com",
+   "source": "Investing.com 한국어",
    "time": "2026-08-09T18:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLSTl2Q2NsRFRLUlFaRDhEMTB3TndOQml1enVsWkVDalYwVjRpUFRmc3gyN1M4R1hRdHI1SVJ0T3hoal9iNjBvZGw3bG9sV2dlbVV3enduX0lHX296eGZ2NUNaZWhEbHU5bEpEU2dlcnQ?oc=5"
-  },
-  {
-   "title": "삼전 ‘웃고’·SK하닉 ‘울고’…엇갈린 삼전닉스 뚫고 코스피 구원할 깜짝 실적주는?",
-   "source": "v.daum.net",
-   "time": "2026-08-10T05:32:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CY1lGLWZKWHF3VC1fVmZMMHdxQ1JxRTEydENER01Sb0hlV29fM01wcXNqRG84RmJaSVdmN0psODRFTUs5RHlHNy1fakNleU0?oc=5"
-  },
-  {
-   "title": "'롤러코스피' 이제 끝?…외신이 주목한 반전 신호 [지금이뉴스]",
-   "source": "YTN",
-   "time": "2026-08-09T16:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFSS1JbVNLYmZLRW5FbWZsYmtCNFNCek1oUTJzZVFMQ1JnSW1yZFAwVVZLTTYxaHQyNXo3TVRiT3JySlRGQ051SHk4TG5MazhNamUxR1QtZkZlYUEyNmc?oc=5"
-  },
-  {
-   "title": "이젠 1300원대 환율? 변동폭 금융위기 이후 최대",
-   "source": "문화일보",
-   "time": "2026-08-09T17:51:41+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WMnpSYkdXdXM3ZTNPbG5sSDc4QUxPY3dTTzkycHBoeExxNDRjR0QwUDR0bmVvREdwOUJIM1oxUkVLbGU2OXpWTkdBNEh6TVFV?oc=5"
-  },
-  {
-   "title": "개인이 11조 샀는데 코스피는 더 빠졌다 … 급락 뒤 시작된 ‘손실 나선’",
-   "source": "매일경제",
-   "time": "2026-08-10T04:06:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JbmZYbkxJaXg3cC1lSGIyenVVOFozVFhXRW1YSlQwV25hc2RIclNHbnBGTGdiVHNseEMzT0h3WGx5MzRGVWFlT2lrVUNaTFRhWlE?oc=5"
   },
   {
    "title": "빚투 줄자 코스피도 진정…블룸버그 \"극심한 혼란 정점 지났을 수도\" - 머니투데이",
    "source": "머니투데이",
    "time": "2026-08-09T19:51:52+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yWTFhVGRaN1JRMlhrSDFxRmdrNEpHMlF4SnFCMHFJUkJXaXh1bGREMmpncm5hbm5oczhEZmJmMmlwZURyVWZVVG0tY2Jsb1VrRjRzelpHczUwS05HSmZsb21HR2dGNnJw0gFuQVVfeXFMTnJ0cXZsVHNrSDVyQWJQdGJwSXUzYXd6RHRZeGhtQ1BYN2FaeHc4QU5aTDlXWkEyZnRMT09YUjduS3NDYWZXMW1tTlZyUDU5aWxwOU9lNnFwZ3JXSXNNZzU0ajdjYXhXTUhzZFlhMnc?oc=5"
+  },
+  {
+   "title": "돈줄 떨어진 코스피…개인·기관·외국인 ‘트리플 자금’ 모두 줄었다",
+   "source": "중앙일보",
+   "time": "2026-08-09T16:34:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyLVlQR2lzSzdWaW9TcWRudy1pM2FiNFA2bW1VWk9PdjctOE1LOUVlLXhrUlRvYnozUmJsSmt1Wk1xWFBJakR4VkJpdGtZQ3Zxc0ViSjJn?oc=5"
   }
  ]
 }
