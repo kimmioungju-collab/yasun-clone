@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T04:23:43.998121+09:00",
+ "updated": "2026-08-10T04:53:42.788363+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -187,12 +187,12 @@
   },
   "nq": {
    "price": 29834.75,
-   "prev": 29488.25,
+   "prev": 29834.75,
    "spark": []
   },
   "es": {
    "price": 7779.75,
-   "prev": 7734.75,
+   "prev": 7779.75,
    "spark": []
   },
   "ndx": {
@@ -335,12 +335,12 @@
   },
   "wti": {
    "price": 78.18,
-   "prev": 77.29,
+   "prev": 78.18,
    "spark": []
   },
   "brent": {
    "price": 83.55,
-   "prev": 82.49,
+   "prev": 83.55,
    "spark": []
   },
   "gold": {
@@ -451,65 +451,59 @@
    ]
   },
   "btc": {
-   "price": 65166.02,
+   "price": 65145.62,
    "prev": 64908.484,
    "spark": [
-    65188.6406,
-    65178.1094,
-    65145.0,
-    65149.1289,
-    65168.5586,
-    65194.1406,
-    65206.5586,
+    65206.5703,
     65185.3398,
     65192.4219,
     65181.9688,
     65180.2695,
     65170.8594,
-    65179.1484,
+    65179.1602,
     65180.2695,
-    65185.4883,
+    65185.5,
     65185.4805,
     65176.9102,
     65183.8906,
-    65181.2812,
+    65181.2695,
     65163.7891,
     65146.3711,
     65142.0,
-    65155.0586,
+    65155.0703,
     65156.3711,
-    65154.2188,
+    65154.2109,
     65150.1602,
     65153.0117,
     65166.75,
     65174.0703,
-    65170.8594,
+    65170.8516,
     65170.3906,
-    65160.0,
+    65160.0117,
     65159.9297,
     65147.1211,
-    65143.6289,
+    65143.5,
     65154.6406,
     65150.2812,
     65169.9883,
-    65166.0195,
-    65166.0195
+    65165.7617,
+    65159.3516,
+    65152.2695,
+    65150.9688,
+    65150.2695,
+    65145.5117,
+    65145.6211,
+    65145.6211
    ]
   },
   "eth": {
-   "price": 1920.88,
+   "price": 1920.42,
    "prev": 1915.4414,
    "spark": [
-    1923.59,
-    1923.51,
-    1921.6,
-    1921.08,
-    1922.33,
-    1922.5601,
-    1923.36,
-    1922.97,
-    1923.1,
-    1922.71,
+    1923.4399,
+    1922.98,
+    1923.11,
+    1922.72,
     1922.88,
     1922.8,
     1923.3101,
@@ -519,15 +513,15 @@
     1922.71,
     1923.1801,
     1922.73,
-    1922.01,
+    1922.02,
     1921.79,
     1921.67,
     1922.36,
     1922.1801,
     1921.3101,
-    1920.17,
+    1920.1801,
     1920.3199,
-    1920.9,
+    1920.89,
     1920.89,
     1920.05,
     1919.9,
@@ -538,8 +532,14 @@
     1920.8199,
     1920.14,
     1920.61,
-    1920.88,
-    1920.88
+    1920.85,
+    1920.55,
+    1921.04,
+    1921.08,
+    1921.1,
+    1920.6899,
+    1920.5,
+    1920.42
    ]
   },
   "eurkrw": {
@@ -811,7 +811,7 @@
   },
   {
    "title": "올해 월간 환율 변동폭 50원 육박…금융위기 이후 최고",
-   "source": "중앙일보",
+   "source": "joongang.co.kr",
    "time": "2026-08-09T15:29:16+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WV2NkVmU2MmlRdTh5aDRCR1QxVS0xczQtcmVhbFJqWk4wY1JlUnY0TlJQLXdHY0dpTC1XVDZiZ0NHbHJ4VmtuVC1tdWxlaGN3Q0NHVkZ3?oc=5"
   },
@@ -840,12 +840,6 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFSS1JbVNLYmZLRW5FbWZsYmtCNFNCek1oUTJzZVFMQ1JnSW1yZFAwVVZLTTYxaHQyNXo3TVRiT3JySlRGQ051SHk4TG5MazhNamUxR1QtZkZlYUEyNmc?oc=5"
   },
   {
-   "title": "상승 모멘텀 못찾는 코스피‥이달 거래대금·거래량 올해 최저",
-   "source": "MBC 뉴스",
-   "time": "2026-08-09T10:45:26+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZktXbGgxa1NISFlEVHdRdm43NUdMbDYydm9ScThiSTZaVFUzWm5NVThSU3JYcHVxQ2hOV3JXR3lKTzhZTmgzbURIU2JTbzd5M09ScHFYX1FRUXZkR3BmNkRXaXFSczk0ODl2eFZ1RlZzRWxk0gF0QVVfeXFMUEZOMExDOFJUWG50NGI2ckJkRktnYkgyaWZSeHNXUDBJbHRKTjhBdUFJa3YtZzRhd3I0eUhYejBVTVRFWm5BMmVxUEtWVERFbkU0OVhjemQwSG81azZ1eUUyQllSZGRYYWpiazVIeFQ2MERRcEM?oc=5"
-  },
-  {
    "title": "블룸버그 “코스피 변동성 완화 조짐…레버리지 청산·규제 강화 효과”",
    "source": "경기일보",
    "time": "2026-08-09T17:07:14+09:00",
@@ -859,9 +853,15 @@
   },
   {
    "title": "돈줄 떨어진 코스피…개인·기관·외국인 ‘트리플 자금’ 모두 줄었다",
-   "source": "중앙일보",
+   "source": "joongang.co.kr",
    "time": "2026-08-09T16:34:09+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyLVlQR2lzSzdWaW9TcWRudy1pM2FiNFA2bW1VWk9PdjctOE1LOUVlLXhrUlRvYnozUmJsSmt1Wk1xWFBJakR4VkJpdGtZQ3Zxc0ViSjJn?oc=5"
+  },
+  {
+   "title": "요동치는 원·달러 환율… 올들어 변동폭 47원 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-08-10T00:34:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzM2NDRJNDhXZl9xa3pmeW9YZ0l4Vlk2LXNWUnBfam9LTnRqVGNzdG1zOFdXc2pIMlVDRktpNGdfTHl0UzdUUHNOWmZPc2ttN3E4LWpqT3ZZQnNMTE16V18zQjFzcU05cUVZMHNfcER0eXBHcXhONHVVcHNJMDVnUkIxdFJqRWZS0gGcAUFVX3lxTE9LbVdjQ3Jmb2JKV0h4bk1mZVVEQmszU1l1Nk90TGdKSlV3dmFQLTNXdnhWTVdOVmh6eWtxSnQxODJLUUIxWk9wNk1uX1pHOS1qR3l6S29NWjlkNVJKS0RBejB6Ry13d0xzM1A2YW12dVBPMXZhNV9CcUJZd182SlllUHl1ZVJjd05LQ2sxYURRekdiYWVWYk1IWnFmZg?oc=5"
   }
  ]
 }
