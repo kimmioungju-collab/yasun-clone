@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T02:29:55.996088+09:00",
+ "updated": "2026-08-10T03:00:22.000430+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -451,15 +451,9 @@
    ]
   },
   "btc": {
-   "price": 65185.48,
+   "price": 65145.02,
    "prev": 64908.484,
    "spark": [
-    65163.6094,
-    65120.1719,
-    65142.1797,
-    65160.0,
-    65120.1797,
-    65122.5,
     65124.4883,
     65145.7109,
     65214.2891,
@@ -492,20 +486,20 @@
     65179.1602,
     65180.2695,
     65185.5,
-    65185.4883,
-    65185.4805
+    65185.4805,
+    65176.9102,
+    65183.8906,
+    65181.2695,
+    65163.7891,
+    65146.3711,
+    65142.0,
+    65145.0195
    ]
   },
   "eth": {
-   "price": 1923.08,
+   "price": 1921.67,
    "prev": 1915.4414,
    "spark": [
-    1922.9301,
-    1921.73,
-    1922.15,
-    1923.72,
-    1922.7,
-    1922.47,
     1922.45,
     1922.61,
     1923.49,
@@ -538,8 +532,14 @@
     1923.3101,
     1923.17,
     1923.12,
-    1923.27,
-    1923.08
+    1923.08,
+    1922.71,
+    1923.1801,
+    1922.73,
+    1922.02,
+    1921.79,
+    1921.67,
+    1921.67
    ]
   },
   "eurkrw": {
@@ -828,16 +828,22 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aFRRMmgwRG9IaXZIUDJfc3I5bTFrT2U1SDE2c21kd09pWjZQV05QSVpqeWNXQlVCSndYSzZYOXpKWHkzVTQwNTg4dEtteHI1UFNGaVdacnpIMzNGS0E?oc=5"
   },
   {
+   "title": "이젠 1300원대 환율? 변동폭 금융위기 이후 최대",
+   "source": "munhwa.com",
+   "time": "2026-08-09T17:51:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WMnpSYkdXdXM3ZTNPbG5sSDc4QUxPY3dTTzkycHBoeExxNDRjR0QwUDR0bmVvREdwOUJIM1oxUkVLbGU2OXpWTkdBNEh6TVFV?oc=5"
+  },
+  {
    "title": "상승 모멘텀 못찾는 코스피‥이달 거래대금·거래량 올해 최저",
    "source": "MBC 뉴스",
    "time": "2026-08-09T10:45:26+09:00",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZktXbGgxa1NISFlEVHdRdm43NUdMbDYydm9ScThiSTZaVFUzWm5NVThSU3JYcHVxQ2hOV3JXR3lKTzhZTmgzbURIU2JTbzd5M09ScHFYX1FRUXZkR3BmNkRXaXFSczk0ODl2eFZ1RlZzRWxk0gF0QVVfeXFMUEZOMExDOFJUWG50NGI2ckJkRktnYkgyaWZSeHNXUDBJbHRKTjhBdUFJa3YtZzRhd3I0eUhYejBVTVRFWm5BMmVxUEtWVERFbkU0OVhjemQwSG81azZ1eUUyQllSZGRYYWpiazVIeFQ2MERRcEM?oc=5"
   },
   {
-   "title": "올해 환율 변동폭 47원…금융위기 이후 최대",
-   "source": "전자신문",
-   "time": "2026-08-09T10:56:16+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idS1aV1hvNnF1cUJ4RG1PaC1weW1Ec1BKUkw4SXpVcExkRU1GTVpZR2xCaGJGN25nMExRV01KTmQ3SVBXQzNFVHQ3emUtQQ?oc=5"
+   "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-06T15:49:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
   },
   {
    "title": "블룸버그 “코스피 변동성 완화 조짐…레버리지 청산·규제 강화 효과”",
@@ -850,12 +856,6 @@
    "source": "연합뉴스",
    "time": "2026-08-09T14:07:12+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YemRwYWFtVjlFdXpJcGJKeFQ4YkNBVU8wcGRGMkhpdDRHSHlmTDVIYi1nc0tRRlRIa3NpVldkZW00VlBUaWg0SDd1eWpqV2hNVTA1REFCV0dJeFnSAWBBVV95cUxPZi1OamxCMmdJdE1mV2NlVldJbTVyRHJoODVnVzFtcFhQQkJpalliajJuaklZS3poa0x4YU5TOVh0dUE0Y1dMLWFVQXRpRWhoRXQ1cG1sNkM4ekotXzdzZ0E?oc=5"
-  },
-  {
-   "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-08-06T15:49:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
   },
   {
    "title": "한달 전 1556원이었는데... 환율 어느새 1300원대 눈앞",
