@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T15:27:56.563207+09:00",
+ "updated": "2026-08-09T16:32:51.668319+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -451,39 +451,26 @@
    ]
   },
   "btc": {
-   "price": 64787.43,
+   "price": 64782.78,
    "prev": 64908.484,
    "spark": [
-    64702.2109,
-    64735.2891,
-    64728.6289,
-    64735.9492,
-    64744.9414,
-    64751.8906,
-    64738.3086,
-    64732.8516,
-    64734.9609,
-    64737.75,
-    64748.7891,
-    64768.75,
-    64753.6094,
     64758.1406,
-    64779.3789,
-    64761.4219,
-    64758.5391,
+    64779.3906,
+    64755.7617,
+    64758.5508,
     64750.4492,
     64747.6406,
-    64728.4883,
-    64735.3281,
+    64728.4805,
+    64735.4297,
     64726.3203,
     64727.5312,
-    64733.9688,
+    64733.9805,
     64726.4688,
-    64734.1719,
+    64734.1602,
     64729.5898,
-    64734.6484,
+    64734.6406,
     64728.5508,
-    64727.3008,
+    64727.2891,
     64724.7188,
     64738.6211,
     64754.3203,
@@ -492,27 +479,27 @@
     64763.1289,
     64768.1602,
     64783.5195,
-    64787.4297,
-    64787.4297
+    64787.3984,
+    64793.3281,
+    64806.2617,
+    64809.1016,
+    64800.3516,
+    64799.5312,
+    64792.8984,
+    64789.9805,
+    64793.1289,
+    64803.1992,
+    64792.7383,
+    64783.5312,
+    64780.3203,
+    64782.7812,
+    64782.7812
    ]
   },
   "eth": {
-   "price": 1915.25,
+   "price": 1916.11,
    "prev": 1915.4414,
    "spark": [
-    1912.01,
-    1912.0699,
-    1912.5,
-    1913.15,
-    1913.0601,
-    1912.77,
-    1912.98,
-    1912.8,
-    1912.74,
-    1912.8,
-    1913.02,
-    1913.66,
-    1913.21,
     1912.71,
     1913.11,
     1912.46,
@@ -538,8 +525,21 @@
     1914.15,
     1915.13,
     1915.03,
-    1915.46,
-    1915.25
+    1915.55,
+    1916.38,
+    1916.5,
+    1916.46,
+    1916.6801,
+    1917.0,
+    1917.71,
+    1917.38,
+    1917.65,
+    1916.8199,
+    1916.04,
+    1916.39,
+    1916.5,
+    1916.21,
+    1916.11
    ]
   },
   "eurkrw": {
@@ -780,6 +780,12 @@
  },
  "news": [
   {
+   "title": "환율 어느새 1300원대 눈앞... 금융위기 이후 변동성 최대",
+   "source": "조선일보",
+   "time": "2026-08-09T11:52:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkJVTW1oU3JlUHhSRFdrbldvNlRLYi1TQ1NvalpRNGdNRlhqd0tqOXNVTUZPYzdEZEdYWE9FQWlmeXIwUzQ0OUZfLVM1U2tMYlZpV2dpOUM1R2oxZk9WeVpZN1pfeDR1LXNCOXpfTU1Ed1B2ZUhzajRXVGRUUXhyb2c4OVQxRlkwT21j?oc=5"
+  },
+  {
    "title": "[엔 캐리 시험대] 2년전 증시·코인 폭락 재현되나",
    "source": "연합인포맥스",
    "time": "2026-08-09T12:00:03+09:00",
@@ -804,40 +810,22 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zc2M3cWFwT1RTd2Q4MjNDNGt0b0ZUNEhPV1owU1RTNVZwTzdZbDNZd2pFNkVqZHd6YmZIOGN5VVVidVpXTWF4TmtJODR2RW80WnVGc011dnRXZG80WVE?oc=5"
   },
   {
+   "title": "어닝 서프라이즈로 미국 증시 사상 최고치 랠리 우려 완화",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-09T15:38:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oR21zeG15bGFCY21oZ21ndHkwMi1uX0VPckpGNm1qRVVELVdpcnFDZ2NWN21NdzAzX0d0WTI5STBMMUxvQmFCMk01aVQtcGVsNTBEX0FxcE42VkNSN2JNVTdTOERVbmhaT0pzQnZoM08?oc=5"
+  },
+  {
    "title": "올해 환율 변동폭 47원…금융위기 이후 최대",
    "source": "전자신문",
    "time": "2026-08-09T10:56:16+09:00",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idS1aV1hvNnF1cUJ4RG1PaC1weW1Ec1BKUkw4SXpVcExkRU1GTVpZR2xCaGJGN25nMExRV01KTmQ3SVBXQzNFVHQ3emUtQQ?oc=5"
   },
   {
-   "title": "“틈만 나면 레버리지”... 증시 반등하자 하루만에 1조원 늘어난 ‘빚투’",
-   "source": "v.daum.net",
-   "time": "2026-08-09T10:37:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rV2lvNUUtWmszSTdUM0JKTFNXOWh2RTYxZjdmMDRTSC1BaXJtYUMtdl9fbks5aDhYNE1nYjllbXJTcDlMQktLT2hJd0NHU0E?oc=5"
-  },
-  {
-   "title": "국힘 \"韓 증시, 외국인 ATM으로 전락… 단일 종목 ETF 국정조사 해야\"",
-   "source": "조선일보",
-   "time": "2026-08-09T13:15:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzZ3R1RYZEIxMGZFUmJMN1pLTmhrdVdPdmp0VmNKRTlUT2Zzc1paejM0V3lxanZnc0RRWnc1R29BLUlDdjZIUFFpbXVJWDR0dF9Na0NkVjJxMTlneldQdlhqb2hjOTlCM3RIb2VZRi1YWDI4NDl6NUlMcDc4cDF1TldScVhnUQ?oc=5"
-  },
-  {
-   "title": "미 고용 쇼크 주식시장엔 호재…환율 하락 영향도 주목",
-   "source": "한국경제",
-   "time": "2026-08-09T13:27:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdDBfZHgzbmV6S3pySWJnV3N0T1hKeHZBbGdGRTNyUFJMWXd6SDFjUE5oTGtsallEaXNUbmtVdW42T1FvX0o2WUNTU2ZIODJQaU5UMmU0VFZXdw?oc=5"
-  },
-  {
-   "title": "한국 증시 변동성 완화…레버리지 거래 청산 진행",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-09T10:19:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vSE5YaU9xUEFIemlfX0JWMDFGNFotOWN4am1TQWpqeUNSYU5oNGVkbzFzd08xUzJNS1d6WmlQOS1RMDJIVDB4Q2RYU0JBNHRaZFUyajhVc0VkTEluWVVIeHNqbENBMnlYWlV0dmVLY3Y?oc=5"
-  },
-  {
-   "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
-   "source": "yna.co.kr",
-   "time": "2026-08-09T05:51:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nNEpUclZPeFh3THJlUGZvdkRBRDdkX0xLV1R3dl9yS1JBbm5NV1VQYkRBVlRlVElPTEZYOEZsZjYxUDlONEQ5b2RlcFpoQ1U0Mm15a0xDTUhtOGfSAWBBVV95cUxQbW5qRTBXRFh1MldhX21xQkJtRFZNWHZJbng4c3dSckIzaDNFcnhqUmpqUno2cWVxQ2dlTE1lNmc0TkpXZVdINTA3cjhoMFBFM0wxcEI3Nk5QTUU4VzZvb2o?oc=5"
+   "title": "올해 월간 환율 변동폭 50원 육박…금융위기 이후 최고",
+   "source": "joongang.co.kr",
+   "time": "2026-08-09T15:29:16+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WV2NkVmU2MmlRdTh5aDRCR1QxVS0xczQtcmVhbFJqWk4wY1JlUnY0TlJQLXdHY0dpTC1XVDZiZ0NHbHJ4VmtuVC1tdWxlaGN3Q0NHVkZ3?oc=5"
   },
   {
    "title": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
@@ -846,22 +834,34 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5"
   },
   {
-   "title": "[Weekly Coin] 비트코인, 미 고용지표 부진에 '반등'",
-   "source": "시사저널e",
-   "time": "2026-08-09T12:59:55+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pQjc4NDRhOW9HM1FHcmxXUWV4OE85MmZFd3lIMnlycDdSX2s4RXdUSGlkVlhhalZacVBqVGxOWHRYc3QyU2dCWGw2Y1ZYY0hSdmMzM2dQdk1IODdWOWVWNGV1Q0ZKNmRCSUFCdGJEd3VfZ9IBdkFVX3lxTE02Z0tpSFN5U2txMWo2elM1dHJ2X3NKNERXSW90U19XR2Z4bVBLQXhjX2RpNENpNXg4Z3RRYWtaOVJxaU9nS1dOOTB2cmV0NWNNVE82TmZoUVNOYXl0M2M5WkVVWUJTRjZQb2dxZDdmMkcxSmJrUHc?oc=5"
+   "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
+   "source": "v.daum.net",
+   "time": "2026-08-09T05:52:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1rSkNLQzNwRHpZbzVQRXlNMjJyd2NhMG5vaWdjaHk0bmhORV9Oczg0STdLaVFuQkwxNklNbDBVdF9qVllrMVE?oc=5"
   },
   {
-   "title": "비트와이즈 CIO \"비트코인에 수조달러 유입될 것…2035년에 130만달러\"",
-   "source": "블루밍비트",
-   "time": "2026-08-09T14:08:26+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JSG11dHp5cGVFWm16UHV0TERjcDNBMUc5Q0pFcFZHTGo1Xzh6aEZ2MHRpc0JXdDMwTk1Mc2ZQdzlYQVRwdkpUdVZRZGFzSzhZ?oc=5"
+   "title": "미 고용 쇼크 주식시장엔 호재…환율 하락 영향도 주목",
+   "source": "한국경제",
+   "time": "2026-08-09T13:27:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdDBfZHgzbmV6S3pySWJnV3N0T1hKeHZBbGdGRTNyUFJMWXd6SDFjUE5oTGtsallEaXNUbmtVdW42T1FvX0o2WUNTU2ZIODJQaU5UMmU0VFZXdw?oc=5"
   },
   {
    "title": "상승 모멘텀 못찾는 코스피‥이달 거래대금·거래량 올해 최저",
    "source": "MBC 뉴스",
    "time": "2026-08-09T10:45:26+09:00",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZktXbGgxa1NISFlEVHdRdm43NUdMbDYydm9ScThiSTZaVFUzWm5NVThSU3JYcHVxQ2hOV3JXR3lKTzhZTmgzbURIU2JTbzd5M09ScHFYX1FRUXZkR3BmNkRXaXFSczk0ODl2eFZ1RlZzRWxk0gF0QVVfeXFMUEZOMExDOFJUWG50NGI2ckJkRktnYkgyaWZSeHNXUDBJbHRKTjhBdUFJa3YtZzRhd3I0eUhYejBVTVRFWm5BMmVxUEtWVERFbkU0OVhjemQwSG81azZ1eUUyQllSZGRYYWpiazVIeFQ2MERRcEM?oc=5"
+  },
+  {
+   "title": "“삼전닉스 이렇게 싼데”…외국인, 코스피 못 사는 이유 [머니+]",
+   "source": "에너지경제신문",
+   "time": "2026-08-09T12:05:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyU2N4WFZNNGJJMFItZnRmTXlWYW1RcVFBNVV1M2pGdXU4NzBPQmVUVDV5QTJQUDZoQlJyeG1qU1ljZVhHZHlqbTZxOG5tZ1VpQXl6MzcyTmdYQ2c?oc=5"
+  },
+  {
+   "title": "훅 떨어진 달러 환율…1,300원대가 눈앞 [지금이뉴스]",
+   "source": "YTN",
+   "time": "2026-08-09T11:45:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rLTZNTnRrMEMtbkRVaHNIaUZWNDlHRHp4dmpmaXI4UVlzZE95Wm5iYTI1VGdvR1BucHctWDkzSm5aWEI0bHlQQzhIa2V1eHBXX0ZMR2s1VUFBb1RlVWc?oc=5"
   }
  ]
 }
