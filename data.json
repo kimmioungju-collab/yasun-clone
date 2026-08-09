@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T23:50:25.036397+09:00",
+ "updated": "2026-08-10T00:16:33.762199+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1415.7,
+   "price": 1407.45,
    "prev": 1422.69,
    "spark": [
     1408.96,
@@ -451,15 +451,9 @@
    ]
   },
   "btc": {
-   "price": 65134.66,
+   "price": 65185.34,
    "prev": 64908.484,
    "spark": [
-    64939.1914,
-    64939.5898,
-    64918.6484,
-    64913.9219,
-    64899.9688,
-    64874.0117,
     64885.8398,
     64891.7812,
     64888.5117,
@@ -493,19 +487,19 @@
     65120.1797,
     65122.5,
     65124.4883,
-    65134.6602
+    65145.7109,
+    65214.2891,
+    65203.0,
+    65201.25,
+    65194.7109,
+    65185.3398,
+    65185.3398
    ]
   },
   "eth": {
-   "price": 1922.36,
+   "price": 1924.94,
    "prev": 1915.4414,
    "spark": [
-    1919.0601,
-    1919.2,
-    1918.23,
-    1917.79,
-    1917.9301,
-    1916.01,
     1916.05,
     1916.6899,
     1916.53,
@@ -539,7 +533,13 @@
     1922.7,
     1922.47,
     1922.45,
-    1922.36
+    1922.61,
+    1923.49,
+    1924.12,
+    1924.0601,
+    1924.9399,
+    1924.9399,
+    1924.9399
    ]
   },
   "eurkrw": {
@@ -840,28 +840,28 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZktXbGgxa1NISFlEVHdRdm43NUdMbDYydm9ScThiSTZaVFUzWm5NVThSU3JYcHVxQ2hOV3JXR3lKTzhZTmgzbURIU2JTbzd5M09ScHFYX1FRUXZkR3BmNkRXaXFSczk0ODl2eFZ1RlZzRWxk0gF0QVVfeXFMUEZOMExDOFJUWG50NGI2ckJkRktnYkgyaWZSeHNXUDBJbHRKTjhBdUFJa3YtZzRhd3I0eUhYejBVTVRFWm5BMmVxUEtWVERFbkU0OVhjemQwSG81azZ1eUUyQllSZGRYYWpiazVIeFQ2MERRcEM?oc=5"
   },
   {
-   "title": "코스피 전고점 회복 올해 안엔 어려울 듯 3분기 삼전실적 주목",
-   "source": "v.daum.net",
-   "time": "2026-08-09T17:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YeTFTSWgzSDdtMzQ2VFNPOHI1LW9VS05NOU85RW84RE52ajNIZmk1dUZJQVZrQW9Oc2JfMTUweXNBeGViaGpTOXhPeC1OQ3M?oc=5"
-  },
-  {
    "title": "올해 환율 변동폭 47원…금융위기 이후 최대",
    "source": "전자신문",
    "time": "2026-08-09T10:56:16+09:00",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idS1aV1hvNnF1cUJ4RG1PaC1weW1Ec1BKUkw4SXpVcExkRU1GTVpZR2xCaGJGN25nMExRV01KTmQ3SVBXQzNFVHQ3emUtQQ?oc=5"
   },
   {
-   "title": "어닝 서프라이즈, 美 증시 사상 최고 랠리 우려 덜어내",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-09T15:38:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oR21zeG15bGFCY21oZ21ndHkwMi1uX0VPckpGNm1qRVVELVdpcnFDZ2NWN21NdzAzX0d0WTI5STBMMUxvQmFCMk01aVQtcGVsNTBEX0FxcE42VkNSN2JNVTdTOERVbmhaT0pzQnZoM08?oc=5"
+   "title": "코스피 전고점 회복 올해 안엔 어려울 듯 3분기 삼전실적 주목",
+   "source": "v.daum.net",
+   "time": "2026-08-09T17:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YeTFTSWgzSDdtMzQ2VFNPOHI1LW9VS05NOU85RW84RE52ajNIZmk1dUZJQVZrQW9Oc2JfMTUweXNBeGViaGpTOXhPeC1OQ3M?oc=5"
   },
   {
-   "title": "'롤러코스피' 이제 끝?…외신이 주목한 반전 신호 [지금이뉴스]",
-   "source": "YTN",
-   "time": "2026-08-09T16:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFSS1JbVNLYmZLRW5FbWZsYmtCNFNCek1oUTJzZVFMQ1JnSW1yZFAwVVZLTTYxaHQyNXo3TVRiT3JySlRGQ051SHk4TG5MazhNamUxR1QtZkZlYUEyNmc?oc=5"
+   "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
+   "source": "연합뉴스",
+   "time": "2026-08-09T14:07:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YemRwYWFtVjlFdXpJcGJKeFQ4YkNBVU8wcGRGMkhpdDRHSHlmTDVIYi1nc0tRRlRIa3NpVldkZW00VlBUaWg0SDd1eWpqV2hNVTA1REFCV0dJeFnSAWBBVV95cUxPZi1OamxCMmdJdE1mV2NlVldJbTVyRHJoODVnVzFtcFhQQkJpalliajJuaklZS3poa0x4YU5TOVh0dUE0Y1dMLWFVQXRpRWhoRXQ1cG1sNkM4ekotXzdzZ0E?oc=5"
+  },
+  {
+   "title": "비트코인, ETF 자금 유입에도 포크 우려로 6만5천 달러 아래로 하락",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-09T17:51:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83S0xwYV9LNUNPNi1OR183ZjNJemtiWlZ6MHpSZkRZdzBXVU1oRGpXV0Uwb0phNzZjUGhmSEsxRlFJN2lZd2ZSNU1zam9yMmktaHNZek9UbWZiSVc4UkpsLTVTZVBKN2hTWXRDQUxXNElheGs?oc=5"
   }
  ]
 }
