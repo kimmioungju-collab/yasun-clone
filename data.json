@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T22:30:48.090641+09:00",
+ "updated": "2026-08-09T23:09:14.507989+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -451,63 +451,55 @@
    ]
   },
   "btc": {
-   "price": 65047.79,
+   "price": 65185.81,
    "prev": 64908.484,
    "spark": [
-    64900.1719,
-    64912.2812,
-    64920.6406,
-    64890.0508,
-    64887.5312,
-    64890.1484,
-    64920.5,
-    64917.5781,
     64905.4609,
-    64917.4297,
+    64917.5312,
     64925.8398,
     64931.3516,
     64929.0898,
     64928.8906,
     64928.0586,
-    64935.5195,
+    64935.5312,
     64939.1914,
     64939.5898,
-    64919.9492,
+    64918.6484,
     64913.9219,
-    64898.6289,
+    64899.9688,
     64874.0117,
-    64885.8516,
-    64891.7695,
+    64885.8398,
+    64891.7812,
     64888.5117,
     64889.6602,
     64889.6602,
-    64892.1094,
+    64892.1211,
     64890.4688,
     64890.4609,
     64893.9609,
-    64895.7305,
+    64895.7383,
     64906.5898,
     64955.0195,
-    64968.5703,
+    64968.5781,
     64971.7695,
     64997.3711,
     64990.5586,
     65040.4609,
-    65047.7891
+    65081.4414,
+    65118.2812,
+    65179.7695,
+    65170.75,
+    65173.0781,
+    65178.6797,
+    65158.8086,
+    65185.8086,
+    65185.8086
    ]
   },
   "eth": {
-   "price": 1923.38,
+   "price": 1923.01,
    "prev": 1915.4414,
    "spark": [
-    1920.02,
-    1919.4301,
-    1919.24,
-    1918.79,
-    1918.72,
-    1918.74,
-    1919.24,
-    1918.98,
     1918.72,
     1919.15,
     1919.28,
@@ -539,7 +531,15 @@
     1921.88,
     1922.13,
     1923.8101,
-    1923.38
+    1922.77,
+    1922.37,
+    1921.52,
+    1921.64,
+    1921.75,
+    1921.99,
+    1922.0699,
+    1923.21,
+    1923.01
    ]
   },
   "eurkrw": {
@@ -810,14 +810,14 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aFRRMmgwRG9IaXZIUDJfc3I5bTFrT2U1SDE2c21kd09pWjZQV05QSVpqeWNXQlVCSndYSzZYOXpKWHkzVTQwNTg4dEtteHI1UFNGaVdacnpIMzNGS0E?oc=5"
   },
   {
-   "title": "올해 환율 변동폭 47원…금융위기 이후 최대",
-   "source": "전자신문",
-   "time": "2026-08-09T10:56:16+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idS1aV1hvNnF1cUJ4RG1PaC1weW1Ec1BKUkw4SXpVcExkRU1GTVpZR2xCaGJGN25nMExRV01KTmQ3SVBXQzNFVHQ3emUtQQ?oc=5"
+   "title": "돈줄 떨어진 코스피…개인·기관·외국인 ‘트리플 자금’ 모두 줄었다",
+   "source": "중앙일보",
+   "time": "2026-08-09T16:34:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyLVlQR2lzSzdWaW9TcWRudy1pM2FiNFA2bW1VWk9PdjctOE1LOUVlLXhrUlRvYnozUmJsSmt1Wk1xWFBJakR4VkJpdGtZQ3Zxc0ViSjJn?oc=5"
   },
   {
    "title": "한달 전 1556원이었는데... 환율 어느새 1300원대 눈앞",
-   "source": "chosun.com",
+   "source": "조선일보",
    "time": "2026-08-09T11:55:12+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkJVTW1oU3JlUHhSRFdrbldvNlRLYi1TQ1NvalpRNGdNRlhqd0tqOXNVTUZPYzdEZEdYWE9FQWlmeXIwUzQ0OUZfLVM1U2tMYlZpV2dpOUM1R2oxZk9WeVpZN1pfeDR1LXNCOXpfTU1Ed1B2ZUhzajRXVGRUUXhyb2c4OVQxRlkwT21j?oc=5"
   },
@@ -828,10 +828,10 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YeTFTSWgzSDdtMzQ2VFNPOHI1LW9VS05NOU85RW84RE52ajNIZmk1dUZJQVZrQW9Oc2JfMTUweXNBeGViaGpTOXhPeC1OQ3M?oc=5"
   },
   {
-   "title": "올해 월간 환율 변동폭 50원 육박…금융위기 이후 최고",
-   "source": "중앙일보",
-   "time": "2026-08-09T15:29:16+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WV2NkVmU2MmlRdTh5aDRCR1QxVS0xczQtcmVhbFJqWk4wY1JlUnY0TlJQLXdHY0dpTC1XVDZiZ0NHbHJ4VmtuVC1tdWxlaGN3Q0NHVkZ3?oc=5"
+   "title": "올해 환율 변동폭 47원…금융위기 이후 최대",
+   "source": "전자신문",
+   "time": "2026-08-09T10:56:16+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idS1aV1hvNnF1cUJ4RG1PaC1weW1Ec1BKUkw4SXpVcExkRU1GTVpZR2xCaGJGN25nMExRV01KTmQ3SVBXQzNFVHQ3emUtQQ?oc=5"
   },
   {
    "title": "이젠 1300원대 환율? 변동폭 금융위기 이후 최대",
@@ -847,7 +847,7 @@
   },
   {
    "title": "상승 모멘텀 못찾는 코스피‥이달 거래대금·거래량 올해 최저",
-   "source": "MBC 뉴스",
+   "source": "imnews.imbc.com",
    "time": "2026-08-09T10:45:26+09:00",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZktXbGgxa1NISFlEVHdRdm43NUdMbDYydm9ScThiSTZaVFUzWm5NVThSU3JYcHVxQ2hOV3JXR3lKTzhZTmgzbURIU2JTbzd5M09ScHFYX1FRUXZkR3BmNkRXaXFSczk0ODl2eFZ1RlZzRWxk0gF0QVVfeXFMUEZOMExDOFJUWG50NGI2ckJkRktnYkgyaWZSeHNXUDBJbHRKTjhBdUFJa3YtZzRhd3I0eUhYejBVTVRFWm5BMmVxUEtWVERFbkU0OVhjemQwSG81azZ1eUUyQllSZGRYYWpiazVIeFQ2MERRcEM?oc=5"
   },
