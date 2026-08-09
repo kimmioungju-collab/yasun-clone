@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T01:57:10.738085+09:00",
+ "updated": "2026-08-10T02:29:55.996088+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -197,7 +197,7 @@
   },
   "ndx": {
    "price": 26690.615,
-   "prev": 26348.352,
+   "prev": 26348.4,
    "spark": [
     26632.5684,
     26610.0371,
@@ -243,7 +243,7 @@
   },
   "sox": {
    "price": 12356.787,
-   "prev": 12048.693,
+   "prev": 12048.7,
    "spark": [
     12309.3408,
     12287.4678,
@@ -289,7 +289,7 @@
   },
   "nikkei": {
    "price": 65606.71,
-   "prev": 65683.26,
+   "prev": 65683.3,
    "spark": [
     65042.2891,
     65039.1602,
@@ -451,61 +451,55 @@
    ]
   },
   "btc": {
-   "price": 65186.62,
+   "price": 65185.48,
    "prev": 64908.484,
    "spark": [
-    65171.5391,
-    65173.0703,
-    65178.6797,
-    65158.8086,
-    65181.7188,
-    65195.9609,
     65163.6094,
     65120.1719,
     65142.1797,
     65160.0,
     65120.1797,
     65122.5,
-    65124.4805,
+    65124.4883,
     65145.7109,
     65214.2891,
-    65202.9883,
-    65201.2617,
-    65194.6992,
+    65203.0,
+    65201.25,
+    65194.7109,
     65186.6289,
     65188.9609,
     65180.1797,
     65180.8203,
     65187.5586,
     65177.4688,
-    65185.7305,
-    65178.9492,
+    65185.7188,
+    65178.9414,
     65174.9883,
     65187.0312,
     65208.7188,
     65188.6406,
     65178.1094,
-    65145.0,
+    65140.0,
     65149.1289,
     65168.5586,
     65194.1406,
-    65206.5586,
+    65206.5703,
     65185.3398,
     65192.4219,
-    65186.6094,
-    65186.6211
+    65181.9688,
+    65180.2695,
+    65170.8594,
+    65179.1602,
+    65180.2695,
+    65185.5,
+    65185.4883,
+    65185.4805
    ]
   },
   "eth": {
-   "price": 1923.1,
+   "price": 1923.08,
    "prev": 1915.4414,
    "spark": [
-    1921.64,
-    1921.75,
-    1921.99,
-    1922.12,
-    1923.13,
-    1924.1,
     1922.9301,
     1921.73,
     1922.15,
@@ -516,30 +510,36 @@
     1922.61,
     1923.49,
     1924.12,
-    1924.05,
+    1924.0601,
     1924.9399,
     1924.7,
     1924.9301,
-    1924.74,
+    1924.73,
     1924.61,
     1924.75,
-    1924.74,
+    1924.75,
     1924.9399,
     1924.9399,
     1924.64,
     1924.29,
     1924.8199,
-    1923.59,
+    1923.58,
     1923.51,
     1921.6,
     1921.08,
     1922.33,
     1922.5601,
-    1923.36,
-    1922.97,
-    1923.1,
-    1923.13,
-    1923.1
+    1923.4399,
+    1922.98,
+    1923.11,
+    1922.72,
+    1922.88,
+    1922.8,
+    1923.3101,
+    1923.17,
+    1923.12,
+    1923.27,
+    1923.08
    ]
   },
   "eurkrw": {
@@ -780,6 +780,12 @@
  },
  "news": [
   {
+   "title": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
+   "source": "한겨레",
+   "time": "2026-08-09T20:11:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5"
+  },
+  {
    "title": "“삼전닉스 이렇게 싼데”…외국인, 코스피 못 사는 이유 [머니+]",
    "source": "에너지경제신문",
    "time": "2026-08-09T12:05:46+09:00",
@@ -798,14 +804,8 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RaHh4N0NYdjNYNlNSQ1pTWnBfbkhUSmVuenBQcnBVdVozamFXZlB2ODRkVXU1ZExkMkxjSHJIb29BY0NVeC1MWVFyTWV5R2dPTmtlSktiY1JlUQ?oc=5"
   },
   {
-   "title": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
-   "source": "한겨레",
-   "time": "2026-08-09T20:11:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5"
-  },
-  {
    "title": "[엔 캐리 시험대] 2년전 증시·코인 폭락 재현되나",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "time": "2026-08-09T12:00:03+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PczhkVmkydjB0bFpiXy1OZmQ0UEl3YXVBQm5GekNXeHE4WjE4a0VPNHZBQU1ydnI1M20xd1lrTG16QW1QV3N3U1p6NFVfMG04TEVTR2VZZ0VVTWM2NXA3NGdRSDc1eWJ5UnpFclA0M1I?oc=5"
   },
@@ -834,12 +834,6 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZktXbGgxa1NISFlEVHdRdm43NUdMbDYydm9ScThiSTZaVFUzWm5NVThSU3JYcHVxQ2hOV3JXR3lKTzhZTmgzbURIU2JTbzd5M09ScHFYX1FRUXZkR3BmNkRXaXFSczk0ODl2eFZ1RlZzRWxk0gF0QVVfeXFMUEZOMExDOFJUWG50NGI2ckJkRktnYkgyaWZSeHNXUDBJbHRKTjhBdUFJa3YtZzRhd3I0eUhYejBVTVRFWm5BMmVxUEtWVERFbkU0OVhjemQwSG81azZ1eUUyQllSZGRYYWpiazVIeFQ2MERRcEM?oc=5"
   },
   {
-   "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-08-06T15:49:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
-  },
-  {
    "title": "올해 환율 변동폭 47원…금융위기 이후 최대",
    "source": "전자신문",
    "time": "2026-08-09T10:56:16+09:00",
@@ -847,7 +841,7 @@
   },
   {
    "title": "블룸버그 “코스피 변동성 완화 조짐…레버리지 청산·규제 강화 효과”",
-   "source": "kyeonggi.com",
+   "source": "경기일보",
    "time": "2026-08-09T17:07:14+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95M2wwWEROR3hWaFZFTFJ1ZV9ZazNpMFROWU1lUEJYdUswcjlncTVEVXFCUzdfNkdWQkQwMFo4NzVEUFI1U2pYZnEzM1QwREdvWVZIME92VllVNmM?oc=5"
   },
@@ -858,10 +852,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YemRwYWFtVjlFdXpJcGJKeFQ4YkNBVU8wcGRGMkhpdDRHSHlmTDVIYi1nc0tRRlRIa3NpVldkZW00VlBUaWg0SDd1eWpqV2hNVTA1REFCV0dJeFnSAWBBVV95cUxPZi1OamxCMmdJdE1mV2NlVldJbTVyRHJoODVnVzFtcFhQQkJpalliajJuaklZS3poa0x4YU5TOVh0dUE0Y1dMLWFVQXRpRWhoRXQ1cG1sNkM4ekotXzdzZ0E?oc=5"
   },
   {
-   "title": "반도체 빠진 증시서 은행주 ‘역주행’…기준금리·환율 호재에 상승세",
-   "source": "v.daum.net",
-   "time": "2026-08-09T18:43:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GaDRGSHJsNnNnSHRaeHlOd1BQa1A5N2ltdU1ZYXJXTlN0LURoOEpxUERLMlRJcGc2MU5kdU0teTFYVlVfa3d1bVZkOTFybDg?oc=5"
+   "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-06T15:49:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
+  },
+  {
+   "title": "한달 전 1556원이었는데... 환율 어느새 1300원대 눈앞",
+   "source": "조선일보",
+   "time": "2026-08-09T11:55:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkJVTW1oU3JlUHhSRFdrbldvNlRLYi1TQ1NvalpRNGdNRlhqd0tqOXNVTUZPYzdEZEdYWE9FQWlmeXIwUzQ0OUZfLVM1U2tMYlZpV2dpOUM1R2oxZk9WeVpZN1pfeDR1LXNCOXpfTU1Ed1B2ZUhzajRXVGRUUXhyb2c4OVQxRlkwT21j?oc=5"
   }
  ]
 }
