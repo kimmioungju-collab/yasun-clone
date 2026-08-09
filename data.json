@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T04:53:42.788363+09:00",
+ "updated": "2026-08-10T05:19:54.377057+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -451,14 +451,9 @@
    ]
   },
   "btc": {
-   "price": 65145.62,
+   "price": 65069.5,
    "prev": 64908.484,
    "spark": [
-    65206.5703,
-    65185.3398,
-    65192.4219,
-    65181.9688,
-    65180.2695,
     65170.8594,
     65179.1602,
     65180.2695,
@@ -492,19 +487,19 @@
     65150.9688,
     65150.2695,
     65145.5117,
-    65145.6211,
-    65145.6211
+    65139.4414,
+    65130.7383,
+    65112.9492,
+    65094.8594,
+    65032.2109,
+    65062.2617,
+    65069.5
    ]
   },
   "eth": {
-   "price": 1920.42,
+   "price": 1917.99,
    "prev": 1915.4414,
    "spark": [
-    1923.4399,
-    1922.98,
-    1923.11,
-    1922.72,
-    1922.88,
     1922.8,
     1923.3101,
     1923.17,
@@ -538,8 +533,13 @@
     1921.08,
     1921.1,
     1920.6899,
-    1920.5,
-    1920.42
+    1920.46,
+    1920.58,
+    1920.3101,
+    1920.78,
+    1917.8101,
+    1917.9399,
+    1917.99
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 157.784,
+   "price": 157.819,
    "prev": 158.449,
    "spark": [
     157.435,
@@ -787,7 +787,7 @@
   },
   {
    "title": "“삼전닉스 이렇게 싼데”…외국인, 코스피 못 사는 이유 [머니+]",
-   "source": "에너지경제신문",
+   "source": "ekn.kr",
    "time": "2026-08-09T12:05:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyU2N4WFZNNGJJMFItZnRmTXlWYW1RcVFBNVV1M2pGdXU4NzBPQmVUVDV5QTJQUDZoQlJyeG1qU1ljZVhHZHlqbTZxOG5tZ1VpQXl6MzcyTmdYQ2c?oc=5"
   },
@@ -822,6 +822,12 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PczhkVmkydjB0bFpiXy1OZmQ0UEl3YXVBQm5GekNXeHE4WjE4a0VPNHZBQU1ydnI1M20xd1lrTG16QW1QV3N3U1p6NFVfMG04TEVTR2VZZ0VVTWM2NXA3NGdRSDc1eWJ5UnpFclA0M1I?oc=5"
   },
   {
+   "title": "국민의힘 \"부동산은 참사, 증시는 '외국인 ATM'\"",
+   "source": "프레시안",
+   "time": "2026-08-10T04:42:37+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10ZkplaEkxYThISDhtY3VKMEkzeVRmNVlnSW5XWkJoWDcyeTBxblR0OVZNd2FhczZkSFItZXRjcGpTVXh0MFhWejVIT0M3SEJybC1Gd2NIdXJDdjJ6ZUxpZEJvTmNPMWxma0Vn?oc=5"
+  },
+  {
    "title": "유럽 증시, 실적 개선과 경제 성장에 힘입어 투자자 유입 확대",
    "source": "Investing.com 한국어",
    "time": "2026-08-09T18:58:00+09:00",
@@ -840,10 +846,10 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFSS1JbVNLYmZLRW5FbWZsYmtCNFNCek1oUTJzZVFMQ1JnSW1yZFAwVVZLTTYxaHQyNXo3TVRiT3JySlRGQ051SHk4TG5MazhNamUxR1QtZkZlYUEyNmc?oc=5"
   },
   {
-   "title": "블룸버그 “코스피 변동성 완화 조짐…레버리지 청산·규제 강화 효과”",
-   "source": "경기일보",
-   "time": "2026-08-09T17:07:14+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95M2wwWEROR3hWaFZFTFJ1ZV9ZazNpMFROWU1lUEJYdUswcjlncTVEVXFCUzdfNkdWQkQwMFo4NzVEUFI1U2pYZnEzM1QwREdvWVZIME92VllVNmM?oc=5"
+   "title": "상승 모멘텀 못찾는 코스피‥이달 거래대금·거래량 올해 최저",
+   "source": "MBC 뉴스",
+   "time": "2026-08-09T10:45:26+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZktXbGgxa1NISFlEVHdRdm43NUdMbDYydm9ScThiSTZaVFUzWm5NVThSU3JYcHVxQ2hOV3JXR3lKTzhZTmgzbURIU2JTbzd5M09ScHFYX1FRUXZkR3BmNkRXaXFSczk0ODl2eFZ1RlZzRWxk0gF0QVVfeXFMUEZOMExDOFJUWG50NGI2ckJkRktnYkgyaWZSeHNXUDBJbHRKTjhBdUFJa3YtZzRhd3I0eUhYejBVTVRFWm5BMmVxUEtWVERFbkU0OVhjemQwSG81azZ1eUUyQllSZGRYYWpiazVIeFQ2MERRcEM?oc=5"
   },
   {
    "title": "빚투 줄자 코스피도 진정…블룸버그 \"극심한 혼란 정점 지났을 수도\" - 머니투데이",
@@ -856,12 +862,6 @@
    "source": "joongang.co.kr",
    "time": "2026-08-09T16:34:09+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyLVlQR2lzSzdWaW9TcWRudy1pM2FiNFA2bW1VWk9PdjctOE1LOUVlLXhrUlRvYnozUmJsSmt1Wk1xWFBJakR4VkJpdGtZQ3Zxc0ViSjJn?oc=5"
-  },
-  {
-   "title": "요동치는 원·달러 환율… 올들어 변동폭 47원 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-08-10T00:34:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzM2NDRJNDhXZl9xa3pmeW9YZ0l4Vlk2LXNWUnBfam9LTnRqVGNzdG1zOFdXc2pIMlVDRktpNGdfTHl0UzdUUHNOWmZPc2ttN3E4LWpqT3ZZQnNMTE16V18zQjFzcU05cUVZMHNfcER0eXBHcXhONHVVcHNJMDVnUkIxdFJqRWZS0gGcAUFVX3lxTE9LbVdjQ3Jmb2JKV0h4bk1mZVVEQmszU1l1Nk90TGdKSlV3dmFQLTNXdnhWTVdOVmh6eWtxSnQxODJLUUIxWk9wNk1uX1pHOS1qR3l6S29NWjlkNVJKS0RBejB6Ry13d0xzM1A2YW12dVBPMXZhNV9CcUJZd182SlllUHl1ZVJjd05LQ2sxYURRekdiYWVWYk1IWnFmZg?oc=5"
   }
  ]
 }
