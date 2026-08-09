@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T18:49:39.332403+09:00",
+ "updated": "2026-08-09T19:18:01.482340+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -451,15 +451,9 @@
    ]
   },
   "btc": {
-   "price": 64772.12,
+   "price": 64902.98,
    "prev": 64908.484,
    "spark": [
-    64806.2617,
-    64809.1016,
-    64800.3516,
-    64799.5312,
-    64792.8984,
-    64789.9805,
     64793.1289,
     64803.1992,
     64792.7383,
@@ -492,20 +486,20 @@
     64765.9883,
     64768.2305,
     64766.1406,
-    64762.5391,
-    64772.1211
+    64772.1211,
+    64804.5,
+    64832.3086,
+    64844.75,
+    64847.1211,
+    64900.1719,
+    64902.9805,
+    64902.9805
    ]
   },
   "eth": {
-   "price": 1915.52,
+   "price": 1919.92,
    "prev": 1915.4414,
    "spark": [
-    1916.5,
-    1916.46,
-    1916.6801,
-    1917.0,
-    1917.71,
-    1917.38,
     1917.65,
     1916.8199,
     1916.04,
@@ -539,7 +533,13 @@
     1914.8101,
     1915.11,
     1915.51,
-    1915.52
+    1919.23,
+    1919.83,
+    1920.15,
+    1920.37,
+    1920.6,
+    1920.2,
+    1919.92
    ]
   },
   "eurkrw": {
@@ -780,16 +780,16 @@
  },
  "news": [
   {
-   "title": "[엔 캐리 시험대] 2년전 증시·코인 폭락 재현되나",
-   "source": "news.einfomax.co.kr",
-   "time": "2026-08-09T12:00:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PczhkVmkydjB0bFpiXy1OZmQ0UEl3YXVBQm5GekNXeHE4WjE4a0VPNHZBQU1ydnI1M20xd1lrTG16QW1QV3N3U1p6NFVfMG04TEVTR2VZZ0VVTWM2NXA3NGdRSDc1eWJ5UnpFclA0M1I?oc=5"
-  },
-  {
    "title": "한달 전 1556원이었는데... 환율 어느새 1300원대 눈앞",
    "source": "조선일보",
    "time": "2026-08-09T11:55:12+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkJVTW1oU3JlUHhSRFdrbldvNlRLYi1TQ1NvalpRNGdNRlhqd0tqOXNVTUZPYzdEZEdYWE9FQWlmeXIwUzQ0OUZfLVM1U2tMYlZpV2dpOUM1R2oxZk9WeVpZN1pfeDR1LXNCOXpfTU1Ed1B2ZUhzajRXVGRUUXhyb2c4OVQxRlkwT21j?oc=5"
+  },
+  {
+   "title": "[엔 캐리 시험대] 2년전 증시·코인 폭락 재현되나",
+   "source": "news.einfomax.co.kr",
+   "time": "2026-08-09T12:00:03+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PczhkVmkydjB0bFpiXy1OZmQ0UEl3YXVBQm5GekNXeHE4WjE4a0VPNHZBQU1ydnI1M20xd1lrTG16QW1QV3N3U1p6NFVfMG04TEVTR2VZZ0VVTWM2NXA3NGdRSDc1eWJ5UnpFclA0M1I?oc=5"
   },
   {
    "title": "가라앉은 코스피 투자심리‥거래대금 올해 최저",
@@ -828,16 +828,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WV2NkVmU2MmlRdTh5aDRCR1QxVS0xczQtcmVhbFJqWk4wY1JlUnY0TlJQLXdHY0dpTC1XVDZiZ0NHbHJ4VmtuVC1tdWxlaGN3Q0NHVkZ3?oc=5"
   },
   {
-   "title": "어닝 서프라이즈로 미국 증시 사상 최고치 랠리 우려 완화",
+   "title": "비트코인, ETF 자금 유입에도 포크 우려로 6만5천 달러 아래로 하락",
    "source": "Investing.com 한국어",
-   "time": "2026-08-09T15:38:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oR21zeG15bGFCY21oZ21ndHkwMi1uX0VPckpGNm1qRVVELVdpcnFDZ2NWN21NdzAzX0d0WTI5STBMMUxvQmFCMk01aVQtcGVsNTBEX0FxcE42VkNSN2JNVTdTOERVbmhaT0pzQnZoM08?oc=5"
+   "time": "2026-08-09T17:51:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83S0xwYV9LNUNPNi1OR183ZjNJemtiWlZ6MHpSZkRZdzBXVU1oRGpXV0Uwb0phNzZjUGhmSEsxRlFJN2lZd2ZSNU1zam9yMmktaHNZek9UbWZiSVc4UkpsLTVTZVBKN2hTWXRDQUxXNElheGs?oc=5"
   },
   {
-   "title": "'V자 반등'이냐, 'L자 정체'냐 기로에선 증시… 반등 모멘텀은?",
-   "source": "hankyung.com",
-   "time": "2026-08-09T16:15:04+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96dEVQTFQ4Q0pyb0hWRnV6ZjUwbTZmM1I3Mk5yam1fTnRuSWhVZ29QRkljTFNqWTYtTWxybjlIdGVKS00zQkp2dl9GVjlDWEM0Tk0zT3F5bklNZw?oc=5"
+   "title": "반도체 빠진 증시서 은행주 ‘역주행’…기준금리·환율 호재에 상승세",
+   "source": "v.daum.net",
+   "time": "2026-08-09T18:43:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GaDRGSHJsNnNnSHRaeHlOd1BQa1A5N2ltdU1ZYXJXTlN0LURoOEpxUERLMlRJcGc2MU5kdU0teTFYVlVfa3d1bVZkOTFybDg?oc=5"
   },
   {
    "title": "[표] 외국환율고시표",
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFSS1JbVNLYmZLRW5FbWZsYmtCNFNCek1oUTJzZVFMQ1JnSW1yZFAwVVZLTTYxaHQyNXo3TVRiT3JySlRGQ051SHk4TG5MazhNamUxR1QtZkZlYUEyNmc?oc=5"
   },
   {
-   "title": "비트코인, ETF 자금 유입에도 포크 우려로 6만5천 달러 아래로 하락",
+   "title": "어닝 서프라이즈로 미국 증시 사상 최고치 랠리 우려 완화",
    "source": "Investing.com 한국어",
-   "time": "2026-08-09T17:51:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1JGS0FfaGc1OURzQm1vVXp5aUtoc2NTYWpENEN3NVBDbVJ5dmVFeXdsSnNldERaZG1teXhxNU9xaUlLVDNSNFdNYjBvR1V6MzJ4ZDRHN2dwMjZjbUdSQUZORzYwRk55UC1HOVJRU2M2VkdHVzNxcGZUME9KdkwtZVdiVlAzOG10N096VGZtZU5BZTZCZFFLcnBHOENQSW9SMS12WmFUT2h1dmdOeXZzY0otakZBS1VJbXV4MlhUaUJZcGlJbktTYVFjVmRsdmxOQnc4?oc=5"
+   "time": "2026-08-09T15:38:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oR21zeG15bGFCY21oZ21ndHkwMi1uX0VPckpGNm1qRVVELVdpcnFDZ2NWN21NdzAzX0d0WTI5STBMMUxvQmFCMk01aVQtcGVsNTBEX0FxcE42VkNSN2JNVTdTOERVbmhaT0pzQnZoM08?oc=5"
   }
  ]
 }
