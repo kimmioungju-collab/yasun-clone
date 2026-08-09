@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T13:53:37.030490+09:00",
+ "updated": "2026-08-09T14:40:09.492487+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -451,29 +451,20 @@
    ]
   },
   "btc": {
-   "price": 64728.48,
+   "price": 64728.55,
    "prev": 64908.484,
    "spark": [
-    64838.7383,
-    64828.4297,
-    64814.5,
-    64807.7891,
-    64804.2812,
-    64787.1289,
-    64799.0508,
-    64782.3203,
-    64791.8789,
-    64786.0703,
-    64786.5391,
+    64786.1289,
+    64787.8516,
     64775.6484,
-    64730.5117,
+    64729.75,
     64731.6289,
-    64758.4219,
+    64758.5195,
     64770.0703,
     64762.4219,
     64745.0195,
-    64690.3281,
-    64702.2109,
+    64690.3398,
+    64702.2188,
     64735.2891,
     64728.6289,
     64735.9492,
@@ -481,34 +472,34 @@
     64751.8906,
     64738.3086,
     64732.8516,
-    64734.9609,
+    64734.9688,
     64737.75,
-    64748.7891,
+    64748.8008,
     64768.75,
     64753.6094,
     64758.1406,
-    64779.3789,
-    64761.4219,
-    64758.5391,
+    64779.3906,
+    64755.7617,
+    64758.5508,
     64750.4492,
     64747.6406,
-    64731.9102,
-    64728.4805
+    64728.4805,
+    64735.4297,
+    64726.3203,
+    64727.5312,
+    64733.9805,
+    64726.4688,
+    64734.1602,
+    64729.5898,
+    64734.6406,
+    64732.2891,
+    64728.5508
    ]
   },
   "eth": {
-   "price": 1911.71,
+   "price": 1912.99,
    "prev": 1915.4414,
    "spark": [
-    1914.63,
-    1914.37,
-    1914.29,
-    1914.74,
-    1914.23,
-    1914.78,
-    1915.3101,
-    1914.5601,
-    1914.97,
     1914.87,
     1914.67,
     1914.1,
@@ -527,7 +518,7 @@
     1912.77,
     1912.98,
     1912.8,
-    1912.74,
+    1912.7,
     1912.8,
     1913.02,
     1913.66,
@@ -538,8 +529,17 @@
     1912.38,
     1912.0,
     1912.26,
-    1911.92,
-    1911.71
+    1911.7,
+    1911.84,
+    1912.17,
+    1912.86,
+    1912.4399,
+    1913.1801,
+    1913.0,
+    1912.67,
+    1912.99,
+    1912.83,
+    1912.99
    ]
   },
   "eurkrw": {
@@ -780,18 +780,6 @@
  },
  "news": [
   {
-   "title": "블룸버그 \"레버리지 청산에 한국증시 변동성 일단락 가능성\"",
-   "source": "연합뉴스",
-   "time": "2026-08-09T11:01:04+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4U1pFeGU3TF9USlk1S3VIY2ZNRWZoQU95WktzUzZHd1pDT1JJOFlmSURJT01fdzZNa0lWWC0zM1JNVEVOLWFEWGdVdWMwNG9tWFAxRWs3WTktTDTSAWBBVV95cUxNd1dpM1hzeTg4LWxHWVJ2TmR2MTFMaXp2amxZd3JldkhNRnBRamJuX2lQTXk1SDNLd2V4WFE4THRGUUtyeHpKU255OHgyNktON1hCXzlURS1OejNFWkxaZ0s?oc=5"
-  },
-  {
-   "title": "환율 1300원대 눈앞… 변동성 금융위기 후 최대",
-   "source": "조선일보",
-   "time": "2026-08-09T11:52:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkJVTW1oU3JlUHhSRFdrbldvNlRLYi1TQ1NvalpRNGdNRlhqd0tqOXNVTUZPYzdEZEdYWE9FQWlmeXIwUzQ0OUZfLVM1U2tMYlZpV2dpOUM1R2oxZk9WeVpZN1pfeDR1LXNCOXpfTU1Ed1B2ZUhzajRXVGRUUXhyb2c4OVQxRlkwT21j?oc=5"
-  },
-  {
    "title": "[엔 캐리 시험대] 2년전 증시·코인 폭락 재현되나",
    "source": "연합인포맥스",
    "time": "2026-08-09T12:00:03+09:00",
@@ -822,16 +810,28 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rV2lvNUUtWmszSTdUM0JKTFNXOWh2RTYxZjdmMDRTSC1BaXJtYUMtdl9fbks5aDhYNE1nYjllbXJTcDlMQktLT2hJd0NHU0E?oc=5"
   },
   {
+   "title": "미 고용 쇼크 주식시장엔 호재…환율 하락 영향도 주목",
+   "source": "한국경제",
+   "time": "2026-08-09T13:27:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdDBfZHgzbmV6S3pySWJnV3N0T1hKeHZBbGdGRTNyUFJMWXd6SDFjUE5oTGtsallEaXNUbmtVdW42T1FvX0o2WUNTU2ZIODJQaU5UMmU0VFZXdw?oc=5"
+  },
+  {
    "title": "한국 증시 변동성 완화…레버리지 거래 청산 진행",
    "source": "Investing.com 한국어",
    "time": "2026-08-09T10:19:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vSE5YaU9xUEFIemlfX0JWMDFGNFotOWN4am1TQWpqeUNSYU5oNGVkbzFzd08xUzJNS1d6WmlQOS1RMDJIVDB4Q2RYU0JBNHRaZFUyajhVc0VkTEluWVVIeHNqbENBMnlYWlV0dmVLY3Y?oc=5"
   },
   {
-   "title": "미 고용 쇼크 주식시장엔 호재…환율 하락 영향도 주목",
-   "source": "한국경제",
-   "time": "2026-08-09T13:27:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdDBfZHgzbmV6S3pySWJnV3N0T1hKeHZBbGdGRTNyUFJMWXd6SDFjUE5oTGtsallEaXNUbmtVdW42T1FvX0o2WUNTU2ZIODJQaU5UMmU0VFZXdw?oc=5"
+   "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
+   "source": "연합뉴스",
+   "time": "2026-08-09T05:51:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nNEpUclZPeFh3THJlUGZvdkRBRDdkX0xLV1R3dl9yS1JBbm5NV1VQYkRBVlRlVElPTEZYOEZsZjYxUDlONEQ5b2RlcFpoQ1U0Mm15a0xDTUhtOGfSAWBBVV95cUxQbW5qRTBXRFh1MldhX21xQkJtRFZNWHZJbng4c3dSckIzaDNFcnhqUmpqUno2cWVxQ2dlTE1lNmc0TkpXZVdINTA3cjhoMFBFM0wxcEI3Nk5QTUU4VzZvb2o?oc=5"
+  },
+  {
+   "title": "박스권에 갇힌 비트코인… 6만4000달러대 횡보 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-08-09T09:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdTdOZnZMalN5ZHJWd1ZqNndKblZOaHVFb1BUTV9rNlRCUVVPci1WeExkVXhoRzdaWk9aejBxUXdyYXJkbUFPV1ZSVDZkU1ZJM3pVbWhteC1TNUZ5dno5TDBPbGZYelBmT2FoLXBkVDhwZTRXS2w3bS1rRllubzBBbdIBlAFBVV95cUxQUUNveHctRzc1cm9tWWZZbFZ0NzdGbXJoLXg4YkZMbFhiZWFIMXhzRmlQTFg1MHB4NDVkRWYtMXFYaWkya3IxQ2dvMFFkakNvZmI2ci1sQ0VDMnpmSEhFa0NNdTFSNVkyTHlNUl9hWTR0aFNaY0NuQU9rdno0cU4xSTNBakE1VzRjRVZVZF9kUlpLYlIy?oc=5"
   },
   {
    "title": "“2030 지지율 30%대로 뚝”…부동산·증시 불만에 청년 민심 흔들",
@@ -840,16 +840,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YUkxtMjlTcnVYZzBjYkZ4eVpxX3dNUU1qeGI3R0NiYU4wSTV6VnY4R3ExTjFnUlBKZy16anRYUnRSdGJiWkVOeUdGZ1pEcHRXSnc?oc=5"
   },
   {
-   "title": "“삼전닉스 이렇게 싼데”…외국인, 코스피 못 사는 이유 [머니+]",
+   "title": "1600원 넘보던 환율, 한 달 새 1400원대 초반으로↓…1~7월 월 평균 변동폭 47원",
    "source": "에너지경제신문",
-   "time": "2026-08-09T12:05:46+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyU2N4WFZNNGJJMFItZnRmTXlWYW1RcVFBNVV1M2pGdXU4NzBPQmVUVDV5QTJQUDZoQlJyeG1qU1ljZVhHZHlqbTZxOG5tZ1VpQXl6MzcyTmdYQ2c?oc=5"
+   "time": "2026-08-09T14:09:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zc2M3cWFwT1RTd2Q4MjNDNGt0b0ZUNEhPV1owU1RTNVZwTzdZbDNZd2pFNkVqZHd6YmZIOGN5VVVidVpXTWF4TmtJODR2RW80WnVGc011dnRXZG80WVE?oc=5"
   },
   {
-   "title": "반도체 쉬어가자 비반도체 '꿈틀'…이번주 증시는?",
-   "source": "news.mtn.co.kr",
-   "time": "2026-08-09T08:40:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11MllRQUNwWUl0aTY5T241YnNzaUd1S0xQMW9aTmRTa21YT3g4R3RfbDE3ZG4tbkRRN1BsVGJ6Yzd0WVlOZ1RKS2U3VU5DLWZ5MXhQdVZEcmxobTZWSmhZYndHeUI?oc=5"
+   "title": "돌아온 원화·엔화 동반 강세 시대…한국 증시에 다시 기회 올까 [김학균의 시장읽기]",
+   "source": "시사저널",
+   "time": "2026-08-09T14:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40U3Q2eGk2QXVjQzYwMUx1R0wyMEtLZlJHQzlQMHA5MC1RY0NuUkZKT3BuZnZtWFhpOWMxZ1dsdjV6amp6WkRXQ3BqanpwZlU4ZG1MUEtmRnh3NE5sQ2lOeHhTanViRXduSHJJTGZoZ9IBc0FVX3lxTE9jQlk4dGNmUnpHX0I5NktEN3o0LWVIUDZuMWlYeXppSGIzOGpTdmk3U1hBWEN4TTlYY2pvVGlfQlMwd3pPZENoY0hQbzNGVWR4VjJBbkYzSS15Q2V2NnBCTkFaMUFYRnlFOW1fVzAwMW82Tms?oc=5"
   },
   {
    "title": "훅 떨어진 달러 환율…1,300원대가 눈앞 [지금이뉴스]",
