@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T03:53:10.289953+09:00",
+ "updated": "2026-08-10T04:23:43.998121+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -345,17 +345,17 @@
   },
   "gold": {
    "price": 4399.7,
-   "prev": 4299.6,
+   "prev": 4399.7,
    "spark": []
   },
   "silver": {
    "price": 63.499,
-   "prev": 61.606,
+   "prev": 63.499,
    "spark": []
   },
   "gas": {
    "price": 2.662,
-   "prev": 2.64,
+   "prev": 2.662,
    "spark": []
   },
   "vix": {
@@ -451,71 +451,65 @@
    ]
   },
   "btc": {
-   "price": 65160.01,
+   "price": 65166.02,
    "prev": 64908.484,
    "spark": [
-    65177.4688,
-    65185.7188,
-    65178.9414,
-    65174.9883,
-    65187.0312,
-    65208.7188,
     65188.6406,
     65178.1094,
-    65140.0,
+    65145.0,
     65149.1289,
     65168.5586,
     65194.1406,
-    65206.5703,
+    65206.5586,
     65185.3398,
     65192.4219,
     65181.9688,
     65180.2695,
     65170.8594,
-    65179.1602,
+    65179.1484,
     65180.2695,
-    65185.5,
+    65185.4883,
     65185.4805,
     65176.9102,
     65183.8906,
-    65181.2695,
+    65181.2812,
     65163.7891,
     65146.3711,
     65142.0,
-    65155.0703,
+    65155.0586,
     65156.3711,
-    65154.2109,
+    65154.2188,
     65150.1602,
     65153.0117,
     65166.75,
     65174.0703,
-    65170.8516,
+    65170.8594,
     65170.3906,
-    65160.0117,
-    65160.0117,
-    65160.0117
+    65160.0,
+    65159.9297,
+    65147.1211,
+    65143.6289,
+    65154.6406,
+    65150.2812,
+    65169.9883,
+    65166.0195,
+    65166.0195
    ]
   },
   "eth": {
-   "price": 1920.18,
+   "price": 1920.88,
    "prev": 1915.4414,
    "spark": [
-    1924.75,
-    1924.9399,
-    1924.9399,
-    1924.64,
-    1924.29,
-    1924.8199,
-    1923.58,
+    1923.59,
     1923.51,
     1921.6,
     1921.08,
     1922.33,
     1922.5601,
-    1923.4399,
-    1922.98,
-    1923.11,
-    1922.72,
+    1923.36,
+    1922.97,
+    1923.1,
+    1922.71,
     1922.88,
     1922.8,
     1923.3101,
@@ -525,21 +519,27 @@
     1922.71,
     1923.1801,
     1922.73,
-    1922.02,
+    1922.01,
     1921.79,
     1921.67,
     1922.36,
     1922.1801,
     1921.3101,
-    1920.1801,
+    1920.17,
     1920.3199,
-    1920.89,
+    1920.9,
     1920.89,
     1920.05,
     1919.9,
     1919.9301,
-    1920.1801,
-    1920.1801
+    1920.42,
+    1920.1,
+    1920.6801,
+    1920.8199,
+    1920.14,
+    1920.61,
+    1920.88,
+    1920.88
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 157.745,
+   "price": 157.784,
    "prev": 158.449,
    "spark": [
     157.435,
@@ -781,7 +781,7 @@
  "news": [
   {
    "title": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
-   "source": "hani.co.kr",
+   "source": "한겨레",
    "time": "2026-08-09T20:11:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5"
   },
@@ -804,10 +804,10 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RaHh4N0NYdjNYNlNSQ1pTWnBfbkhUSmVuenBQcnBVdVozamFXZlB2ODRkVXU1ZExkMkxjSHJIb29BY0NVeC1MWVFyTWV5R2dPTmtlSktiY1JlUQ?oc=5"
   },
   {
-   "title": "[엔 캐리 시험대] 2년전 증시·코인 폭락 재현되나",
-   "source": "연합인포맥스",
-   "time": "2026-08-09T12:00:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PczhkVmkydjB0bFpiXy1OZmQ0UEl3YXVBQm5GekNXeHE4WjE4a0VPNHZBQU1ydnI1M20xd1lrTG16QW1QV3N3U1p6NFVfMG04TEVTR2VZZ0VVTWM2NXA3NGdRSDc1eWJ5UnpFclA0M1I?oc=5"
+   "title": "숨 고르는 코스피, 눈 쏠리는 美금리·물가 - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-10T04:01:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KRjJBZmF1bTVJWGRZUmZUSnJDcTdzckRRalJsbnViUTJtbkhQNHR1WWpOdDVoT0lHSVo1NXZfTU5ZcHVCMTBOWklfanF0REZ3NV9SZmdTamMxMFJWcW9kdjd3TlJNUHBG0gFuQVVfeXFMUFVpbFZBVHdZSXdUaXJqMkJuVDd6X0hYbjN3cjZkdmRnQTdzaFBmMGVIYzB0SEVpNlhEUy1lQ2t6N2lDSmFmTWV1eU9jbXpmTWJBZzZiWVlMWUdZbWp0TUl5eXVxbmJGWmJHWmhlemc?oc=5"
   },
   {
    "title": "올해 월간 환율 변동폭 50원 육박…금융위기 이후 최고",
@@ -816,28 +816,28 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WV2NkVmU2MmlRdTh5aDRCR1QxVS0xczQtcmVhbFJqWk4wY1JlUnY0TlJQLXdHY0dpTC1XVDZiZ0NHbHJ4VmtuVC1tdWxlaGN3Q0NHVkZ3?oc=5"
   },
   {
+   "title": "[엔 캐리 시험대] 2년전 증시·코인 폭락 재현되나",
+   "source": "연합인포맥스",
+   "time": "2026-08-09T12:00:03+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PczhkVmkydjB0bFpiXy1OZmQ0UEl3YXVBQm5GekNXeHE4WjE4a0VPNHZBQU1ydnI1M20xd1lrTG16QW1QV3N3U1p6NFVfMG04TEVTR2VZZ0VVTWM2NXA3NGdRSDc1eWJ5UnpFclA0M1I?oc=5"
+  },
+  {
    "title": "유럽 증시, 실적 개선과 경제 성장에 힘입어 투자자 유입 확대",
    "source": "Investing.com 한국어",
    "time": "2026-08-09T18:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLSTl2Q2NsRFRLUlFaRDhEMTB3TndOQml1enVsWkVDalYwVjRpUFRmc3gyN1M4R1hRdHI1SVJ0T3hoal9iNjBvZGw3bG9sV2dlbVV3enduX0lHX296eGZ2NUNaZWhEbHU5bEpEU2dlcnQ?oc=5"
   },
   {
-   "title": "\"환율 하락도 코스닥 유리...이번 주도 코스닥 상승 전망\"",
-   "source": "ytn.co.kr",
-   "time": "2026-08-09T07:21:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aFRRMmgwRG9IaXZIUDJfc3I5bTFrT2U1SDE2c21kd09pWjZQV05QSVpqeWNXQlVCSndYSzZYOXpKWHkzVTQwNTg4dEtteHI1UFNGaVdacnpIMzNGS0E?oc=5"
-  },
-  {
-   "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-08-06T15:49:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
-  },
-  {
    "title": "이젠 1300원대 환율? 변동폭 금융위기 이후 최대",
-   "source": "munhwa.com",
+   "source": "문화일보",
    "time": "2026-08-09T17:51:41+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WMnpSYkdXdXM3ZTNPbG5sSDc4QUxPY3dTTzkycHBoeExxNDRjR0QwUDR0bmVvREdwOUJIM1oxUkVLbGU2OXpWTkdBNEh6TVFV?oc=5"
+  },
+  {
+   "title": "'롤러코스피' 이제 끝?…외신이 주목한 반전 신호 [지금이뉴스]",
+   "source": "YTN",
+   "time": "2026-08-09T16:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFSS1JbVNLYmZLRW5FbWZsYmtCNFNCek1oUTJzZVFMQ1JnSW1yZFAwVVZLTTYxaHQyNXo3TVRiT3JySlRGQ051SHk4TG5MazhNamUxR1QtZkZlYUEyNmc?oc=5"
   },
   {
    "title": "상승 모멘텀 못찾는 코스피‥이달 거래대금·거래량 올해 최저",
@@ -852,10 +852,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95M2wwWEROR3hWaFZFTFJ1ZV9ZazNpMFROWU1lUEJYdUswcjlncTVEVXFCUzdfNkdWQkQwMFo4NzVEUFI1U2pYZnEzM1QwREdvWVZIME92VllVNmM?oc=5"
   },
   {
-   "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
-   "source": "연합뉴스",
-   "time": "2026-08-09T14:07:12+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YemRwYWFtVjlFdXpJcGJKeFQ4YkNBVU8wcGRGMkhpdDRHSHlmTDVIYi1nc0tRRlRIa3NpVldkZW00VlBUaWg0SDd1eWpqV2hNVTA1REFCV0dJeFnSAWBBVV95cUxPZi1OamxCMmdJdE1mV2NlVldJbTVyRHJoODVnVzFtcFhQQkJpalliajJuaklZS3poa0x4YU5TOVh0dUE0Y1dMLWFVQXRpRWhoRXQ1cG1sNkM4ekotXzdzZ0E?oc=5"
+   "title": "빚투 줄자 코스피도 진정…블룸버그 \"극심한 혼란 정점 지났을 수도\" - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-09T19:51:52+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yWTFhVGRaN1JRMlhrSDFxRmdrNEpHMlF4SnFCMHFJUkJXaXh1bGREMmpncm5hbm5oczhEZmJmMmlwZURyVWZVVG0tY2Jsb1VrRjRzelpHczUwS05HSmZsb21HR2dGNnJw0gFuQVVfeXFMTnJ0cXZsVHNrSDVyQWJQdGJwSXUzYXd6RHRZeGhtQ1BYN2FaeHc4QU5aTDlXWkEyZnRMT09YUjduS3NDYWZXMW1tTlZyUDU5aWxwOU9lNnFwZ3JXSXNNZzU0ajdjYXhXTUhzZFlhMnc?oc=5"
   },
   {
    "title": "돈줄 떨어진 코스피…개인·기관·외국인 ‘트리플 자금’ 모두 줄었다",
