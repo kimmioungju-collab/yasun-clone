@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T00:16:33.762199+09:00",
+ "updated": "2026-08-10T00:49:59.292121+09:00",
  "quotes": {
   "k200": {
    "price": 974.73,
@@ -451,22 +451,16 @@
    ]
   },
   "btc": {
-   "price": 65185.34,
+   "price": 65185.72,
    "prev": 64908.484,
    "spark": [
-    64885.8398,
-    64891.7812,
-    64888.5117,
-    64889.6602,
-    64889.6602,
-    64892.1211,
     64890.4688,
     64890.4609,
     64893.9609,
-    64895.7383,
+    64895.7305,
     64906.5898,
     64955.0195,
-    64968.5781,
+    64968.5703,
     64971.7695,
     64997.3711,
     64990.5586,
@@ -474,11 +468,11 @@
     65081.4414,
     65118.2812,
     65179.7695,
-    65170.75,
-    65173.0781,
+    65171.5391,
+    65173.0703,
     65178.6797,
     65158.8086,
-    65182.1289,
+    65181.7188,
     65195.9609,
     65163.6094,
     65120.1719,
@@ -486,26 +480,26 @@
     65160.0,
     65120.1797,
     65122.5,
-    65124.4883,
+    65124.4805,
     65145.7109,
     65214.2891,
-    65203.0,
-    65201.25,
-    65194.7109,
-    65185.3398,
-    65185.3398
+    65202.9883,
+    65201.2617,
+    65194.6992,
+    65186.6289,
+    65188.9609,
+    65180.1797,
+    65180.8203,
+    65187.5586,
+    65177.4688,
+    65176.4414,
+    65185.7188
    ]
   },
   "eth": {
    "price": 1924.94,
    "prev": 1915.4414,
    "spark": [
-    1916.05,
-    1916.6899,
-    1916.53,
-    1916.55,
-    1916.87,
-    1916.72,
     1916.38,
     1916.1,
     1916.02,
@@ -523,7 +517,7 @@
     1921.64,
     1921.75,
     1921.99,
-    1922.0699,
+    1922.12,
     1923.13,
     1924.1,
     1922.9301,
@@ -536,8 +530,14 @@
     1922.61,
     1923.49,
     1924.12,
-    1924.0601,
+    1924.05,
     1924.9399,
+    1924.7,
+    1924.9301,
+    1924.74,
+    1924.61,
+    1924.75,
+    1924.74,
     1924.9399,
     1924.9399
    ]
@@ -635,7 +635,7 @@
    ]
   },
   "cnykrw": {
-   "price": 209.827,
+   "price": 208.667,
    "prev": 210.612,
    "spark": [
     208.947,
@@ -828,16 +828,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyLVlQR2lzSzdWaW9TcWRudy1pM2FiNFA2bW1VWk9PdjctOE1LOUVlLXhrUlRvYnozUmJsSmt1Wk1xWFBJakR4VkJpdGtZQ3Zxc0ViSjJn?oc=5"
   },
   {
-   "title": "블룸버그 “코스피 변동성 완화 조짐…레버리지 청산·규제 강화 효과”",
-   "source": "경기일보",
-   "time": "2026-08-09T17:07:14+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95M2wwWEROR3hWaFZFTFJ1ZV9ZazNpMFROWU1lUEJYdUswcjlncTVEVXFCUzdfNkdWQkQwMFo4NzVEUFI1U2pYZnEzM1QwREdvWVZIME92VllVNmM?oc=5"
-  },
-  {
    "title": "상승 모멘텀 못찾는 코스피‥이달 거래대금·거래량 올해 최저",
    "source": "MBC 뉴스",
    "time": "2026-08-09T10:45:26+09:00",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZktXbGgxa1NISFlEVHdRdm43NUdMbDYydm9ScThiSTZaVFUzWm5NVThSU3JYcHVxQ2hOV3JXR3lKTzhZTmgzbURIU2JTbzd5M09ScHFYX1FRUXZkR3BmNkRXaXFSczk0ODl2eFZ1RlZzRWxk0gF0QVVfeXFMUEZOMExDOFJUWG50NGI2ckJkRktnYkgyaWZSeHNXUDBJbHRKTjhBdUFJa3YtZzRhd3I0eUhYejBVTVRFWm5BMmVxUEtWVERFbkU0OVhjemQwSG81azZ1eUUyQllSZGRYYWpiazVIeFQ2MERRcEM?oc=5"
+  },
+  {
+   "title": "블룸버그 “코스피 변동성 완화 조짐…레버리지 청산·규제 강화 효과”",
+   "source": "경기일보",
+   "time": "2026-08-09T17:07:14+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95M2wwWEROR3hWaFZFTFJ1ZV9ZazNpMFROWU1lUEJYdUswcjlncTVEVXFCUzdfNkdWQkQwMFo4NzVEUFI1U2pYZnEzM1QwREdvWVZIME92VllVNmM?oc=5"
   },
   {
    "title": "올해 환율 변동폭 47원…금융위기 이후 최대",
@@ -846,22 +846,22 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idS1aV1hvNnF1cUJ4RG1PaC1weW1Ec1BKUkw4SXpVcExkRU1GTVpZR2xCaGJGN25nMExRV01KTmQ3SVBXQzNFVHQ3emUtQQ?oc=5"
   },
   {
-   "title": "코스피 전고점 회복 올해 안엔 어려울 듯 3분기 삼전실적 주목",
-   "source": "v.daum.net",
-   "time": "2026-08-09T17:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YeTFTSWgzSDdtMzQ2VFNPOHI1LW9VS05NOU85RW84RE52ajNIZmk1dUZJQVZrQW9Oc2JfMTUweXNBeGViaGpTOXhPeC1OQ3M?oc=5"
-  },
-  {
    "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
    "source": "연합뉴스",
    "time": "2026-08-09T14:07:12+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YemRwYWFtVjlFdXpJcGJKeFQ4YkNBVU8wcGRGMkhpdDRHSHlmTDVIYi1nc0tRRlRIa3NpVldkZW00VlBUaWg0SDd1eWpqV2hNVTA1REFCV0dJeFnSAWBBVV95cUxPZi1OamxCMmdJdE1mV2NlVldJbTVyRHJoODVnVzFtcFhQQkJpalliajJuaklZS3poa0x4YU5TOVh0dUE0Y1dMLWFVQXRpRWhoRXQ1cG1sNkM4ekotXzdzZ0E?oc=5"
   },
   {
-   "title": "비트코인, ETF 자금 유입에도 포크 우려로 6만5천 달러 아래로 하락",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-09T17:51:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83S0xwYV9LNUNPNi1OR183ZjNJemtiWlZ6MHpSZkRZdzBXVU1oRGpXV0Uwb0phNzZjUGhmSEsxRlFJN2lZd2ZSNU1zam9yMmktaHNZek9UbWZiSVc4UkpsLTVTZVBKN2hTWXRDQUxXNElheGs?oc=5"
+   "title": "반도체 빠진 증시서 은행주 ‘역주행’…기준금리·환율 호재에 상승세",
+   "source": "v.daum.net",
+   "time": "2026-08-09T18:43:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GaDRGSHJsNnNnSHRaeHlOd1BQa1A5N2ltdU1ZYXJXTlN0LURoOEpxUERLMlRJcGc2MU5kdU0teTFYVlVfa3d1bVZkOTFybDg?oc=5"
+  },
+  {
+   "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-06T15:49:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5"
   }
  ]
 }
