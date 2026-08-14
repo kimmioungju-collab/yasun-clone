@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T06:11:24.311762+09:00",
+ "updated": "2026-08-15T06:39:45.035022+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -196,18 +196,18 @@
     30088.5,
     30078.75,
     30084.75,
-    30081.0,
-    30068.0,
-    30072.0,
+    30080.25,
+    30067.5,
+    30071.75,
     30076.25,
     30087.25,
     30087.0,
-    30096.75,
-    30088.5,
+    30097.5,
+    30088.75,
     30082.75,
     30092.25,
-    30083.0,
-    30088.25,
+    30082.75,
+    30088.0,
     30087.0,
     30096.75,
     30101.25,
@@ -215,9 +215,9 @@
     30108.5,
     30119.5,
     30126.25,
-    30145.0,
-    30145.75,
-    30133.25,
+    30144.25,
+    30146.5,
+    30133.75,
     30132.75,
     30131.5,
     30129.5,
@@ -225,9 +225,9 @@
     30140.5,
     30137.0,
     30142.0,
-    30141.5,
+    30141.25,
     30144.0,
-    30147.5,
+    30154.0,
     30154.0
    ]
   },
@@ -245,9 +245,9 @@
     7804.5,
     7801.75,
     7801.5,
-    7802.25,
+    7802.5,
     7804.5,
-    7805.25,
+    7805.0,
     7806.25,
     7804.25,
     7802.5,
@@ -255,13 +255,13 @@
     7803.25,
     7802.75,
     7803.75,
-    7804.25,
-    7805.25,
+    7804.0,
+    7804.75,
     7804.0,
     7804.25,
     7804.5,
     7804.5,
-    7805.25,
+    7805.5,
     7802.5,
     7801.0,
     7800.75,
@@ -273,7 +273,7 @@
     7802.5,
     7802.5,
     7801.75,
-    7802.75,
+    7802.5,
     7802.5
    ]
   },
@@ -373,8 +373,8 @@
    "price": 68713.8,
    "prev": 68308.59,
    "spark": [
+    68882.6406,
     68899.7578,
-    68889.0078,
     68889.0078,
     68875.0391,
     68834.3203,
@@ -424,7 +424,7 @@
     82.29,
     82.16,
     82.18,
-    82.24,
+    82.23,
     82.27,
     82.35,
     82.4,
@@ -457,7 +457,7 @@
     82.35,
     82.44,
     82.36,
-    82.41,
+    82.4,
     82.4
    ]
   },
@@ -503,7 +503,7 @@
     88.49,
     88.56,
     88.53,
-    88.57,
+    88.59,
     88.59
    ]
   },
@@ -525,7 +525,7 @@
     4433.2002,
     4430.8999,
     4430.1001,
-    4430.2998,
+    4430.2002,
     4429.3999,
     4433.0,
     4432.3999,
@@ -537,7 +537,7 @@
     4431.7002,
     4431.3999,
     4433.6001,
-    4431.5,
+    4431.6001,
     4429.7998,
     4427.6001,
     4428.2998,
@@ -581,7 +581,7 @@
     64.955,
     64.95,
     64.88,
-    64.86,
+    64.875,
     64.94,
     64.88,
     64.86,
@@ -595,7 +595,7 @@
     64.87,
     64.83,
     64.84,
-    64.83,
+    64.825,
     64.825
    ]
   },
@@ -606,7 +606,7 @@
     2.747,
     2.748,
     2.744,
-    2.738,
+    2.739,
     2.74,
     2.743,
     2.744,
@@ -629,7 +629,7 @@
     2.722,
     2.719,
     2.72,
-    2.718,
+    2.717,
     2.719,
     2.718,
     2.719,
@@ -641,7 +641,7 @@
     2.712,
     2.716,
     2.715,
-    2.718,
+    2.715,
     2.715
    ]
   },
@@ -733,19 +733,14 @@
     1416.89,
     1417.3101,
     1416.8101,
-    1416.17,
+    1416.48,
     1416.48
    ]
   },
   "btc": {
-   "price": 62832.91,
+   "price": 62821.97,
    "prev": 63418.16,
    "spark": [
-    62976.6406,
-    62972.6602,
-    62936.1211,
-    62969.5703,
-    62982.1211,
     62969.5586,
     62887.2109,
     62931.5703,
@@ -779,19 +774,19 @@
     62835.1406,
     62868.6211,
     62832.7188,
-    62832.9102,
-    62832.9102
+    62837.6602,
+    62819.0703,
+    62834.1016,
+    62820.3711,
+    62809.4219,
+    62821.9805,
+    62821.9688
    ]
   },
   "eth": {
-   "price": 1876.95,
+   "price": 1877.76,
    "prev": 1884.4181,
    "spark": [
-    1875.4,
-    1875.86,
-    1874.33,
-    1875.96,
-    1875.91,
     1873.89,
     1873.01,
     1875.03,
@@ -825,18 +820,19 @@
     1878.5601,
     1879.4301,
     1877.0699,
-    1877.05,
-    1876.95
+    1877.02,
+    1876.15,
+    1877.66,
+    1877.88,
+    1877.6801,
+    1877.48,
+    1877.76
    ]
   },
   "eurkrw": {
    "price": 1638.2,
    "prev": 1634.3,
    "spark": [
-    1636.4,
-    1636.4,
-    1636.4,
-    1636.4,
     1636.3,
     1636.3,
     1636.4,
@@ -872,6 +868,10 @@
     1638.7,
     1638.2,
     1638.2,
+    1638.2,
+    1638.2,
+    1638.2,
+    1638.2,
     1638.2
    ]
   },
@@ -879,10 +879,6 @@
    "price": 8.867,
    "prev": 8.868,
    "spark": [
-    8.861,
-    8.86,
-    8.861,
-    8.86,
     8.859,
     8.86,
     8.86,
@@ -918,6 +914,10 @@
     8.871,
     8.867,
     8.867,
+    8.867,
+    8.867,
+    8.867,
+    8.867,
     8.867
    ]
   },
@@ -925,9 +925,6 @@
    "price": 210.032,
    "prev": 210.171,
    "spark": [
-    209.972,
-    209.931,
-    209.994,
     209.993,
     209.994,
     210.039,
@@ -962,6 +959,9 @@
     210.297,
     210.18,
     210.305,
+    210.032,
+    210.032,
+    210.032,
     210.032,
     210.032,
     210.032
@@ -1017,10 +1017,6 @@
    "price": 1.1573,
    "prev": 1.1531,
    "spark": [
-    1.1567,
-    1.1567,
-    1.1569,
-    1.1567,
     1.1566,
     1.1567,
     1.157,
@@ -1052,6 +1048,10 @@
     1.1571,
     1.1571,
     1.1571,
+    1.1573,
+    1.1573,
+    1.1573,
+    1.1573,
     1.1573,
     1.1573,
     1.1573,
@@ -1101,7 +1101,7 @@
     99.65,
     99.648,
     99.642,
-    99.638,
+    99.636,
     99.636
    ]
   }
@@ -1124,12 +1124,6 @@
    "source": "v.daum.net",
    "time": "2026-08-14T16:43:24+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YZUZFc21OdDByRWtpRHluMVBINnZXdFYtSU13cE5OM2haU0cxRTBmU2l2Zk40R002d0VYYlFoOGh4RjZmNVIzbnRPWW5GWW8?oc=5"
-  },
-  {
-   "title": "‘츄파춥스 배당’ 하이닉스, 손자회사도 나스닥행?…‘다단계 중복 상장’ 논란",
-   "source": "한겨레",
-   "time": "2026-08-15T04:52:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwajNHRlZBRDA5TVFzMmY4RURhSE1WRFJDalExV1czUzdGT3VjQXZBR185c2g1NnNmeWJBNUJKcERqeERjRGR4dnhRVm9Mc1pxX211YkYtbmtWYUh5UlZMMlB5ZU95eTVXNVMxSFpaMnA1dw?oc=5"
   },
   {
    "title": "1600원 넘보던 환율, 150원 급락… 對美투자 늘면 다시 뛸 수도",
@@ -1168,6 +1162,12 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORllYWEtvcWZaNFpORkVMVFItblJ4SVdDSVpvMDhlMmp6QWFnR29jMkZmNTR5RWUyMGhhdWxvUTJUOVQxR1l4ZE90VWt0UFBnYTU5MzJ6NTVQR2pmYnltVVNOVXFKZnJlQV9oTE5WaDJDNlJQNkd6Mmg4X0FrSmVZR0FRejNVSlB40gGcAUFVX3lxTFB3Z1d2dmMyTDRVWEhkMUYwejZLNndoNTJGV0duRlhGQzBMc3dpa2dhVzFfMXVFRnlkU29nWU9kVjZHa1BPWXFjcTN3LTVDVTFSbk4wTzJ4bG9HNHhGMXkwb0dMWlJVSTQ1MXdzZlYzaEM5Yk9YcE9iMC1nbzZyeE9iQjk3Zjd5WGV6VXpPY2VWT3F2cUZLR3hFS0RVTQ?oc=5"
   },
   {
+   "title": "‘셀 코리아’ 끝났나…외국인 나흘 연속 순매수, 코스피 장중 7천선 회복",
+   "source": "한겨레",
+   "time": "2026-08-14T18:03:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xaE85QS1WUmdSNnR6dzc0eURDdmFueTZOODFzV0NkM19qWE9LTF9SVDkzd2JFVVpvZG1CaDNiMnFQeUNobzlXWTB0RC1LUFVLazJGSjdubmEzT1ZZSmd5UGNKanJiQkU?oc=5"
+  },
+  {
    "title": "코스피, 7천피 목전에 두고 장 종료…外人 3조 순매수",
    "source": "연합인포맥스",
    "time": "2026-08-14T15:33:49+09:00",
@@ -1180,16 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TnA4LVV0MWFLV21yaFNsaHdXbGdKNElBRlpJemFxbV95c24tSl9kbl90Q2JNblgzNEc4aWZwWVR5ZXl6VlBsU0NOYU9tOUF2eGUtTXZaa0pmZlB3RGc?oc=5"
   },
   {
-   "title": "코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
-   "source": "yna.co.kr",
-   "time": "2026-08-14T15:37:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4QzlNVWg2blBHUmNLZV9rWFdJc29IMEZnMFRtS255MFRzenpPdTdCWFlsb0dHNnFhYWtseVBTSGZ6bHI5U05KSExFbWk2YmJxZXc4d3RFSFY3dHPSAWBBVV95cUxPZDEzeVpNZEZDby01VmhMTkxHT2FCM09IZzdTSkNrSHl3TlZ2by0wYURZNnY1VGlLZVhWanZqZnpGYTdLeVM1eFBERkhsMjFpWU5BdUlxRDBZOWt1dHYyV04?oc=5"
+   "title": "비트코인(BTC), 6만3000달러 일시 회복",
+   "source": "블루밍비트",
+   "time": "2026-08-15T01:14:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05WnhvMFJsUzQwajdWU2tVX3ZXS1U1MzMxVkZVZ1BqVDhUSzRWcnNmOVY1Zkg5ejl1d2MtRXBDdExhTzNDYUtKc1UyeFNyTDEx?oc=5"
   },
   {
-   "title": "[이슈체크] \"들어갈까, 말까?\"…외국인 사자, 코스피 이번 주 내내 상승, ‘셀 코리아’ 끝났나",
-   "source": "v.daum.net",
-   "time": "2026-08-14T19:19:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mWkIzdlhhYkZON2dMTEFDYTQxeTV6S0F2RnJKREQxb0pBR0JaMlU5MDhrc2hwcUVPNmxuSGs2TmE0VjV2aDJGMl9mdGVLWEU?oc=5"
+   "title": "코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
+   "source": "연합뉴스",
+   "time": "2026-08-14T15:37:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4QzlNVWg2blBHUmNLZV9rWFdJc29IMEZnMFRtS255MFRzenpPdTdCWFlsb0dHNnFhYWtseVBTSGZ6bHI5U05KSExFbWk2YmJxZXc4d3RFSFY3dHPSAWBBVV95cUxPZDEzeVpNZEZDby01VmhMTkxHT2FCM09IZzdTSkNrSHl3TlZ2by0wYURZNnY1VGlLZVhWanZqZnpGYTdLeVM1eFBERkhsMjFpWU5BdUlxRDBZOWt1dHYyV04?oc=5"
   }
  ]
 }
