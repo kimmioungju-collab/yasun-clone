@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T06:39:45.035022+09:00",
+ "updated": "2026-08-15T06:57:27.908844+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -196,18 +196,18 @@
     30088.5,
     30078.75,
     30084.75,
-    30080.25,
-    30067.5,
-    30071.75,
+    30081.0,
+    30068.0,
+    30072.0,
     30076.25,
     30087.25,
     30087.0,
-    30097.5,
-    30088.75,
+    30096.75,
+    30088.5,
     30082.75,
     30092.25,
-    30082.75,
-    30088.0,
+    30083.0,
+    30088.25,
     30087.0,
     30096.75,
     30101.25,
@@ -215,9 +215,9 @@
     30108.5,
     30119.5,
     30126.25,
-    30144.25,
-    30146.5,
-    30133.75,
+    30145.0,
+    30145.75,
+    30133.25,
     30132.75,
     30131.5,
     30129.5,
@@ -225,7 +225,7 @@
     30140.5,
     30137.0,
     30142.0,
-    30141.25,
+    30141.5,
     30144.0,
     30154.0,
     30154.0
@@ -245,9 +245,9 @@
     7804.5,
     7801.75,
     7801.5,
-    7802.5,
+    7802.25,
     7804.5,
-    7805.0,
+    7805.25,
     7806.25,
     7804.25,
     7802.5,
@@ -255,13 +255,13 @@
     7803.25,
     7802.75,
     7803.75,
-    7804.0,
-    7804.75,
+    7804.25,
+    7805.25,
     7804.0,
     7804.25,
     7804.5,
     7804.5,
-    7805.5,
+    7805.25,
     7802.5,
     7801.0,
     7800.75,
@@ -373,8 +373,8 @@
    "price": 68713.8,
    "prev": 68308.59,
    "spark": [
-    68882.6406,
     68899.7578,
+    68889.0078,
     68889.0078,
     68875.0391,
     68834.3203,
@@ -424,7 +424,7 @@
     82.29,
     82.16,
     82.18,
-    82.23,
+    82.24,
     82.27,
     82.35,
     82.4,
@@ -525,7 +525,7 @@
     4433.2002,
     4430.8999,
     4430.1001,
-    4430.2002,
+    4430.2998,
     4429.3999,
     4433.0,
     4432.3999,
@@ -537,7 +537,7 @@
     4431.7002,
     4431.3999,
     4433.6001,
-    4431.6001,
+    4431.5,
     4429.7998,
     4427.6001,
     4428.2998,
@@ -581,7 +581,7 @@
     64.955,
     64.95,
     64.88,
-    64.875,
+    64.86,
     64.94,
     64.88,
     64.86,
@@ -606,7 +606,7 @@
     2.747,
     2.748,
     2.744,
-    2.739,
+    2.738,
     2.74,
     2.743,
     2.744,
@@ -629,7 +629,7 @@
     2.722,
     2.719,
     2.72,
-    2.717,
+    2.718,
     2.719,
     2.718,
     2.719,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62821.97,
+   "price": 62833.85,
    "prev": 63418.16,
    "spark": [
-    62969.5586,
-    62887.2109,
-    62931.5703,
-    62903.8398,
     62825.9805,
     62846.9297,
     62855.9219,
@@ -780,17 +776,17 @@
     62820.3711,
     62809.4219,
     62821.9805,
-    62821.9688
+    62812.5703,
+    62849.9883,
+    62817.3008,
+    62834.2305,
+    62833.8516
    ]
   },
   "eth": {
-   "price": 1877.76,
+   "price": 1876.51,
    "prev": 1884.4181,
    "spark": [
-    1873.89,
-    1873.01,
-    1875.03,
-    1875.49,
     1872.84,
     1874.15,
     1873.63,
@@ -825,8 +821,12 @@
     1877.66,
     1877.88,
     1877.6801,
-    1877.48,
-    1877.76
+    1877.77,
+    1876.42,
+    1877.0601,
+    1875.51,
+    1876.49,
+    1876.51
    ]
   },
   "eurkrw": {
@@ -925,7 +925,6 @@
    "price": 210.032,
    "prev": 210.171,
    "spark": [
-    209.993,
     209.994,
     210.039,
     209.997,
@@ -959,6 +958,7 @@
     210.297,
     210.18,
     210.305,
+    210.032,
     210.032,
     210.032,
     210.032,
@@ -1132,6 +1132,12 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SZFZkS2tQSmVWb2t0MEtRaF8wSlJwV0t1SHhIMWN1cTVhYUN6ZEczcmhCX1I5SldmcDBteENma0pCUjJaRFZtamprUV9HZFlvZWZJaFBOdGdEdkNRZ0kyNjdnN2hKY2p3TGx2VmdKMk9iazhXLWfSAWZBVV95cUxONDhBc1dLeXVpakMwT2VUTmJ2WkRhTlNGSG1JTHEwM0gyMDRwcVRKbjVwSjhNQWU4WVlsaUM1WGo0MUJVVk45YW1udnE4bVctMlBweWw1NGJEMm5YU1V5MUZidEVVTHc?oc=5"
   },
   {
+   "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 14일자",
+   "source": "조선일보",
+   "time": "2026-08-15T00:41:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHI3TGxCNlY4NWRpR1QyeUhaaFgtTkhyMVJ0SXpIRmloWmNuRnh2YlgzcDREVDhpVVV5U1cweXl0N2ozQjdCdEVaczVDTUU5b1UxQ2ZEeTRZSWt1RllUOHNlTEJGRXU5RFVhODR3SmJzNUxZbTdPUTJWbDJBYmdNenJmdmhkb3VHSXVZ?oc=5"
+  },
+  {
    "title": "중남미 증시, 6월 이후 최악의 한 주…투자자 외면",
    "source": "Investing.com 한국어",
    "time": "2026-08-15T02:02:00+09:00",
@@ -1156,28 +1162,22 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Gc1h0NGZMNWpRS3VlM0s5dnFPMUVFZ0ZzYkJIY0VPaEl1TFZYWjllaGJpYXhFQ2tPekMzRmVfb21tbFU0aGJMZ0QwVGU?oc=5"
   },
   {
-   "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 14일자 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-08-15T00:41:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORllYWEtvcWZaNFpORkVMVFItblJ4SVdDSVpvMDhlMmp6QWFnR29jMkZmNTR5RWUyMGhhdWxvUTJUOVQxR1l4ZE90VWt0UFBnYTU5MzJ6NTVQR2pmYnltVVNOVXFKZnJlQV9oTE5WaDJDNlJQNkd6Mmg4X0FrSmVZR0FRejNVSlB40gGcAUFVX3lxTFB3Z1d2dmMyTDRVWEhkMUYwejZLNndoNTJGV0duRlhGQzBMc3dpa2dhVzFfMXVFRnlkU29nWU9kVjZHa1BPWXFjcTN3LTVDVTFSbk4wTzJ4bG9HNHhGMXkwb0dMWlJVSTQ1MXdzZlYzaEM5Yk9YcE9iMC1nbzZyeE9iQjk3Zjd5WGV6VXpPY2VWT3F2cUZLR3hFS0RVTQ?oc=5"
-  },
-  {
    "title": "‘셀 코리아’ 끝났나…외국인 나흘 연속 순매수, 코스피 장중 7천선 회복",
    "source": "한겨레",
    "time": "2026-08-14T18:03:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xaE85QS1WUmdSNnR6dzc0eURDdmFueTZOODFzV0NkM19qWE9LTF9SVDkzd2JFVVpvZG1CaDNiMnFQeUNobzlXWTB0RC1LUFVLazJGSjdubmEzT1ZZSmd5UGNKanJiQkU?oc=5"
   },
   {
-   "title": "코스피, 7천피 목전에 두고 장 종료…外人 3조 순매수",
-   "source": "연합인포맥스",
-   "time": "2026-08-14T15:33:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QVmdrMkRfTFFqYlJzV1VZajBETF9NYmFBVGh5Z0M2SVlTeGxFOXhnbU9Ta3Q5Rk5tTTBYaThjckNZQXktOGpnYW1hWTdnbkY5TjE1a3dFTVRVeTkxRHFUMm1TV20ySDN4aFZWZ1B1TFPSAXRBVV95cUxNRVFIemQzOXdLSll3aV9MQWYzTEVXQmNHOEZUZXFQNUFsX2k0bGJrYTRMblRUZmFOLThmaUUzczhrcVZYZXR6RkFweEdOYkJCWlZ3RVlFNWptU2luVFdLOW1VQVJyb1hNdTZOSmRVWkc1OVdyWg?oc=5"
-  },
-  {
    "title": "원·달러 환율 1,300원대 눈앞...하락 반전 'U턴', 왜? [앵커리포트]",
    "source": "YTN",
    "time": "2026-08-10T08:21:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TnA4LVV0MWFLV21yaFNsaHdXbGdKNElBRlpJemFxbV95c24tSl9kbl90Q2JNblgzNEc4aWZwWVR5ZXl6VlBsU0NOYU9tOUF2eGUtTXZaa0pmZlB3RGc?oc=5"
+  },
+  {
+   "title": "코스피, 7천피 목전에 두고 장 종료…外人 3조 순매수",
+   "source": "연합인포맥스",
+   "time": "2026-08-14T15:33:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QVmdrMkRfTFFqYlJzV1VZajBETF9NYmFBVGh5Z0M2SVlTeGxFOXhnbU9Ta3Q5Rk5tTTBYaThjckNZQXktOGpnYW1hWTdnbkY5TjE1a3dFTVRVeTkxRHFUMm1TV20ySDN4aFZWZ1B1TFPSAXRBVV95cUxNRVFIemQzOXdLSll3aV9MQWYzTEVXQmNHOEZUZXFQNUFsX2k0bGJrYTRMblRUZmFOLThmaUUzczhrcVZYZXR6RkFweEdOYkJCWlZ3RVlFNWptU2luVFdLOW1VQVJyb1hNdTZOSmRVWkc1OVdyWg?oc=5"
   },
   {
    "title": "비트코인(BTC), 6만3000달러 일시 회복",
@@ -1187,7 +1187,7 @@
   },
   {
    "title": "코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
-   "source": "연합뉴스",
+   "source": "yna.co.kr",
    "time": "2026-08-14T15:37:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4QzlNVWg2blBHUmNLZV9rWFdJc29IMEZnMFRtS255MFRzenpPdTdCWFlsb0dHNnFhYWtseVBTSGZ6bHI5U05KSExFbWk2YmJxZXc4d3RFSFY3dHPSAWBBVV95cUxPZDEzeVpNZEZDby01VmhMTkxHT2FCM09IZzdTSkNrSHl3TlZ2by0wYURZNnY1VGlLZVhWanZqZnpGYTdLeVM1eFBERkhsMjFpWU5BdUlxRDBZOWt1dHYyV04?oc=5"
   }
