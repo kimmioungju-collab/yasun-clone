@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T23:01:32.742970+09:00",
+ "updated": "2026-08-15T23:31:28.402771+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -525,7 +525,7 @@
     4433.2002,
     4430.8999,
     4430.1001,
-    4430.2002,
+    4430.2998,
     4429.3999,
     4433.0,
     4432.3999,
@@ -537,7 +537,7 @@
     4431.7002,
     4431.3999,
     4433.6001,
-    4431.6001,
+    4431.5,
     4429.7998,
     4427.6001,
     4428.2998,
@@ -582,7 +582,7 @@
     64.955,
     64.95,
     64.88,
-    64.875,
+    64.86,
     64.94,
     64.88,
     64.86,
@@ -738,15 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62975.48,
+   "price": 62963.77,
    "prev": 62977.613,
    "spark": [
-    62960.7188,
-    62976.0312,
-    62959.5586,
-    62963.2891,
-    62956.4805,
-    62962.8984,
     62963.5781,
     62963.7891,
     62960.4609,
@@ -779,20 +773,20 @@
     62970.5391,
     62978.8281,
     62985.9219,
-    62975.4805,
-    62975.4805
+    62965.3789,
+    62972.3281,
+    62977.2188,
+    62957.0,
+    62947.2188,
+    62965.9492,
+    62962.3203,
+    62963.7695
    ]
   },
   "eth": {
-   "price": 1881.52,
+   "price": 1880.01,
    "prev": 1880.3744,
    "spark": [
-    1878.84,
-    1879.16,
-    1878.55,
-    1879.0699,
-    1878.72,
-    1878.13,
     1877.77,
     1877.72,
     1877.6899,
@@ -825,8 +819,14 @@
     1881.53,
     1881.5699,
     1881.5,
-    1881.3199,
-    1881.52
+    1880.74,
+    1880.96,
+    1881.0699,
+    1880.61,
+    1879.98,
+    1880.0601,
+    1879.92,
+    1880.01
    ]
   },
   "eurkrw": {
@@ -1150,6 +1150,12 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
   },
   {
+   "title": "\"'2030년 비트코인 100만달러', 수학적으로 불가능\"",
+   "source": "bloomingbit.io",
+   "time": "2026-08-15T22:51:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xd0pIbGcwbWRZVlZYQ1o4bFZDMk9weFdEZTE1RlpUM2VIWVpfeFF0M2pKUkRNVVh5Zk1tTnhQLWVkQ3ZaNWltNnNSSDJGdGR4?oc=5"
+  },
+  {
    "title": "출발증시 2부",
    "source": "한국경제TV",
    "time": "2026-08-14T23:30:21+09:00",
@@ -1162,14 +1168,8 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TnA4LVV0MWFLV21yaFNsaHdXbGdKNElBRlpJemFxbV95c24tSl9kbl90Q2JNblgzNEc4aWZwWVR5ZXl6VlBsU0NOYU9tOUF2eGUtTXZaa0pmZlB3RGc?oc=5"
   },
   {
-   "title": "\"'2030년 비트코인 100만달러', 수학적으로 불가능\"",
-   "source": "블루밍비트",
-   "time": "2026-08-15T22:51:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xd0pIbGcwbWRZVlZYQ1o4bFZDMk9weFdEZTE1RlpUM2VIWVpfeFF0M2pKUkRNVVh5Zk1tTnhQLWVkQ3ZaNWltNnNSSDJGdGR4?oc=5"
-  },
-  {
    "title": "[지난밤 뉴욕에선] 소비 경고음에 나스닥 0.28% 하락",
-   "source": "straightnews.co.kr",
+   "source": "스트레이트뉴스",
    "time": "2026-08-15T07:22:15+09:00",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTV9KX3JmekJGU1hWdFBfY3E5b0ZSNFpodi1McEdnem82S2hDWk1wZWFsYTgtdjR3YXBGYko0Z0dKcGxwZm1KdHJEcDlwdXNPdDFUUnUxNTh2eDJVb2FMUXlVQjFrRUVRWjQzS09pN1hDODjSAXdBVV95cUxQYnY3WVI4anJRZkttU1VMTGJHeDc2OWVMSVpxUk1DY1ZNSVphMzlOREtjU0dXZjVUeGxNLVZsSG1JamV5b3FOUW1MMDVxTW1LQU8zVXBEWXlxMHQ0WHJ4UVAtYTAzTnNSQ0x0RzFwcHZPbWFLdktGMA?oc=5"
   },
