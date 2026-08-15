@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T14:54:41.786944+09:00",
+ "updated": "2026-08-15T15:24:04.514980+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -607,7 +607,7 @@
     2.747,
     2.748,
     2.744,
-    2.738,
+    2.739,
     2.74,
     2.743,
     2.744,
@@ -630,7 +630,7 @@
     2.722,
     2.719,
     2.72,
-    2.718,
+    2.717,
     2.719,
     2.718,
     2.719,
@@ -642,7 +642,7 @@
     2.712,
     2.716,
     2.715,
-    2.715
+    2.733
    ]
   },
   "vix": {
@@ -738,28 +738,22 @@
    ]
   },
   "btc": {
-   "price": 63005.9,
+   "price": 62997.62,
    "prev": 62977.613,
    "spark": [
-    63047.1484,
-    63072.0703,
-    63063.6484,
-    63071.3906,
-    63068.3281,
-    63067.4883,
-    63076.3281,
-    63062.2891,
-    63040.9414,
-    63022.7188,
+    63083.6992,
+    63062.3008,
+    63040.9492,
+    63022.7305,
     63013.8789,
     62994.6602,
     63000.0117,
     62994.6914,
     63011.5508,
-    62987.9492,
+    62988.3906,
     63010.1016,
     63004.4883,
-    63037.7695,
+    63036.6094,
     63057.4805,
     63055.4883,
     63061.9688,
@@ -768,43 +762,43 @@
     63087.3789,
     63071.0195,
     63053.9805,
-    63052.0117,
+    63052.0195,
     63060.6289,
     63076.0117,
-    63089.1406,
+    63088.9609,
     63080.5391,
     63060.8281,
     63053.1484,
     63057.9805,
-    62992.1797,
+    62992.1719,
     63009.3906,
     62996.8008,
-    63005.8984,
-    63005.8984
+    63005.9102,
+    63016.1016,
+    63019.9414,
+    63020.2617,
+    62971.9102,
+    62984.2812,
+    63002.6289,
+    62997.6211
    ]
   },
   "eth": {
-   "price": 1878.85,
+   "price": 1879.2,
    "prev": 1880.3744,
    "spark": [
-    1882.65,
-    1882.77,
-    1882.72,
-    1883.12,
-    1883.6801,
-    1883.86,
-    1884.23,
-    1883.6801,
-    1883.72,
+    1884.16,
+    1883.58,
+    1883.71,
     1882.95,
-    1882.03,
+    1881.96,
     1881.4,
     1881.25,
     1881.46,
     1881.64,
     1880.89,
     1881.4,
-    1881.6,
+    1881.5601,
     1882.01,
     1882.02,
     1882.29,
@@ -822,11 +816,17 @@
     1881.64,
     1881.5601,
     1881.73,
-    1879.42,
+    1879.41,
     1879.71,
     1878.62,
-    1878.87,
-    1878.85
+    1878.85,
+    1878.96,
+    1879.21,
+    1879.46,
+    1878.52,
+    1878.9399,
+    1879.45,
+    1879.2
    ]
   },
   "eurkrw": {
@@ -1126,16 +1126,16 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
   },
   {
+   "title": "싱가포르 증시 사상 최고 랠리, ’골디락스’ 경제가 뒷받침",
+   "source": "kr.investing.com",
+   "time": "2026-08-15T13:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKQjVPenhmY3U0MUlaYTNlZ1pnbzlfamZrLVJIYmIzeDNtVjRiVUdaVjZjWkpFc3lndWN4UHRTOW5kNWxJc1gyZ3JjbEZWVmlwbHpHNEpfNW9FZjQyNWlkZ2JLQXFmY0FxM2FmbEFQSmM?oc=5"
+  },
+  {
    "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
    "source": "v.daum.net",
    "time": "2026-08-15T10:52:11+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LaGNDTjVtUzdia011MzFYOU5kUW5sZ0dQNGEwRnFFYndJMkxTQXNmRkhoa214aGdobXhVb1hqVFFSazkwbmVrc1oxTlFXNDA?oc=5"
-  },
-  {
-   "title": "싱가포르 증시 사상 최고 랠리, ’골디락스’ 경제가 뒷받침",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-15T13:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKQjVPenhmY3U0MUlaYTNlZ1pnbzlfamZrLVJIYmIzeDNtVjRiVUdaVjZjWkpFc3lndWN4UHRTOW5kNWxJc1gyZ3JjbEZWVmlwbHpHNEpfNW9FZjQyNWlkZ2JLQXFmY0FxM2FmbEFQSmM?oc=5"
   },
   {
    "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
@@ -1180,16 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbHJ4NDM3cjFNVE9PWDN6MXc2c2lzOFhuNEVuQ1ZibExncldUc1dfbDR6aklRcmVNcU5zWnpGZW0zeE00Z1c3eDBQVGhMTEppRnl1eWpCWkVLak02TENfRzM5VndwOXc?oc=5"
   },
   {
-   "title": "코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
-   "source": "연합뉴스",
-   "time": "2026-08-14T15:37:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4QzlNVWg2blBHUmNLZV9rWFdJc29IMEZnMFRtS255MFRzenpPdTdCWFlsb0dHNnFhYWtseVBTSGZ6bHI5U05KSExFbWk2YmJxZXc4d3RFSFY3dHPSAWBBVV95cUxPZDEzeVpNZEZDby01VmhMTkxHT2FCM09IZzdTSkNrSHl3TlZ2by0wYURZNnY1VGlLZVhWanZqZnpGYTdLeVM1eFBERkhsMjFpWU5BdUlxRDBZOWt1dHYyV04?oc=5"
-  },
-  {
    "title": "[뉴욕 증시] 美 소매 판매 수치 예상치 밑돌아...뉴욕 3대 지수 약세 마감",
    "source": "한양경제",
    "time": "2026-08-15T10:18:56+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04aXdyWndGU09ldy1Bak5UMHBwSmNFQUxVYlJEck55d3F5UVdBN19yMDV4Uk1SaTdjQnlGNHg0bkctd05ueDl4UjVocDdaYkFybnJLTk4yanM1SzZzMnc4TU1UTjVaV01tcTY3YUpNSVU?oc=5"
+  },
+  {
+   "title": "증시 변동성 축소·우호적 매크로 환경...외인 매수세 지속 기대감",
+   "source": "데일리한국",
+   "time": "2026-08-15T14:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9INWJNR05DQk1SaVI5RHVqLUVjTWM2b0twTmpxWmJ2aXhwZmFvNGdMY3pFZUpBQ3o5RW9oaVYycGprQUdfRlNobjhJSGJWTmhqZWVXUXFaR0FzWmZSbWgzOE5OOXNQLUFJUWRCbkc5NNIBc0FVX3lxTE8xWHlHMl9TdkMwOTVrM0ItZGpFODE4Q1E2Sy1EVUpBUWZSdEV5QWRmbS1zYjZicXNlNm8wZnFTTExSa3A2Q2tFSmFLUE45Q3NHamFiYXdfX1RrUDhPVjB0b2FyLXFFRzl1R3N0UDN4LXdQWk0?oc=5"
   }
  ]
 }
