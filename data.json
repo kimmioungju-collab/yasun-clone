@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T17:29:36.223454+09:00",
+ "updated": "2026-08-15T17:56:37.599122+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -197,18 +197,18 @@
     30088.5,
     30078.75,
     30084.75,
-    30081.0,
-    30068.0,
-    30072.0,
+    30080.25,
+    30067.5,
+    30071.75,
     30076.25,
     30087.25,
     30087.0,
-    30096.75,
-    30088.5,
+    30097.5,
+    30088.75,
     30082.75,
     30092.25,
-    30083.0,
-    30088.25,
+    30082.75,
+    30088.0,
     30087.0,
     30096.75,
     30101.25,
@@ -216,9 +216,9 @@
     30108.5,
     30119.5,
     30126.25,
-    30145.0,
-    30145.75,
-    30133.25,
+    30144.25,
+    30146.5,
+    30133.75,
     30132.75,
     30131.5,
     30129.5,
@@ -226,7 +226,7 @@
     30140.5,
     30137.0,
     30142.0,
-    30141.5,
+    30141.25,
     30144.0,
     30141.75
    ]
@@ -738,19 +738,13 @@
    ]
   },
   "btc": {
-   "price": 62977.14,
+   "price": 62888.25,
    "prev": 62977.613,
    "spark": [
-    63080.5391,
-    63060.8281,
-    63053.1484,
-    63057.9805,
-    62992.1797,
-    63009.3906,
     62996.8008,
     63005.9102,
     63016.1016,
-    63019.9492,
+    63019.9414,
     63020.2617,
     62971.9102,
     62984.2812,
@@ -759,13 +753,13 @@
     62996.0508,
     62990.5781,
     63005.5898,
-    63012.7812,
+    63012.7695,
     63063.0,
     63045.5391,
     63041.7891,
     63007.2383,
     63061.7695,
-    63029.75,
+    63029.7617,
     63020.3398,
     63012.5508,
     63008.4297,
@@ -779,20 +773,20 @@
     62988.8789,
     62996.3984,
     62983.75,
-    62977.1484,
-    62977.1406
+    62983.2695,
+    62970.0,
+    62957.6914,
+    62945.1289,
+    62976.1016,
+    62897.9688,
+    62905.3789,
+    62888.25
    ]
   },
   "eth": {
-   "price": 1879.2,
+   "price": 1875.3,
    "prev": 1880.3744,
    "spark": [
-    1882.71,
-    1881.64,
-    1881.5601,
-    1881.73,
-    1879.42,
-    1879.71,
     1878.62,
     1878.85,
     1878.96,
@@ -804,12 +798,12 @@
     1878.6801,
     1879.21,
     1878.23,
-    1879.92,
+    1880.01,
     1880.61,
     1881.27,
     1880.36,
     1879.7,
-    1879.5601,
+    1879.49,
     1880.75,
     1879.74,
     1879.48,
@@ -818,15 +812,21 @@
     1879.63,
     1879.29,
     1878.75,
-    1878.6,
+    1878.61,
     1878.5601,
     1878.41,
     1878.9399,
     1878.99,
     1879.47,
-    1879.64,
-    1879.3,
-    1879.2
+    1879.65,
+    1879.27,
+    1878.04,
+    1877.77,
+    1876.9399,
+    1876.35,
+    1874.9399,
+    1875.42,
+    1875.3
    ]
   },
   "eurkrw": {
@@ -1144,16 +1144,22 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
   },
   {
-   "title": "[지난밤 뉴욕에선] 소비 경고음에 나스닥 0.28% 하락",
-   "source": "스트레이트뉴스",
-   "time": "2026-08-15T07:22:15+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTV9KX3JmekJGU1hWdFBfY3E5b0ZSNFpodi1McEdnem82S2hDWk1wZWFsYTgtdjR3YXBGYko0Z0dKcGxwZm1KdHJEcDlwdXNPdDFUUnUxNTh2eDJVb2FMUXlVQjFrRUVRWjQzS09pN1hDODjSAXdBVV95cUxQYnY3WVI4anJRZkttU1VMTGJHeDc2OWVMSVpxUk1DY1ZNSVphMzlOREtjU0dXZjVUeGxNLVZsSG1JamV5b3FOUW1MMDVxTW1LQU8zVXBEWXlxMHQ0WHJ4UVAtYTAzTnNSQ0x0RzFwcHZPbWFLdktGMA?oc=5"
+   "title": "1600원 넘보던 환율, 150원 급락… 對美투자 늘면 다시 뛸 수도",
+   "source": "donga.com",
+   "time": "2026-08-15T01:40:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SZFZkS2tQSmVWb2t0MEtRaF8wSlJwV0t1SHhIMWN1cTVhYUN6ZEczcmhCX1I5SldmcDBteENma0pCUjJaRFZtamprUV9HZFlvZWZJaFBOdGdEdkNRZ0kyNjdnN2hKY2p3TGx2VmdKMk9iazhXLWc?oc=5"
   },
   {
    "title": "에버노스 \"1주당 XRP 가치 더 올린다\"…나스닥 상장 앞두고 승부수",
    "source": "글로벌이코노믹",
    "time": "2026-08-15T17:07:45+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGpzMk1uNzlfUWNiRWl0YXBZYjk3VEFRa2JkNURDSmNNRVZsZlhObm53dm5iWkVXTG9MNGg0ZUpGUDRfOVNIOG5HLTBiZXdLYm1melZVNThBRHF5aHpoSVp2Rm9aNVp3d2ZvMGhxWHRiN1ZSSXhqdnFadDA4WG5GTWF3aDVSQ3Q5?oc=5"
+  },
+  {
+   "title": "[지난밤 뉴욕에선] 소비 경고음에 나스닥 0.28% 하락",
+   "source": "스트레이트뉴스",
+   "time": "2026-08-15T07:22:15+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTV9KX3JmekJGU1hWdFBfY3E5b0ZSNFpodi1McEdnem82S2hDWk1wZWFsYTgtdjR3YXBGYko0Z0dKcGxwZm1KdHJEcDlwdXNPdDFUUnUxNTh2eDJVb2FMUXlVQjFrRUVRWjQzS09pN1hDODjSAXdBVV95cUxQYnY3WVI4anJRZkttU1VMTGJHeDc2OWVMSVpxUk1DY1ZNSVphMzlOREtjU0dXZjVUeGxNLVZsSG1JamV5b3FOUW1MMDVxTW1LQU8zVXBEWXlxMHQ0WHJ4UVAtYTAzTnNSQ0x0RzFwcHZPbWFLdktGMA?oc=5"
   },
   {
    "title": "원·달러 환율 1,300원대 눈앞...하락 반전 'U턴', 왜? [앵커리포트]",
@@ -1174,22 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHI3TGxCNlY4NWRpR1QyeUhaaFgtTkhyMVJ0SXpIRmloWmNuRnh2YlgzcDREVDhpVVV5U1cweXl0N2ozQjdCdEVaczVDTUU5b1UxQ2ZEeTRZSWt1RllUOHNlTEJGRXU5RFVhODR3SmJzNUxZbTdPUTJWbDJBYmdNenJmdmhkb3VHSXVZ?oc=5"
   },
   {
-   "title": "1600원 넘보던 환율, 150원 급락… 對美투자 늘면 다시 뛸 수도",
-   "source": "동아일보",
-   "time": "2026-08-15T01:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SZFZkS2tQSmVWb2t0MEtRaF8wSlJwV0t1SHhIMWN1cTVhYUN6ZEczcmhCX1I5SldmcDBteENma0pCUjJaRFZtamprUV9HZFlvZWZJaFBOdGdEdkNRZ0kyNjdnN2hKY2p3TGx2VmdKMk9iazhXLWfSAWZBVV95cUxONDhBc1dLeXVpakMwT2VUTmJ2WkRhTlNGSG1JTHEwM0gyMDRwcVRKbjVwSjhNQWU4WVlsaUM1WGo0MUJVVk45YW1udnE4bVctMlBweWw1NGJEMm5YU1V5MUZidEVVTHc?oc=5"
-  },
-  {
-   "title": "CBOE, 美 SEC에 비트코인 3배 ETF 서류 제출",
-   "source": "블루밍비트",
-   "time": "2026-08-15T15:10:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rcDI2N0Z0bFdEMHc5d3hrMUt3T29oMzdVU1Nlb0JwUjNTT251SnhzTVlFaHNUVWhkeGhxQlBCeHJxNWxQeTJ1QndfMnhDWUZG?oc=5"
-  },
-  {
    "title": "코스피 : ‘한 달 만에 2000만원을 잃었습니다’…휘청이는 한국의 삼성전자, SK하이닉스 투자자들",
    "source": "BBC",
    "time": "2026-08-13T19:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
+  },
+  {
+   "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
+   "source": "KBS 뉴스",
+   "time": "2026-08-14T06:53:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFVElVYWFYRjk5cE5MWTlnd2kxTTJRTXg4ZTN0aUF1dWNCTXN6ZENaNjdtZFJVOGNDam9HRm10VGhBQjloSnlYemtBOFZqUEVxWU4xZmY5eGFzQ2lUSzNvVDV0amJxQQ?oc=5"
   }
  ]
 }
