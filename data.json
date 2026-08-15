@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T18:23:07.172953+09:00",
+ "updated": "2026-08-15T18:46:35.387709+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62895.7,
+   "price": 62960.13,
    "prev": 62977.613,
    "spark": [
-    62971.9102,
-    62984.2812,
-    62988.4219,
-    62973.4609,
-    62996.0508,
     62990.5781,
     63005.5898,
     63012.7695,
@@ -779,19 +774,19 @@
     62879.5195,
     62890.0703,
     62908.0,
-    62895.6992,
-    62895.6992
+    62894.3398,
+    62908.4297,
+    62918.0703,
+    62946.7695,
+    62951.9805,
+    62960.1211,
+    62960.1289
    ]
   },
   "eth": {
-   "price": 1875.86,
+   "price": 1878.27,
    "prev": 1880.3744,
    "spark": [
-    1878.52,
-    1878.9399,
-    1879.23,
-    1878.6801,
-    1879.21,
     1878.23,
     1880.01,
     1880.61,
@@ -825,8 +820,13 @@
     1875.24,
     1875.9399,
     1875.86,
-    1875.86,
-    1875.86
+    1876.0,
+    1876.67,
+    1876.89,
+    1877.8199,
+    1877.72,
+    1878.28,
+    1878.27
    ]
   },
   "eurkrw": {
@@ -1114,16 +1114,16 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYzZpOFNvTXdSOXZqd2ViWU44dDBucHg5bldsd1Axa2NXM0VmVmsyeVlpZmQydWtUYzJ1UkI1SW1RemJyZjRpWjJKRGZ6OVdpdmpLV2I2dTk5QmdVeWNnWXJSMmFWdUs50gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5"
   },
   {
-   "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
-   "source": "v.daum.net",
-   "time": "2026-08-15T10:52:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LaGNDTjVtUzdia011MzFYOU5kUW5sZ0dQNGEwRnFFYndJMkxTQXNmRkhoa214aGdobXhVb1hqVFFSazkwbmVrc1oxTlFXNDA?oc=5"
-  },
-  {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
    "source": "연합인포맥스",
    "time": "2026-08-15T09:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
+  },
+  {
+   "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
+   "source": "v.daum.net",
+   "time": "2026-08-15T10:52:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LaGNDTjVtUzdia011MzFYOU5kUW5sZ0dQNGEwRnFFYndJMkxTQXNmRkhoa214aGdobXhVb1hqVFFSazkwbmVrc1oxTlFXNDA?oc=5"
   },
   {
    "title": "출발증시 2부",
@@ -1162,10 +1162,16 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTV9KX3JmekJGU1hWdFBfY3E5b0ZSNFpodi1McEdnem82S2hDWk1wZWFsYTgtdjR3YXBGYko0Z0dKcGxwZm1KdHJEcDlwdXNPdDFUUnUxNTh2eDJVb2FMUXlVQjFrRUVRWjQzS09pN1hDODjSAXdBVV95cUxQYnY3WVI4anJRZkttU1VMTGJHeDc2OWVMSVpxUk1DY1ZNSVphMzlOREtjU0dXZjVUeGxNLVZsSG1JamV5b3FOUW1MMDVxTW1LQU8zVXBEWXlxMHQ0WHJ4UVAtYTAzTnNSQ0x0RzFwcHZPbWFLdktGMA?oc=5"
   },
   {
-   "title": "증시 변동성 축소·우호적 매크로 환경...외인 매수세 지속 기대감",
-   "source": "데일리한국",
-   "time": "2026-08-15T14:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9INWJNR05DQk1SaVI5RHVqLUVjTWM2b0twTmpxWmJ2aXhwZmFvNGdMY3pFZUpBQ3o5RW9oaVYycGprQUdfRlNobjhJSGJWTmhqZWVXUXFaR0FzWmZSbWgzOE5OOXNQLUFJUWRCbkc5NNIBc0FVX3lxTE8xWHlHMl9TdkMwOTVrM0ItZGpFODE4Q1E2Sy1EVUpBUWZSdEV5QWRmbS1zYjZicXNlNm8wZnFTTExSa3A2Q2tFSmFLUE45Q3NHamFiYXdfX1RrUDhPVjB0b2FyLXFFRzl1R3N0UDN4LXdQWk0?oc=5"
+   "title": "[분석] \"비트코인, 두 달 만에 수요 크게 회복…낙관은 아직\"",
+   "source": "블루밍비트",
+   "time": "2026-08-15T18:33:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QLXFnNkRiaE16cXdpOEJSM1ItbUpNNkV0cjZNMk42YndVRXZVMHRQV3ptaVhpa3pzVXdfbWdMenNVYU5MbEZyUThwUVg5SDBP?oc=5"
+  },
+  {
+   "title": "코스피 : ‘한 달 만에 2000만원을 잃었습니다’…휘청이는 한국의 삼성전자, SK하이닉스 투자자들",
+   "source": "BBC",
+   "time": "2026-08-13T19:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
   },
   {
    "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 14일자",
@@ -1178,12 +1184,6 @@
    "source": "자본시장뉴스",
    "time": "2026-08-15T11:45:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbHJ4NDM3cjFNVE9PWDN6MXc2c2lzOFhuNEVuQ1ZibExncldUc1dfbDR6aklRcmVNcU5zWnpGZW0zeE00Z1c3eDBQVGhMTEppRnl1eWpCWkVLak02TENfRzM5VndwOXc?oc=5"
-  },
-  {
-   "title": "코스피 : ‘한 달 만에 2000만원을 잃었습니다’…휘청이는 한국의 삼성전자, SK하이닉스 투자자들",
-   "source": "BBC",
-   "time": "2026-08-13T19:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
   },
   {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
