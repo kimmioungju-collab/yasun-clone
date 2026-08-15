@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T16:57:56.115992+09:00",
+ "updated": "2026-08-15T17:29:36.223454+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -228,7 +228,7 @@
     30142.0,
     30141.5,
     30144.0,
-    30154.0
+    30141.75
    ]
   },
   "es": {
@@ -274,7 +274,7 @@
     7802.5,
     7802.5,
     7801.75,
-    7802.5
+    7805.0
    ]
   },
   "ndx": {
@@ -504,7 +504,7 @@
     88.49,
     88.56,
     88.53,
-    88.59
+    88.52
    ]
   },
   "gold": {
@@ -550,7 +550,7 @@
     4430.7998,
     4431.5,
     4432.1001,
-    4432.0
+    4437.2998
    ]
   },
   "silver": {
@@ -596,7 +596,7 @@
     64.87,
     64.83,
     64.84,
-    64.825
+    65.108
    ]
   },
   "gas": {
@@ -642,7 +642,7 @@
     2.712,
     2.716,
     2.715,
-    2.715
+    2.733
    ]
   },
   "vix": {
@@ -738,15 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63000.57,
+   "price": 62977.14,
    "prev": 62977.613,
    "spark": [
-    63071.0195,
-    63053.9805,
-    63052.0117,
-    63060.6289,
-    63076.0117,
-    63089.1406,
     63080.5391,
     63060.8281,
     63053.1484,
@@ -779,20 +773,20 @@
     63010.3906,
     63005.5,
     63004.1016,
-    62977.2383,
-    63000.5703
+    63005.6602,
+    62997.0508,
+    62995.1914,
+    62988.8789,
+    62996.3984,
+    62983.75,
+    62977.1484,
+    62977.1406
    ]
   },
   "eth": {
-   "price": 1878.57,
+   "price": 1879.2,
    "prev": 1880.3744,
    "spark": [
-    1883.03,
-    1882.54,
-    1882.58,
-    1882.3,
-    1882.92,
-    1882.9,
     1882.71,
     1881.64,
     1881.5601,
@@ -825,8 +819,14 @@
     1879.29,
     1878.75,
     1878.6,
-    1878.25,
-    1878.5699
+    1878.5601,
+    1878.41,
+    1878.9399,
+    1878.99,
+    1879.47,
+    1879.64,
+    1879.3,
+    1879.2
    ]
   },
   "eurkrw": {
@@ -1109,7 +1109,7 @@
  "news": [
   {
    "title": "\"신혼집 마련할 돈 날렸다\"...해외서도 놀란 코스피 개미 잔혹사 - 머니투데이",
-   "source": "mt.co.kr",
+   "source": "머니투데이",
    "time": "2026-08-15T12:56:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYzZpOFNvTXdSOXZqd2ViWU44dDBucHg5bldsd1Axa2NXM0VmVmsyeVlpZmQydWtUYzJ1UkI1SW1RemJyZjRpWjJKRGZ6OVdpdmpLV2I2dTk5QmdVeWNnWXJSMmFWdUs50gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5"
   },
@@ -1120,16 +1120,16 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
   },
   {
-   "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-   "source": "연합인포맥스",
-   "time": "2026-08-15T09:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
-  },
-  {
    "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
    "source": "v.daum.net",
    "time": "2026-08-15T10:52:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LaGNDTjVtUzdia011MzFYOU5kUW5sZ0dQNGEwRnFFYndJMkxTQXNmRkhoa214aGdobXhVb1hqVFFSazkwbmVrc1oxTlFXNDA?oc=5"
+  },
+  {
+   "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
+   "source": "연합인포맥스",
+   "time": "2026-08-15T09:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
    "title": "싱가포르 증시 사상 최고 랠리, ’골디락스’ 경제가 뒷받침",
@@ -1150,10 +1150,22 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTV9KX3JmekJGU1hWdFBfY3E5b0ZSNFpodi1McEdnem82S2hDWk1wZWFsYTgtdjR3YXBGYko0Z0dKcGxwZm1KdHJEcDlwdXNPdDFUUnUxNTh2eDJVb2FMUXlVQjFrRUVRWjQzS09pN1hDODjSAXdBVV95cUxQYnY3WVI4anJRZkttU1VMTGJHeDc2OWVMSVpxUk1DY1ZNSVphMzlOREtjU0dXZjVUeGxNLVZsSG1JamV5b3FOUW1MMDVxTW1LQU8zVXBEWXlxMHQ0WHJ4UVAtYTAzTnNSQ0x0RzFwcHZPbWFLdktGMA?oc=5"
   },
   {
+   "title": "에버노스 \"1주당 XRP 가치 더 올린다\"…나스닥 상장 앞두고 승부수",
+   "source": "글로벌이코노믹",
+   "time": "2026-08-15T17:07:45+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGpzMk1uNzlfUWNiRWl0YXBZYjk3VEFRa2JkNURDSmNNRVZsZlhObm53dm5iWkVXTG9MNGg0ZUpGUDRfOVNIOG5HLTBiZXdLYm1melZVNThBRHF5aHpoSVp2Rm9aNVp3d2ZvMGhxWHRiN1ZSSXhqdnFadDA4WG5GTWF3aDVSQ3Q5?oc=5"
+  },
+  {
    "title": "원·달러 환율 1,300원대 눈앞...하락 반전 'U턴', 왜? [앵커리포트]",
    "source": "YTN",
    "time": "2026-08-10T08:21:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TnA4LVV0MWFLV21yaFNsaHdXbGdKNElBRlpJemFxbV95c24tSl9kbl90Q2JNblgzNEc4aWZwWVR5ZXl6VlBsU0NOYU9tOUF2eGUtTXZaa0pmZlB3RGc?oc=5"
+  },
+  {
+   "title": "증시 변동성 축소·우호적 매크로 환경...외인 매수세 지속 기대감",
+   "source": "데일리한국",
+   "time": "2026-08-15T14:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9INWJNR05DQk1SaVI5RHVqLUVjTWM2b0twTmpxWmJ2aXhwZmFvNGdMY3pFZUpBQ3o5RW9oaVYycGprQUdfRlNobjhJSGJWTmhqZWVXUXFaR0FzWmZSbWgzOE5OOXNQLUFJUWRCbkc5NNIBc0FVX3lxTE8xWHlHMl9TdkMwOTVrM0ItZGpFODE4Q1E2Sy1EVUpBUWZSdEV5QWRmbS1zYjZicXNlNm8wZnFTTExSa3A2Q2tFSmFLUE45Q3NHamFiYXdfX1RrUDhPVjB0b2FyLXFFRzl1R3N0UDN4LXdQWk0?oc=5"
   },
   {
    "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 14일자",
@@ -1168,12 +1180,6 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SZFZkS2tQSmVWb2t0MEtRaF8wSlJwV0t1SHhIMWN1cTVhYUN6ZEczcmhCX1I5SldmcDBteENma0pCUjJaRFZtamprUV9HZFlvZWZJaFBOdGdEdkNRZ0kyNjdnN2hKY2p3TGx2VmdKMk9iazhXLWfSAWZBVV95cUxONDhBc1dLeXVpakMwT2VUTmJ2WkRhTlNGSG1JTHEwM0gyMDRwcVRKbjVwSjhNQWU4WVlsaUM1WGo0MUJVVk45YW1udnE4bVctMlBweWw1NGJEMm5YU1V5MUZidEVVTHc?oc=5"
   },
   {
-   "title": "[주간코인뉴스] 비트코인 6만 5362달러 뒤 횡보…ETF 3억 2900만 달러 순유출",
-   "source": "자본시장뉴스",
-   "time": "2026-08-15T11:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbHJ4NDM3cjFNVE9PWDN6MXc2c2lzOFhuNEVuQ1ZibExncldUc1dfbDR6aklRcmVNcU5zWnpGZW0zeE00Z1c3eDBQVGhMTEppRnl1eWpCWkVLak02TENfRzM5VndwOXc?oc=5"
-  },
-  {
    "title": "CBOE, 美 SEC에 비트코인 3배 ETF 서류 제출",
    "source": "블루밍비트",
    "time": "2026-08-15T15:10:21+09:00",
@@ -1184,12 +1190,6 @@
    "source": "BBC",
    "time": "2026-08-13T19:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
-  },
-  {
-   "title": "“순식간에 25% 폭등”…코스피 7000 찍자 나온 경고 [머니+]",
-   "source": "에너지경제신문",
-   "time": "2026-08-14T20:23:33+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aV3FzNUE0NXBHZkF6di1YTGgzU3dObEQtSFM1ck5mQUtSZnRBbDRySnhFX2FUSWRfYWNYQVdib01aN1FWVEFxb1dqem5kbThIamNuM3djSXFhclU?oc=5"
   }
  ]
 }
