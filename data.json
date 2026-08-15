@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T06:07:27.816285+09:00",
+ "updated": "2026-08-16T06:32:40.763643+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63028.53,
+   "price": 63070.08,
    "prev": 62977.613,
    "spark": [
-    63000.3398,
-    62988.6914,
-    63008.5195,
-    63022.9492,
-    62972.9297,
     62987.9297,
     62972.0,
     62977.5,
@@ -779,19 +774,19 @@
     63030.6797,
     63036.5,
     63031.6211,
-    63029.0586,
-    63028.5312
+    63026.3984,
+    63035.4414,
+    63037.9492,
+    63052.6211,
+    63076.2188,
+    63070.0781,
+    63070.0781
    ]
   },
   "eth": {
-   "price": 1881.7,
+   "price": 1882.61,
    "prev": 1880.3744,
    "spark": [
-    1882.4,
-    1882.65,
-    1882.91,
-    1882.54,
-    1880.77,
     1881.34,
     1880.67,
     1881.05,
@@ -825,8 +820,13 @@
     1881.51,
     1881.34,
     1881.98,
-    1881.6899,
-    1881.7
+    1881.73,
+    1882.02,
+    1882.01,
+    1882.79,
+    1882.65,
+    1882.59,
+    1882.61
    ]
   },
   "eurkrw": {
@@ -1138,16 +1138,22 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EdHlRX2dzc1R3b3d1X0pLRElqTXZIMnV5MUNDb2VNUHZXWUlDVTRtSHZRRzIxZUZsVUthNHQ1SXZfV1VMMjU4MmtQQmZ5cHFUUzBwTlZ1UXBpZUhwd1Nn?oc=5"
   },
   {
+   "title": "출발증시 2부",
+   "source": "한국경제TV",
+   "time": "2026-08-14T23:30:21+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
+  },
+  {
    "title": "클래리티 법안 불발 버틴 비트코인…\"하반기 우상향 기대\"",
    "source": "뉴시스",
    "time": "2026-08-16T01:59:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4RzhIWlVsRlJxTjV0eml4cVdTZGpRMXFsOS1hQ0NqUUk1eERNQTRfeF82QWdlWU5lbVNzYjZrOEE4RXRTVE9HYmxjd1FnM2RLaEE1azFkYkltQzBPS090UtIBeEFVX3lxTE1YQ1FVdVFsN2ZSd2NtZFBLM1lndWtyRGpLMDRGNlZkWVpjVzBGSTlBbGVuZGxoTFhkSFJoVFNaVVJnSGRhcjltd1BsZkNROFNUcWFQQkJIV2RuWjhPWmJsaWRxdGFDbW9DSTJmSFppeFRxRGpqNTB4Vg?oc=5"
   },
   {
-   "title": "출발증시 2부",
-   "source": "한국경제TV",
-   "time": "2026-08-14T23:30:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
+   "title": "\"열흘 만에 22% 급등\"…외신들 '코스피 기술적 강세장' 진단",
+   "source": "v.daum.net",
+   "time": "2026-08-13T11:03:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42anotTzA0SGNXS0dNT0RFb0p3YUVKMnZUNEIzYmt1aFdyMGd0QUlHMjhfQnJBamlqQU5aeTk0QVp2dFZFS1g0Y0tGdUk1cTA?oc=5"
   },
   {
    "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
@@ -1160,12 +1166,6 @@
    "source": "ebn.co.kr",
    "time": "2026-08-15T18:24:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cUZEczlfWmF2dThDZXJKN3RYSmNUdXdBLWwwa3hDZDhWaDktUlhqMDYtMmx2U2llRTVKNUN6bnRFcG5vTnExcXg5UnQ4d3dNSFZoZUxkM1BuWTZmbEl1WmRWWENKZVpF?oc=5"
-  },
-  {
-   "title": "\"열흘 만에 22% 급등\"…외신들 '코스피 기술적 강세장' 진단",
-   "source": "v.daum.net",
-   "time": "2026-08-13T11:03:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42anotTzA0SGNXS0dNT0RFb0p3YUVKMnZUNEIzYmt1aFdyMGd0QUlHMjhfQnJBamlqQU5aeTk0QVp2dFZFS1g0Y0tGdUk1cTA?oc=5"
   },
   {
    "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
