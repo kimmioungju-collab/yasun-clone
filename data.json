@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T19:01:35.353489+09:00",
+ "updated": "2026-08-15T19:31:18.430208+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -197,18 +197,18 @@
     30088.5,
     30078.75,
     30084.75,
-    30080.25,
-    30067.5,
-    30071.75,
+    30081.0,
+    30068.0,
+    30072.0,
     30076.25,
     30087.25,
     30087.0,
-    30097.5,
-    30088.75,
+    30096.75,
+    30088.5,
     30082.75,
     30092.25,
-    30082.75,
-    30088.0,
+    30083.0,
+    30088.25,
     30087.0,
     30096.75,
     30101.25,
@@ -216,9 +216,9 @@
     30108.5,
     30119.5,
     30126.25,
-    30144.25,
-    30146.5,
-    30133.75,
+    30145.0,
+    30145.75,
+    30133.25,
     30132.75,
     30131.5,
     30129.5,
@@ -226,7 +226,7 @@
     30140.5,
     30137.0,
     30142.0,
-    30141.25,
+    30141.5,
     30144.0,
     30141.75
    ]
@@ -246,9 +246,9 @@
     7804.5,
     7801.75,
     7801.5,
-    7802.5,
+    7802.25,
     7804.5,
-    7805.0,
+    7805.25,
     7806.25,
     7804.25,
     7802.5,
@@ -256,13 +256,13 @@
     7803.25,
     7802.75,
     7803.75,
-    7804.0,
-    7804.75,
+    7804.25,
+    7805.25,
     7804.0,
     7804.25,
     7804.5,
     7804.5,
-    7805.5,
+    7805.25,
     7802.5,
     7801.0,
     7800.75,
@@ -373,8 +373,8 @@
    "price": 68713.8,
    "prev": 68308.59,
    "spark": [
-    68882.6406,
     68899.7578,
+    68889.0078,
     68889.0078,
     68875.0391,
     68834.3203,
@@ -425,7 +425,7 @@
     82.29,
     82.16,
     82.18,
-    82.23,
+    82.24,
     82.27,
     82.35,
     82.4,
@@ -525,7 +525,7 @@
     4433.2002,
     4430.8999,
     4430.1001,
-    4430.2002,
+    4430.2998,
     4429.3999,
     4433.0,
     4432.3999,
@@ -537,7 +537,7 @@
     4431.7002,
     4431.3999,
     4433.6001,
-    4431.6001,
+    4431.5,
     4429.7998,
     4427.6001,
     4428.2998,
@@ -582,7 +582,7 @@
     64.955,
     64.95,
     64.88,
-    64.875,
+    64.86,
     64.94,
     64.88,
     64.86,
@@ -596,7 +596,7 @@
     64.87,
     64.83,
     64.84,
-    64.825
+    65.108
    ]
   },
   "gas": {
@@ -607,7 +607,7 @@
     2.747,
     2.748,
     2.744,
-    2.739,
+    2.738,
     2.74,
     2.743,
     2.744,
@@ -630,7 +630,7 @@
     2.722,
     2.719,
     2.72,
-    2.717,
+    2.718,
     2.719,
     2.718,
     2.719,
@@ -738,15 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62965.94,
+   "price": 62940.54,
    "prev": 62977.613,
    "spark": [
-    63063.0,
-    63045.5391,
-    63041.7891,
-    63007.2383,
-    63061.7695,
-    63029.7617,
     63020.3398,
     63012.5508,
     63008.4297,
@@ -779,20 +773,20 @@
     62956.1484,
     62978.0,
     62957.6406,
-    62963.4883,
-    62965.9414
+    62930.8789,
+    62946.3398,
+    62950.7109,
+    62950.0,
+    62948.0508,
+    62945.0117,
+    62942.7383,
+    62940.5391
    ]
   },
   "eth": {
-   "price": 1878.6,
+   "price": 1877.01,
    "prev": 1880.3744,
    "spark": [
-    1881.27,
-    1880.36,
-    1879.7,
-    1879.49,
-    1880.75,
-    1879.74,
     1879.48,
     1879.22,
     1879.26,
@@ -825,8 +819,14 @@
     1878.36,
     1879.22,
     1878.41,
-    1878.58,
-    1878.6
+    1876.49,
+    1877.13,
+    1877.33,
+    1877.42,
+    1877.46,
+    1877.42,
+    1876.95,
+    1877.01
    ]
   },
   "eurkrw": {
@@ -1138,16 +1138,22 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
   },
   {
-   "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
-   "source": "매일경제",
-   "time": "2026-08-14T14:28:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
+   "title": "[주간증시전망] 코스피 7000선 돌파 시험대…AI 투자 신뢰 회복이 관건",
+   "source": "ebn.co.kr",
+   "time": "2026-08-15T18:24:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cUZEczlfWmF2dThDZXJKN3RYSmNUdXdBLWwwa3hDZDhWaDktUlhqMDYtMmx2U2llRTVKNUN6bnRFcG5vTnExcXg5UnQ4d3dNSFZoZUxkM1BuWTZmbEl1WmRWWENKZVpF?oc=5"
   },
   {
    "title": "에버노스 \"1주당 XRP 가치 더 올린다\"…나스닥 상장 앞두고 승부수",
    "source": "글로벌이코노믹",
    "time": "2026-08-15T17:07:45+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGpzMk1uNzlfUWNiRWl0YXBZYjk3VEFRa2JkNURDSmNNRVZsZlhObm53dm5iWkVXTG9MNGg0ZUpGUDRfOVNIOG5HLTBiZXdLYm1melZVNThBRHF5aHpoSVp2Rm9aNVp3d2ZvMGhxWHRiN1ZSSXhqdnFadDA4WG5GTWF3aDVSQ3Q5?oc=5"
+  },
+  {
+   "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
+   "source": "매일경제",
+   "time": "2026-08-14T14:28:21+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
   },
   {
    "title": "원·달러 환율 1,300원대 눈앞...하락 반전 'U턴', 왜? [앵커리포트]",
@@ -1180,16 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFVElVYWFYRjk5cE5MWTlnd2kxTTJRTXg4ZTN0aUF1dWNCTXN6ZENaNjdtZFJVOGNDam9HRm10VGhBQjloSnlYemtBOFZqUEVxWU4xZmY5eGFzQ2lUSzNvVDV0amJxQQ?oc=5"
   },
   {
-   "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 14일자",
-   "source": "조선일보",
-   "time": "2026-08-15T00:41:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHI3TGxCNlY4NWRpR1QyeUhaaFgtTkhyMVJ0SXpIRmloWmNuRnh2YlgzcDREVDhpVVV5U1cweXl0N2ozQjdCdEVaczVDTUU5b1UxQ2ZEeTRZSWt1RllUOHNlTEJGRXU5RFVhODR3SmJzNUxZbTdPUTJWbDJBYmdNenJmdmhkb3VHSXVZ?oc=5"
-  },
-  {
-   "title": "[주간코인뉴스] 비트코인 6만 5362달러 뒤 횡보…ETF 3억 2900만 달러 순유출",
-   "source": "자본시장뉴스",
-   "time": "2026-08-15T11:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbHJ4NDM3cjFNVE9PWDN6MXc2c2lzOFhuNEVuQ1ZibExncldUc1dfbDR6aklRcmVNcU5zWnpGZW0zeE00Z1c3eDBQVGhMTEppRnl1eWpCWkVLak02TENfRzM5VndwOXc?oc=5"
+   "title": "코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
+   "source": "연합뉴스",
+   "time": "2026-08-14T15:37:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4QzlNVWg2blBHUmNLZV9rWFdJc29IMEZnMFRtS255MFRzenpPdTdCWFlsb0dHNnFhYWtseVBTSGZ6bHI5U05KSExFbWk2YmJxZXc4d3RFSFY3dHPSAWBBVV95cUxPZDEzeVpNZEZDby01VmhMTkxHT2FCM09IZzdTSkNrSHl3TlZ2by0wYURZNnY1VGlLZVhWanZqZnpGYTdLeVM1eFBERkhsMjFpWU5BdUlxRDBZOWt1dHYyV04?oc=5"
   }
  ]
 }
