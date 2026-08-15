@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T02:15:23.362843+09:00",
+ "updated": "2026-08-16T02:37:58.790620+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -738,32 +738,27 @@
    ]
   },
   "btc": {
-   "price": 63023.59,
+   "price": 62996.52,
    "prev": 62977.613,
    "spark": [
-    62965.3789,
-    62972.3281,
-    62977.2188,
-    62957.0,
-    62947.2188,
     62965.9492,
-    62964.5586,
+    62967.2188,
     62961.0117,
     62965.8516,
-    62970.4805,
+    62970.4883,
     62981.2695,
     62966.4219,
     62970.1484,
-    62964.0117,
-    62965.0,
-    63009.7109,
+    62964.0,
+    62965.0117,
+    63010.9219,
     62987.8203,
     62999.9883,
     63026.3008,
     63048.0195,
     63041.7695,
-    63038.7188,
-    63023.5586,
+    63038.9492,
+    63023.5508,
     63022.9492,
     63016.4805,
     63013.5,
@@ -776,29 +771,29 @@
     63019.8086,
     63028.1211,
     63022.5117,
-    63024.0586,
+    63024.0508,
     63021.7891,
     63025.0117,
     63023.5898,
-    63023.5898
+    63033.8516,
+    62990.3984,
+    62998.9297,
+    62998.0312,
+    62995.6484,
+    62996.5195
    ]
   },
   "eth": {
-   "price": 1883.71,
+   "price": 1881.45,
    "prev": 1880.3744,
    "spark": [
-    1880.74,
-    1880.96,
-    1881.0699,
-    1880.61,
-    1879.98,
     1880.0601,
     1880.88,
     1880.5,
     1880.77,
     1880.99,
     1882.6,
-    1881.48,
+    1881.47,
     1881.65,
     1881.28,
     1881.6801,
@@ -811,7 +806,7 @@
     1883.4399,
     1882.76,
     1882.89,
-    1883.03,
+    1883.05,
     1883.04,
     1882.37,
     1882.67,
@@ -826,7 +821,12 @@
     1883.26,
     1883.4,
     1883.74,
-    1883.71
+    1883.76,
+    1881.89,
+    1881.2,
+    1881.67,
+    1881.71,
+    1881.45
    ]
   },
   "eurkrw": {
@@ -1138,12 +1138,6 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tWklJVlJuYXhPUWlKSkJKYTY3QndKOU9IMFFtMFhnY3JXSldTX3BST2JoSFNtQ0hOR0FTNTVjZTZ1eERzcXczOWx3S1NzMWdWSzJrekdGcndSZ2lmMlZLMDJXYXZmMjB6eTdjRDdUTQ?oc=5"
   },
   {
-   "title": "[주간증시전망] 코스피 7000선 돌파 시험대…AI 투자 신뢰 회복이 관건",
-   "source": "ebn.co.kr",
-   "time": "2026-08-15T18:24:46+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cUZEczlfWmF2dThDZXJKN3RYSmNUdXdBLWwwa3hDZDhWaDktUlhqMDYtMmx2U2llRTVKNUN6bnRFcG5vTnExcXg5UnQ4d3dNSFZoZUxkM1BuWTZmbEl1WmRWWENKZVpF?oc=5"
-  },
-  {
    "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
    "source": "매일경제",
    "time": "2026-08-14T14:28:21+09:00",
@@ -1156,6 +1150,12 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
   },
   {
+   "title": "[주간증시전망] 코스피 7000선 돌파 시험대…AI 투자 신뢰 회복이 관건",
+   "source": "ebn.co.kr",
+   "time": "2026-08-15T18:24:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cUZEczlfWmF2dThDZXJKN3RYSmNUdXdBLWwwa3hDZDhWaDktUlhqMDYtMmx2U2llRTVKNUN6bnRFcG5vTnExcXg5UnQ4d3dNSFZoZUxkM1BuWTZmbEl1WmRWWENKZVpF?oc=5"
+  },
+  {
    "title": "\"열흘 만에 22% 급등\"…외신들 '코스피 기술적 강세장' 진단",
    "source": "v.daum.net",
    "time": "2026-08-13T11:03:00+09:00",
@@ -1163,7 +1163,7 @@
   },
   {
    "title": "\"'2030년 비트코인 100만달러', 수학적으로 불가능\"",
-   "source": "bloomingbit.io",
+   "source": "블루밍비트",
    "time": "2026-08-15T22:51:09+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xd0pIbGcwbWRZVlZYQ1o4bFZDMk9weFdEZTE1RlpUM2VIWVpfeFF0M2pKUkRNVVh5Zk1tTnhQLWVkQ3ZaNWltNnNSSDJGdGR4?oc=5"
   },
@@ -1175,7 +1175,7 @@
   },
   {
    "title": "5대 은행 정기예금 1000조 돌파 눈앞… 증시 혼돈 속 '역머니무브' 가속",
-   "source": "서울뉴스통신",
+   "source": "snakorea.com",
    "time": "2026-08-15T22:19:53+09:00",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TeHVoMFdJQTNTajNXZDRVNl9CLVZHUjlXTFlDcVRsMVZtNVZmUVl0cHVyZ2UzdmtncWxFaFBRV1FYMHRGNkhZb3RNMWNRNEFQcURWMy1la3phOWxjaERqajc3N1ZsbWZCVXQ4?oc=5"
   },
