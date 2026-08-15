@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T05:51:17.971384+09:00",
+ "updated": "2026-08-16T06:07:27.816285+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -525,7 +525,7 @@
     4433.2002,
     4430.8999,
     4430.1001,
-    4430.2002,
+    4430.2998,
     4429.3999,
     4433.0,
     4432.3999,
@@ -537,7 +537,7 @@
     4431.7002,
     4431.3999,
     4433.6001,
-    4431.6001,
+    4431.5,
     4429.7998,
     4427.6001,
     4428.2998,
@@ -738,58 +738,55 @@
    ]
   },
   "btc": {
-   "price": 63030.01,
+   "price": 63028.53,
    "prev": 62977.613,
    "spark": [
-    62998.0195,
-    62997.1797,
-    62993.1406,
     63000.3398,
     62988.6914,
     63008.5195,
     63022.9492,
     62972.9297,
-    62987.9414,
-    62975.2305,
+    62987.9297,
+    62972.0,
     62977.5,
     62975.3398,
-    62972.7188,
+    62972.7305,
     62979.8789,
-    62983.8203,
-    62989.1211,
+    62983.8281,
+    62989.1289,
     62993.9883,
     63011.9805,
     63009.3281,
     63035.9805,
     63047.9805,
-    63028.1094,
-    63026.7812,
+    63028.1211,
+    63026.7891,
     63037.5781,
     63034.5195,
-    63051.9805,
+    63051.9688,
     63050.9297,
-    63051.3789,
+    63051.3906,
     63038.6484,
     63020.0,
-    63010.0508,
-    63006.8086,
-    63003.1992,
-    63006.8086,
+    63010.0586,
+    63006.8008,
+    63003.2109,
+    63005.9883,
     62999.9883,
     63007.5508,
-    63013.6484,
-    63030.0195,
-    63030.0195,
-    63030.0117
+    63013.6602,
+    63030.0,
+    63030.6797,
+    63036.5,
+    63031.6211,
+    63029.0586,
+    63028.5312
    ]
   },
   "eth": {
-   "price": 1881.53,
+   "price": 1881.7,
    "prev": 1880.3744,
    "spark": [
-    1881.92,
-    1881.88,
-    1882.0601,
     1882.4,
     1882.65,
     1882.91,
@@ -801,9 +798,9 @@
     1880.92,
     1880.97,
     1881.03,
-    1881.05,
+    1881.03,
     1880.87,
-    1881.1,
+    1881.09,
     1881.22,
     1881.4,
     1881.9399,
@@ -821,12 +818,15 @@
     1881.41,
     1880.89,
     1881.14,
-    1880.74,
-    1881.1,
+    1880.72,
+    1881.09,
     1881.1899,
-    1881.4399,
-    1881.53,
-    1881.53
+    1881.45,
+    1881.51,
+    1881.34,
+    1881.98,
+    1881.6899,
+    1881.7
    ]
   },
   "eurkrw": {
@@ -1114,6 +1114,12 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
+   "title": "[마켓인사이트] 한주 내내 바닥다진 코스피, 상승흐름 이어가나",
+   "source": "매일경제 마켓",
+   "time": "2026-08-16T06:00:16+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NTjNJN0Nub3Q4bEpoLVhiVEdZcE9nekNLTzhUTjFJT2lDUW5PWVlleVZrYWRIMkFPb3U4VjZJa3h0Wi1jZ0JpNjByMHVlUVB5TXc?oc=5"
+  },
+  {
    "title": "보조금에서 증시로…中, 기술기업 자금줄 바꾼다[차이나는 중국] - 머니투데이",
    "source": "머니투데이",
    "time": "2026-08-16T05:00:00+09:00",
@@ -1126,10 +1132,10 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjZE9DbXIyUjZVdzlXME5CM1BybWVTbzB5Qjk5Vzl6YkdLekpvblh2MEswOF9UZzBKU25obVZpbUVNOWRhUnpRM3FEOElCTGRmb0hqVTU2ZUE3cmQ5ak1jcHRLeWhBNno1STVhVHo1Z2tPaHM?oc=5"
   },
   {
-   "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
-   "source": "매일경제",
-   "time": "2026-08-14T14:28:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
+   "title": "(주간증시전망)회복 국면 코스피…7000선 ‘재도전’",
+   "source": "뉴스토마토",
+   "time": "2026-08-16T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EdHlRX2dzc1R3b3d1X0pLRElqTXZIMnV5MUNDb2VNUHZXWUlDVTRtSHZRRzIxZUZsVUthNHQ1SXZfV1VMMjU4MmtQQmZ5cHFUUzBwTlZ1UXBpZUhwd1Nn?oc=5"
   },
   {
    "title": "클래리티 법안 불발 버틴 비트코인…\"하반기 우상향 기대\"",
@@ -1144,16 +1150,16 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
   },
   {
-   "title": "[주간증시전망] 코스피 7000선 돌파 시험대…AI 투자 신뢰 회복이 관건",
-   "source": "ebn.co.kr",
-   "time": "2026-08-15T18:24:46+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cUZEczlfWmF2dThDZXJKN3RYSmNUdXdBLWwwa3hDZDhWaDktUlhqMDYtMmx2U2llRTVKNUN6bnRFcG5vTnExcXg5UnQ4d3dNSFZoZUxkM1BuWTZmbEl1WmRWWENKZVpF?oc=5"
-  },
-  {
    "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
    "source": "글로벌이코노믹",
    "time": "2026-08-15T19:45:39+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5"
+  },
+  {
+   "title": "[주간증시전망] 코스피 7000선 돌파 시험대…AI 투자 신뢰 회복이 관건",
+   "source": "ebn.co.kr",
+   "time": "2026-08-15T18:24:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cUZEczlfWmF2dThDZXJKN3RYSmNUdXdBLWwwa3hDZDhWaDktUlhqMDYtMmx2U2llRTVKNUN6bnRFcG5vTnExcXg5UnQ4d3dNSFZoZUxkM1BuWTZmbEl1WmRWWENKZVpF?oc=5"
   },
   {
    "title": "\"열흘 만에 22% 급등\"…외신들 '코스피 기술적 강세장' 진단",
@@ -1184,12 +1190,6 @@
    "source": "블루밍비트",
    "time": "2026-08-15T22:51:09+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xd0pIbGcwbWRZVlZYQ1o4bFZDMk9weFdEZTE1RlpUM2VIWVpfeFF0M2pKUkRNVVh5Zk1tTnhQLWVkQ3ZaNWltNnNSSDJGdGR4?oc=5"
-  },
-  {
-   "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
-   "source": "KBS 뉴스",
-   "time": "2026-08-14T06:53:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFVElVYWFYRjk5cE5MWTlnd2kxTTJRTXg4ZTN0aUF1dWNCTXN6ZENaNjdtZFJVOGNDam9HRm10VGhBQjloSnlYemtBOFZqUEVxWU4xZmY5eGFzQ2lUSzNvVDV0amJxQQ?oc=5"
   }
  ]
 }
