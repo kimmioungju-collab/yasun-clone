@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T02:54:54.619816+09:00",
+ "updated": "2026-08-16T03:18:02.215360+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -525,7 +525,7 @@
     4433.2002,
     4430.8999,
     4430.1001,
-    4430.2998,
+    4430.2002,
     4429.3999,
     4433.0,
     4432.3999,
@@ -537,7 +537,7 @@
     4431.7002,
     4431.3999,
     4433.6001,
-    4431.5,
+    4431.6001,
     4429.7998,
     4427.6001,
     4428.2998,
@@ -607,7 +607,7 @@
     2.747,
     2.748,
     2.744,
-    2.738,
+    2.739,
     2.74,
     2.743,
     2.744,
@@ -630,7 +630,7 @@
     2.722,
     2.719,
     2.72,
-    2.718,
+    2.717,
     2.719,
     2.718,
     2.719,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62993.15,
+   "price": 63007.25,
    "prev": 62977.613,
    "spark": [
-    62965.8516,
-    62970.4805,
-    62981.2695,
-    62966.4219,
-    62970.1484,
     62964.0117,
     62965.0,
     63009.7109,
@@ -779,19 +774,19 @@
     62996.0312,
     62998.0195,
     62997.1797,
-    62995.6406,
-    62993.1484
+    62993.1406,
+    63000.3398,
+    62988.6914,
+    63008.5195,
+    63022.9492,
+    63007.2383,
+    63007.25
    ]
   },
   "eth": {
-   "price": 1882.19,
+   "price": 1881.42,
    "prev": 1880.3744,
    "spark": [
-    1880.77,
-    1880.99,
-    1882.6,
-    1881.48,
-    1881.65,
     1881.28,
     1881.6801,
     1883.0,
@@ -825,8 +820,13 @@
     1881.67,
     1881.92,
     1881.88,
-    1882.2,
-    1882.1899
+    1882.0601,
+    1882.4,
+    1882.65,
+    1882.91,
+    1882.54,
+    1881.84,
+    1881.42
    ]
   },
   "eurkrw": {
@@ -1121,21 +1121,21 @@
   },
   {
    "title": "\"신혼집 마련할 돈 날렸다\"...해외서도 놀란 코스피 개미 잔혹사 - 머니투데이",
-   "source": "mt.co.kr",
+   "source": "머니투데이",
    "time": "2026-08-15T12:56:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYzZpOFNvTXdSOXZqd2ViWU44dDBucHg5bldsd1Axa2NXM0VmVmsyeVlpZmQydWtUYzJ1UkI1SW1RemJyZjRpWjJKRGZ6OVdpdmpLV2I2dTk5QmdVeWNnWXJSMmFWdUs50gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5"
-  },
-  {
-   "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
-   "source": "글로벌이코노믹",
-   "time": "2026-08-15T19:45:39+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5"
   },
   {
    "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
    "source": "매일경제",
    "time": "2026-08-14T14:28:21+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
+  },
+  {
+   "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
+   "source": "글로벌이코노믹",
+   "time": "2026-08-15T19:45:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5"
   },
   {
    "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
@@ -1162,28 +1162,28 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cUZEczlfWmF2dThDZXJKN3RYSmNUdXdBLWwwa3hDZDhWaDktUlhqMDYtMmx2U2llRTVKNUN6bnRFcG5vTnExcXg5UnQ4d3dNSFZoZUxkM1BuWTZmbEl1WmRWWENKZVpF?oc=5"
   },
   {
-   "title": "\"'2030년 비트코인 100만달러', 수학적으로 불가능\"",
-   "source": "블루밍비트",
-   "time": "2026-08-15T22:51:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xd0pIbGcwbWRZVlZYQ1o4bFZDMk9weFdEZTE1RlpUM2VIWVpfeFF0M2pKUkRNVVh5Zk1tTnhQLWVkQ3ZaNWltNnNSSDJGdGR4?oc=5"
-  },
-  {
    "title": "원·달러 환율 1,300원대 눈앞...하락 반전 'U턴', 왜? [앵커리포트]",
    "source": "YTN",
    "time": "2026-08-10T08:21:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TnA4LVV0MWFLV21yaFNsaHdXbGdKNElBRlpJemFxbV95c24tSl9kbl90Q2JNblgzNEc4aWZwWVR5ZXl6VlBsU0NOYU9tOUF2eGUtTXZaa0pmZlB3RGc?oc=5"
   },
   {
-   "title": "5대 은행 정기예금 1000조 돌파 눈앞… 증시 혼돈 속 '역머니무브' 가속",
-   "source": "서울뉴스통신",
-   "time": "2026-08-15T22:19:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TeHVoMFdJQTNTajNXZDRVNl9CLVZHUjlXTFlDcVRsMVZtNVZmUVl0cHVyZ2UzdmtncWxFaFBRV1FYMHRGNkhZb3RNMWNRNEFQcURWMy1la3phOWxjaERqajc3N1ZsbWZCVXQ4?oc=5"
+   "title": "\"'2030년 비트코인 100만달러', 수학적으로 불가능\"",
+   "source": "블루밍비트",
+   "time": "2026-08-15T22:51:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xd0pIbGcwbWRZVlZYQ1o4bFZDMk9weFdEZTE1RlpUM2VIWVpfeFF0M2pKUkRNVVh5Zk1tTnhQLWVkQ3ZaNWltNnNSSDJGdGR4?oc=5"
   },
   {
    "title": "코스피 : ‘한 달 만에 2000만원을 잃었습니다’…휘청이는 한국의 삼성전자, SK하이닉스 투자자들",
    "source": "BBC",
    "time": "2026-08-13T19:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
+  },
+  {
+   "title": "5대 은행 정기예금 1000조 돌파 눈앞… 증시 혼돈 속 '역머니무브' 가속",
+   "source": "서울뉴스통신",
+   "time": "2026-08-15T22:19:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TeHVoMFdJQTNTajNXZDRVNl9CLVZHUjlXTFlDcVRsMVZtNVZmUVl0cHVyZ2UzdmtncWxFaFBRV1FYMHRGNkhZb3RNMWNRNEFQcURWMy1la3phOWxjaERqajc3N1ZsbWZCVXQ4?oc=5"
   },
   {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
