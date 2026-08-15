@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T16:38:26.009515+09:00",
+ "updated": "2026-08-15T16:57:56.115992+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -246,9 +246,9 @@
     7804.5,
     7801.75,
     7801.5,
-    7802.5,
+    7802.25,
     7804.5,
-    7805.0,
+    7805.25,
     7806.25,
     7804.25,
     7802.5,
@@ -256,13 +256,13 @@
     7803.25,
     7802.75,
     7803.75,
-    7804.0,
-    7804.75,
+    7804.25,
+    7805.25,
     7804.0,
     7804.25,
     7804.5,
     7804.5,
-    7805.5,
+    7805.25,
     7802.5,
     7801.0,
     7800.75,
@@ -274,7 +274,7 @@
     7802.5,
     7802.5,
     7801.75,
-    7805.0
+    7802.5
    ]
   },
   "ndx": {
@@ -504,7 +504,7 @@
     88.49,
     88.56,
     88.53,
-    88.52
+    88.59
    ]
   },
   "gold": {
@@ -525,7 +525,7 @@
     4433.2002,
     4430.8999,
     4430.1001,
-    4430.2002,
+    4430.2998,
     4429.3999,
     4433.0,
     4432.3999,
@@ -537,7 +537,7 @@
     4431.7002,
     4431.3999,
     4433.6001,
-    4431.6001,
+    4431.5,
     4429.7998,
     4427.6001,
     4428.2998,
@@ -550,7 +550,7 @@
     4430.7998,
     4431.5,
     4432.1001,
-    4437.2998
+    4432.0
    ]
   },
   "silver": {
@@ -607,7 +607,7 @@
     2.747,
     2.748,
     2.744,
-    2.739,
+    2.738,
     2.74,
     2.743,
     2.744,
@@ -630,7 +630,7 @@
     2.722,
     2.719,
     2.72,
-    2.717,
+    2.718,
     2.719,
     2.718,
     2.719,
@@ -642,7 +642,7 @@
     2.712,
     2.716,
     2.715,
-    2.733
+    2.715
    ]
   },
   "vix": {
@@ -738,29 +738,25 @@
    ]
   },
   "btc": {
-   "price": 63015.42,
+   "price": 63000.57,
    "prev": 62977.613,
    "spark": [
-    63061.9688,
-    63060.0312,
-    63077.1797,
-    63087.3789,
     63071.0195,
     63053.9805,
-    63052.0195,
+    63052.0117,
     63060.6289,
     63076.0117,
-    63088.9609,
+    63089.1406,
     63080.5391,
     63060.8281,
     63053.1484,
     63057.9805,
-    62992.1719,
+    62992.1797,
     63009.3906,
     62996.8008,
     63005.9102,
     63016.1016,
-    63019.9414,
+    63019.9492,
     63020.2617,
     62971.9102,
     62984.2812,
@@ -769,28 +765,28 @@
     62996.0508,
     62990.5781,
     63005.5898,
-    63012.7695,
+    63012.7812,
     63063.0,
     63045.5391,
     63041.7891,
     63007.2383,
     63061.7695,
-    63029.7617,
+    63029.75,
     63020.3398,
     63012.5508,
     63008.4297,
-    63015.4219,
-    63015.4219
+    63017.1016,
+    63010.3906,
+    63005.5,
+    63004.1016,
+    62977.2383,
+    63000.5703
    ]
   },
   "eth": {
-   "price": 1879.37,
+   "price": 1878.57,
    "prev": 1880.3744,
    "spark": [
-    1882.59,
-    1882.64,
-    1883.16,
-    1883.76,
     1883.03,
     1882.54,
     1882.58,
@@ -801,7 +797,7 @@
     1881.64,
     1881.5601,
     1881.73,
-    1879.41,
+    1879.42,
     1879.71,
     1878.62,
     1878.85,
@@ -814,19 +810,23 @@
     1878.6801,
     1879.21,
     1878.23,
-    1880.01,
+    1879.92,
     1880.61,
     1881.27,
     1880.36,
     1879.7,
-    1879.49,
+    1879.5601,
     1880.75,
     1879.74,
     1879.48,
     1879.22,
     1879.26,
-    1879.3101,
-    1879.37
+    1879.63,
+    1879.29,
+    1878.75,
+    1878.6,
+    1878.25,
+    1878.5699
    ]
   },
   "eurkrw": {
@@ -1109,7 +1109,7 @@
  "news": [
   {
    "title": "\"신혼집 마련할 돈 날렸다\"...해외서도 놀란 코스피 개미 잔혹사 - 머니투데이",
-   "source": "머니투데이",
+   "source": "mt.co.kr",
    "time": "2026-08-15T12:56:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYzZpOFNvTXdSOXZqd2ViWU44dDBucHg5bldsd1Axa2NXM0VmVmsyeVlpZmQydWtUYzJ1UkI1SW1RemJyZjRpWjJKRGZ6OVdpdmpLV2I2dTk5QmdVeWNnWXJSMmFWdUs50gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5"
   },
@@ -1126,16 +1126,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
+   "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
+   "source": "v.daum.net",
+   "time": "2026-08-15T10:52:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LaGNDTjVtUzdia011MzFYOU5kUW5sZ0dQNGEwRnFFYndJMkxTQXNmRkhoa214aGdobXhVb1hqVFFSazkwbmVrc1oxTlFXNDA?oc=5"
+  },
+  {
    "title": "싱가포르 증시 사상 최고 랠리, ’골디락스’ 경제가 뒷받침",
    "source": "Investing.com 한국어",
    "time": "2026-08-15T13:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKQjVPenhmY3U0MUlaYTNlZ1pnbzlfamZrLVJIYmIzeDNtVjRiVUdaVjZjWkpFc3lndWN4UHRTOW5kNWxJc1gyZ3JjbEZWVmlwbHpHNEpfNW9FZjQyNWlkZ2JLQXFmY0FxM2FmbEFQSmM?oc=5"
-  },
-  {
-   "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
-   "source": "v.daum.net",
-   "time": "2026-08-15T10:52:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LaGNDTjVtUzdia011MzFYOU5kUW5sZ0dQNGEwRnFFYndJMkxTQXNmRkhoa214aGdobXhVb1hqVFFSazkwbmVrc1oxTlFXNDA?oc=5"
   },
   {
    "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
@@ -1174,12 +1174,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbHJ4NDM3cjFNVE9PWDN6MXc2c2lzOFhuNEVuQ1ZibExncldUc1dfbDR6aklRcmVNcU5zWnpGZW0zeE00Z1c3eDBQVGhMTEppRnl1eWpCWkVLak02TENfRzM5VndwOXc?oc=5"
   },
   {
-   "title": "“순식간에 25% 폭등”…코스피 7000 찍자 나온 경고 [머니+]",
-   "source": "에너지경제신문",
-   "time": "2026-08-14T20:23:33+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aV3FzNUE0NXBHZkF6di1YTGgzU3dObEQtSFM1ck5mQUtSZnRBbDRySnhFX2FUSWRfYWNYQVdib01aN1FWVEFxb1dqem5kbThIamNuM3djSXFhclU?oc=5"
-  },
-  {
    "title": "CBOE, 美 SEC에 비트코인 3배 ETF 서류 제출",
    "source": "블루밍비트",
    "time": "2026-08-15T15:10:21+09:00",
@@ -1190,6 +1184,12 @@
    "source": "BBC",
    "time": "2026-08-13T19:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
+  },
+  {
+   "title": "“순식간에 25% 폭등”…코스피 7000 찍자 나온 경고 [머니+]",
+   "source": "에너지경제신문",
+   "time": "2026-08-14T20:23:33+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aV3FzNUE0NXBHZkF6di1YTGgzU3dObEQtSFM1ck5mQUtSZnRBbDRySnhFX2FUSWRfYWNYQVdib01aN1FWVEFxb1dqem5kbThIamNuM3djSXFhclU?oc=5"
   }
  ]
 }
