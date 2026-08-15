@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T19:31:18.430208+09:00",
+ "updated": "2026-08-15T19:51:02.783631+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -738,12 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62940.54,
+   "price": 62982.0,
    "prev": 62977.613,
    "spark": [
-    63020.3398,
-    63012.5508,
-    63008.4297,
     63017.1016,
     63010.3906,
     63005.5,
@@ -760,16 +757,16 @@
     62945.1289,
     62976.1016,
     62897.9688,
-    62869.0703,
+    62869.0586,
     62852.6719,
     62879.5195,
     62890.0703,
-    62908.0,
-    62894.3398,
+    62907.6484,
+    62894.3516,
     62908.4297,
     62918.0703,
     62946.7695,
-    62951.9805,
+    62951.9883,
     62956.1484,
     62978.0,
     62957.6406,
@@ -778,35 +775,35 @@
     62950.7109,
     62950.0,
     62948.0508,
-    62945.0117,
-    62942.7383,
-    62940.5391
+    62945.0195,
+    62960.1406,
+    62964.7891,
+    62966.1719,
+    62981.7891,
+    62982.0
    ]
   },
   "eth": {
-   "price": 1877.01,
+   "price": 1878.78,
    "prev": 1880.3744,
    "spark": [
-    1879.48,
-    1879.22,
-    1879.26,
     1879.63,
     1879.29,
     1878.75,
-    1878.61,
+    1878.6,
     1878.5601,
     1878.41,
     1878.9399,
     1878.99,
     1879.47,
-    1879.65,
+    1879.64,
     1879.27,
     1878.04,
     1877.77,
     1876.9399,
     1876.35,
     1874.9399,
-    1875.1,
+    1875.09,
     1874.76,
     1875.24,
     1875.9399,
@@ -818,15 +815,18 @@
     1877.72,
     1878.36,
     1879.22,
-    1878.41,
-    1876.49,
+    1878.42,
+    1876.6801,
     1877.13,
     1877.33,
     1877.42,
     1877.46,
     1877.42,
-    1876.95,
-    1877.01
+    1878.11,
+    1878.51,
+    1878.29,
+    1878.6801,
+    1878.78
    ]
   },
   "eurkrw": {
@@ -1109,7 +1109,7 @@
  "news": [
   {
    "title": "비트코인, 매도 압력에 $63,000 선 유지",
-   "source": "kr.investing.com",
+   "source": "Investing.com 한국어",
    "time": "2026-08-15T18:41:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjZE9DbXIyUjZVdzlXME5CM1BybWVTbzB5Qjk5Vzl6YkdLekpvblh2MEswOF9UZzBKU25obVZpbUVNOWRhUnpRM3FEOElCTGRmb0hqVTU2ZUE3cmQ5ak1jcHRLeWhBNno1STVhVHo1Z2tPaHM?oc=5"
   },
@@ -1144,10 +1144,10 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cUZEczlfWmF2dThDZXJKN3RYSmNUdXdBLWwwa3hDZDhWaDktUlhqMDYtMmx2U2llRTVKNUN6bnRFcG5vTnExcXg5UnQ4d3dNSFZoZUxkM1BuWTZmbEl1WmRWWENKZVpF?oc=5"
   },
   {
-   "title": "에버노스 \"1주당 XRP 가치 더 올린다\"…나스닥 상장 앞두고 승부수",
+   "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
    "source": "글로벌이코노믹",
-   "time": "2026-08-15T17:07:45+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGpzMk1uNzlfUWNiRWl0YXBZYjk3VEFRa2JkNURDSmNNRVZsZlhObm53dm5iWkVXTG9MNGg0ZUpGUDRfOVNIOG5HLTBiZXdLYm1melZVNThBRHF5aHpoSVp2Rm9aNVp3d2ZvMGhxWHRiN1ZSSXhqdnFadDA4WG5GTWF3aDVSQ3Q5?oc=5"
+   "time": "2026-08-15T19:45:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5"
   },
   {
    "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
@@ -1168,6 +1168,12 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTV9KX3JmekJGU1hWdFBfY3E5b0ZSNFpodi1McEdnem82S2hDWk1wZWFsYTgtdjR3YXBGYko0Z0dKcGxwZm1KdHJEcDlwdXNPdDFUUnUxNTh2eDJVb2FMUXlVQjFrRUVRWjQzS09pN1hDODjSAXdBVV95cUxQYnY3WVI4anJRZkttU1VMTGJHeDc2OWVMSVpxUk1DY1ZNSVphMzlOREtjU0dXZjVUeGxNLVZsSG1JamV5b3FOUW1MMDVxTW1LQU8zVXBEWXlxMHQ0WHJ4UVAtYTAzTnNSQ0x0RzFwcHZPbWFLdktGMA?oc=5"
   },
   {
+   "title": "“순식간에 25% 폭등”…코스피 7000 찍자 나온 경고 [머니+]",
+   "source": "에너지경제신문",
+   "time": "2026-08-14T20:23:33+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aV3FzNUE0NXBHZkF6di1YTGgzU3dObEQtSFM1ck5mQUtSZnRBbDRySnhFX2FUSWRfYWNYQVdib01aN1FWVEFxb1dqem5kbThIamNuM3djSXFhclU?oc=5"
+  },
+  {
    "title": "[분석] \"비트코인, 두 달 만에 수요 크게 회복…낙관은 아직\"",
    "source": "블루밍비트",
    "time": "2026-08-15T18:33:39+09:00",
@@ -1184,12 +1190,6 @@
    "source": "KBS 뉴스",
    "time": "2026-08-14T06:53:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFVElVYWFYRjk5cE5MWTlnd2kxTTJRTXg4ZTN0aUF1dWNCTXN6ZENaNjdtZFJVOGNDam9HRm10VGhBQjloSnlYemtBOFZqUEVxWU4xZmY5eGFzQ2lUSzNvVDV0amJxQQ?oc=5"
-  },
-  {
-   "title": "코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
-   "source": "연합뉴스",
-   "time": "2026-08-14T15:37:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4QzlNVWg2blBHUmNLZV9rWFdJc29IMEZnMFRtS255MFRzenpPdTdCWFlsb0dHNnFhYWtseVBTSGZ6bHI5U05KSExFbWk2YmJxZXc4d3RFSFY3dHPSAWBBVV95cUxPZDEzeVpNZEZDby01VmhMTkxHT2FCM09IZzdTSkNrSHl3TlZ2by0wYURZNnY1VGlLZVhWanZqZnpGYTdLeVM1eFBERkhsMjFpWU5BdUlxRDBZOWt1dHYyV04?oc=5"
   }
  ]
 }
