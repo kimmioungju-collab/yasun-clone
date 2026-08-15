@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T04:49:24.196235+09:00",
+ "updated": "2026-08-16T05:00:22.875282+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -738,11 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63046.41,
+   "price": 63051.38,
    "prev": 62977.613,
    "spark": [
-    63029.0508,
-    63019.8086,
     63028.1211,
     63022.5117,
     63024.0508,
@@ -779,16 +777,16 @@
     63026.7891,
     63037.5781,
     63034.5195,
-    63046.4102,
-    63046.4102
+    63051.9688,
+    63050.9297,
+    63051.3906,
+    63051.3789
    ]
   },
   "eth": {
-   "price": 1882.77,
+   "price": 1882.37,
    "prev": 1880.3744,
    "spark": [
-    1883.02,
-    1882.3199,
     1882.5601,
     1882.77,
     1883.09,
@@ -825,8 +823,10 @@
     1882.41,
     1882.54,
     1882.4,
-    1882.79,
-    1882.77
+    1882.8,
+    1882.74,
+    1882.36,
+    1882.37
    ]
   },
   "eurkrw": {
@@ -1126,6 +1126,12 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYzZpOFNvTXdSOXZqd2ViWU44dDBucHg5bldsd1Axa2NXM0VmVmsyeVlpZmQydWtUYzJ1UkI1SW1RemJyZjRpWjJKRGZ6OVdpdmpLV2I2dTk5QmdVeWNnWXJSMmFWdUs50gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5"
   },
   {
+   "title": "클래리티 법안 불발 버틴 비트코인…\"하반기 우상향 기대\"",
+   "source": "뉴시스",
+   "time": "2026-08-16T01:59:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4RzhIWlVsRlJxTjV0eml4cVdTZGpRMXFsOS1hQ0NqUUk1eERNQTRfeF82QWdlWU5lbVNzYjZrOEE4RXRTVE9HYmxjd1FnM2RLaEE1azFkYkltQzBPS090UtIBeEFVX3lxTE1YQ1FVdVFsN2ZSd2NtZFBLM1lndWtyRGpLMDRGNlZkWVpjVzBGSTlBbGVuZGxoTFhkSFJoVFNaVVJnSGRhcjltd1BsZkNROFNUcWFQQkJIV2RuWjhPWmJsaWRxdGFDbW9DSTJmSFppeFRxRGpqNTB4Vg?oc=5"
+  },
+  {
    "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
    "source": "매일경제",
    "time": "2026-08-14T14:28:21+09:00",
@@ -1157,7 +1163,7 @@
   },
   {
    "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
-   "source": "kihoilbo.co.kr",
+   "source": "기호일보",
    "time": "2026-08-15T10:52:10+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tWklJVlJuYXhPUWlKSkJKYTY3QndKOU9IMFFtMFhnY3JXSldTX3BST2JoSFNtQ0hOR0FTNTVjZTZ1eERzcXczOWx3S1NzMWdWSzJrekdGcndSZ2lmMlZLMDJXYXZmMjB6eTdjRDdUTQ?oc=5"
   },
@@ -1168,22 +1174,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TnA4LVV0MWFLV21yaFNsaHdXbGdKNElBRlpJemFxbV95c24tSl9kbl90Q2JNblgzNEc4aWZwWVR5ZXl6VlBsU0NOYU9tOUF2eGUtTXZaa0pmZlB3RGc?oc=5"
   },
   {
-   "title": "코스피 : ‘한 달 만에 2000만원을 잃었습니다’…휘청이는 한국의 삼성전자, SK하이닉스 투자자들",
-   "source": "BBC",
-   "time": "2026-08-14T16:43:04+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
-  },
-  {
    "title": "\"'2030년 비트코인 100만달러', 수학적으로 불가능\"",
    "source": "블루밍비트",
    "time": "2026-08-15T22:51:09+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xd0pIbGcwbWRZVlZYQ1o4bFZDMk9weFdEZTE1RlpUM2VIWVpfeFF0M2pKUkRNVVh5Zk1tTnhQLWVkQ3ZaNWltNnNSSDJGdGR4?oc=5"
   },
   {
-   "title": "코스피 2.42% 급등 마감…美 증시는 혼조, 어떤 영향권?",
-   "source": "CBC뉴스",
-   "time": "2026-08-15T22:08:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSUR4RWp6R25pWjNLbWZPclduaURNTl9rR3Q3Szg1dE1naEVRWFpPQ01GdU16SHhDS2ZXcnl4TEFvSGdBUVZSRHNKUUxaUFRKOEZNZ0FWbDdtMVlkYzdER29XZGVlR0JL?oc=5"
+   "title": "코스피 : ‘한 달 만에 2000만원을 잃었습니다’…휘청이는 한국의 삼성전자, SK하이닉스 투자자들",
+   "source": "BBC",
+   "time": "2026-08-14T16:43:04+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
   },
   {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
