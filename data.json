@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T05:00:22.875282+09:00",
+ "updated": "2026-08-16T05:31:24.625157+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -738,16 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63051.38,
+   "price": 63004.52,
    "prev": 62977.613,
    "spark": [
-    63028.1211,
-    63022.5117,
-    63024.0508,
-    63021.7891,
-    63025.0117,
-    63023.5898,
-    63033.8516,
     62990.3984,
     62998.9297,
     62998.0312,
@@ -780,20 +773,20 @@
     63051.9688,
     63050.9297,
     63051.3906,
-    63051.3789
+    63038.6484,
+    63020.0,
+    63010.0586,
+    63006.8008,
+    63003.2109,
+    63005.9883,
+    63005.8281,
+    63004.5195
    ]
   },
   "eth": {
-   "price": 1882.37,
+   "price": 1881.04,
    "prev": 1880.3744,
    "spark": [
-    1882.5601,
-    1882.77,
-    1883.09,
-    1883.26,
-    1883.4,
-    1883.74,
-    1883.76,
     1881.89,
     1881.2,
     1881.67,
@@ -826,7 +819,14 @@
     1882.8,
     1882.74,
     1882.36,
-    1882.37
+    1882.24,
+    1881.98,
+    1881.7,
+    1881.41,
+    1880.89,
+    1881.14,
+    1881.08,
+    1881.04
    ]
   },
   "eurkrw": {
@@ -1114,16 +1114,22 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
+   "title": "보조금에서 증시로…中, 기술기업 자금줄 바꾼다[차이나는 중국] - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-16T05:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fN0RuVW5aQ3RDb01pQkQyQmV1QWdEcjE1aUxmNzYyYldXTkJyaEpWbjIxUEJBc1QzeVh3ck5US0tZblFQa2VMR0hRa1BuRU1WUWV0Z3psbVk4VXhJTEdmbXRsbXRET0tOUFJv0gFwQVVfeXFMUEpVcGdwa2V2bk5LNDR6ODRDS0c2TnYwTXJRQlcxWU5HTUZCdTJpMU9yOFAxZFZHdzctUU5aYTFWQlc2dnBxb1NsVlppaDVnV2Q2S1JMNDVGSGhzR2p1X3I2Rk01MS0wa2x2WFMtc09hbw?oc=5"
+  },
+  {
    "title": "비트코인, 매도 압력에 $63,000 선 유지",
    "source": "Investing.com 한국어",
    "time": "2026-08-15T18:41:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjZE9DbXIyUjZVdzlXME5CM1BybWVTbzB5Qjk5Vzl6YkdLekpvblh2MEswOF9UZzBKU25obVZpbUVNOWRhUnpRM3FEOElCTGRmb0hqVTU2ZUE3cmQ5ak1jcHRLeWhBNno1STVhVHo1Z2tPaHM?oc=5"
   },
   {
-   "title": "\"신혼집 마련할 돈 날렸다\"...해외서도 놀란 코스피 개미 잔혹사 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-08-15T12:56:50+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYzZpOFNvTXdSOXZqd2ViWU44dDBucHg5bldsd1Axa2NXM0VmVmsyeVlpZmQydWtUYzJ1UkI1SW1RemJyZjRpWjJKRGZ6OVdpdmpLV2I2dTk5QmdVeWNnWXJSMmFWdUs50gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5"
+   "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
+   "source": "매일경제",
+   "time": "2026-08-14T14:28:21+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
   },
   {
    "title": "클래리티 법안 불발 버틴 비트코인…\"하반기 우상향 기대\"",
@@ -1132,10 +1138,10 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4RzhIWlVsRlJxTjV0eml4cVdTZGpRMXFsOS1hQ0NqUUk1eERNQTRfeF82QWdlWU5lbVNzYjZrOEE4RXRTVE9HYmxjd1FnM2RLaEE1azFkYkltQzBPS090UtIBeEFVX3lxTE1YQ1FVdVFsN2ZSd2NtZFBLM1lndWtyRGpLMDRGNlZkWVpjVzBGSTlBbGVuZGxoTFhkSFJoVFNaVVJnSGRhcjltd1BsZkNROFNUcWFQQkJIV2RuWjhPWmJsaWRxdGFDbW9DSTJmSFppeFRxRGpqNTB4Vg?oc=5"
   },
   {
-   "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
-   "source": "매일경제",
-   "time": "2026-08-14T14:28:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
+   "title": "출발증시 2부",
+   "source": "한국경제TV",
+   "time": "2026-08-14T23:30:21+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
   },
   {
    "title": "[주간증시전망] 코스피 7000선 돌파 시험대…AI 투자 신뢰 회복이 관건",
@@ -1148,12 +1154,6 @@
    "source": "글로벌이코노믹",
    "time": "2026-08-15T19:45:39+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5"
-  },
-  {
-   "title": "출발증시 2부",
-   "source": "한국경제TV",
-   "time": "2026-08-14T23:30:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
   },
   {
    "title": "\"열흘 만에 22% 급등\"…외신들 '코스피 기술적 강세장' 진단",
@@ -1174,16 +1174,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TnA4LVV0MWFLV21yaFNsaHdXbGdKNElBRlpJemFxbV95c24tSl9kbl90Q2JNblgzNEc4aWZwWVR5ZXl6VlBsU0NOYU9tOUF2eGUtTXZaa0pmZlB3RGc?oc=5"
   },
   {
-   "title": "\"'2030년 비트코인 100만달러', 수학적으로 불가능\"",
-   "source": "블루밍비트",
-   "time": "2026-08-15T22:51:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xd0pIbGcwbWRZVlZYQ1o4bFZDMk9weFdEZTE1RlpUM2VIWVpfeFF0M2pKUkRNVVh5Zk1tTnhQLWVkQ3ZaNWltNnNSSDJGdGR4?oc=5"
-  },
-  {
    "title": "코스피 : ‘한 달 만에 2000만원을 잃었습니다’…휘청이는 한국의 삼성전자, SK하이닉스 투자자들",
    "source": "BBC",
    "time": "2026-08-14T16:43:04+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
+  },
+  {
+   "title": "\"'2030년 비트코인 100만달러', 수학적으로 불가능\"",
+   "source": "블루밍비트",
+   "time": "2026-08-15T22:51:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xd0pIbGcwbWRZVlZYQ1o4bFZDMk9weFdEZTE1RlpUM2VIWVpfeFF0M2pKUkRNVVh5Zk1tTnhQLWVkQ3ZaNWltNnNSSDJGdGR4?oc=5"
   },
   {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
