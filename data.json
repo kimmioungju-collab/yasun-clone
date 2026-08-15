@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T15:24:04.514980+09:00",
+ "updated": "2026-08-15T16:04:58.593766+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -197,18 +197,18 @@
     30088.5,
     30078.75,
     30084.75,
-    30081.0,
-    30068.0,
-    30072.0,
+    30080.25,
+    30067.5,
+    30071.75,
     30076.25,
     30087.25,
     30087.0,
-    30096.75,
-    30088.5,
+    30097.5,
+    30088.75,
     30082.75,
     30092.25,
-    30083.0,
-    30088.25,
+    30082.75,
+    30088.0,
     30087.0,
     30096.75,
     30101.25,
@@ -216,9 +216,9 @@
     30108.5,
     30119.5,
     30126.25,
-    30145.0,
-    30145.75,
-    30133.25,
+    30144.25,
+    30146.5,
+    30133.75,
     30132.75,
     30131.5,
     30129.5,
@@ -226,9 +226,9 @@
     30140.5,
     30137.0,
     30142.0,
-    30141.5,
+    30141.25,
     30144.0,
-    30154.0
+    30141.75
    ]
   },
   "es": {
@@ -373,8 +373,8 @@
    "price": 68713.8,
    "prev": 68308.59,
    "spark": [
+    68882.6406,
     68899.7578,
-    68889.0078,
     68889.0078,
     68875.0391,
     68834.3203,
@@ -738,17 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62997.62,
+   "price": 63041.79,
    "prev": 62977.613,
    "spark": [
-    63083.6992,
-    63062.3008,
-    63040.9492,
-    63022.7305,
-    63013.8789,
-    62994.6602,
-    63000.0117,
-    62994.6914,
     63011.5508,
     62988.3906,
     63010.1016,
@@ -779,22 +771,22 @@
     63020.2617,
     62971.9102,
     62984.2812,
-    63002.6289,
-    62997.6211
+    62988.4219,
+    62973.4609,
+    62996.0508,
+    62990.5781,
+    63005.5898,
+    63012.7695,
+    63063.0,
+    63045.5391,
+    63041.7891,
+    63041.7891
    ]
   },
   "eth": {
-   "price": 1879.2,
+   "price": 1879.7,
    "prev": 1880.3744,
    "spark": [
-    1884.16,
-    1883.58,
-    1883.71,
-    1882.95,
-    1881.96,
-    1881.4,
-    1881.25,
-    1881.46,
     1881.64,
     1880.89,
     1881.4,
@@ -825,8 +817,16 @@
     1879.46,
     1878.52,
     1878.9399,
-    1879.45,
-    1879.2
+    1879.23,
+    1878.6801,
+    1879.21,
+    1878.23,
+    1880.01,
+    1880.61,
+    1881.27,
+    1880.36,
+    1879.75,
+    1879.7
    ]
   },
   "eurkrw": {
@@ -1108,16 +1108,16 @@
  },
  "news": [
   {
-   "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-   "source": "연합인포맥스",
-   "time": "2026-08-15T09:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
-  },
-  {
    "title": "\"신혼집 마련할 돈 날렸다\"...해외서도 놀란 코스피 개미 잔혹사 - 머니투데이",
    "source": "머니투데이",
    "time": "2026-08-15T12:56:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYzZpOFNvTXdSOXZqd2ViWU44dDBucHg5bldsd1Axa2NXM0VmVmsyeVlpZmQydWtUYzJ1UkI1SW1RemJyZjRpWjJKRGZ6OVdpdmpLV2I2dTk5QmdVeWNnWXJSMmFWdUs50gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5"
+  },
+  {
+   "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
+   "source": "연합인포맥스",
+   "time": "2026-08-15T09:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
    "title": "출발증시 2부",
@@ -1127,7 +1127,7 @@
   },
   {
    "title": "싱가포르 증시 사상 최고 랠리, ’골디락스’ 경제가 뒷받침",
-   "source": "kr.investing.com",
+   "source": "Investing.com 한국어",
    "time": "2026-08-15T13:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKQjVPenhmY3U0MUlaYTNlZ1pnbzlfamZrLVJIYmIzeDNtVjRiVUdaVjZjWkpFc3lndWN4UHRTOW5kNWxJc1gyZ3JjbEZWVmlwbHpHNEpfNW9FZjQyNWlkZ2JLQXFmY0FxM2FmbEFQSmM?oc=5"
   },
@@ -1180,16 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbHJ4NDM3cjFNVE9PWDN6MXc2c2lzOFhuNEVuQ1ZibExncldUc1dfbDR6aklRcmVNcU5zWnpGZW0zeE00Z1c3eDBQVGhMTEppRnl1eWpCWkVLak02TENfRzM5VndwOXc?oc=5"
   },
   {
+   "title": "CBOE, 美 SEC에 비트코인 3배 ETF 서류 제출",
+   "source": "블루밍비트",
+   "time": "2026-08-15T15:10:21+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rcDI2N0Z0bFdEMHc5d3hrMUt3T29oMzdVU1Nlb0JwUjNTT251SnhzTVlFaHNUVWhkeGhxQlBCeHJxNWxQeTJ1QndfMnhDWUZG?oc=5"
+  },
+  {
    "title": "[뉴욕 증시] 美 소매 판매 수치 예상치 밑돌아...뉴욕 3대 지수 약세 마감",
    "source": "한양경제",
    "time": "2026-08-15T10:18:56+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04aXdyWndGU09ldy1Bak5UMHBwSmNFQUxVYlJEck55d3F5UVdBN19yMDV4Uk1SaTdjQnlGNHg0bkctd05ueDl4UjVocDdaYkFybnJLTk4yanM1SzZzMnc4TU1UTjVaV01tcTY3YUpNSVU?oc=5"
-  },
-  {
-   "title": "증시 변동성 축소·우호적 매크로 환경...외인 매수세 지속 기대감",
-   "source": "데일리한국",
-   "time": "2026-08-15T14:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9INWJNR05DQk1SaVI5RHVqLUVjTWM2b0twTmpxWmJ2aXhwZmFvNGdMY3pFZUpBQ3o5RW9oaVYycGprQUdfRlNobjhJSGJWTmhqZWVXUXFaR0FzWmZSbWgzOE5OOXNQLUFJUWRCbkc5NNIBc0FVX3lxTE8xWHlHMl9TdkMwOTVrM0ItZGpFODE4Q1E2Sy1EVUpBUWZSdEV5QWRmbS1zYjZicXNlNm8wZnFTTExSa3A2Q2tFSmFLUE45Q3NHamFiYXdfX1RrUDhPVjB0b2FyLXFFRzl1R3N0UDN4LXdQWk0?oc=5"
   }
  ]
 }
