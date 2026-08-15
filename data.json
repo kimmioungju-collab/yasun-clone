@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T08:49:47.596224+09:00",
+ "updated": "2026-08-15T09:24:13.287182+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -525,7 +525,7 @@
     4433.2002,
     4430.8999,
     4430.1001,
-    4430.2998,
+    4430.2002,
     4429.3999,
     4433.0,
     4432.3999,
@@ -537,7 +537,7 @@
     4431.7002,
     4431.3999,
     4433.6001,
-    4431.5,
+    4431.6001,
     4429.7998,
     4427.6001,
     4428.2998,
@@ -738,95 +738,27 @@
    ]
   },
   "btc": {
-   "price": 62981.32,
-   "prev": 63418.16,
+   "price": 62951.16,
+   "prev": 62977.613,
    "spark": [
-    62838.4609,
-    62836.6992,
-    62855.0117,
-    62835.5195,
-    62835.1406,
-    62868.6211,
-    62832.7188,
-    62837.6602,
-    62819.0703,
-    62834.1016,
-    62820.3711,
-    62809.4219,
-    62821.9805,
-    62812.5703,
-    62849.9883,
-    62817.3008,
-    62860.8984,
-    62872.6016,
-    62830.1719,
-    62768.5703,
-    62765.4492,
-    62767.75,
-    62746.6289,
-    62800.0,
-    62810.2617,
-    62818.0,
-    62818.1992,
-    62816.7188,
-    62814.5312,
-    62820.0,
-    62826.5,
-    62866.3906,
-    62826.5117,
-    62889.0,
-    62884.0586,
-    62861.4805,
-    62914.5195,
-    62941.3086,
-    62979.0312,
-    62981.3203
+    62955.5508,
+    62961.9414,
+    62948.7891,
+    62955.7617,
+    62951.1484,
+    62951.1602
    ]
   },
   "eth": {
-   "price": 1879.17,
-   "prev": 1884.4181,
+   "price": 1880.73,
+   "prev": 1880.3744,
    "spark": [
-    1877.27,
-    1877.67,
-    1878.15,
-    1878.3,
-    1878.5601,
-    1879.4301,
-    1877.0699,
-    1877.02,
-    1876.15,
-    1877.66,
-    1877.88,
-    1877.6801,
-    1877.77,
-    1876.42,
-    1877.0601,
-    1875.51,
-    1877.53,
-    1878.6,
-    1877.41,
-    1875.71,
-    1876.05,
-    1875.38,
-    1874.8,
-    1877.34,
-    1878.0,
-    1878.0601,
-    1877.51,
-    1877.71,
-    1877.88,
-    1878.49,
-    1877.72,
-    1879.11,
-    1878.04,
-    1879.17,
-    1879.16,
-    1877.7,
-    1879.74,
-    1878.52,
-    1878.92,
-    1879.17
+    1880.15,
+    1880.74,
+    1880.41,
+    1880.77,
+    1880.6,
+    1880.73
    ]
   },
   "eurkrw": {
@@ -1114,16 +1046,16 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
   },
   {
+   "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
+   "source": "연합인포맥스",
+   "time": "2026-08-15T09:00:04+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
+  },
+  {
    "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
    "source": "매일경제",
    "time": "2026-08-14T14:28:21+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
-  },
-  {
-   "title": "1600원 넘보던 환율, 150원 급락… 對美투자 늘면 다시 뛸 수도",
-   "source": "동아일보",
-   "time": "2026-08-15T01:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SZFZkS2tQSmVWb2t0MEtRaF8wSlJwV0t1SHhIMWN1cTVhYUN6ZEczcmhCX1I5SldmcDBteENma0pCUjJaRFZtamprUV9HZFlvZWZJaFBOdGdEdkNRZ0kyNjdnN2hKY2p3TGx2VmdKMk9iazhXLWfSAWZBVV95cUxONDhBc1dLeXVpakMwT2VUTmJ2WkRhTlNGSG1JTHEwM0gyMDRwcVRKbjVwSjhNQWU4WVlsaUM1WGo0MUJVVk45YW1udnE4bVctMlBweWw1NGJEMm5YU1V5MUZidEVVTHc?oc=5"
   },
   {
    "title": "[증시 인사이트] 삼성전자·하이닉스 오름세가 코스피 상승 랠리 이끌까",
@@ -1138,22 +1070,28 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1naGV2OGlmdVdUX0FtV0k0LVloQ253MndxSDdpSlUxODY1UkswTExudEc5VHJJSHlRWjk1SjV3TTk4YVpTcTBXUlRTMURITEVD?oc=5"
   },
   {
+   "title": "1600원 넘보던 환율, 150원 급락… 對美투자 늘면 다시 뛸 수도",
+   "source": "동아일보",
+   "time": "2026-08-15T01:40:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SZFZkS2tQSmVWb2t0MEtRaF8wSlJwV0t1SHhIMWN1cTVhYUN6ZEczcmhCX1I5SldmcDBteENma0pCUjJaRFZtamprUV9HZFlvZWZJaFBOdGdEdkNRZ0kyNjdnN2hKY2p3TGx2VmdKMk9iazhXLWfSAWZBVV95cUxONDhBc1dLeXVpakMwT2VUTmJ2WkRhTlNGSG1JTHEwM0gyMDRwcVRKbjVwSjhNQWU4WVlsaUM1WGo0MUJVVk45YW1udnE4bVctMlBweWw1NGJEMm5YU1V5MUZidEVVTHc?oc=5"
+  },
+  {
    "title": "“순식간에 25% 폭등”…코스피 7000 찍자 나온 경고 [머니+]",
    "source": "에너지경제신문",
    "time": "2026-08-14T20:23:33+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aV3FzNUE0NXBHZkF6di1YTGgzU3dObEQtSFM1ck5mQUtSZnRBbDRySnhFX2FUSWRfYWNYQVdib01aN1FWVEFxb1dqem5kbThIamNuM3djSXFhclU?oc=5"
   },
   {
-   "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 14일자",
-   "source": "chosun.com",
-   "time": "2026-08-15T00:41:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHI3TGxCNlY4NWRpR1QyeUhaaFgtTkhyMVJ0SXpIRmloWmNuRnh2YlgzcDREVDhpVVV5U1cweXl0N2ozQjdCdEVaczVDTUU5b1UxQ2ZEeTRZSWt1RllUOHNlTEJGRXU5RFVhODR3SmJzNUxZbTdPUTJWbDJBYmdNenJmdmhkb3VHSXVZ?oc=5"
-  },
-  {
    "title": "중남미 증시, 6월 이후 최악의 한 주…투자자 외면",
    "source": "Investing.com 한국어",
    "time": "2026-08-15T02:02:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ST3VOdWtVYW5pV19uRW9TcUhlMVBUNUJhUTU5N3RGTG4waXYyc1d3U0tGY1JITTZyT1MtSndhOXpzYjhJNUl6SlZZWmxaUUZIX2h2azE4ajRzWDRGOENyWjA4TlRqdTVKOFhRZVpWaURVQjdCdWI4?oc=5"
+  },
+  {
+   "title": "[주식 매매 상위 종목 및 환율] 2026년 8월 14일자",
+   "source": "조선일보",
+   "time": "2026-08-15T00:41:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHI3TGxCNlY4NWRpR1QyeUhaaFgtTkhyMVJ0SXpIRmloWmNuRnh2YlgzcDREVDhpVVV5U1cweXl0N2ozQjdCdEVaczVDTUU5b1UxQ2ZEeTRZSWt1RllUOHNlTEJGRXU5RFVhODR3SmJzNUxZbTdPUTJWbDJBYmdNenJmdmhkb3VHSXVZ?oc=5"
   },
   {
    "title": "코스피 이번 주 내내 올라…반도체 ‘고점론’ 한풀 꺾였다",
@@ -1180,16 +1118,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aNWYwNkZjQlVaYXIwZjItbEpPR0J6cURUdWlWZDV5V0o2N3l3TnBNUFZFcFpuVVY4dFAwanFaT2JYT09BLS1aNngyQy1iRkk3VDNnbUhSZlRBams?oc=5"
   },
   {
-   "title": "코스피, 7천피 목전에 두고 장 종료…外人 3조 순매수",
-   "source": "연합인포맥스",
-   "time": "2026-08-14T15:33:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QVmdrMkRfTFFqYlJzV1VZajBETF9NYmFBVGh5Z0M2SVlTeGxFOXhnbU9Ta3Q5Rk5tTTBYaThjckNZQXktOGpnYW1hWTdnbkY5TjE1a3dFTVRVeTkxRHFUMm1TV20ySDN4aFZWZ1B1TFPSAXRBVV95cUxNRVFIemQzOXdLSll3aV9MQWYzTEVXQmNHOEZUZXFQNUFsX2k0bGJrYTRMblRUZmFOLThmaUUzczhrcVZYZXR6RkFweEdOYkJCWlZ3RVlFNWptU2luVFdLOW1VQVJyb1hNdTZOSmRVWkc1OVdyWg?oc=5"
-  },
-  {
-   "title": "[이슈체크] \"들어갈까, 말까?\"…외국인 사자, 코스피 이번 주 내내 상승, ‘셀 코리아’ 끝났나",
-   "source": "v.daum.net",
-   "time": "2026-08-14T19:19:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mWkIzdlhhYkZON2dMTEFDYTQxeTV6S0F2RnJKREQxb0pBR0JaMlU5MDhrc2hwcUVPNmxuSGs2TmE0VjV2aDJGMl9mdGVLWEU?oc=5"
+   "title": "‘셀 코리아’ 끝났나…외국인 나흘 연속 순매수, 코스피 장중 7천선 회복",
+   "source": "한겨레",
+   "time": "2026-08-14T18:03:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xaE85QS1WUmdSNnR6dzc0eURDdmFueTZOODFzV0NkM19qWE9LTF9SVDkzd2JFVVpvZG1CaDNiMnFQeUNobzlXWTB0RC1LUFVLazJGSjdubmEzT1ZZSmd5UGNKanJiQkU?oc=5"
   }
  ]
 }
