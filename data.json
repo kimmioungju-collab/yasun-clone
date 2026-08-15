@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T22:20:05.327864+09:00",
+ "updated": "2026-08-15T22:46:51.956516+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -373,8 +373,8 @@
    "price": 68713.8,
    "prev": 68308.59,
    "spark": [
-    68882.6406,
     68899.7578,
+    68889.0078,
     68889.0078,
     68875.0391,
     68834.3203,
@@ -525,7 +525,7 @@
     4433.2002,
     4430.8999,
     4430.1001,
-    4430.2002,
+    4430.2998,
     4429.3999,
     4433.0,
     4432.3999,
@@ -537,7 +537,7 @@
     4431.7002,
     4431.3999,
     4433.6001,
-    4431.6001,
+    4431.5,
     4429.7998,
     4427.6001,
     4428.2998,
@@ -582,7 +582,7 @@
     64.955,
     64.95,
     64.88,
-    64.875,
+    64.86,
     64.94,
     64.88,
     64.86,
@@ -738,24 +738,18 @@
    ]
   },
   "btc": {
-   "price": 62972.47,
+   "price": 62961.92,
    "prev": 62977.613,
    "spark": [
-    62946.3398,
-    62950.7109,
-    62950.0,
-    62948.0508,
-    62945.0117,
-    62960.1406,
     62964.7891,
-    62966.1797,
-    62981.8008,
+    62966.1719,
+    62981.7891,
     62960.7188,
     62976.0312,
     62959.5586,
-    62963.2891,
-    62956.4805,
-    62962.8984,
+    62963.3008,
+    62956.4688,
+    62962.8906,
     62963.5781,
     62963.7891,
     62960.4609,
@@ -763,41 +757,41 @@
     62980.0,
     62934.8008,
     62957.2695,
-    62949.2188,
+    62949.2109,
     62927.8594,
     62930.4609,
-    62916.1797,
+    62917.4883,
     62917.25,
     62917.25,
-    62920.3008,
+    62920.3086,
     62916.2188,
     62912.0391,
     62895.6016,
     62885.8984,
     62886.7617,
-    62985.9297,
-    63001.8203,
-    62977.3984,
+    62985.9219,
+    63001.8086,
+    62977.4102,
     63000.9492,
-    62965.6289,
-    62972.4688
+    62972.4688,
+    62970.3086,
+    62960.1484,
+    62968.8789,
+    62966.25,
+    62957.4414,
+    62960.9297,
+    62961.9219
    ]
   },
   "eth": {
-   "price": 1880.99,
+   "price": 1881.48,
    "prev": 1880.3744,
    "spark": [
-    1877.13,
-    1877.33,
-    1877.42,
-    1877.46,
-    1877.42,
-    1878.11,
     1878.51,
     1878.29,
     1878.6801,
     1878.84,
-    1879.16,
+    1879.28,
     1878.55,
     1879.0699,
     1878.72,
@@ -810,23 +804,29 @@
     1877.36,
     1877.4,
     1877.29,
-    1876.9301,
+    1876.8101,
     1877.04,
     1876.62,
-    1876.99,
+    1877.1,
     1876.74,
     1876.61,
     1877.04,
     1877.11,
     1876.97,
     1876.5601,
-    1877.11,
-    1881.5601,
-    1882.0,
+    1877.13,
+    1881.72,
+    1881.66,
     1880.73,
     1881.98,
-    1880.6,
-    1880.99
+    1880.99,
+    1881.1,
+    1880.79,
+    1881.48,
+    1881.5,
+    1881.26,
+    1881.4399,
+    1881.48
    ]
   },
   "eurkrw": {
@@ -1144,16 +1144,16 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5"
   },
   {
-   "title": "출발증시 2부",
-   "source": "한국경제TV",
-   "time": "2026-08-14T23:30:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
-  },
-  {
    "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
    "source": "매일경제",
    "time": "2026-08-14T14:28:21+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
+  },
+  {
+   "title": "출발증시 2부",
+   "source": "한국경제TV",
+   "time": "2026-08-14T23:30:21+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
   },
   {
    "title": "원·달러 환율 1,300원대 눈앞...하락 반전 'U턴', 왜? [앵커리포트]",
@@ -1168,22 +1168,22 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTV9KX3JmekJGU1hWdFBfY3E5b0ZSNFpodi1McEdnem82S2hDWk1wZWFsYTgtdjR3YXBGYko0Z0dKcGxwZm1KdHJEcDlwdXNPdDFUUnUxNTh2eDJVb2FMUXlVQjFrRUVRWjQzS09pN1hDODjSAXdBVV95cUxQYnY3WVI4anJRZkttU1VMTGJHeDc2OWVMSVpxUk1DY1ZNSVphMzlOREtjU0dXZjVUeGxNLVZsSG1JamV5b3FOUW1MMDVxTW1LQU8zVXBEWXlxMHQ0WHJ4UVAtYTAzTnNSQ0x0RzFwcHZPbWFLdktGMA?oc=5"
   },
   {
-   "title": "[분석] \"비트코인, 두 달 만에 수요 크게 회복…낙관은 아직\"",
-   "source": "블루밍비트",
-   "time": "2026-08-15T18:33:39+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QLXFnNkRiaE16cXdpOEJSM1ItbUpNNkV0cjZNMk42YndVRXZVMHRQV3ptaVhpa3pzVXdfbWdMenNVYU5MbEZyUThwUVg5SDBP?oc=5"
+   "title": "\"알트코인은 죽었다…비트코인 대체 불가능\"",
+   "source": "bloomingbit.io",
+   "time": "2026-08-15T22:15:33+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NMnJTeGdlWFNGQXQ1dndZbTRsMWhvTHZXS01ZQnNfeGtQOTh0elllV2hwNlo3bjhfTURObm5MVi03RTBLR3Y1aFVzSXdhdnFr?oc=5"
+  },
+  {
+   "title": "5대 은행 정기예금 1000조 돌파 눈앞… 증시 혼돈 속 '역머니무브' 가속",
+   "source": "서울뉴스통신",
+   "time": "2026-08-15T22:19:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TeHVoMFdJQTNTajNXZDRVNl9CLVZHUjlXTFlDcVRsMVZtNVZmUVl0cHVyZ2UzdmtncWxFaFBRV1FYMHRGNkhZb3RNMWNRNEFQcURWMy1la3phOWxjaERqajc3N1ZsbWZCVXQ4?oc=5"
   },
   {
    "title": "코스피 : ‘한 달 만에 2000만원을 잃었습니다’…휘청이는 한국의 삼성전자, SK하이닉스 투자자들",
    "source": "BBC",
    "time": "2026-08-13T19:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
-  },
-  {
-   "title": "1600원 넘보던 환율, 150원 급락… 對美투자 늘면 다시 뛸 수도",
-   "source": "동아일보",
-   "time": "2026-08-15T01:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SZFZkS2tQSmVWb2t0MEtRaF8wSlJwV0t1SHhIMWN1cTVhYUN6ZEczcmhCX1I5SldmcDBteENma0pCUjJaRFZtamprUV9HZFlvZWZJaFBOdGdEdkNRZ0kyNjdnN2hKY2p3TGx2VmdKMk9iazhXLWfSAWZBVV95cUxONDhBc1dLeXVpakMwT2VUTmJ2WkRhTlNGSG1JTHEwM0gyMDRwcVRKbjVwSjhNQWU4WVlsaUM1WGo0MUJVVk45YW1udnE4bVctMlBweWw1NGJEMm5YU1V5MUZidEVVTHc?oc=5"
   },
   {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
