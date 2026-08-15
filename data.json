@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T04:10:41.027018+09:00",
+ "updated": "2026-08-16T04:32:51.278114+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63012.0,
+   "price": 63025.75,
    "prev": 62977.613,
    "spark": [
-    63022.9492,
-    63016.4805,
-    63013.5,
-    63007.4688,
-    63007.4805,
     63033.5117,
     63054.8203,
     63018.0586,
@@ -780,18 +775,18 @@
     62989.1211,
     62993.9883,
     63011.9805,
-    63012.0
+    63009.3281,
+    63035.9805,
+    63047.9805,
+    63028.1094,
+    63027.2188,
+    63025.75
    ]
   },
   "eth": {
-   "price": 1881.11,
+   "price": 1882.12,
    "prev": 1880.3744,
    "spark": [
-    1882.89,
-    1883.03,
-    1883.04,
-    1882.37,
-    1882.67,
     1883.3,
     1883.62,
     1882.3199,
@@ -826,7 +821,12 @@
     1880.87,
     1881.1,
     1881.22,
-    1881.11
+    1881.4,
+    1881.9399,
+    1882.39,
+    1882.12,
+    1882.22,
+    1882.12
    ]
   },
   "eurkrw": {
@@ -1109,7 +1109,7 @@
  "news": [
   {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "time": "2026-08-15T09:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
@@ -1138,16 +1138,16 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5"
   },
   {
-   "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
-   "source": "기호일보",
-   "time": "2026-08-15T10:52:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tWklJVlJuYXhPUWlKSkJKYTY3QndKOU9IMFFtMFhnY3JXSldTX3BST2JoSFNtQ0hOR0FTNTVjZTZ1eERzcXczOWx3S1NzMWdWSzJrekdGcndSZ2lmMlZLMDJXYXZmMjB6eTdjRDdUTQ?oc=5"
-  },
-  {
    "title": "출발증시 2부",
    "source": "한국경제TV",
    "time": "2026-08-14T23:30:21+09:00",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
+  },
+  {
+   "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
+   "source": "기호일보",
+   "time": "2026-08-15T10:52:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tWklJVlJuYXhPUWlKSkJKYTY3QndKOU9IMFFtMFhnY3JXSldTX3BST2JoSFNtQ0hOR0FTNTVjZTZ1eERzcXczOWx3S1NzMWdWSzJrekdGcndSZ2lmMlZLMDJXYXZmMjB6eTdjRDdUTQ?oc=5"
   },
   {
    "title": "\"열흘 만에 22% 급등\"…외신들 '코스피 기술적 강세장' 진단",
