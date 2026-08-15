@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T07:50:59.643440+09:00",
+ "updated": "2026-08-16T08:04:29.931825+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -197,18 +197,18 @@
     30088.5,
     30078.75,
     30084.75,
-    30080.25,
-    30067.5,
-    30071.75,
+    30081.0,
+    30068.0,
+    30072.0,
     30076.25,
     30087.25,
     30087.0,
-    30097.5,
-    30088.75,
+    30096.75,
+    30088.5,
     30082.75,
     30092.25,
-    30082.75,
-    30088.0,
+    30083.0,
+    30088.25,
     30087.0,
     30096.75,
     30101.25,
@@ -216,9 +216,9 @@
     30108.5,
     30119.5,
     30126.25,
-    30144.25,
-    30146.5,
-    30133.75,
+    30145.0,
+    30145.75,
+    30133.25,
     30132.75,
     30131.5,
     30129.5,
@@ -226,7 +226,7 @@
     30140.5,
     30137.0,
     30142.0,
-    30141.25,
+    30141.5,
     30144.0,
     30141.75
    ]
@@ -695,7 +695,6 @@
    "price": 1412.0,
    "prev": 1418.13,
    "spark": [
-    1415.95,
     1415.85,
     1415.16,
     1415.74,
@@ -734,62 +733,60 @@
     1416.89,
     1417.3101,
     1416.8101,
-    1416.48
+    1416.48,
+    1412.0
    ]
   },
   "btc": {
-   "price": 63090.79,
+   "price": 63062.86,
    "prev": 62977.613,
    "spark": [
-    63037.5781,
-    63034.5195,
-    63051.9805,
     63050.9297,
-    63051.3789,
+    63051.3906,
     63038.6484,
     63020.0,
-    63010.0508,
-    63006.8086,
-    63003.1992,
-    63006.8086,
+    63010.0586,
+    63006.8008,
+    63003.2109,
+    63005.9883,
     62999.9883,
     63007.5508,
-    63013.6484,
-    63030.0195,
+    63013.6602,
+    63030.0,
     63030.6797,
     63036.5,
     63031.6211,
     63026.3984,
     63035.4414,
-    63037.9609,
+    63037.9492,
     63052.6211,
     63076.2188,
     63071.6406,
     63081.5781,
     63091.5,
-    63088.6914,
+    63088.9609,
     63088.9492,
     63085.9219,
     63081.5117,
-    63084.5117,
+    63084.5195,
     63078.5703,
     63072.1797,
-    63077.0781,
-    63083.9805,
+    63077.75,
+    63083.9688,
     63083.9609,
     63082.5,
     63085.5,
     63100.0,
-    63090.7891
+    63061.7617,
+    63061.6797,
+    63062.0312,
+    63062.8594
    ]
   },
   "eth": {
-   "price": 1882.99,
+   "price": 1882.68,
    "prev": 1880.3744,
    "spark": [
-    1882.54,
-    1882.4,
-    1882.8,
     1882.74,
     1882.36,
     1882.24,
@@ -798,15 +795,15 @@
     1881.41,
     1880.89,
     1881.14,
-    1880.74,
-    1881.1,
+    1880.72,
+    1881.09,
     1881.1899,
-    1881.4399,
+    1881.45,
     1881.51,
-    1881.33,
-    1881.8101,
+    1881.34,
+    1881.98,
     1881.73,
-    1882.01,
+    1882.02,
     1882.01,
     1882.79,
     1882.65,
@@ -814,19 +811,22 @@
     1882.97,
     1883.08,
     1883.3,
-    1883.41,
+    1883.4,
     1883.13,
-    1882.48,
-    1882.5601,
+    1882.8,
+    1882.58,
     1882.87,
     1882.72,
     1883.17,
     1883.7,
     1883.53,
     1883.0601,
-    1882.71,
+    1882.72,
     1883.23,
-    1882.99
+    1882.52,
+    1882.58,
+    1882.58,
+    1882.6801
    ]
   },
   "eurkrw": {
@@ -925,7 +925,6 @@
    "price": 209.482,
    "prev": 210.171,
    "spark": [
-    209.993,
     209.994,
     210.039,
     209.997,
@@ -964,14 +963,14 @@
     210.032,
     210.032,
     210.032,
-    210.032
+    210.032,
+    209.482
    ]
   },
   "usdjpy": {
    "price": 159.305,
    "prev": 159.5,
    "spark": [
-    159.365,
     159.354,
     159.358,
     159.354,
@@ -1010,6 +1009,7 @@
     159.311,
     159.317,
     159.285,
+    159.305,
     159.305
    ]
   },
@@ -1109,13 +1109,13 @@
  "news": [
   {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "time": "2026-08-15T09:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
    "title": "(주간증시전망)회복 국면 코스피…7000선 ‘재도전’",
-   "source": "newstomato.com",
+   "source": "뉴스토마토",
    "time": "2026-08-16T06:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Xc3JBOEw3NGNGemp5M0VqRG1McnBaX045dzNYWXN0T2RZZTFPSWxWdm1SaTdleEFIVmNxNTlBaTdZWi1tMGMyY3lIQm1pUjhaVTFkYmRsejVaUGFnOThRSw?oc=5"
   },
@@ -1157,7 +1157,7 @@
   },
   {
    "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가른다",
-   "source": "글로벌이코노믹",
+   "source": "g-enews.com",
    "time": "2026-08-15T19:45:39+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3dCdWhFTUhFRGh6UFpiMlJmOGNnRF9VSHZ5LU84X2tBS2NfaTVmRXRoY001Z3BlNi1LdHk5THJYN0dYeC1Pbm1KdjdiRkY1ZHdPOGsxWXZNMkJGRUpWWDluU2d6azJCVk92aTF2bmNvU2hkZXZUSDFydG5kWlFoSm5laTNsQ1Nl?oc=5"
   },
@@ -1180,16 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TnA4LVV0MWFLV21yaFNsaHdXbGdKNElBRlpJemFxbV95c24tSl9kbl90Q2JNblgzNEc4aWZwWVR5ZXl6VlBsU0NOYU9tOUF2eGUtTXZaa0pmZlB3RGc?oc=5"
   },
   {
-   "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
-   "source": "기호일보",
-   "time": "2026-08-15T10:52:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tWklJVlJuYXhPUWlKSkJKYTY3QndKOU9IMFFtMFhnY3JXSldTX3BST2JoSFNtQ0hOR0FTNTVjZTZ1eERzcXczOWx3S1NzMWdWSzJrekdGcndSZ2lmMlZLMDJXYXZmMjB6eTdjRDdUTQ?oc=5"
-  },
-  {
    "title": "코스피 : ‘한 달 만에 2000만원을 잃었습니다’…휘청이는 한국의 삼성전자, SK하이닉스 투자자들",
    "source": "BBC",
    "time": "2026-08-13T19:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1idlRtR2IwR0dPbVhHOVFVY2RaQ1c2RkFic1NxSUdNN25YNGlzeno5dGRZRVdTY3h0a3dwMF83a2cxNkdOUmY3Vk01em9BeVNUcTk2VHE4Vk1JclJW0gFiQVVfeXFMT1ZHRlhOekg1bllKeTB1a1k3bUpnSFBRbkpRVlVobE1Ed2RtUGhQYzRVYVVxZFY0RUVYa3lGNkRQODA5bFFSNHM0OWhUVG10amg4ZWVQSXVuZnF5T2l0SnV1cHc?oc=5"
+  },
+  {
+   "title": "[8월 둘째 주 세계경제동향 브리핑] 코스피 11%대 급반등…코스닥도 8% 상승",
+   "source": "기호일보",
+   "time": "2026-08-15T10:52:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tWklJVlJuYXhPUWlKSkJKYTY3QndKOU9IMFFtMFhnY3JXSldTX3BST2JoSFNtQ0hOR0FTNTVjZTZ1eERzcXczOWx3S1NzMWdWSzJrekdGcndSZ2lmMlZLMDJXYXZmMjB6eTdjRDdUTQ?oc=5"
   }
  ]
 }
