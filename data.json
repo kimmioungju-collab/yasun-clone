@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T00:07:20.110496+09:00",
+ "updated": "2026-08-16T00:32:16.414774+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 62963.74,
+   "price": 63000.0,
    "prev": 62977.613,
    "spark": [
-    62949.2109,
-    62927.8594,
-    62930.4609,
-    62917.4883,
-    62917.25,
     62917.25,
     62920.3086,
     62916.2188,
@@ -779,19 +774,19 @@
     62981.2695,
     62966.4219,
     62970.1484,
-    62969.7617,
-    62963.7383
+    62964.0,
+    62965.0117,
+    63010.9219,
+    62987.8203,
+    62999.9883,
+    62999.9883,
+    63000.0
    ]
   },
   "eth": {
-   "price": 1881.29,
+   "price": 1882.41,
    "prev": 1880.3744,
    "spark": [
-    1877.29,
-    1876.8101,
-    1877.04,
-    1876.62,
-    1877.1,
     1876.74,
     1876.61,
     1877.04,
@@ -825,8 +820,13 @@
     1882.6,
     1881.47,
     1881.65,
-    1881.8101,
-    1881.29
+    1881.28,
+    1881.6801,
+    1883.0,
+    1881.64,
+    1882.33,
+    1882.39,
+    1882.41
    ]
   },
   "eurkrw": {
@@ -1121,7 +1121,7 @@
   },
   {
    "title": "\"신혼집 마련할 돈 날렸다\"...해외서도 놀란 코스피 개미 잔혹사 - 머니투데이",
-   "source": "머니투데이",
+   "source": "mt.co.kr",
    "time": "2026-08-15T12:56:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYzZpOFNvTXdSOXZqd2ViWU44dDBucHg5bldsd1Axa2NXM0VmVmsyeVlpZmQydWtUYzJ1UkI1SW1RemJyZjRpWjJKRGZ6OVdpdmpLV2I2dTk5QmdVeWNnWXJSMmFWdUs50gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5"
   },
@@ -1145,7 +1145,7 @@
   },
   {
    "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
-   "source": "mk.co.kr",
+   "source": "매일경제",
    "time": "2026-08-14T14:28:21+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85NlJ2Q3J5VWMyeGFmREJKcXk3ZXY1SjZSdFJadmU3UDdqc3hsandDa2dyTlVxT0ZJRmVmTk1PeURTUF9kS014LU9KeTI4SGVFNUE?oc=5"
   },
@@ -1168,6 +1168,12 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TnA4LVV0MWFLV21yaFNsaHdXbGdKNElBRlpJemFxbV95c24tSl9kbl90Q2JNblgzNEc4aWZwWVR5ZXl6VlBsU0NOYU9tOUF2eGUtTXZaa0pmZlB3RGc?oc=5"
   },
   {
+   "title": "5대 은행 정기예금 1000조 돌파 눈앞… 증시 혼돈 속 '역머니무브' 가속",
+   "source": "서울뉴스통신",
+   "time": "2026-08-15T22:19:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TeHVoMFdJQTNTajNXZDRVNl9CLVZHUjlXTFlDcVRsMVZtNVZmUVl0cHVyZ2UzdmtncWxFaFBRV1FYMHRGNkhZb3RNMWNRNEFQcURWMy1la3phOWxjaERqajc3N1ZsbWZCVXQ4?oc=5"
+  },
+  {
    "title": "코스피 : ‘한 달 만에 2000만원을 잃었습니다’…휘청이는 한국의 삼성전자, SK하이닉스 투자자들",
    "source": "BBC",
    "time": "2026-08-13T19:00:00+09:00",
@@ -1180,16 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFVElVYWFYRjk5cE5MWTlnd2kxTTJRTXg4ZTN0aUF1dWNCTXN6ZENaNjdtZFJVOGNDam9HRm10VGhBQjloSnlYemtBOFZqUEVxWU4xZmY5eGFzQ2lUSzNvVDV0amJxQQ?oc=5"
   },
   {
-   "title": "5대 은행 정기예금 1000조 돌파 눈앞… 증시 혼돈 속 '역머니무브' 가속",
-   "source": "snakorea.com",
-   "time": "2026-08-15T22:19:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TeHVoMFdJQTNTajNXZDRVNl9CLVZHUjlXTFlDcVRsMVZtNVZmUVl0cHVyZ2UzdmtncWxFaFBRV1FYMHRGNkhZb3RNMWNRNEFQcURWMy1la3phOWxjaERqajc3N1ZsbWZCVXQ4?oc=5"
-  },
-  {
-   "title": "[지난밤 뉴욕에선] 소비 경고음에 나스닥 0.28% 하락",
-   "source": "straightnews.co.kr",
-   "time": "2026-08-15T07:22:15+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTV9KX3JmekJGU1hWdFBfY3E5b0ZSNFpodi1McEdnem82S2hDWk1wZWFsYTgtdjR3YXBGYko0Z0dKcGxwZm1KdHJEcDlwdXNPdDFUUnUxNTh2eDJVb2FMUXlVQjFrRUVRWjQzS09pN1hDODjSAXdBVV95cUxQYnY3WVI4anJRZkttU1VMTGJHeDc2OWVMSVpxUk1DY1ZNSVphMzlOREtjU0dXZjVUeGxNLVZsSG1JamV5b3FOUW1MMDVxTW1LQU8zVXBEWXlxMHQ0WHJ4UVAtYTAzTnNSQ0x0RzFwcHZPbWFLdktGMA?oc=5"
+   "title": "코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
+   "source": "연합뉴스",
+   "time": "2026-08-14T15:37:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4QzlNVWg2blBHUmNLZV9rWFdJc29IMEZnMFRtS255MFRzenpPdTdCWFlsb0dHNnFhYWtseVBTSGZ6bHI5U05KSExFbWk2YmJxZXc4d3RFSFY3dHPSAWBBVV95cUxPZDEzeVpNZEZDby01VmhMTkxHT2FCM09IZzdTSkNrSHl3TlZ2by0wYURZNnY1VGlLZVhWanZqZnpGYTdLeVM1eFBERkhsMjFpWU5BdUlxRDBZOWt1dHYyV04?oc=5"
   }
  ]
 }
