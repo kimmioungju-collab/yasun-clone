@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T00:00:05.385699+09:00",
+ "updated": "2026-08-17T00:28:16.044020+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,23 +451,17 @@
    ]
   },
   "btc": {
-   "price": 63034.54,
+   "price": 63045.83,
    "prev": 63024.637,
    "spark": [
-    62907.7305,
-    62920.5586,
-    62945.3281,
-    62947.8516,
-    62951.9805,
-    62943.4883,
     62947.7695,
-    62949.7695,
+    62949.7617,
     62944.4492,
     62942.1484,
     62940.9219,
     62927.1094,
     62943.2305,
-    62945.4609,
+    62945.4688,
     62948.0,
     62948.0,
     62994.6719,
@@ -480,32 +474,32 @@
     62994.0117,
     62994.2812,
     62996.8086,
-    62993.6406,
-    62989.8711,
+    62993.6289,
+    62995.8594,
     62994.25,
-    62995.5,
+    62994.4102,
     62997.2109,
     63030.1094,
-    63004.4414,
-    63021.0,
-    63025.0312,
+    63004.4492,
+    63020.9883,
+    63025.0391,
     63029.4102,
     63032.0586,
     63034.2188,
-    63038.1406,
-    63034.5391
+    63034.5391,
+    63043.0,
+    63045.0117,
+    63036.3516,
+    63036.2109,
+    63038.5117,
+    63045.8203,
+    63045.8281
    ]
   },
   "eth": {
-   "price": 1881.39,
+   "price": 1881.97,
    "prev": 1880.982,
    "spark": [
-    1877.92,
-    1878.1899,
-    1878.91,
-    1878.51,
-    1878.38,
-    1877.98,
     1878.27,
     1878.29,
     1878.5,
@@ -515,21 +509,21 @@
     1878.03,
     1877.9301,
     1877.75,
-    1877.84,
+    1877.85,
     1878.74,
     1878.7,
     1879.25,
     1878.58,
     1878.76,
     1879.79,
-    1879.1,
-    1879.37,
+    1879.11,
+    1879.38,
     1879.62,
     1879.76,
     1879.91,
     1880.01,
     1880.51,
-    1880.6,
+    1880.59,
     1881.35,
     1882.42,
     1880.01,
@@ -539,7 +533,13 @@
     1881.01,
     1881.1,
     1881.38,
-    1881.39
+    1881.47,
+    1881.47,
+    1881.49,
+    1881.88,
+    1881.72,
+    1881.98,
+    1881.97
    ]
   },
   "eurkrw": {
@@ -787,7 +787,7 @@
   },
   {
    "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
-   "source": "munhwa.com",
+   "source": "문화일보",
    "time": "2026-08-16T10:30:36+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
   },
@@ -846,10 +846,10 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
   },
   {
-   "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
-   "source": "ebn.co.kr",
-   "time": "2026-08-16T17:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5"
+   "title": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
+   "source": "서울신문",
+   "time": "2026-08-16T18:16:56+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05VXNjWVhyZU5maEdTVXdHR2pmX0N2RGNhUnpEakhjX1daNWR4bXJkN0lIZTBIdjVpLUp6NDVCVGdWbndSQXJyWkRHV201Z0p2ekZZWDZjVjRiU0RkdFRqb0Z6TDI1ODdJc3FGY2xEVFZJMEtLYXRQY0xn?oc=5"
   },
   {
    "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
   },
   {
-   "title": "수출 중견기업 56%, 하반기 실적 증가 전망… ‘환율 변동성’은 과제",
-   "source": "kidd.co.kr",
-   "time": "2026-08-16T12:30:33+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xRW12ZVUxZFlSZ05JRS1Yd0NwSWlqc0M2dEhsdkF0WjFwVXQtVUY5OU03ejlPOWVBajl1OXo0b2xSX3k5?oc=5"
+   "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
+   "source": "ebn.co.kr",
+   "time": "2026-08-16T17:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5"
   }
  ]
 }
