@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T08:15:14.851299+09:00",
+ "updated": "2026-08-17T08:35:45.653449+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -186,7 +186,7 @@
    ]
   },
   "nq": {
-   "price": 30202.75,
+   "price": 30200.0,
    "prev": 30141.75,
    "spark": [
     30196.5,
@@ -200,11 +200,16 @@
     30208.75,
     30205.0,
     30202.75,
-    30202.75
+    30205.0,
+    30197.0,
+    30194.5,
+    30200.25,
+    30197.0,
+    30200.0
    ]
   },
   "es": {
-   "price": 7810.0,
+   "price": 7810.25,
    "prev": 7805.0,
    "spark": [
     7810.75,
@@ -219,7 +224,11 @@
     7810.25,
     7809.75,
     7810.0,
-    7810.0
+    7809.5,
+    7809.0,
+    7810.25,
+    7809.75,
+    7810.25
    ]
   },
   "ndx": {
@@ -361,7 +370,7 @@
    ]
   },
   "wti": {
-   "price": 82.4,
+   "price": 82.43,
    "prev": 82.4,
    "spark": [
     82.61,
@@ -375,11 +384,16 @@
     82.39,
     82.39,
     82.4,
-    82.4
+    82.41,
+    82.4,
+    82.41,
+    82.44,
+    82.45,
+    82.43
    ]
   },
   "brent": {
-   "price": 88.69,
+   "price": 88.74,
    "prev": 88.52,
    "spark": [
     88.82,
@@ -393,11 +407,16 @@
     88.63,
     88.66,
     88.69,
-    88.69
+    88.68,
+    88.68,
+    88.71,
+    88.79,
+    88.77,
+    88.74
    ]
   },
   "gold": {
-   "price": 4438.1,
+   "price": 4430.1,
    "prev": 4437.3,
    "spark": [
     4432.6001,
@@ -411,11 +430,16 @@
     4439.3999,
     4441.6001,
     4438.1001,
-    4438.1001
+    4438.7998,
+    4435.3999,
+    4435.2998,
+    4431.7998,
+    4430.1001,
+    4430.1001
    ]
   },
   "silver": {
-   "price": 65.315,
+   "price": 65.16,
    "prev": 65.108,
    "spark": [
     64.95,
@@ -430,11 +454,15 @@
     65.38,
     65.305,
     65.3,
-    65.315
+    65.255,
+    65.24,
+    65.18,
+    65.17,
+    65.16
    ]
   },
   "gas": {
-   "price": 2.678,
+   "price": 2.68,
    "prev": 2.733,
    "spark": [
     2.686,
@@ -448,7 +476,12 @@
     2.679,
     2.679,
     2.678,
-    2.678
+    2.676,
+    2.678,
+    2.681,
+    2.679,
+    2.679,
+    2.68
    ]
   },
   "vix": {
@@ -503,13 +536,9 @@
    "spark": []
   },
   "btc": {
-   "price": 62782.25,
+   "price": 62815.7,
    "prev": 63024.637,
    "spark": [
-    63046.0,
-    63056.9219,
-    63062.5,
-    63055.0703,
     63048.8906,
     63024.6602,
     63042.3789,
@@ -545,17 +574,17 @@
     62859.0195,
     62879.6406,
     62774.8906,
-    62782.25
+    62806.2812,
+    62803.1484,
+    62777.8984,
+    62778.0312,
+    62815.6992
    ]
   },
   "eth": {
-   "price": 1871.95,
+   "price": 1873.15,
    "prev": 1880.982,
    "spark": [
-    1883.74,
-    1884.51,
-    1884.96,
-    1884.7,
     1885.23,
     1884.33,
     1883.51,
@@ -591,7 +620,11 @@
     1873.89,
     1874.8,
     1871.92,
-    1871.95
+    1873.37,
+    1872.92,
+    1871.96,
+    1871.96,
+    1873.15
    ]
   },
   "eurkrw": {
@@ -610,13 +643,17 @@
    "spark": []
   },
   "usdjpy": {
-   "price": 159.201,
+   "price": 159.206,
    "prev": 159.305,
    "spark": [
     159.144,
     159.166,
     159.191,
-    159.201
+    159.227,
+    159.217,
+    159.204,
+    159.209,
+    159.206
    ]
   },
   "eurusd": {
@@ -626,11 +663,15 @@
     1.1578,
     1.1578,
     1.1578,
+    1.1578,
+    1.1578,
+    1.1578,
+    1.1578,
     1.1578
    ]
   },
   "dxy": {
-   "price": 99.584,
+   "price": 99.59,
    "prev": 99.667,
    "spark": [
     99.661,
@@ -646,7 +687,11 @@
     99.603,
     99.586,
     99.583,
-    99.584
+    99.584,
+    99.586,
+    99.592,
+    99.591,
+    99.59
    ]
   }
  },
@@ -694,6 +739,12 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04Ujk0MlJfMWUxbGVfaUk0NUdyektnRmxOYTF1eVc4QXpIb19Lb2JfWEVYa0dmaDNBd2M3WnRHUF92OUtad0EwSTkwU0NhYVpwSEIxQ3ln?oc=5"
   },
   {
+   "title": "No.1 경제·증권 채널 : @HKWOWTV",
+   "source": "한국경제TV",
+   "time": "2026-08-17T08:03:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdDloNl81TXdVYWlTY0NyTmVXaVhOemdoamhqQ2hwWFpFcGNaX05yXy02WFB0ejVEVk5yRmVuMkp0b1dRTFp5TkFXNElpZGtoX1hkLW5RTy1tQnlMdmFYNVZGMzFObjdIMkVMaVRESGZVVkJCTXdyYXdHN2xtWUgyazNiMA?oc=5"
+  },
+  {
    "title": "환율 더 내린다에 베팅한 기업들…5대 은행 달러대출 한 달 새 13억달러 ‘급증’",
    "source": "v.daum.net",
    "time": "2026-08-17T05:42:09+09:00",
@@ -701,15 +752,9 @@
   },
   {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
-   "source": "KBS 뉴스",
+   "source": "news.kbs.co.kr",
    "time": "2026-08-14T06:53:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
-  },
-  {
-   "title": "No.1 경제·증권 채널 : @HKWOWTV",
-   "source": "한국경제TV",
-   "time": "2026-08-17T08:03:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdDloNl81TXdVYWlTY0NyTmVXaVhOemdoamhqQ2hwWFpFcGNaX05yXy02WFB0ejVEVk5yRmVuMkp0b1dRTFp5TkFXNElpZGtoX1hkLW5RTy1tQnlMdmFYNVZGMzFObjdIMkVMaVRESGZVVkJCTXdyYXdHN2xtWUgyazNiMA?oc=5"
   },
   {
    "title": "올해 중 최저치 찍은 원·달러 환율…더 떨어질까",
@@ -719,7 +764,7 @@
   },
   {
    "title": "스트래티지 채무 상품, 비트코인 폭락장서 선방",
-   "source": "글로벌이코노믹",
+   "source": "g-enews.com",
    "time": "2026-08-17T04:08:11+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzJPY3ZjVkt6UVVFQm1QLTRLUW54NzJvbVY2dTQzZFdBV3lBVmpYczVaNkdkelF0ZFZOQlFSOTVJeS1IdjhsMVprVlI2cGZpNkU4NE9rVVViZXpmX196UnVqekctZ2hZNlI5S0pTdkdseHN6eG9XT25CQWlwbVJ5d1BKTGk2YWtY?oc=5"
   },
