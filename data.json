@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T01:56:11.985967+09:00",
+ "updated": "2026-08-17T02:16:16.938088+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -197,7 +197,7 @@
   },
   "ndx": {
    "price": 26729.164,
-   "prev": 26803.025,
+   "prev": 26803.0,
    "spark": [
     26687.8691,
     26677.5605,
@@ -243,7 +243,7 @@
   },
   "sox": {
    "price": 12417.05,
-   "prev": 12455.998,
+   "prev": 12456.0,
    "spark": [
     12338.7373,
     12319.7744,
@@ -289,10 +289,10 @@
   },
   "nikkei": {
    "price": 68713.8,
-   "prev": 68308.59,
+   "prev": 68308.6,
    "spark": [
-    68882.6406,
     68899.7578,
+    68889.0078,
     68889.0078,
     68875.0391,
     68834.3203,
@@ -451,21 +451,16 @@
    ]
   },
   "btc": {
-   "price": 63176.79,
+   "price": 63151.71,
    "prev": 63024.637,
    "spark": [
-    62994.0117,
-    62994.2812,
-    62996.8086,
-    62993.6289,
-    62995.8594,
     62994.25,
-    62994.4102,
+    62995.5,
     62997.2109,
     63030.1094,
-    63004.4492,
-    63020.9883,
-    63025.0391,
+    63004.4414,
+    63021.0,
+    63025.0312,
     63029.4102,
     63032.0586,
     63034.2188,
@@ -487,26 +482,26 @@
     63137.8398,
     63257.0195,
     63250.0,
-    63252.1602,
-    63296.1211,
+    63252.1719,
+    63298.6914,
     63259.2383,
-    63220.8594,
+    63220.8711,
     63215.7109,
-    63171.7617,
-    63176.7891
+    63179.7891,
+    63186.9219,
+    63206.8789,
+    63195.5781,
+    63150.6719,
+    63157.5,
+    63151.7109
    ]
   },
   "eth": {
-   "price": 1887.59,
+   "price": 1885.25,
    "prev": 1880.982,
    "spark": [
-    1879.38,
-    1879.62,
-    1879.76,
-    1879.91,
-    1880.01,
     1880.51,
-    1880.59,
+    1880.6,
     1881.35,
     1882.42,
     1880.01,
@@ -515,11 +510,11 @@
     1880.6899,
     1881.01,
     1881.1,
-    1881.38,
+    1881.39,
     1881.47,
     1881.47,
     1881.49,
-    1881.88,
+    1881.72,
     1881.72,
     1881.99,
     1882.36,
@@ -531,15 +526,20 @@
     1882.33,
     1882.53,
     1883.53,
-    1885.51,
+    1885.4,
     1885.5601,
     1886.0601,
     1889.12,
-    1888.4,
+    1888.2,
     1888.21,
     1888.35,
-    1887.24,
-    1887.59
+    1887.64,
+    1887.45,
+    1888.03,
+    1887.7,
+    1885.9,
+    1885.42,
+    1885.25
    ]
   },
   "eurkrw": {
@@ -773,7 +773,7 @@
    ]
   },
   "dxy": {
-   "price": 99.636,
+   "price": 99.667,
    "prev": 99.667,
    "spark": []
   }
@@ -805,13 +805,13 @@
   },
   {
    "title": "“코스피 7000 못 믿겠다”…강세장 뒤 불어난 ‘공매도 폭탄’ [머니+]",
-   "source": "에너지경제신문",
+   "source": "ekn.kr",
    "time": "2026-08-16T12:34:43+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MWkRrLURpT1lpZDdqS2h2bjRRdnU0Ti1ZcDhjdnMtTUZodXJsSUd2dURyZmt4dDdrN3hlWndJZVNCTC0xeWxDQzZ4dHB6a3NLTXVOX1YxeUJyVnM?oc=5"
   },
   {
    "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
-   "source": "연합뉴스",
+   "source": "yna.co.kr",
    "time": "2026-08-16T12:27:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UlN0QWRNNTlIN1lBeXczcjFpYkdqOUV5b3FzbUN4aFJBYUZadWFNQk45aWltMkZOSXRiWEZjVlVFU1liU1IxbVlRMkd6bm1KY3B4QThQNHZzdmfSAWBBVV95cUxOTnplV25wWGt4RlRJcXhrV1A5cnZFcmR1Ny1MMFVHMTVpcm83UXUzdU85UXd2SkRtWXdPUnhGWWM4ZnRVeGxvT2R6OE0zVFByNXRlbzNKaHB0dHRtSGp1dko?oc=5"
   },
@@ -834,14 +834,20 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cGIyY2hUTndzanRERVNjRWhtWFJPWWVRaUh4TC1KZUI5NUhlemstVUttUm1LSnAzSGtZbTg0Z1l2ZHFqWXRab2dueHFTR3o0U3c?oc=5"
   },
   {
+   "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
+   "source": "디지털데일리",
+   "time": "2026-08-16T18:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
+  },
+  {
    "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-   "source": "sentv.co.kr",
+   "source": "서울경제TV",
    "time": "2026-08-16T09:11:20+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
   },
   {
    "title": "UBS, 비트코인 ETF 콜옵션 24배 급증…IBIT 노출 확대",
-   "source": "bloomingbit.io",
+   "source": "블루밍비트",
    "time": "2026-08-16T15:39:25+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
   },
@@ -850,12 +856,6 @@
    "source": "서울신문",
    "time": "2026-08-17T00:48:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fYXpTbG5aYzBQRTVMQ2c1RG00VU1iRFRtTkhXakVNenY4bmNwTjlOaXZLUU84WHRUelVmY1I2ektPMTVHWlpUUDJiZTJCcU1jU3B4OElEOEpLT2ZIdWx5WVhWRmZGZEdKelFieHp6RmYyU3BmMU9YYUdB?oc=5"
-  },
-  {
-   "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
-   "source": "ddaily.co.kr",
-   "time": "2026-08-16T18:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
   },
   {
    "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
