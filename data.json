@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T17:57:05.864886+09:00",
+ "updated": "2026-08-16T18:25:16.971482+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,30 +451,25 @@
    ]
   },
   "btc": {
-   "price": 63000.21,
+   "price": 63000.9,
    "prev": 63024.637,
    "spark": [
-    62982.1914,
-    62989.3086,
-    62997.8281,
-    63004.9609,
-    63008.5508,
     62979.7812,
     62989.9883,
-    62979.7812,
-    63001.8906,
+    62979.7695,
+    63001.8789,
     62990.25,
-    62992.4609,
+    62992.4492,
     62997.2188,
     63006.6602,
-    63001.8906,
+    63001.8789,
     62993.7188,
     62984.5703,
     62984.9688,
     62984.3398,
     62986.3711,
     62994.25,
-    62994.7695,
+    62994.7812,
     62993.5195,
     62999.9805,
     62982.5,
@@ -483,63 +478,68 @@
     62991.2305,
     63005.1797,
     62997.7188,
-    62990.0391,
+    62990.0312,
     62990.1406,
     62999.6094,
-    63005.9414,
-    63007.4688,
-    63003.1797,
+    63004.6797,
+    63004.0,
+    63003.1914,
     62996.5781,
     62998.4688,
     63000.0898,
-    63000.2109,
-    63000.2109
+    63001.9102,
+    63001.8984,
+    62999.4492,
+    62996.1484,
+    62996.1484,
+    63000.8984,
+    63000.8984
    ]
   },
   "eth": {
-   "price": 1878.74,
+   "price": 1880.19,
    "prev": 1880.982,
    "spark": [
-    1878.8101,
-    1877.91,
-    1878.12,
-    1878.48,
-    1878.42,
-    1878.02,
+    1877.95,
     1877.34,
-    1877.4301,
+    1877.47,
     1878.1801,
-    1878.22,
+    1878.21,
     1878.76,
-    1878.65,
+    1878.66,
     1879.0,
     1878.52,
     1878.66,
-    1878.04,
+    1878.03,
     1878.49,
     1878.55,
     1878.8,
     1879.2,
     1879.46,
-    1879.2,
+    1879.1899,
     1879.29,
-    1879.08,
+    1879.0699,
     1879.24,
     1879.29,
     1879.3,
     1879.4301,
     1878.8,
-    1878.71,
+    1878.72,
     1878.6801,
-    1878.91,
+    1878.92,
     1878.64,
     1878.9301,
     1879.11,
     1878.41,
     1878.64,
     1878.64,
-    1878.65,
-    1878.74
+    1878.83,
+    1879.1,
+    1878.78,
+    1880.01,
+    1879.97,
+    1880.14,
+    1880.1899
    ]
   },
   "eurkrw": {
@@ -780,16 +780,16 @@
  },
  "news": [
   {
-   "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
-   "source": "문화일보",
-   "time": "2026-08-16T10:30:36+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
-  },
-  {
    "title": "\"올라도 못 믿겠다\"...코스피 반등에도 주식 팔아치우는 개미들",
    "source": "조선일보",
    "time": "2026-08-16T10:29:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
+  },
+  {
+   "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
+   "source": "문화일보",
+   "time": "2026-08-16T10:30:36+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
   },
   {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
@@ -816,22 +816,28 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
   },
   {
+   "title": "[표] 외국환율고시표",
+   "source": "매일경제 마켓",
+   "time": "2026-08-16T17:55:43+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cGIyY2hUTndzanRERVNjRWhtWFJPWWVRaUh4TC1KZUI5NUhlemstVUttUm1LSnAzSGtZbTg0Z1l2ZHFqWXRab2dueHFTR3o0U3c?oc=5"
+  },
+  {
    "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
    "source": "서울경제TV",
    "time": "2026-08-16T09:11:20+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
   },
   {
-   "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
-   "source": "ebn.co.kr",
-   "time": "2026-08-16T17:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5"
-  },
-  {
    "title": "UBS, 비트코인 ETF 콜옵션 24배 급증…IBIT 노출 확대",
    "source": "블루밍비트",
    "time": "2026-08-16T15:39:25+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
+  },
+  {
+   "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
+   "source": "ebn.co.kr",
+   "time": "2026-08-16T17:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5"
   },
   {
    "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
@@ -856,12 +862,6 @@
    "source": "브릿지경제",
    "time": "2026-08-16T11:40:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZTQ3QjNaT05fN205SzU0TTdOSmJOSkFrQ21xbXBMcXhaeDhfQUFJMjZFa3lZMWRMVEJnd1JtV0hCVmVSUjg4elpndkJVd05NWU45eHRqZlowQQ?oc=5"
-  },
-  {
-   "title": "비트코인 8924만 원대 횡보, 물가 안정에도 투자 '관망 심리' 이어져",
-   "source": "businesspost.co.kr",
-   "time": "2026-08-16T15:56:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wdHo4NzVFZEEzNDVGdGlJdnY3eWduZVc5OEVYMlNMYURHNUI0UWNPajZSeW5sNzlDQl9Ecl9ITHVueVFmamYzcXlDOXVDdzh4Q0w5aGkwU2JtZjRqWlYzTTE4Y0RBdjliWVZuNnREVC1PQms?oc=5"
   }
  ]
 }
