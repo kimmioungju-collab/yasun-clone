@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T14:47:15.744508+09:00",
+ "updated": "2026-08-16T15:13:52.348377+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,14 +451,9 @@
    ]
   },
   "btc": {
-   "price": 62987.08,
+   "price": 63009.79,
    "prev": 63024.637,
    "spark": [
-    63049.8008,
-    63085.4805,
-    63067.5508,
-    63059.0586,
-    63054.4492,
     63052.5703,
     63052.9414,
     63050.9805,
@@ -492,19 +487,19 @@
     63005.5586,
     63007.7383,
     62990.1484,
-    62986.0,
-    62987.0781
+    62982.1914,
+    62989.3086,
+    62997.8281,
+    63004.9609,
+    63008.5508,
+    63009.8008,
+    63009.7891
    ]
   },
   "eth": {
-   "price": 1878.84,
+   "price": 1878.54,
    "prev": 1880.982,
    "spark": [
-    1881.8,
-    1882.16,
-    1881.48,
-    1881.65,
-    1881.79,
     1881.89,
     1882.03,
     1881.85,
@@ -538,8 +533,13 @@
     1879.15,
     1879.26,
     1878.8199,
-    1878.9301,
-    1878.84
+    1878.8101,
+    1877.91,
+    1878.12,
+    1878.48,
+    1878.42,
+    1878.5,
+    1878.54
    ]
   },
   "eurkrw": {
@@ -780,6 +780,12 @@
  },
  "news": [
   {
+   "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
+   "source": "문화일보",
+   "time": "2026-08-16T10:30:36+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
+  },
+  {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
    "source": "연합인포맥스",
    "time": "2026-08-15T09:00:00+09:00",
@@ -796,12 +802,6 @@
    "source": "조선일보",
    "time": "2026-08-16T10:24:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
-  },
-  {
-   "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
-   "source": "munhwa.com",
-   "time": "2026-08-16T10:30:36+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
   },
   {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
