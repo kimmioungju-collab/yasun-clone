@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T04:45:40.749360+09:00",
+ "updated": "2026-08-17T04:57:45.798455+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,12 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63105.38,
+   "price": 63041.92,
    "prev": 63024.637,
    "spark": [
-    63296.1211,
-    63259.2383,
-    63220.8594,
     63215.7109,
     63179.7891,
     63186.9219,
@@ -493,16 +490,16 @@
     63144.7188,
     63151.6211,
     63093.8203,
-    63105.3789
+    63066.0,
+    63048.5195,
+    63043.8789,
+    63041.9219
    ]
   },
   "eth": {
-   "price": 1883.85,
+   "price": 1883.79,
    "prev": 1880.982,
    "spark": [
-    1889.12,
-    1888.4,
-    1888.21,
     1888.35,
     1887.5601,
     1887.59,
@@ -539,7 +536,10 @@
     1885.7,
     1885.74,
     1883.77,
-    1883.85
+    1883.16,
+    1883.34,
+    1883.9399,
+    1883.79
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 159.263,
+   "price": 159.268,
    "prev": 159.5,
    "spark": [
     159.365,
@@ -781,7 +781,7 @@
  "news": [
   {
    "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
-   "source": "조선일보",
+   "source": "chosun.com",
    "time": "2026-08-16T10:29:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
   },
@@ -798,20 +798,20 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
-   "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
-   "source": "KBS 뉴스",
-   "time": "2026-08-14T06:53:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
-  },
-  {
    "title": "“코스피, 앞으로 더 크게 흔들릴 수도” … AI시대 견뎌야 할 ‘뉴노멀’",
    "source": "매일경제",
    "time": "2026-08-17T04:10:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd3ZLeFVWb245Ni1OX05MeGRvX204NElzS1BqRFVhTEJ3ZWtoMnZiNXNZTGExRHRmWnQ2RUtwZTZSQVVURXA0RkpCekxHZW9xUEE?oc=5"
   },
   {
+   "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
+   "source": "KBS 뉴스",
+   "time": "2026-08-14T06:53:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
+  },
+  {
    "title": "“코스피 7000 못 믿겠다”…강세장 뒤 불어난 ‘공매도 폭탄’ [머니+]",
-   "source": "에너지경제신문",
+   "source": "ekn.kr",
    "time": "2026-08-16T12:34:43+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MWkRrLURpT1lpZDdqS2h2bjRRdnU0Ti1ZcDhjdnMtTUZodXJsSUd2dURyZmt4dDdrN3hlWndJZVNCTC0xeWxDQzZ4dHB6a3NLTXVOX1YxeUJyVnM?oc=5"
   },
@@ -835,13 +835,13 @@
   },
   {
    "title": "1410원대로 내려온 환율, 빨라진 ‘대미 투자’ 시계에 반등 여부 촉각",
-   "source": "sisajournal-e.com",
+   "source": "시사저널e",
    "time": "2026-08-16T17:26:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWal8zR1prYmpwTklUTkNlQ2JVS1FBdVJUcUZCcVVFOTAxcGRNZWFBUDJhWXVOcDNSOHp1MUwyRUNGamtiMFJWRlhXcS1TUmtWRm96aDVTblN2Z1JBZjJVUVdrRHNQSnNWZDIweHhnNlNhUdIBdkFVX3lxTE9LaUk0UVEyM0lsT3RfdDZSNnhVUlNYbGJzX2d6c0Q3RlhzNTVhMG45YUtmN1FiUkVqNFBnVE1od2Zvc3hOeGE5YmVKUlRxY1EyeWZYZ240ODZDN1p0VjhjcGlVci1TVXJoWUI4TnBWeHVBWUFGc1E?oc=5"
   },
   {
    "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
-   "source": "ddaily.co.kr",
+   "source": "디지털데일리",
    "time": "2026-08-16T18:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
   },
