@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T00:28:16.044020+09:00",
+ "updated": "2026-08-17T00:47:38.978522+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,13 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63045.83,
+   "price": 63057.99,
    "prev": 63024.637,
    "spark": [
-    62947.7695,
-    62949.7617,
-    62944.4492,
-    62942.1484,
     62940.9219,
     62927.1094,
     62943.2305,
@@ -492,18 +488,18 @@
     63036.3516,
     63036.2109,
     63038.5117,
-    63045.8203,
-    63045.8281
+    63047.0,
+    63061.0,
+    63066.9805,
+    63043.1016,
+    63055.6094,
+    63057.9883
    ]
   },
   "eth": {
-   "price": 1881.97,
+   "price": 1882.5,
    "prev": 1880.982,
    "spark": [
-    1878.27,
-    1878.29,
-    1878.5,
-    1877.86,
     1877.84,
     1877.49,
     1878.03,
@@ -538,8 +534,12 @@
     1881.49,
     1881.88,
     1881.72,
-    1881.98,
-    1881.97
+    1881.99,
+    1882.36,
+    1882.63,
+    1880.7,
+    1882.51,
+    1882.5
    ]
   },
   "eurkrw": {
@@ -822,6 +822,12 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTnd3bXhVZmgzY3lnaXc4bnlucGlfc0FMTUVVVzduWUxLakxPNFEwaWVjUElNdmpYdF9zRmZwampnTTBMVU5mVFdQQWVSaVRad2J6UVBwMnphOFBpRkROZXFGZVIwR3pCLU0tZk9HWjRVNEE?oc=5"
   },
   {
+   "title": "1410원대로 내려온 환율, 빨라진 ‘대미 투자’ 시계에 반등 여부 촉각",
+   "source": "sisajournal-e.com",
+   "time": "2026-08-16T17:26:50+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWal8zR1prYmpwTklUTkNlQ2JVS1FBdVJUcUZCcVVFOTAxcGRNZWFBUDJhWXVOcDNSOHp1MUwyRUNGamtiMFJWRlhXcS1TUmtWRm96aDVTblN2Z1JBZjJVUVdrRHNQSnNWZDIweHhnNlNhUdIBdkFVX3lxTE9LaUk0UVEyM0lsT3RfdDZSNnhVUlNYbGJzX2d6c0Q3RlhzNTVhMG45YUtmN1FiUkVqNFBnVE1od2Zvc3hOeGE5YmVKUlRxY1EyeWZYZ240ODZDN1p0VjhjcGlVci1TVXJoWUI4TnBWeHVBWUFGc1E?oc=5"
+  },
+  {
    "title": "[표] 외국환율고시표",
    "source": "매일경제 마켓",
    "time": "2026-08-16T17:55:43+09:00",
@@ -856,12 +862,6 @@
    "source": "뉴스웍스",
    "time": "2026-08-16T14:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
-  },
-  {
-   "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
-   "source": "ebn.co.kr",
-   "time": "2026-08-16T17:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5"
   }
  ]
 }
