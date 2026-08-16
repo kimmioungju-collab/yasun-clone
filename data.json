@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T13:17:30.024901+09:00",
+ "updated": "2026-08-16T13:53:08.352479+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,86 +451,79 @@
    ]
   },
   "btc": {
-   "price": 63063.36,
+   "price": 63055.24,
    "prev": 63024.637,
    "spark": [
-    62984.5117,
-    62983.3008,
-    62983.2188,
-    63006.9883,
-    62985.9492,
-    62997.7617,
-    62939.4102,
-    63003.6211,
+    63004.3086,
     62999.8516,
     62975.1797,
     63013.8984,
     62977.4219,
-    62974.1211,
+    62974.1289,
     62958.5781,
     62976.6992,
     63043.4805,
-    63046.0898,
     63046.0781,
-    63051.1914,
+    63046.0781,
+    63049.8008,
     63085.4805,
     63067.5508,
-    63059.0508,
+    63059.0586,
     63054.4492,
     63052.5703,
     63052.9414,
-    63050.9688,
+    63050.9805,
     63049.6016,
-    63047.8984,
-    63050.4609,
+    63049.1719,
+    63050.4492,
     63052.4805,
     63052.5,
     63052.4883,
     63058.2383,
-    63055.9219,
+    63053.7109,
     63059.4297,
     63059.4297,
     63061.2188,
     63063.0703,
-    63063.3594,
-    63063.3594
+    63082.4883,
+    63080.5703,
+    63082.4883,
+    63053.3594,
+    63052.9883,
+    63052.9414,
+    63053.6289,
+    63055.25,
+    63055.2383
    ]
   },
   "eth": {
-   "price": 1880.97,
+   "price": 1880.52,
    "prev": 1880.982,
    "spark": [
-    1878.97,
-    1879.48,
-    1879.04,
-    1880.1801,
-    1878.54,
-    1878.72,
-    1875.37,
     1878.8101,
     1877.9,
-    1877.3199,
+    1877.33,
     1878.62,
     1877.9399,
     1878.22,
     1877.35,
-    1879.62,
+    1879.63,
     1882.45,
     1882.12,
     1882.3101,
     1881.8,
-    1882.17,
-    1881.47,
+    1882.16,
+    1881.48,
     1881.65,
     1881.79,
     1881.89,
-    1882.05,
+    1882.03,
     1881.85,
     1882.28,
     1881.83,
-    1881.4399,
+    1881.45,
     1881.86,
-    1881.98,
+    1881.97,
     1881.7,
     1881.58,
     1881.1,
@@ -538,8 +531,15 @@
     1881.24,
     1881.28,
     1881.04,
-    1880.96,
-    1880.97
+    1881.71,
+    1882.03,
+    1882.22,
+    1880.79,
+    1880.73,
+    1880.8,
+    1880.83,
+    1880.52,
+    1880.52
    ]
   },
   "eurkrw": {
@@ -684,6 +684,7 @@
    "price": 159.305,
    "prev": 159.5,
    "spark": [
+    159.365,
     159.354,
     159.358,
     159.354,
@@ -722,7 +723,6 @@
     159.311,
     159.317,
     159.285,
-    159.305,
     159.305
    ]
   },
@@ -786,16 +786,22 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLSnpobTgwNEFBUEdXMFBaTzhZQlZKVFNKT2NQT0p0bE1FcDdfa3JFbnVyTEp3Sml0Q1p5ZDg1NG5mRWlqSGtqTGhGUzhUcGN0SV9TRUMzRXZfbWhRQklzMWVZcw?oc=5"
   },
   {
+   "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
+   "source": "연합인포맥스",
+   "time": "2026-08-15T09:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
+  },
+  {
    "title": "\"올라도 못 믿겠다\"...코스피 반등에도 주식 팔아치우는 개미들",
    "source": "조선일보",
    "time": "2026-08-16T10:24:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
   },
   {
-   "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-   "source": "연합인포맥스",
-   "time": "2026-08-15T09:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
+   "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
+   "source": "연합뉴스",
+   "time": "2026-08-16T12:27:34+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UlN0QWRNNTlIN1lBeXczcjFpYkdqOUV5b3FzbUN4aFJBYUZadWFNQk45aWltMkZOSXRiWEZjVlVFU1liU1IxbVlRMkd6bm1KY3B4QThQNHZzdmfSAWBBVV95cUxOTnplV25wWGt4RlRJcXhrV1A5cnZFcmR1Ny1MMFVHMTVpcm83UXUzdU85UXd2SkRtWXdPUnhGWWM4ZnRVeGxvT2R6OE0zVFByNXRlbzNKaHB0dHRtSGp1dko?oc=5"
   },
   {
    "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
@@ -816,12 +822,6 @@
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xRW12ZVUxZFlSZ05JRS1Yd0NwSWlqc0M2dEhsdkF0WjFwVXQtVUY5OU03ejlPOWVBajl1OXo0b2xSX3k5?oc=5"
   },
   {
-   "title": "[마켓 ING]코스피, 금리 방향성에 주목하며 7000선 안착 시도",
-   "source": "아시아경제",
-   "time": "2026-08-16T10:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQVM4T1Z5dFA2N29HclAtdzVnZWloeXdyc0lpdGxDeVhBQVZwYlA3ZVJMRVNZbDJINEEzR0hvekY5bVlCRGJnZXdicHdIY1hfOGV0MmRVV010dlhTWUN5Tg?oc=5"
-  },
-  {
    "title": "코스피 7000 회복에도 ‘하락 베팅’…공매도 잔고 14% 증가",
    "source": "브릿지경제",
    "time": "2026-08-16T11:40:00+09:00",
@@ -829,9 +829,15 @@
   },
   {
    "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-   "source": "서울경제TV",
+   "source": "sentv.co.kr",
    "time": "2026-08-16T09:11:20+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
+  },
+  {
+   "title": "[마켓 ING]코스피, 금리 방향성에 주목하며 7000선 안착 시도",
+   "source": "아시아경제",
+   "time": "2026-08-16T10:45:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQVM4T1Z5dFA2N29HclAtdzVnZWloeXdyc0lpdGxDeVhBQVZwYlA3ZVJMRVNZbDJINEEzR0hvekY5bVlCRGJnZXdicHdIY1hfOGV0MmRVV010dlhTWUN5Tg?oc=5"
   },
   {
    "title": "[마켓인사이트] 한주 내내 바닥다진 코스피, 상승흐름 이어가나",
@@ -856,12 +862,6 @@
    "source": "굿모닝베트남미디어",
    "time": "2026-08-16T10:57:19+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Mak5mUjNlbzlFbW9XcDE4eDlTR1VkV01aQ1NYWUZpbFVJaXV5S1Iyd0lJaTZjVUlaSUlpR21QTEhzbTg0eXNMVS1ObmNUN2VqZFpfLWF2SFcza3ZHZGFOZUV6ZzhURmJTUkQ1RHBjWWI?oc=5"
-  },
-  {
-   "title": "금리인상 우려 완화·레버리지 진정…코스피, 다시 ‘1만’ 바라본다 [증시레이더]",
-   "source": "디지털데일리",
-   "time": "2026-08-16T07:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5La0lXU2pVaENrcktoa09BR3p6RUpCZXJ3OEhFWVN6ZFFfTERBNEF1bHRPMDBkdXhVYzR3WkNDcHNTZnpZQnA4di1LandSbkJ2U09qOHJtSFpPdjM5UlNudXlqRzk?oc=5"
   }
  ]
 }
