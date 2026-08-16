@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T11:48:21.070679+09:00",
+ "updated": "2026-08-16T12:34:47.334569+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -246,9 +246,9 @@
     7804.5,
     7801.75,
     7801.5,
-    7802.5,
+    7802.25,
     7804.5,
-    7805.0,
+    7805.25,
     7806.25,
     7804.25,
     7802.5,
@@ -256,13 +256,13 @@
     7803.25,
     7802.75,
     7803.75,
-    7804.0,
-    7804.75,
+    7804.25,
+    7805.25,
     7804.0,
     7804.25,
     7804.5,
     7804.5,
-    7805.5,
+    7805.25,
     7802.5,
     7801.0,
     7800.75,
@@ -582,7 +582,7 @@
     64.955,
     64.95,
     64.88,
-    64.86,
+    64.875,
     64.94,
     64.88,
     64.86,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 63073.15,
+   "price": 63052.5,
    "prev": 63024.637,
    "spark": [
-    63010.4297,
-    63006.5,
-    62999.0312,
-    63003.8008,
     63001.6719,
     63003.3984,
     62997.6992,
@@ -774,18 +770,23 @@
     63046.0781,
     63049.8008,
     63085.4805,
-    63073.1484,
-    63073.1484
+    63067.5508,
+    63059.0586,
+    63054.4492,
+    63052.5703,
+    63052.9414,
+    63050.9805,
+    63049.6016,
+    63049.1719,
+    63050.4492,
+    63051.2188,
+    63052.5
    ]
   },
   "eth": {
-   "price": 1881.99,
+   "price": 1881.95,
    "prev": 1880.982,
    "spark": [
-    1881.49,
-    1881.36,
-    1880.66,
-    1880.67,
     1880.55,
     1880.85,
     1880.4,
@@ -815,8 +816,17 @@
     1882.3101,
     1881.8,
     1882.16,
-    1881.8101,
-    1881.99
+    1881.48,
+    1881.65,
+    1881.79,
+    1881.89,
+    1882.03,
+    1881.85,
+    1882.28,
+    1881.83,
+    1881.45,
+    1881.9,
+    1881.95
    ]
   },
   "eurkrw": {
@@ -1116,16 +1126,16 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Xc3JBOEw3NGNGemp5M0VqRG1McnBaX045dzNYWXN0T2RZZTFPSWxWdm1SaTdleEFIVmNxNTlBaTdZWi1tMGMyY3lIQm1pUjhaVTFkYmRsejVaUGFnOThRSw?oc=5"
   },
   {
-   "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
-   "source": "문화일보",
-   "time": "2026-08-16T10:30:36+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
-  },
-  {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
    "source": "KBS 뉴스",
    "time": "2026-08-14T06:53:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
+  },
+  {
+   "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
+   "source": "문화일보",
+   "time": "2026-08-16T10:30:36+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
   },
   {
    "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
@@ -1176,10 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JSFRmSE1MS2VoaVAyWDMxbS1YM2JkVUM1RmtNQVZOcnpId0ZrUk9HaURrb0NjQTlPanhKclRkWkxVQjVtYURxSld0UEpKQ1FWSEFrZm1FOU9RZw?oc=5"
   },
   {
-   "title": "출발증시 2부",
-   "source": "한국경제TV",
-   "time": "2026-08-14T23:30:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5"
+   "title": "\"열흘 만에 22% 급등\"…외신들 '코스피 기술적 강세장' 진단",
+   "source": "v.daum.net",
+   "time": "2026-08-13T11:03:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42anotTzA0SGNXS0dNT0RFb0p3YUVKMnZUNEIzYmt1aFdyMGd0QUlHMjhfQnJBamlqQU5aeTk0QVp2dFZFS1g0Y0tGdUk1cTA?oc=5"
   }
  ]
 }
