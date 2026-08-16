@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T07:39:34.329738+09:00",
+ "updated": "2026-08-17T07:55:50.929017+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -186,25 +186,32 @@
    ]
   },
   "nq": {
-   "price": 30193.5,
+   "price": 30192.0,
    "prev": 30141.75,
    "spark": [
     30196.5,
     30193.5,
     30192.0,
     30192.75,
-    30193.5
+    30193.75,
+    30193.5,
+    30192.25,
+    30203.75,
+    30192.0
    ]
   },
   "es": {
-   "price": 7810.0,
+   "price": 7809.5,
    "prev": 7805.0,
    "spark": [
     7810.75,
     7810.5,
     7810.0,
     7809.75,
-    7810.0
+    7809.5,
+    7809.25,
+    7809.5,
+    7809.5
    ]
   },
   "ndx": {
@@ -346,58 +353,75 @@
    ]
   },
   "wti": {
-   "price": 82.52,
+   "price": 82.34,
    "prev": 82.4,
    "spark": [
     82.61,
     82.6,
     82.5,
     82.52,
-    82.52
+    82.49,
+    82.41,
+    82.32,
+    82.38,
+    82.34
    ]
   },
   "brent": {
-   "price": 88.71,
+   "price": 88.62,
    "prev": 88.52,
    "spark": [
     88.82,
     88.79,
     88.75,
     88.71,
-    88.71
+    88.69,
+    88.68,
+    88.62,
+    88.62
    ]
   },
   "gold": {
-   "price": 4430.6,
+   "price": 4434.4,
    "prev": 4437.3,
    "spark": [
     4432.6001,
     4430.7998,
     4430.0,
     4430.6001,
-    4430.6001
+    4433.2998,
+    4434.2002,
+    4433.3999,
+    4436.7002,
+    4434.3999
    ]
   },
   "silver": {
-   "price": 65.045,
+   "price": 65.09,
    "prev": 65.108,
    "spark": [
     64.95,
     65.02,
     65.005,
     65.045,
-    65.045
+    65.115,
+    65.125,
+    65.09,
+    65.09
    ]
   },
   "gas": {
-   "price": 2.683,
+   "price": 2.68,
    "prev": 2.733,
    "spark": [
     2.686,
     2.682,
     2.684,
     2.684,
-    2.683
+    2.686,
+    2.683,
+    2.68,
+    2.68
    ]
   },
   "vix": {
@@ -493,12 +517,9 @@
    ]
   },
   "btc": {
-   "price": 62681.79,
+   "price": 62760.44,
    "prev": 63024.637,
    "spark": [
-    63153.0391,
-    63144.7188,
-    63151.6211,
     63093.8203,
     63066.0,
     63048.5195,
@@ -534,17 +555,17 @@
     62793.7305,
     62780.0117,
     62741.0391,
-    62675.6602,
-    62681.7891
+    62667.7383,
+    62715.3906,
+    62738.4805,
+    62755.0703,
+    62760.4414
    ]
   },
   "eth": {
-   "price": 1869.23,
+   "price": 1872.33,
    "prev": 1880.982,
    "spark": [
-    1886.0601,
-    1885.7,
-    1885.74,
     1883.77,
     1883.16,
     1883.34,
@@ -580,8 +601,11 @@
     1873.9,
     1873.4399,
     1871.47,
-    1869.35,
-    1869.23
+    1868.22,
+    1871.72,
+    1872.16,
+    1872.2,
+    1872.33
    ]
   },
   "eurkrw": {
@@ -723,7 +747,7 @@
    ]
   },
   "usdjpy": {
-   "price": 159.217,
+   "price": 159.174,
    "prev": 159.5,
    "spark": [
     159.365,
@@ -769,7 +793,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1575,
+   "price": 1.1577,
    "prev": 1.1531,
    "spark": [
     1.1567,
@@ -815,7 +839,7 @@
    ]
   },
   "dxy": {
-   "price": 99.635,
+   "price": 99.612,
    "prev": 99.667,
    "spark": [
     99.661,
@@ -823,8 +847,11 @@
     99.662,
     99.656,
     99.637,
-    99.636,
-    99.635
+    99.635,
+    99.623,
+    99.612,
+    99.617,
+    99.612
    ]
   }
  },
@@ -843,7 +870,7 @@
   },
   {
    "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
-   "source": "조선일보",
+   "source": "chosun.com",
    "time": "2026-08-16T10:29:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
   },
@@ -896,16 +923,16 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMjNGcEJNMzlsZXdNQ3E4Sm83S3doWFh0MWRpUUN5NzNUN0RveXBXUHJmamtieGtCOEJJd0dzZUJxanRZaTVkOGdNdFlsVjV0a0dGZFJkU01nREVja2NDOdIBeEFVX3lxTFBaNHg2ejY1MVNyZHJwMEF5aUY3Y3Vyd2doYkNfQXhseGlNZ3ZUVDZJNWhYRHFYUkpRMVhCRXRZMzJuVWhyNndkNHJFMlpnWlZOaVJoN1h6b0ZsRjVUZzhGT0NBR19SR2V1enZnNGdzVWdHX3cwM3U5Mg?oc=5"
   },
   {
+   "title": "중소형 증권사, 상반기 실적 희비···증시 호황에도 명암 갈렸다",
+   "source": "뉴스웨이",
+   "time": "2026-08-17T07:02:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zeUIzUlRBVUV0Z0NzRzkzY2tMb3NtdU5KekJheVFsRUZaUTNDRUxKeksxSTROR0UtdjAtRTlyOEpLaXVfcjFRTVdSaVFqcDB3clJ4QzhrUjJOam1oa1QzVG5kSWRtRHF2LXc?oc=5"
+  },
+  {
    "title": "스트래티지 채무 상품, 비트코인 폭락장서 선방",
    "source": "글로벌이코노믹",
    "time": "2026-08-17T04:08:11+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzJPY3ZjVkt6UVVFQm1QLTRLUW54NzJvbVY2dTQzZFdBV3lBVmpYczVaNkdkelF0ZFZOQlFSOTVJeS1IdjhsMVprVlI2cGZpNkU4NE9rVVViZXpmX196UnVqekctZ2hZNlI5S0pTdkdseHN6eG9XT25CQWlwbVJ5d1BKTGk2YWtY?oc=5"
-  },
-  {
-   "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
-   "source": "연합뉴스",
-   "time": "2026-08-16T12:27:34+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UlN0QWRNNTlIN1lBeXczcjFpYkdqOUV5b3FzbUN4aFJBYUZadWFNQk45aWltMkZOSXRiWEZjVlVFU1liU1IxbVlRMkd6bm1KY3B4QThQNHZzdmfSAWBBVV95cUxOTnplV25wWGt4RlRJcXhrV1A5cnZFcmR1Ny1MMFVHMTVpcm83UXUzdU85UXd2SkRtWXdPUnhGWWM4ZnRVeGxvT2R6OE0zVFByNXRlbzNKaHB0dHRtSGp1dko?oc=5"
   },
   {
    "title": "비트코인 6만3천 달러 상회...세일러 \"디지털 화폐 에너지\" 주장",
