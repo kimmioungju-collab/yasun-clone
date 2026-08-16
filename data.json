@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T19:55:13.248064+09:00",
+ "updated": "2026-08-16T20:14:36.361097+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,21 +451,17 @@
    ]
   },
   "btc": {
-   "price": 62935.03,
+   "price": 62936.87,
    "prev": 63024.637,
    "spark": [
-    62982.5,
-    62986.5,
-    62991.0898,
-    62991.2305,
     63005.1797,
     62997.7188,
-    62990.0391,
+    62990.0312,
     62990.1406,
     62999.6094,
-    63005.9414,
-    63007.4688,
-    63003.1797,
+    63004.6797,
+    63004.0,
+    63003.1914,
     62996.5781,
     62998.4688,
     63000.0898,
@@ -473,7 +469,7 @@
     63001.8984,
     62999.4492,
     62996.1484,
-    62996.1602,
+    62996.1484,
     63000.8984,
     62993.1094,
     62978.9688,
@@ -481,34 +477,34 @@
     62922.4609,
     62926.9492,
     62937.0,
-    62917.5195,
+    62917.5117,
     62903.6211,
     62915.4883,
     62914.0,
     62916.9883,
     62919.0117,
-    62942.8398,
+    62941.2695,
     62934.8594,
     62937.9219,
-    62939.1719,
+    62939.1797,
     62939.5117,
     62935.0312,
-    62935.0312
+    62940.1992,
+    62942.2305,
+    62940.5312,
+    62936.8711,
+    62936.8711
    ]
   },
   "eth": {
    "price": 1878.84,
    "prev": 1880.982,
    "spark": [
-    1879.08,
-    1879.24,
-    1879.29,
-    1879.3,
     1879.4301,
     1878.8,
-    1878.71,
+    1878.72,
     1878.6801,
-    1878.91,
+    1878.92,
     1878.64,
     1878.9301,
     1879.11,
@@ -525,7 +521,7 @@
     1879.39,
     1879.4,
     1877.86,
-    1878.92,
+    1878.91,
     1878.75,
     1878.14,
     1877.99,
@@ -539,6 +535,10 @@
     1878.78,
     1879.12,
     1878.85,
+    1878.76,
+    1879.13,
+    1878.64,
+    1878.83,
     1878.84
    ]
   },
@@ -799,7 +799,7 @@
   },
   {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-   "source": "연합인포맥스",
+   "source": "news.einfomax.co.kr",
    "time": "2026-08-15T09:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
@@ -840,16 +840,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
   },
   {
-   "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
-   "source": "ebn.co.kr",
-   "time": "2026-08-16T17:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5"
-  },
-  {
    "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
    "source": "뉴스웍스",
    "time": "2026-08-16T14:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
+  },
+  {
+   "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
+   "source": "ebn.co.kr",
+   "time": "2026-08-16T17:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5"
   },
   {
    "title": "수출 중견기업 56%, 하반기 실적 증가 전망… ‘환율 변동성’은 과제",
