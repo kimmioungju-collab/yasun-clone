@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T03:45:05.625707+09:00",
+ "updated": "2026-08-17T04:04:13.628675+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,13 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63070.0,
+   "price": 63083.65,
    "prev": 63024.637,
    "spark": [
-    63061.0,
-    63066.9805,
-    63043.1016,
-    63057.8906,
     63053.1211,
     63070.0312,
     63065.5781,
@@ -492,18 +488,18 @@
     63089.3789,
     63089.6016,
     63083.4492,
-    63075.6484,
-    63070.0
+    63070.0,
+    63080.0117,
+    63071.4492,
+    63074.2891,
+    63083.6484,
+    63083.6484
    ]
   },
   "eth": {
-   "price": 1883.28,
+   "price": 1884.47,
    "prev": 1880.982,
    "spark": [
-    1882.36,
-    1882.63,
-    1880.7,
-    1882.28,
     1881.54,
     1882.01,
     1882.33,
@@ -539,7 +535,11 @@
     1884.2,
     1883.52,
     1883.28,
-    1883.28
+    1883.9399,
+    1883.42,
+    1883.6899,
+    1884.46,
+    1884.47
    ]
   },
   "eurkrw": {
@@ -781,7 +781,7 @@
  "news": [
   {
    "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
-   "source": "조선일보",
+   "source": "chosun.com",
    "time": "2026-08-16T10:29:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
   },
@@ -793,7 +793,7 @@
   },
   {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-   "source": "연합인포맥스",
+   "source": "news.einfomax.co.kr",
    "time": "2026-08-15T09:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
@@ -834,16 +834,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cGIyY2hUTndzanRERVNjRWhtWFJPWWVRaUh4TC1KZUI5NUhlemstVUttUm1LSnAzSGtZbTg0Z1l2ZHFqWXRab2dueHFTR3o0U3c?oc=5"
   },
   {
-   "title": "UBS, 비트코인 ETF 콜옵션 24배 급증…IBIT 노출 확대",
-   "source": "블루밍비트",
-   "time": "2026-08-16T15:39:25+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
-  },
-  {
    "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
    "source": "디지털데일리",
    "time": "2026-08-16T18:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
+  },
+  {
+   "title": "UBS, 비트코인 ETF 콜옵션 24배 급증…IBIT 노출 확대",
+   "source": "블루밍비트",
+   "time": "2026-08-16T15:39:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
   },
   {
    "title": "성공투자 오후증시",
@@ -852,16 +852,16 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTdYUXhFcGQ5MjdwNWpYWDAyYmx0THJpRkY0RDZzVGVvZ1pVNDBBQWV5am1OOXBndEhqZnNwYTd4VDNINmZQQVhYM1NpNTEtZDlqMEdUZ0xOUXBJS21uWkI1WUlBVlo2SjFaTGxkUDNJNVhERUE1UTFrSy01cThybDlTeUtjQ2pZZ0l6SFhFVktxYkgzOXBQYjI1VUxSQ2tHb2Zr?oc=5"
   },
   {
+   "title": "[D-BIZ 암호화폐 뉴스] '비트코인 매수·은행가 매도' 시대 끝…전통금융, 암호화폐와 경계 허물고 통합으로",
+   "source": "데일리비즈온",
+   "time": "2026-08-16T23:32:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWGZDeU01QXpKMEduU3VhMzNBbEJKalVKR3Q5aDNOOEJZU0hHQUdQRmRja2dwYmRqWTBMNXNnM0FxZTlLNW5NdDd4UjBDWkJ5TDdCOVhocFYtbnIycVZROFlWbV9QVEhXZzV6NA?oc=5"
+  },
+  {
    "title": "상반기 ‘연봉킹’ 카뱅 윤호영 82억… 증시 활황에 한투 오너·사장 2·3위",
    "source": "서울신문",
    "time": "2026-08-17T00:48:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fYXpTbG5aYzBQRTVMQ2c1RG00VU1iRFRtTkhXakVNenY4bmNwTjlOaXZLUU84WHRUelVmY1I2ektPMTVHWlpUUDJiZTJCcU1jU3B4OElEOEpLT2ZIdWx5WVhWRmZGZEdKelFieHp6RmYyU3BmMU9YYUdB?oc=5"
-  },
-  {
-   "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-   "source": "서울경제TV",
-   "time": "2026-08-16T09:11:20+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
   }
  ]
 }
