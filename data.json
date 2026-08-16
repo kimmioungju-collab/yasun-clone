@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T15:13:52.348377+09:00",
+ "updated": "2026-08-16T15:59:44.497106+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -291,8 +291,8 @@
    "price": 68713.8,
    "prev": 68308.59,
    "spark": [
+    68882.6406,
     68899.7578,
-    68889.0078,
     68889.0078,
     68875.0391,
     68834.3203,
@@ -451,18 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63009.79,
+   "price": 62992.24,
    "prev": 63024.637,
    "spark": [
-    63052.5703,
-    63052.9414,
-    63050.9805,
-    63049.6016,
-    63049.1719,
-    63050.4492,
-    63052.4805,
-    63052.5,
-    63052.4883,
     63058.2383,
     63053.7109,
     63059.4297,
@@ -492,23 +483,23 @@
     62997.8281,
     63004.9609,
     63008.5508,
-    63009.8008,
-    63009.7891
+    62979.7812,
+    62989.9883,
+    62979.7812,
+    63001.8906,
+    62990.25,
+    62992.4609,
+    62997.2188,
+    63006.6602,
+    63001.8906,
+    62992.2188,
+    62992.2383
    ]
   },
   "eth": {
-   "price": 1878.54,
+   "price": 1878.65,
    "prev": 1880.982,
    "spark": [
-    1881.89,
-    1882.03,
-    1881.85,
-    1882.28,
-    1881.83,
-    1881.45,
-    1881.86,
-    1881.97,
-    1881.7,
     1881.58,
     1881.1,
     1881.01,
@@ -538,8 +529,17 @@
     1878.12,
     1878.48,
     1878.42,
-    1878.5,
-    1878.54
+    1878.02,
+    1877.34,
+    1877.4301,
+    1878.1801,
+    1878.22,
+    1878.76,
+    1878.65,
+    1879.0,
+    1878.52,
+    1878.55,
+    1878.65
    ]
   },
   "eurkrw": {
@@ -786,6 +786,18 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
   },
   {
+   "title": "\"올라도 못 믿겠다\"...코스피 반등에도 주식 팔아치우는 개미들",
+   "source": "조선일보",
+   "time": "2026-08-16T10:24:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
+  },
+  {
+   "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
+   "source": "연합뉴스",
+   "time": "2026-08-16T12:27:34+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UlN0QWRNNTlIN1lBeXczcjFpYkdqOUV5b3FzbUN4aFJBYUZadWFNQk45aWltMkZOSXRiWEZjVlVFU1liU1IxbVlRMkd6bm1KY3B4QThQNHZzdmfSAWBBVV95cUxOTnplV25wWGt4RlRJcXhrV1A5cnZFcmR1Ny1MMFVHMTVpcm83UXUzdU85UXd2SkRtWXdPUnhGWWM4ZnRVeGxvT2R6OE0zVFByNXRlbzNKaHB0dHRtSGp1dko?oc=5"
+  },
+  {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
    "source": "연합인포맥스",
    "time": "2026-08-15T09:00:00+09:00",
@@ -798,28 +810,10 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLSnpobTgwNEFBUEdXMFBaTzhZQlZKVFNKT2NQT0p0bE1FcDdfa3JFbnVyTEp3Sml0Q1p5ZDg1NG5mRWlqSGtqTGhGUzhUcGN0SV9TRUMzRXZfbWhRQklzMWVZcw?oc=5"
   },
   {
-   "title": "\"올라도 못 믿겠다\"...코스피 반등에도 주식 팔아치우는 개미들",
-   "source": "조선일보",
-   "time": "2026-08-16T10:24:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
-  },
-  {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
    "source": "KBS 뉴스",
    "time": "2026-08-14T06:53:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
-  },
-  {
-   "title": "수출 중견기업 56%, 하반기 실적 증가 전망… ‘환율 변동성’은 과제",
-   "source": "산업일보",
-   "time": "2026-08-16T12:30:33+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xRW12ZVUxZFlSZ05JRS1Yd0NwSWlqc0M2dEhsdkF0WjFwVXQtVUY5OU03ejlPOWVBajl1OXo0b2xSX3k5?oc=5"
-  },
-  {
-   "title": "코스피 7000 회복에도 ‘하락 베팅’…공매도 잔고 14% 증가",
-   "source": "브릿지경제",
-   "time": "2026-08-16T11:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZTQ3QjNaT05fN205SzU0TTdOSmJOSkFrQ21xbXBMcXhaeDhfQUFJMjZFa3lZMWRMVEJnd1JtV0hCVmVSUjg4elpndkJVd05NWU45eHRqZlowQQ?oc=5"
   },
   {
    "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
@@ -828,16 +822,34 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
   },
   {
-   "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
-   "source": "뉴스웍스",
-   "time": "2026-08-16T14:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
+   "title": "수출 중견기업 56%, 하반기 실적 증가 전망… ‘환율 변동성’은 과제",
+   "source": "산업일보",
+   "time": "2026-08-16T12:30:33+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xRW12ZVUxZFlSZ05JRS1Yd0NwSWlqc0M2dEhsdkF0WjFwVXQtVUY5OU03ejlPOWVBajl1OXo0b2xSX3k5?oc=5"
+  },
+  {
+   "title": "UBS, 비트코인 ETF 콜옵션 24배 급증…IBIT 노출 확대",
+   "source": "블루밍비트",
+   "time": "2026-08-16T15:39:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
+  },
+  {
+   "title": "코스피 7000 회복에도 ‘하락 베팅’…공매도 잔고 14% 증가",
+   "source": "브릿지경제",
+   "time": "2026-08-16T11:40:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZTQ3QjNaT05fN205SzU0TTdOSmJOSkFrQ21xbXBMcXhaeDhfQUFJMjZFa3lZMWRMVEJnd1JtV0hCVmVSUjg4elpndkJVd05NWU45eHRqZlowQQ?oc=5"
   },
   {
    "title": "[마켓 ING]코스피, 금리 방향성에 주목하며 7000선 안착 시도",
    "source": "아시아경제",
    "time": "2026-08-16T10:45:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQVM4T1Z5dFA2N29HclAtdzVnZWloeXdyc0lpdGxDeVhBQVZwYlA3ZVJMRVNZbDJINEEzR0hvekY5bVlCRGJnZXdicHdIY1hfOGV0MmRVV010dlhTWUN5Tg?oc=5"
+  },
+  {
+   "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
+   "source": "뉴스웍스",
+   "time": "2026-08-16T14:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
   },
   {
    "title": "[마켓인사이트] 한주 내내 바닥다진 코스피, 상승흐름 이어가나",
@@ -850,18 +862,6 @@
    "source": "ebn.co.kr",
    "time": "2026-08-16T10:05:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aeXdKUWZTM0NpSTZXOVFWa1lyWlA3MmRPRGhFWFdTS19TMHlKeXktVHdoS0F3OHd2S181VG4zUG9nQW9HUENFSjVtNXQ4R2NSZDJCeGVkd0tRV2doT0NNbHdSd2xmbmxT?oc=5"
-  },
-  {
-   "title": "트렌드 추종 펀드, 나스닥 매수 지속 가능성—뱅크오브아메리카",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-15T19:46:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyWWtVcC1SYVl0eTFJSXFXUTcwVHBZVC11NGpPd1lHMlVvamhYZFFyNlM5SjR1Z0duT0hLbGZIUjBmYTBaS2M4cmVRTGRoTWFCakRub1Q0SERoT3J2c2tzSXVlaHU0U05ZVmxLRkt1Zlo?oc=5"
-  },
-  {
-   "title": "[국제/가상자산] MSCI, 비트코인 대량 보유 기업 퇴출 검토…Strategy·Metaplanet ‘지수 편입’ 비상",
-   "source": "굿모닝베트남미디어",
-   "time": "2026-08-16T10:57:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Mak5mUjNlbzlFbW9XcDE4eDlTR1VkV01aQ1NYWUZpbFVJaXV5S1Iyd0lJaTZjVUlaSUlpR21QTEhzbTg0eXNMVS1ObmNUN2VqZFpfLWF2SFcza3ZHZGFOZUV6ZzhURmJTUkQ1RHBjWWI?oc=5"
   }
  ]
 }
