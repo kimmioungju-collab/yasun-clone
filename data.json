@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T18:25:16.971482+09:00",
+ "updated": "2026-08-16T18:49:36.638593+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -291,8 +291,8 @@
    "price": 68713.8,
    "prev": 68308.59,
    "spark": [
+    68882.6406,
     68899.7578,
-    68889.0078,
     68889.0078,
     68875.0391,
     68834.3203,
@@ -451,25 +451,20 @@
    ]
   },
   "btc": {
-   "price": 63000.9,
+   "price": 62925.69,
    "prev": 63024.637,
    "spark": [
-    62979.7812,
-    62989.9883,
-    62979.7695,
-    63001.8789,
-    62990.25,
-    62992.4492,
+    62992.4609,
     62997.2188,
     63006.6602,
-    63001.8789,
+    63001.8906,
     62993.7188,
     62984.5703,
     62984.9688,
     62984.3398,
     62986.3711,
     62994.25,
-    62994.7812,
+    62994.7695,
     62993.5195,
     62999.9805,
     62982.5,
@@ -478,12 +473,12 @@
     62991.2305,
     63005.1797,
     62997.7188,
-    62990.0312,
+    62990.0391,
     62990.1406,
     62999.6094,
-    63004.6797,
-    63004.0,
-    63003.1914,
+    63005.9414,
+    63007.4688,
+    63003.1797,
     62996.5781,
     62998.4688,
     63000.0898,
@@ -491,42 +486,42 @@
     63001.8984,
     62999.4492,
     62996.1484,
-    62996.1484,
+    62996.1602,
     63000.8984,
-    63000.8984
+    62993.1094,
+    62978.9688,
+    62977.1484,
+    62922.4609,
+    62925.6914,
+    62925.6914
    ]
   },
   "eth": {
-   "price": 1880.19,
+   "price": 1878.92,
    "prev": 1880.982,
    "spark": [
-    1877.95,
-    1877.34,
-    1877.47,
-    1878.1801,
-    1878.21,
     1878.76,
-    1878.66,
+    1878.65,
     1879.0,
     1878.52,
     1878.66,
-    1878.03,
+    1878.04,
     1878.49,
     1878.55,
     1878.8,
     1879.2,
     1879.46,
-    1879.1899,
+    1879.2,
     1879.29,
-    1879.0699,
+    1879.08,
     1879.24,
     1879.29,
     1879.3,
     1879.4301,
     1878.8,
-    1878.72,
+    1878.71,
     1878.6801,
-    1878.92,
+    1878.91,
     1878.64,
     1878.9301,
     1879.11,
@@ -539,7 +534,12 @@
     1880.01,
     1879.97,
     1880.14,
-    1880.1899
+    1879.58,
+    1879.39,
+    1879.4,
+    1877.86,
+    1878.9,
+    1878.92
    ]
   },
   "eurkrw": {
@@ -792,16 +792,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
   },
   {
-   "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-   "source": "연합인포맥스",
-   "time": "2026-08-15T09:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
-  },
-  {
    "title": "“코스피 7000 못 믿겠다”…강세장 뒤 불어난 ‘공매도 폭탄’ [머니+]",
    "source": "에너지경제신문",
    "time": "2026-08-16T12:34:43+09:00",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLSnpobTgwNEFBUEdXMFBaTzhZQlZKVFNKT2NQT0p0bE1FcDdfa3JFbnVyTEp3Sml0Q1p5ZDg1NG5mRWlqSGtqTGhGUzhUcGN0SV9TRUMzRXZfbWhRQklzMWVZcw?oc=5"
+  },
+  {
+   "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
+   "source": "연합인포맥스",
+   "time": "2026-08-15T09:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
    "title": "[마켓인사이트] 한주 내내 바닥다진 코스피, 상승흐름 이어가나",
@@ -814,6 +814,12 @@
    "source": "KBS 뉴스",
    "time": "2026-08-14T06:53:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
+  },
+  {
+   "title": "비트코인 6만3천 달러 상회...세일러 \"디지털 화폐 에너지\" 주장",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-16T18:09:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTnd3bXhVZmgzY3lnaXc4bnlucGlfc0FMTUVVVzduWUxLakxPNFEwaWVjUElNdmpYdF9zRmZwampnTTBMVU5mVFdQQWVSaVRad2J6UVBwMnphOFBpRkROZXFGZVIwR3pCLU0tZk9HWjRVNEE?oc=5"
   },
   {
    "title": "[표] 외국환율고시표",
@@ -850,12 +856,6 @@
    "source": "산업일보",
    "time": "2026-08-16T12:30:33+09:00",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xRW12ZVUxZFlSZ05JRS1Yd0NwSWlqc0M2dEhsdkF0WjFwVXQtVUY5OU03ejlPOWVBajl1OXo0b2xSX3k5?oc=5"
-  },
-  {
-   "title": "“美 증시, 도박판”...워런 버핏 '일침'",
-   "source": "한경매거진&북",
-   "time": "2026-08-16T16:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY3ctbGpla3FLcTVxR1dER051OWRTMDVrX1NzR2c5ZXNEQnJvc2xOeF83TzVDUTlRWjZoRFA3MjYzLVBPUGh0RUhGZ2cyWWlTLXpYNjZTQTEtdFBITEEyalBlVG04a3VJdkJrcg?oc=5"
   },
   {
    "title": "코스피 7000 회복에도 ‘하락 베팅’…공매도 잔고 14% 증가",
