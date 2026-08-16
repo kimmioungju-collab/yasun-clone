@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T22:01:39.058711+09:00",
+ "updated": "2026-08-16T22:38:02.700005+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,16 +451,9 @@
    ]
   },
   "btc": {
-   "price": 62948.0,
+   "price": 62985.26,
    "prev": 63024.637,
    "spark": [
-    62937.0,
-    62917.5195,
-    62903.6211,
-    62915.4883,
-    62914.0,
-    62916.9883,
-    62919.0117,
     62942.8398,
     62934.8594,
     62937.9219,
@@ -493,20 +486,20 @@
     62945.4688,
     62948.0,
     62948.0,
-    62948.0
+    62994.6719,
+    62999.1289,
+    63000.0,
+    62999.9805,
+    62999.9883,
+    62997.8711,
+    62985.2617,
+    62985.2617
    ]
   },
   "eth": {
-   "price": 1877.76,
+   "price": 1878.6,
    "prev": 1880.982,
    "spark": [
-    1878.75,
-    1878.14,
-    1877.99,
-    1877.97,
-    1877.77,
-    1877.86,
-    1877.78,
     1878.5699,
     1878.21,
     1878.59,
@@ -538,8 +531,15 @@
     1878.03,
     1877.9301,
     1877.75,
-    1877.76,
-    1877.76
+    1877.85,
+    1878.74,
+    1878.7,
+    1879.25,
+    1878.58,
+    1878.76,
+    1879.79,
+    1878.66,
+    1878.6
    ]
   },
   "eurkrw": {
@@ -828,10 +828,10 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cGIyY2hUTndzanRERVNjRWhtWFJPWWVRaUh4TC1KZUI5NUhlemstVUttUm1LSnAzSGtZbTg0Z1l2ZHFqWXRab2dueHFTR3o0U3c?oc=5"
   },
   {
-   "title": "UBS, 비트코인 ETF 콜옵션 24배 급증…IBIT 노출 확대",
-   "source": "블루밍비트",
-   "time": "2026-08-16T15:39:25+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
+   "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
+   "source": "서울경제TV",
+   "time": "2026-08-16T09:11:20+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
   },
   {
    "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
@@ -840,10 +840,10 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
   },
   {
-   "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-   "source": "서울경제TV",
-   "time": "2026-08-16T09:11:20+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
+   "title": "UBS, 비트코인 ETF 콜옵션 24배 급증…IBIT 노출 확대",
+   "source": "블루밍비트",
+   "time": "2026-08-16T15:39:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
   },
   {
    "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
@@ -853,7 +853,7 @@
   },
   {
    "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
-   "source": "뉴스웍스",
+   "source": "newsworks.co.kr",
    "time": "2026-08-16T14:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
   },
