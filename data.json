@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T05:43:20.254047+09:00",
+ "updated": "2026-08-17T05:58:56.931538+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -291,8 +291,8 @@
    "price": 68713.8,
    "prev": 68308.6,
    "spark": [
+    68882.6406,
     68899.7578,
-    68889.0078,
     68889.0078,
     68875.0391,
     68834.3203,
@@ -451,15 +451,12 @@
    ]
   },
   "btc": {
-   "price": 62978.22,
+   "price": 63002.26,
    "prev": 63024.637,
    "spark": [
-    63066.1992,
-    63121.5,
-    63053.1289,
     63084.9883,
-    63098.8086,
-    63087.4102,
+    63098.8008,
+    63087.4219,
     63095.6992,
     63095.1914,
     63071.2188,
@@ -467,7 +464,7 @@
     63107.3281,
     63089.3789,
     63089.6016,
-    63082.1797,
+    63083.4492,
     63070.0,
     63080.0117,
     63071.4492,
@@ -475,34 +472,34 @@
     63087.2305,
     63097.8398,
     63104.6016,
-    63125.9805,
-    63126.9805,
+    63124.9805,
+    63126.3711,
     63153.0391,
     63144.7188,
     63151.6211,
-    63093.0117,
+    63093.8203,
     63066.0,
     63048.5195,
     63040.1719,
     63046.0,
-    63056.9219,
-    63062.5,
+    63055.3398,
+    63062.4883,
     63055.0703,
     63048.8906,
     63024.6602,
-    63042.3789,
-    63025.8203,
-    62996.0586,
-    62978.2188
+    63042.3711,
+    63025.8086,
+    63000.9102,
+    62970.8789,
+    62996.6719,
+    62990.1484,
+    63002.2617
    ]
   },
   "eth": {
-   "price": 1881.39,
+   "price": 1880.09,
    "prev": 1880.982,
    "spark": [
-    1882.3,
-    1884.72,
-    1882.77,
     1884.1801,
     1884.25,
     1883.12,
@@ -512,34 +509,37 @@
     1883.84,
     1883.85,
     1884.16,
-    1884.1801,
+    1884.2,
     1883.52,
     1883.28,
     1883.9399,
-    1883.45,
+    1883.42,
     1883.6899,
     1884.53,
-    1884.71,
+    1884.72,
     1884.62,
     1884.59,
     1884.74,
     1886.0601,
     1885.7,
-    1885.87,
+    1885.74,
     1883.77,
     1883.16,
-    1883.33,
-    1884.28,
+    1883.34,
+    1884.15,
     1883.74,
-    1884.51,
-    1884.96,
+    1884.37,
+    1884.95,
     1884.7,
     1885.23,
     1884.33,
     1883.51,
     1883.1,
-    1881.51,
-    1881.39
+    1882.01,
+    1881.59,
+    1881.21,
+    1880.13,
+    1880.09
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 159.276,
+   "price": 159.288,
    "prev": 159.5,
    "spark": [
     159.365,
@@ -780,8 +780,14 @@
  },
  "news": [
   {
+   "title": "코스피, 한 주 내내 오름세...\"이번 주도 상승 기대\"",
+   "source": "YTN",
+   "time": "2026-08-17T05:17:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SSENmZTNUempOSzVOV2FUQ1IyVUJaWWxqbnVOUDdXNzlpeVFGa1NaeGR6ckhLYno2dEY5aS1jdmljSTJTZm9qS1l1S2s0LWlrbmd0dkpTZ3NkSnNpLXc?oc=5"
+  },
+  {
    "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
-   "source": "조선일보",
+   "source": "chosun.com",
    "time": "2026-08-16T10:29:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
   },
@@ -793,7 +799,7 @@
   },
   {
    "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
-   "source": "munhwa.com",
+   "source": "문화일보",
    "time": "2026-08-16T10:30:36+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
   },
@@ -804,14 +810,8 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
-   "title": "코스피, 한 주 내내 오름세...\"이번 주도 상승 기대\"",
-   "source": "YTN",
-   "time": "2026-08-17T05:17:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SSENmZTNUempOSzVOV2FUQ1IyVUJaWWxqbnVOUDdXNzlpeVFGa1NaeGR6ckhLYno2dEY5aS1jdmljSTJTZm9qS1l1S2s0LWlrbmd0dkpTZ3NkSnNpLXc?oc=5"
-  },
-  {
    "title": "“코스피, 최악은 지났는데…” 8820조 굴리는 美금융사의 조언",
-   "source": "중앙일보",
+   "source": "joongang.co.kr",
    "time": "2026-08-17T05:04:56+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04Ujk0MlJfMWUxbGVfaUk0NUdyektnRmxOYTF1eVc4QXpIb19Lb2JfWEVYa0dmaDNBd2M3WnRHUF92OUtad0EwSTkwU0NhYVpwSEIxQ3ln?oc=5"
   },
@@ -820,6 +820,12 @@
    "source": "매일경제",
    "time": "2026-08-17T04:10:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd3ZLeFVWb245Ni1OX05MeGRvX204NElzS1BqRFVhTEJ3ZWtoMnZiNXNZTGExRHRmWnQ2RUtwZTZSQVVURXA0RkpCekxHZW9xUEE?oc=5"
+  },
+  {
+   "title": "환율 더 내린다에 베팅한 기업들…5대 은행 달러대출 한 달 새 13억달러 ‘급증’",
+   "source": "v.daum.net",
+   "time": "2026-08-17T05:42:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZQTN3MEZqcDJZSzFhazlCR09IUVc4NWJkM0kxaFo1clBCRFVXaDlZMFNLNGhzbFRmMDVTLS0temNUc3l2UmNOaG5tMERlYUU?oc=5"
   },
   {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
@@ -847,21 +853,15 @@
   },
   {
    "title": "1410원대로 내려온 환율, 빨라진 ‘대미 투자’ 시계에 반등 여부 촉각",
-   "source": "시사저널e",
+   "source": "sisajournal-e.com",
    "time": "2026-08-16T17:26:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWal8zR1prYmpwTklUTkNlQ2JVS1FBdVJUcUZCcVVFOTAxcGRNZWFBUDJhWXVOcDNSOHp1MUwyRUNGamtiMFJWRlhXcS1TUmtWRm96aDVTblN2Z1JBZjJVUVdrRHNQSnNWZDIweHhnNlNhUdIBdkFVX3lxTE9LaUk0UVEyM0lsT3RfdDZSNnhVUlNYbGJzX2d6c0Q3RlhzNTVhMG45YUtmN1FiUkVqNFBnVE1od2Zvc3hOeGE5YmVKUlRxY1EyeWZYZ240ODZDN1p0VjhjcGlVci1TVXJoWUI4TnBWeHVBWUFGc1E?oc=5"
   },
   {
    "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
-   "source": "디지털데일리",
+   "source": "ddaily.co.kr",
    "time": "2026-08-16T18:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
-  },
-  {
-   "title": "UBS, 비트코인 ETF 콜옵션 24배 급증…IBIT 노출 확대",
-   "source": "블루밍비트",
-   "time": "2026-08-16T15:39:25+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
   }
  ]
 }
