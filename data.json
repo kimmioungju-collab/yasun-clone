@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T20:52:46.692322+09:00",
+ "updated": "2026-08-16T21:13:46.543679+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -291,8 +291,8 @@
    "price": 68713.8,
    "prev": 68308.59,
    "spark": [
-    68882.6406,
     68899.7578,
+    68889.0078,
     68889.0078,
     68875.0391,
     68834.3203,
@@ -451,13 +451,9 @@
    ]
   },
   "btc": {
-   "price": 62912.5,
+   "price": 62953.44,
    "prev": 63024.637,
    "spark": [
-    62996.5781,
-    62998.4688,
-    63000.0898,
-    63001.9102,
     63001.8984,
     62999.4492,
     62996.1484,
@@ -492,18 +488,18 @@
     62928.8984,
     62925.6094,
     62907.7305,
-    62911.2188,
-    62912.5
+    62920.5586,
+    62945.3203,
+    62947.8516,
+    62951.9805,
+    62952.2383,
+    62953.4414
    ]
   },
   "eth": {
-   "price": 1877.92,
+   "price": 1878.44,
    "prev": 1880.982,
    "spark": [
-    1878.41,
-    1878.64,
-    1878.64,
-    1878.83,
     1879.1,
     1878.78,
     1880.01,
@@ -538,8 +534,12 @@
     1878.8199,
     1878.37,
     1877.92,
-    1877.91,
-    1877.92
+    1878.1899,
+    1878.91,
+    1878.51,
+    1878.38,
+    1878.4301,
+    1878.4399
    ]
   },
   "eurkrw": {
@@ -840,16 +840,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
   },
   {
-   "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
-   "source": "뉴스웍스",
-   "time": "2026-08-16T14:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
-  },
-  {
    "title": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
    "source": "ebn.co.kr",
    "time": "2026-08-16T17:05:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5"
+  },
+  {
+   "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
+   "source": "newsworks.co.kr",
+   "time": "2026-08-16T14:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
   },
   {
    "title": "수출 중견기업 56%, 하반기 실적 증가 전망… ‘환율 변동성’은 과제",
