@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T02:36:57.942026+09:00",
+ "updated": "2026-08-17T02:52:42.738087+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,12 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63114.87,
+   "price": 63095.34,
    "prev": 63024.637,
    "spark": [
-    63004.4414,
-    63021.0,
-    63025.0312,
     63029.4102,
     63032.0586,
     63034.2188,
@@ -492,17 +489,17 @@
     63136.9883,
     63120.9609,
     63066.1992,
-    63096.7812,
-    63114.8711
+    63121.5,
+    63053.1289,
+    63084.9883,
+    63085.5508,
+    63095.3398
    ]
   },
   "eth": {
-   "price": 1884.58,
+   "price": 1884.45,
    "prev": 1880.982,
    "spark": [
-    1880.01,
-    1880.9399,
-    1880.65,
     1880.6899,
     1881.01,
     1881.1,
@@ -538,8 +535,11 @@
     1885.29,
     1885.33,
     1882.3,
-    1883.59,
-    1884.58
+    1884.72,
+    1882.77,
+    1884.1801,
+    1884.09,
+    1884.45
    ]
   },
   "eurkrw": {
@@ -840,16 +840,16 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
   },
   {
-   "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-   "source": "서울경제TV",
-   "time": "2026-08-16T09:11:20+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
-  },
-  {
    "title": "UBS, 비트코인 ETF 콜옵션 24배 급증…IBIT 노출 확대",
    "source": "블루밍비트",
    "time": "2026-08-16T15:39:25+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
+  },
+  {
+   "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
+   "source": "서울경제TV",
+   "time": "2026-08-16T09:11:20+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
   },
   {
    "title": "상반기 ‘연봉킹’ 카뱅 윤호영 82억… 증시 활황에 한투 오너·사장 2·3위",
