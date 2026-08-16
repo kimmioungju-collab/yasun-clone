@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T03:10:07.434861+09:00",
+ "updated": "2026-08-17T03:45:05.625707+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,16 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63095.19,
+   "price": 63070.0,
    "prev": 63024.637,
    "spark": [
-    63034.5391,
-    63043.0,
-    63045.0117,
-    63036.3516,
-    63036.2109,
-    63038.5117,
-    63047.0,
     63061.0,
     63066.9805,
     63043.1016,
@@ -493,20 +486,20 @@
     63087.4219,
     63095.6992,
     63095.1914,
-    63095.1914
+    63071.2188,
+    63097.2305,
+    63107.3281,
+    63089.3789,
+    63089.6016,
+    63083.4492,
+    63075.6484,
+    63070.0
    ]
   },
   "eth": {
-   "price": 1883.56,
+   "price": 1883.28,
    "prev": 1880.982,
    "spark": [
-    1881.38,
-    1881.47,
-    1881.47,
-    1881.49,
-    1881.88,
-    1881.72,
-    1881.99,
     1882.36,
     1882.63,
     1880.7,
@@ -538,8 +531,15 @@
     1884.25,
     1883.12,
     1882.92,
-    1883.8199,
-    1883.5601
+    1883.5601,
+    1882.95,
+    1883.84,
+    1883.85,
+    1884.16,
+    1884.2,
+    1883.52,
+    1883.28,
+    1883.28
    ]
   },
   "eurkrw": {
@@ -834,22 +834,22 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cGIyY2hUTndzanRERVNjRWhtWFJPWWVRaUh4TC1KZUI5NUhlemstVUttUm1LSnAzSGtZbTg0Z1l2ZHFqWXRab2dueHFTR3o0U3c?oc=5"
   },
   {
-   "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
-   "source": "ddaily.co.kr",
-   "time": "2026-08-16T18:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
-  },
-  {
    "title": "UBS, 비트코인 ETF 콜옵션 24배 급증…IBIT 노출 확대",
    "source": "블루밍비트",
    "time": "2026-08-16T15:39:25+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
   },
   {
-   "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-   "source": "서울경제TV",
-   "time": "2026-08-16T09:11:20+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
+   "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
+   "source": "디지털데일리",
+   "time": "2026-08-16T18:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
+  },
+  {
+   "title": "성공투자 오후증시",
+   "source": "한국경제TV",
+   "time": "2026-08-14T17:10:36+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTdYUXhFcGQ5MjdwNWpYWDAyYmx0THJpRkY0RDZzVGVvZ1pVNDBBQWV5am1OOXBndEhqZnNwYTd4VDNINmZQQVhYM1NpNTEtZDlqMEdUZ0xOUXBJS21uWkI1WUlBVlo2SjFaTGxkUDNJNVhERUE1UTFrSy01cThybDlTeUtjQ2pZZ0l6SFhFVktxYkgzOXBQYjI1VUxSQ2tHb2Zr?oc=5"
   },
   {
    "title": "상반기 ‘연봉킹’ 카뱅 윤호영 82억… 증시 활황에 한투 오너·사장 2·3위",
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fYXpTbG5aYzBQRTVMQ2c1RG00VU1iRFRtTkhXakVNenY4bmNwTjlOaXZLUU84WHRUelVmY1I2ektPMTVHWlpUUDJiZTJCcU1jU3B4OElEOEpLT2ZIdWx5WVhWRmZGZEdKelFieHp6RmYyU3BmMU9YYUdB?oc=5"
   },
   {
-   "title": "성공투자 오후증시",
-   "source": "wowtv.co.kr",
-   "time": "2026-08-14T17:10:36+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTdYUXhFcGQ5MjdwNWpYWDAyYmx0THJpRkY0RDZzVGVvZ1pVNDBBQWV5am1OOXBndEhqZnNwYTd4VDNINmZQQVhYM1NpNTEtZDlqMEdUZ0xOUXBJS21uWkI1WUlBVlo2SjFaTGxkUDNJNVhERUE1UTFrSy01cThybDlTeUtjQ2pZZ0l6SFhFVktxYkgzOXBQYjI1VUxSQ2tHb2Zr?oc=5"
+   "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
+   "source": "서울경제TV",
+   "time": "2026-08-16T09:11:20+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
   }
  ]
 }
