@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T04:04:13.628675+09:00",
+ "updated": "2026-08-17T04:28:53.976370+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -187,12 +187,12 @@
   },
   "nq": {
    "price": 30141.75,
-   "prev": 30188.5,
+   "prev": 30141.75,
    "spark": []
   },
   "es": {
    "price": 7805.0,
-   "prev": 7822.5,
+   "prev": 7805.0,
    "spark": []
   },
   "ndx": {
@@ -335,27 +335,27 @@
   },
   "wti": {
    "price": 82.4,
-   "prev": 81.25,
+   "prev": 82.4,
    "spark": []
   },
   "brent": {
    "price": 88.52,
-   "prev": 87.07,
+   "prev": 88.52,
    "spark": []
   },
   "gold": {
    "price": 4437.3,
-   "prev": 4420.4,
+   "prev": 4437.3,
    "spark": []
   },
   "silver": {
    "price": 65.108,
-   "prev": 64.993,
+   "prev": 65.108,
    "spark": []
   },
   "gas": {
    "price": 2.733,
-   "prev": 2.727,
+   "prev": 2.733,
    "spark": []
   },
   "vix": {
@@ -451,14 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63083.65,
+   "price": 63147.56,
    "prev": 63024.637,
    "spark": [
-    63053.1211,
-    63070.0312,
-    63065.5781,
-    63086.9805,
-    63137.8398,
     63257.0195,
     63250.0,
     63252.1602,
@@ -492,19 +487,19 @@
     63080.0117,
     63071.4492,
     63074.2891,
-    63083.6484,
-    63083.6484
+    63087.2305,
+    63097.8398,
+    63104.6016,
+    63124.9805,
+    63126.3711,
+    63147.5508,
+    63147.5586
    ]
   },
   "eth": {
-   "price": 1884.47,
+   "price": 1885.86,
    "prev": 1880.982,
    "spark": [
-    1881.54,
-    1882.01,
-    1882.33,
-    1882.53,
-    1883.53,
     1885.51,
     1885.5601,
     1886.0601,
@@ -538,8 +533,13 @@
     1883.9399,
     1883.42,
     1883.6899,
-    1884.46,
-    1884.47
+    1884.53,
+    1884.72,
+    1884.62,
+    1884.59,
+    1884.74,
+    1885.84,
+    1885.86
    ]
   },
   "eurkrw": {
@@ -781,7 +781,7 @@
  "news": [
   {
    "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
-   "source": "chosun.com",
+   "source": "조선일보",
    "time": "2026-08-16T10:29:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
   },
@@ -793,13 +793,19 @@
   },
   {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "time": "2026-08-15T09:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
+   "title": "“코스피, 앞으로 더 크게 흔들릴 수도” … AI시대 견뎌야 할 ‘뉴노멀’",
+   "source": "매일경제",
+   "time": "2026-08-17T04:10:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd3ZLeFVWb245Ni1OX05MeGRvX204NElzS1BqRFVhTEJ3ZWtoMnZiNXNZTGExRHRmWnQ2RUtwZTZSQVVURXA0RkpCekxHZW9xUEE?oc=5"
+  },
+  {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
-   "source": "KBS NEWS",
+   "source": "KBS 뉴스",
    "time": "2026-08-14T06:53:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
   },
@@ -823,19 +829,19 @@
   },
   {
    "title": "1410원대로 내려온 환율, 빨라진 ‘대미 투자’ 시계에 반등 여부 촉각",
-   "source": "시사저널e",
+   "source": "sisajournal-e.com",
    "time": "2026-08-16T17:26:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWal8zR1prYmpwTklUTkNlQ2JVS1FBdVJUcUZCcVVFOTAxcGRNZWFBUDJhWXVOcDNSOHp1MUwyRUNGamtiMFJWRlhXcS1TUmtWRm96aDVTblN2Z1JBZjJVUVdrRHNQSnNWZDIweHhnNlNhUdIBdkFVX3lxTE9LaUk0UVEyM0lsT3RfdDZSNnhVUlNYbGJzX2d6c0Q3RlhzNTVhMG45YUtmN1FiUkVqNFBnVE1od2Zvc3hOeGE5YmVKUlRxY1EyeWZYZ240ODZDN1p0VjhjcGlVci1TVXJoWUI4TnBWeHVBWUFGc1E?oc=5"
   },
   {
-   "title": "[표] 외국환율고시표",
-   "source": "매일경제 마켓",
-   "time": "2026-08-16T17:55:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cGIyY2hUTndzanRERVNjRWhtWFJPWWVRaUh4TC1KZUI5NUhlemstVUttUm1LSnAzSGtZbTg0Z1l2ZHFqWXRab2dueHFTR3o0U3c?oc=5"
+   "title": "스트래티지 채무 상품, 비트코인 폭락장서 선방",
+   "source": "글로벌이코노믹",
+   "time": "2026-08-17T04:08:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzJPY3ZjVkt6UVVFQm1QLTRLUW54NzJvbVY2dTQzZFdBV3lBVmpYczVaNkdkelF0ZFZOQlFSOTVJeS1IdjhsMVprVlI2cGZpNkU4NE9rVVViZXpmX196UnVqekctZ2hZNlI5S0pTdkdseHN6eG9XT25CQWlwbVJ5d1BKTGk2YWtY?oc=5"
   },
   {
    "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
-   "source": "디지털데일리",
+   "source": "ddaily.co.kr",
    "time": "2026-08-16T18:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
   },
@@ -856,12 +862,6 @@
    "source": "데일리비즈온",
    "time": "2026-08-16T23:32:06+09:00",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWGZDeU01QXpKMEduU3VhMzNBbEJKalVKR3Q5aDNOOEJZU0hHQUdQRmRja2dwYmRqWTBMNXNnM0FxZTlLNW5NdDd4UjBDWkJ5TDdCOVhocFYtbnIycVZROFlWbV9QVEhXZzV6NA?oc=5"
-  },
-  {
-   "title": "상반기 ‘연봉킹’ 카뱅 윤호영 82억… 증시 활황에 한투 오너·사장 2·3위",
-   "source": "서울신문",
-   "time": "2026-08-17T00:48:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fYXpTbG5aYzBQRTVMQ2c1RG00VU1iRFRtTkhXakVNenY4bmNwTjlOaXZLUU84WHRUelVmY1I2ektPMTVHWlpUUDJiZTJCcU1jU3B4OElEOEpLT2ZIdWx5WVhWRmZGZEdKelFieHp6RmYyU3BmMU9YYUdB?oc=5"
   }
  ]
 }
