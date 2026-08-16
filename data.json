@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T20:35:40.783659+09:00",
+ "updated": "2026-08-16T20:52:46.692322+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,13 +451,9 @@
    ]
   },
   "btc": {
-   "price": 62917.12,
+   "price": 62912.5,
    "prev": 63024.637,
    "spark": [
-    62999.6094,
-    63005.9414,
-    63007.4688,
-    63003.1797,
     62996.5781,
     62998.4688,
     63000.0898,
@@ -493,17 +489,17 @@
     62917.8398,
     62915.7617,
     62916.0312,
-    62917.1211
+    62928.8984,
+    62925.6094,
+    62907.7305,
+    62911.2188,
+    62912.5
    ]
   },
   "eth": {
-   "price": 1878.61,
+   "price": 1877.92,
    "prev": 1880.982,
    "spark": [
-    1878.91,
-    1878.64,
-    1878.9301,
-    1879.11,
     1878.41,
     1878.64,
     1878.64,
@@ -539,7 +535,11 @@
     1878.28,
     1878.52,
     1878.6,
-    1878.61
+    1878.8199,
+    1878.37,
+    1877.92,
+    1877.91,
+    1877.92
    ]
   },
   "eurkrw": {
@@ -787,21 +787,21 @@
   },
   {
    "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
-   "source": "munhwa.com",
+   "source": "문화일보",
    "time": "2026-08-16T10:30:36+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
-  },
-  {
-   "title": "“코스피 7000 못 믿겠다”…강세장 뒤 불어난 ‘공매도 폭탄’ [머니+]",
-   "source": "에너지경제신문",
-   "time": "2026-08-16T12:34:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLSnpobTgwNEFBUEdXMFBaTzhZQlZKVFNKT2NQT0p0bE1FcDdfa3JFbnVyTEp3Sml0Q1p5ZDg1NG5mRWlqSGtqTGhGUzhUcGN0SV9TRUMzRXZfbWhRQklzMWVZcw?oc=5"
   },
   {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
    "source": "연합인포맥스",
    "time": "2026-08-15T09:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
+  },
+  {
+   "title": "“코스피 7000 못 믿겠다”…강세장 뒤 불어난 ‘공매도 폭탄’ [머니+]",
+   "source": "에너지경제신문",
+   "time": "2026-08-16T12:34:43+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLSnpobTgwNEFBUEdXMFBaTzhZQlZKVFNKT2NQT0p0bE1FcDdfa3JFbnVyTEp3Sml0Q1p5ZDg1NG5mRWlqSGtqTGhGUzhUcGN0SV9TRUMzRXZfbWhRQklzMWVZcw?oc=5"
   },
   {
    "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
