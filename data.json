@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T07:15:27.819948+09:00",
+ "updated": "2026-08-17T07:39:34.329738+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -186,17 +186,25 @@
    ]
   },
   "nq": {
-   "price": 30141.75,
+   "price": 30193.5,
    "prev": 30141.75,
    "spark": [
-    30141.75
+    30196.5,
+    30193.5,
+    30192.0,
+    30192.75,
+    30193.5
    ]
   },
   "es": {
-   "price": 7805.0,
+   "price": 7810.0,
    "prev": 7805.0,
    "spark": [
-    7805.0
+    7810.75,
+    7810.5,
+    7810.0,
+    7809.75,
+    7810.0
    ]
   },
   "ndx": {
@@ -338,38 +346,58 @@
    ]
   },
   "wti": {
-   "price": 82.4,
+   "price": 82.52,
    "prev": 82.4,
    "spark": [
-    82.4
+    82.61,
+    82.6,
+    82.5,
+    82.52,
+    82.52
    ]
   },
   "brent": {
-   "price": 88.52,
+   "price": 88.71,
    "prev": 88.52,
    "spark": [
-    88.52
+    88.82,
+    88.79,
+    88.75,
+    88.71,
+    88.71
    ]
   },
   "gold": {
-   "price": 4437.3,
+   "price": 4430.6,
    "prev": 4437.3,
    "spark": [
-    4437.2998
+    4432.6001,
+    4430.7998,
+    4430.0,
+    4430.6001,
+    4430.6001
    ]
   },
   "silver": {
-   "price": 65.108,
+   "price": 65.045,
    "prev": 65.108,
    "spark": [
-    65.108
+    64.95,
+    65.02,
+    65.005,
+    65.045,
+    65.045
    ]
   },
   "gas": {
-   "price": 2.733,
+   "price": 2.683,
    "prev": 2.733,
    "spark": [
-    2.733
+    2.686,
+    2.682,
+    2.684,
+    2.684,
+    2.683
    ]
   },
   "vix": {
@@ -465,14 +493,9 @@
    ]
   },
   "btc": {
-   "price": 62883.93,
+   "price": 62681.79,
    "prev": 63024.637,
    "spark": [
-    63087.2305,
-    63097.8398,
-    63104.6016,
-    63124.9805,
-    63126.3711,
     63153.0391,
     63144.7188,
     63151.6211,
@@ -507,18 +530,18 @@
     62800.7891,
     62850.4883,
     62861.6602,
-    62883.9297
+    62840.8203,
+    62793.7305,
+    62780.0117,
+    62741.0391,
+    62675.6602,
+    62681.7891
    ]
   },
   "eth": {
-   "price": 1876.04,
+   "price": 1869.23,
    "prev": 1880.982,
    "spark": [
-    1884.53,
-    1884.72,
-    1884.62,
-    1884.59,
-    1884.74,
     1886.0601,
     1885.7,
     1885.74,
@@ -553,7 +576,12 @@
     1872.28,
     1874.63,
     1875.8,
-    1876.04
+    1875.24,
+    1873.9,
+    1873.4399,
+    1871.47,
+    1869.35,
+    1869.23
    ]
   },
   "eurkrw": {
@@ -695,7 +723,7 @@
    ]
   },
   "usdjpy": {
-   "price": 159.389,
+   "price": 159.217,
    "prev": 159.5,
    "spark": [
     159.365,
@@ -741,7 +769,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.157,
+   "price": 1.1575,
    "prev": 1.1531,
    "spark": [
     1.1567,
@@ -787,11 +815,16 @@
    ]
   },
   "dxy": {
-   "price": 99.664,
+   "price": 99.635,
    "prev": 99.667,
    "spark": [
     99.661,
-    99.664
+    99.664,
+    99.662,
+    99.656,
+    99.637,
+    99.636,
+    99.635
    ]
   }
  },
@@ -810,7 +843,7 @@
   },
   {
    "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
-   "source": "chosun.com",
+   "source": "조선일보",
    "time": "2026-08-16T10:29:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
   },
@@ -851,16 +884,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
   },
   {
-   "title": "올해 중 최저치 찍은 원·달러 환율…더 떨어질까",
-   "source": "뉴시스",
-   "time": "2026-08-17T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMjNGcEJNMzlsZXdNQ3E4Sm83S3doWFh0MWRpUUN5NzNUN0RveXBXUHJmamtieGtCOEJJd0dzZUJxanRZaTVkOGdNdFlsVjV0a0dGZFJkU01nREVja2NDOdIBeEFVX3lxTFBaNHg2ejY1MVNyZHJwMEF5aUY3Y3Vyd2doYkNfQXhseGlNZ3ZUVDZJNWhYRHFYUkpRMVhCRXRZMzJuVWhyNndkNHJFMlpnWlZOaVJoN1h6b0ZsRjVUZzhGT0NBR19SR2V1enZnNGdzVWdHX3cwM3U5Mg?oc=5"
-  },
-  {
    "title": "No.1 경제·증권 채널 : @HKWOWTV",
    "source": "한국경제TV",
    "time": "2026-08-17T07:04:53+09:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWhPYXA0QjlCekdWME9ITjJnMlhTaTlGdjhybHBLbkdBblJDcFZQUHdUNGhPQWZWbFdLZFlvT25vY1hab2s3RmMyXzVTbnlBRUxPSVJLNnV3MHRzckhhMWJuakZsak1ZT3FzTTl0eTNoNmdVb3J4SzEtMEVZR0hBZDNUcw?oc=5"
+  },
+  {
+   "title": "올해 중 최저치 찍은 원·달러 환율…더 떨어질까",
+   "source": "뉴시스",
+   "time": "2026-08-17T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMjNGcEJNMzlsZXdNQ3E4Sm83S3doWFh0MWRpUUN5NzNUN0RveXBXUHJmamtieGtCOEJJd0dzZUJxanRZaTVkOGdNdFlsVjV0a0dGZFJkU01nREVja2NDOdIBeEFVX3lxTFBaNHg2ejY1MVNyZHJwMEF5aUY3Y3Vyd2doYkNfQXhseGlNZ3ZUVDZJNWhYRHFYUkpRMVhCRXRZMzJuVWhyNndkNHJFMlpnWlZOaVJoN1h6b0ZsRjVUZzhGT0NBR19SR2V1enZnNGdzVWdHX3cwM3U5Mg?oc=5"
   },
   {
    "title": "스트래티지 채무 상품, 비트코인 폭락장서 선방",
