@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T14:17:29.023542+09:00",
+ "updated": "2026-08-16T14:47:15.744508+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,15 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63017.82,
+   "price": 62987.08,
    "prev": 63024.637,
    "spark": [
-    62974.1289,
-    62958.5781,
-    62976.6992,
-    63043.4805,
-    63046.0781,
-    63046.0781,
     63049.8008,
     63085.4805,
     63067.5508,
@@ -492,20 +486,20 @@
     63026.2812,
     63029.5391,
     63029.5508,
-    63025.5,
-    63017.8203
+    63000.0508,
+    63007.1016,
+    63000.0,
+    63005.5586,
+    63007.7383,
+    62990.1484,
+    62986.0,
+    62987.0781
    ]
   },
   "eth": {
-   "price": 1879.22,
+   "price": 1878.84,
    "prev": 1880.982,
    "spark": [
-    1878.22,
-    1877.35,
-    1879.63,
-    1882.45,
-    1882.12,
-    1882.3101,
     1881.8,
     1882.16,
     1881.48,
@@ -538,8 +532,14 @@
     1879.98,
     1879.9399,
     1879.87,
-    1879.33,
-    1879.22
+    1878.46,
+    1878.9301,
+    1878.78,
+    1879.15,
+    1879.26,
+    1878.8199,
+    1878.9301,
+    1878.84
    ]
   },
   "eurkrw": {
@@ -780,22 +780,16 @@
  },
  "news": [
   {
-   "title": "“코스피 7000 못 믿겠다”…강세장 뒤 불어난 ‘공매도 폭탄’ [머니+]",
-   "source": "에너지경제신문",
-   "time": "2026-08-16T12:34:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLSnpobTgwNEFBUEdXMFBaTzhZQlZKVFNKT2NQT0p0bE1FcDdfa3JFbnVyTEp3Sml0Q1p5ZDg1NG5mRWlqSGtqTGhGUzhUcGN0SV9TRUMzRXZfbWhRQklzMWVZcw?oc=5"
-  },
-  {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
    "source": "연합인포맥스",
    "time": "2026-08-15T09:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
-   "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
-   "source": "연합뉴스",
-   "time": "2026-08-16T12:27:34+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UlN0QWRNNTlIN1lBeXczcjFpYkdqOUV5b3FzbUN4aFJBYUZadWFNQk45aWltMkZOSXRiWEZjVlVFU1liU1IxbVlRMkd6bm1KY3B4QThQNHZzdmfSAWBBVV95cUxOTnplV25wWGt4RlRJcXhrV1A5cnZFcmR1Ny1MMFVHMTVpcm83UXUzdU85UXd2SkRtWXdPUnhGWWM4ZnRVeGxvT2R6OE0zVFByNXRlbzNKaHB0dHRtSGp1dko?oc=5"
+   "title": "“코스피 7000 못 믿겠다”…강세장 뒤 불어난 ‘공매도 폭탄’ [머니+]",
+   "source": "에너지경제신문",
+   "time": "2026-08-16T12:34:43+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLSnpobTgwNEFBUEdXMFBaTzhZQlZKVFNKT2NQT0p0bE1FcDdfa3JFbnVyTEp3Sml0Q1p5ZDg1NG5mRWlqSGtqTGhGUzhUcGN0SV9TRUMzRXZfbWhRQklzMWVZcw?oc=5"
   },
   {
    "title": "\"올라도 못 믿겠다\"...코스피 반등에도 주식 팔아치우는 개미들",
@@ -805,7 +799,7 @@
   },
   {
    "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
-   "source": "문화일보",
+   "source": "munhwa.com",
    "time": "2026-08-16T10:30:36+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
   },
@@ -829,9 +823,15 @@
   },
   {
    "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-   "source": "서울경제TV",
+   "source": "sentv.co.kr",
    "time": "2026-08-16T09:11:20+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5"
+  },
+  {
+   "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
+   "source": "뉴스웍스",
+   "time": "2026-08-16T14:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
   },
   {
    "title": "[마켓 ING]코스피, 금리 방향성에 주목하며 7000선 안착 시도",
@@ -846,12 +846,6 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NTjNJN0Nub3Q4bEpoLVhiVEdZcE9nekNLTzhUTjFJT2lDUW5PWVlleVZrYWRIMkFPb3U4VjZJa3h0Wi1jZ0JpNjByMHVlUVB5TXc?oc=5"
   },
   {
-   "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
-   "source": "뉴스웍스",
-   "time": "2026-08-16T14:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
-  },
-  {
    "title": "코스닥 8월 수익률 20% 돌파…삼전·SK하닉 반등에 코스피 추격",
    "source": "ebn.co.kr",
    "time": "2026-08-16T10:05:00+09:00",
@@ -862,6 +856,12 @@
    "source": "Investing.com 한국어",
    "time": "2026-08-15T19:46:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyWWtVcC1SYVl0eTFJSXFXUTcwVHBZVC11NGpPd1lHMlVvamhYZFFyNlM5SjR1Z0duT0hLbGZIUjBmYTBaS2M4cmVRTGRoTWFCakRub1Q0SERoT3J2c2tzSXVlaHU0U05ZVmxLRkt1Zlo?oc=5"
+  },
+  {
+   "title": "[국제/가상자산] MSCI, 비트코인 대량 보유 기업 퇴출 검토…Strategy·Metaplanet ‘지수 편입’ 비상",
+   "source": "굿모닝베트남미디어",
+   "time": "2026-08-16T10:57:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Mak5mUjNlbzlFbW9XcDE4eDlTR1VkV01aQ1NYWUZpbFVJaXV5S1Iyd0lJaTZjVUlaSUlpR21QTEhzbTg0eXNMVS1ObmNUN2VqZFpfLWF2SFcza3ZHZGFOZUV6ZzhURmJTUkQ1RHBjWWI?oc=5"
   }
  ]
 }
