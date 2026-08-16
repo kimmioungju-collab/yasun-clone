@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T02:52:42.738087+09:00",
+ "updated": "2026-08-17T03:10:07.434861+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,12 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63095.34,
+   "price": 63095.19,
    "prev": 63024.637,
    "spark": [
-    63029.4102,
-    63032.0586,
-    63034.2188,
     63034.5391,
     63043.0,
     63045.0117,
@@ -475,39 +472,39 @@
     63137.8398,
     63257.0195,
     63250.0,
-    63252.1719,
-    63298.6914,
+    63252.1602,
+    63296.1211,
     63259.2383,
-    63220.8711,
+    63220.8594,
     63215.7109,
     63179.7891,
     63186.9219,
-    63206.8789,
-    63195.5781,
+    63209.8711,
+    63195.5898,
     63150.6719,
-    63139.4805,
-    63136.9883,
+    63139.4883,
+    63137.0,
     63120.9609,
     63066.1992,
     63121.5,
     63053.1289,
     63084.9883,
-    63085.5508,
-    63095.3398
+    63098.8008,
+    63087.4219,
+    63095.6992,
+    63095.1914,
+    63095.1914
    ]
   },
   "eth": {
-   "price": 1884.45,
+   "price": 1883.56,
    "prev": 1880.982,
    "spark": [
-    1880.6899,
-    1881.01,
-    1881.1,
-    1881.39,
+    1881.38,
     1881.47,
     1881.47,
     1881.49,
-    1881.72,
+    1881.88,
     1881.72,
     1881.99,
     1882.36,
@@ -519,27 +516,30 @@
     1882.33,
     1882.53,
     1883.53,
-    1885.4,
+    1885.51,
     1885.5601,
     1886.0601,
     1889.12,
-    1888.2,
+    1888.4,
     1888.21,
     1888.35,
-    1887.64,
-    1887.45,
-    1888.03,
+    1887.5601,
+    1887.59,
+    1888.02,
     1887.7,
     1885.9,
-    1884.71,
-    1885.29,
+    1884.72,
+    1885.3199,
     1885.33,
-    1882.3,
+    1882.33,
     1884.72,
     1882.77,
     1884.1801,
-    1884.09,
-    1884.45
+    1884.25,
+    1883.12,
+    1882.92,
+    1883.8199,
+    1883.5601
    ]
   },
   "eurkrw": {
@@ -793,7 +793,7 @@
   },
   {
    "title": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "time": "2026-08-15T09:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
@@ -835,7 +835,7 @@
   },
   {
    "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
-   "source": "디지털데일리",
+   "source": "ddaily.co.kr",
    "time": "2026-08-16T18:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
   },
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fYXpTbG5aYzBQRTVMQ2c1RG00VU1iRFRtTkhXakVNenY4bmNwTjlOaXZLUU84WHRUelVmY1I2ektPMTVHWlpUUDJiZTJCcU1jU3B4OElEOEpLT2ZIdWx5WVhWRmZGZEdKelFieHp6RmYyU3BmMU9YYUdB?oc=5"
   },
   {
-   "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
-   "source": "뉴스웍스",
-   "time": "2026-08-16T14:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
+   "title": "성공투자 오후증시",
+   "source": "wowtv.co.kr",
+   "time": "2026-08-14T17:10:36+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTdYUXhFcGQ5MjdwNWpYWDAyYmx0THJpRkY0RDZzVGVvZ1pVNDBBQWV5am1OOXBndEhqZnNwYTd4VDNINmZQQVhYM1NpNTEtZDlqMEdUZ0xOUXBJS21uWkI1WUlBVlo2SjFaTGxkUDNJNVhERUE1UTFrSy01cThybDlTeUtjQ2pZZ0l6SFhFVktxYkgzOXBQYjI1VUxSQ2tHb2Zr?oc=5"
   }
  ]
 }
