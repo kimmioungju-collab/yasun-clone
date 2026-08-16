@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T05:58:56.931538+09:00",
+ "updated": "2026-08-17T06:24:04.759069+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,14 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63002.26,
+   "price": 62985.28,
    "prev": 63024.637,
    "spark": [
-    63084.9883,
-    63098.8008,
-    63087.4219,
-    63095.6992,
-    63095.1914,
     63071.2188,
     63097.2305,
     63107.3281,
@@ -492,19 +487,19 @@
     63000.9102,
     62970.8789,
     62996.6719,
-    62990.1484,
-    63002.2617
+    63000.7305,
+    62999.2695,
+    62982.8398,
+    62994.6797,
+    62994.7109,
+    62981.6406,
+    62985.2812
    ]
   },
   "eth": {
-   "price": 1880.09,
+   "price": 1879.48,
    "prev": 1880.982,
    "spark": [
-    1884.1801,
-    1884.25,
-    1883.12,
-    1882.92,
-    1883.5601,
     1882.95,
     1883.84,
     1883.85,
@@ -538,8 +533,13 @@
     1882.01,
     1881.59,
     1881.21,
-    1880.13,
-    1880.09
+    1880.1,
+    1881.09,
+    1879.75,
+    1880.3101,
+    1879.75,
+    1879.49,
+    1879.48
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 159.288,
+   "price": 159.275,
    "prev": 159.5,
    "spark": [
     159.365,
@@ -727,7 +727,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1573,
+   "price": 1.157,
    "prev": 1.1531,
    "spark": [
     1.1567,
@@ -786,16 +786,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SSENmZTNUempOSzVOV2FUQ1IyVUJaWWxqbnVOUDdXNzlpeVFGa1NaeGR6ckhLYno2dEY5aS1jdmljSTJTZm9qS1l1S2s0LWlrbmd0dkpTZ3NkSnNpLXc?oc=5"
   },
   {
-   "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
-   "source": "chosun.com",
-   "time": "2026-08-16T10:29:34+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
-  },
-  {
    "title": "코스피, 外人 귀환에 ‘추가 상승’ 기대…낙관론 확산[주간증시]",
    "source": "에너지경제신문",
    "time": "2026-08-17T05:01:06+09:00",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxcS0waER2TC1ueGtDbjVWQm92MndiRm43Z09NSXd5eF9Ic1BoajdjZjRRRWRDMGJnVWtXNzl3QzZ2YTRKSHRRMVAzV1VueHU4dFl6b0VaallSLWsyblBGWXYyNA?oc=5"
+  },
+  {
+   "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
+   "source": "chosun.com",
+   "time": "2026-08-16T10:29:34+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
   },
   {
    "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
@@ -810,22 +810,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
-   "title": "“코스피, 최악은 지났는데…” 8820조 굴리는 美금융사의 조언",
-   "source": "joongang.co.kr",
-   "time": "2026-08-17T05:04:56+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04Ujk0MlJfMWUxbGVfaUk0NUdyektnRmxOYTF1eVc4QXpIb19Lb2JfWEVYa0dmaDNBd2M3WnRHUF92OUtad0EwSTkwU0NhYVpwSEIxQ3ln?oc=5"
-  },
-  {
    "title": "“코스피, 앞으로 더 크게 흔들릴 수도” … AI시대 견뎌야 할 ‘뉴노멀’",
    "source": "매일경제",
    "time": "2026-08-17T04:10:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd3ZLeFVWb245Ni1OX05MeGRvX204NElzS1BqRFVhTEJ3ZWtoMnZiNXNZTGExRHRmWnQ2RUtwZTZSQVVURXA0RkpCekxHZW9xUEE?oc=5"
   },
   {
-   "title": "환율 더 내린다에 베팅한 기업들…5대 은행 달러대출 한 달 새 13억달러 ‘급증’",
-   "source": "v.daum.net",
-   "time": "2026-08-17T05:42:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZQTN3MEZqcDJZSzFhazlCR09IUVc4NWJkM0kxaFo1clBCRFVXaDlZMFNLNGhzbFRmMDVTLS0temNUc3l2UmNOaG5tMERlYUU?oc=5"
+   "title": "“코스피, 최악은 지났는데…” 8820조 굴리는 美금융사의 조언",
+   "source": "joongang.co.kr",
+   "time": "2026-08-17T05:04:56+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04Ujk0MlJfMWUxbGVfaUk0NUdyektnRmxOYTF1eVc4QXpIb19Lb2JfWEVYa0dmaDNBd2M3WnRHUF92OUtad0EwSTkwU0NhYVpwSEIxQ3ln?oc=5"
   },
   {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
@@ -834,10 +828,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
   },
   {
-   "title": "스트래티지 채무 상품, 비트코인 폭락장서 선방",
-   "source": "글로벌이코노믹",
-   "time": "2026-08-17T04:08:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzJPY3ZjVkt6UVVFQm1QLTRLUW54NzJvbVY2dTQzZFdBV3lBVmpYczVaNkdkelF0ZFZOQlFSOTVJeS1IdjhsMVprVlI2cGZpNkU4NE9rVVViZXpmX196UnVqekctZ2hZNlI5S0pTdkdseHN6eG9XT25CQWlwbVJ5d1BKTGk2YWtY?oc=5"
+   "title": "환율 더 내린다에 베팅한 기업들…5대 은행 달러대출 한 달 새 13억달러 ‘급증’",
+   "source": "v.daum.net",
+   "time": "2026-08-17T05:42:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZQTN3MEZqcDJZSzFhazlCR09IUVc4NWJkM0kxaFo1clBCRFVXaDlZMFNLNGhzbFRmMDVTLS0temNUc3l2UmNOaG5tMERlYUU?oc=5"
   },
   {
    "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
@@ -846,22 +840,28 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UlN0QWRNNTlIN1lBeXczcjFpYkdqOUV5b3FzbUN4aFJBYUZadWFNQk45aWltMkZOSXRiWEZjVlVFU1liU1IxbVlRMkd6bm1KY3B4QThQNHZzdmfSAWBBVV95cUxOTnplV25wWGt4RlRJcXhrV1A5cnZFcmR1Ny1MMFVHMTVpcm83UXUzdU85UXd2SkRtWXdPUnhGWWM4ZnRVeGxvT2R6OE0zVFByNXRlbzNKaHB0dHRtSGp1dko?oc=5"
   },
   {
-   "title": "비트코인 6만3천 달러 상회...세일러 \"디지털 화폐 에너지\" 주장",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-16T18:09:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTnd3bXhVZmgzY3lnaXc4bnlucGlfc0FMTUVVVzduWUxLakxPNFEwaWVjUElNdmpYdF9zRmZwampnTTBMVU5mVFdQQWVSaVRad2J6UVBwMnphOFBpRkROZXFGZVIwR3pCLU0tZk9HWjRVNEE?oc=5"
-  },
-  {
    "title": "1410원대로 내려온 환율, 빨라진 ‘대미 투자’ 시계에 반등 여부 촉각",
    "source": "sisajournal-e.com",
    "time": "2026-08-16T17:26:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWal8zR1prYmpwTklUTkNlQ2JVS1FBdVJUcUZCcVVFOTAxcGRNZWFBUDJhWXVOcDNSOHp1MUwyRUNGamtiMFJWRlhXcS1TUmtWRm96aDVTblN2Z1JBZjJVUVdrRHNQSnNWZDIweHhnNlNhUdIBdkFVX3lxTE9LaUk0UVEyM0lsT3RfdDZSNnhVUlNYbGJzX2d6c0Q3RlhzNTVhMG45YUtmN1FiUkVqNFBnVE1od2Zvc3hOeGE5YmVKUlRxY1EyeWZYZ240ODZDN1p0VjhjcGlVci1TVXJoWUI4TnBWeHVBWUFGc1E?oc=5"
   },
   {
+   "title": "스트래티지 채무 상품, 비트코인 폭락장서 선방",
+   "source": "글로벌이코노믹",
+   "time": "2026-08-17T04:08:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzJPY3ZjVkt6UVVFQm1QLTRLUW54NzJvbVY2dTQzZFdBV3lBVmpYczVaNkdkelF0ZFZOQlFSOTVJeS1IdjhsMVprVlI2cGZpNkU4NE9rVVViZXpmX196UnVqekctZ2hZNlI5S0pTdkdseHN6eG9XT25CQWlwbVJ5d1BKTGk2YWtY?oc=5"
+  },
+  {
    "title": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
-   "source": "ddaily.co.kr",
+   "source": "디지털데일리",
    "time": "2026-08-16T18:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2RDlKZFNqRTh1bEhJb0FuR0pFM2RfZlVZaWpFLUNXZUxuczc0Wm5iOERpek8wRHlUdEhGbGc5SkVjZmVyS19ILUI3dmpud2JBaUI5dHJTQ0gyczdWbDh4bExySWU?oc=5"
+  },
+  {
+   "title": "올해 중 최저치 찍은 원·달러 환율…더 떨어질까",
+   "source": "뉴시스",
+   "time": "2026-08-17T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMjNGcEJNMzlsZXdNQ3E4Sm83S3doWFh0MWRpUUN5NzNUN0RveXBXUHJmamtieGtCOEJJd0dzZUJxanRZaTVkOGdNdFlsVjV0a0dGZFJkU01nREVja2NDOdIBeEFVX3lxTFBaNHg2ejY1MVNyZHJwMEF5aUY3Y3Vyd2doYkNfQXhseGlNZ3ZUVDZJNWhYRHFYUkpRMVhCRXRZMzJuVWhyNndkNHJFMlpnWlZOaVJoN1h6b0ZsRjVUZzhGT0NBR19SR2V1enZnNGdzVWdHX3cwM3U5Mg?oc=5"
   }
  ]
 }
