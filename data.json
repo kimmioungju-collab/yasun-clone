@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T04:57:45.798455+09:00",
+ "updated": "2026-08-17T05:22:48.700805+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,14 +451,9 @@
    ]
   },
   "btc": {
-   "price": 63041.92,
+   "price": 63058.73,
    "prev": 63024.637,
    "spark": [
-    63215.7109,
-    63179.7891,
-    63186.9219,
-    63209.8711,
-    63195.5898,
     63150.6719,
     63139.4883,
     63137.0,
@@ -492,19 +487,19 @@
     63093.8203,
     63066.0,
     63048.5195,
-    63043.8789,
-    63041.9219
+    63040.1719,
+    63046.0,
+    63055.3398,
+    63062.4883,
+    63055.0703,
+    63064.0,
+    63058.7305
    ]
   },
   "eth": {
-   "price": 1883.79,
+   "price": 1885.39,
    "prev": 1880.982,
    "spark": [
-    1888.35,
-    1887.5601,
-    1887.59,
-    1888.02,
-    1887.7,
     1885.9,
     1884.72,
     1885.3199,
@@ -538,8 +533,13 @@
     1883.77,
     1883.16,
     1883.34,
-    1883.9399,
-    1883.79
+    1884.15,
+    1883.74,
+    1884.37,
+    1884.95,
+    1884.7,
+    1885.59,
+    1885.39
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 159.268,
+   "price": 159.272,
    "prev": 159.5,
    "spark": [
     159.365,
@@ -781,9 +781,15 @@
  "news": [
   {
    "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
-   "source": "chosun.com",
+   "source": "조선일보",
    "time": "2026-08-16T10:29:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
+  },
+  {
+   "title": "코스피, 外人 귀환에 ‘추가 상승’ 기대…낙관론 확산[주간증시]",
+   "source": "에너지경제신문",
+   "time": "2026-08-17T05:01:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxcS0waER2TC1ueGtDbjVWQm92MndiRm43Z09NSXd5eF9Ic1BoajdjZjRRRWRDMGJnVWtXNzl3QzZ2YTRKSHRRMVAzV1VueHU4dFl6b0VaallSLWsyblBGWXYyNA?oc=5"
   },
   {
    "title": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
@@ -798,6 +804,12 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
+   "title": "“코스피, 최악은 지났는데…” 8820조 굴리는 美금융사의 조언",
+   "source": "중앙일보",
+   "time": "2026-08-17T05:04:56+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04Ujk0MlJfMWUxbGVfaUk0NUdyektnRmxOYTF1eVc4QXpIb19Lb2JfWEVYa0dmaDNBd2M3WnRHUF92OUtad0EwSTkwU0NhYVpwSEIxQ3ln?oc=5"
+  },
+  {
    "title": "“코스피, 앞으로 더 크게 흔들릴 수도” … AI시대 견뎌야 할 ‘뉴노멀’",
    "source": "매일경제",
    "time": "2026-08-17T04:10:00+09:00",
@@ -810,22 +822,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
   },
   {
-   "title": "“코스피 7000 못 믿겠다”…강세장 뒤 불어난 ‘공매도 폭탄’ [머니+]",
-   "source": "ekn.kr",
-   "time": "2026-08-16T12:34:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MWkRrLURpT1lpZDdqS2h2bjRRdnU0Ti1ZcDhjdnMtTUZodXJsSUd2dURyZmt4dDdrN3hlWndJZVNCTC0xeWxDQzZ4dHB6a3NLTXVOX1YxeUJyVnM?oc=5"
+   "title": "스트래티지 채무 상품, 비트코인 폭락장서 선방",
+   "source": "글로벌이코노믹",
+   "time": "2026-08-17T04:08:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzJPY3ZjVkt6UVVFQm1QLTRLUW54NzJvbVY2dTQzZFdBV3lBVmpYczVaNkdkelF0ZFZOQlFSOTVJeS1IdjhsMVprVlI2cGZpNkU4NE9rVVViZXpmX196UnVqekctZ2hZNlI5S0pTdkdseHN6eG9XT25CQWlwbVJ5d1BKTGk2YWtY?oc=5"
   },
   {
    "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
    "source": "연합뉴스",
    "time": "2026-08-16T12:27:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UlN0QWRNNTlIN1lBeXczcjFpYkdqOUV5b3FzbUN4aFJBYUZadWFNQk45aWltMkZOSXRiWEZjVlVFU1liU1IxbVlRMkd6bm1KY3B4QThQNHZzdmfSAWBBVV95cUxOTnplV25wWGt4RlRJcXhrV1A5cnZFcmR1Ny1MMFVHMTVpcm83UXUzdU85UXd2SkRtWXdPUnhGWWM4ZnRVeGxvT2R6OE0zVFByNXRlbzNKaHB0dHRtSGp1dko?oc=5"
-  },
-  {
-   "title": "스트래티지 채무 상품, 비트코인 폭락장서 선방",
-   "source": "글로벌이코노믹",
-   "time": "2026-08-17T04:08:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzJPY3ZjVkt6UVVFQm1QLTRLUW54NzJvbVY2dTQzZFdBV3lBVmpYczVaNkdkelF0ZFZOQlFSOTVJeS1IdjhsMVprVlI2cGZpNkU4NE9rVVViZXpmX196UnVqekctZ2hZNlI5S0pTdkdseHN6eG9XT25CQWlwbVJ5d1BKTGk2YWtY?oc=5"
   },
   {
    "title": "비트코인 6만3천 달러 상회...세일러 \"디지털 화폐 에너지\" 주장",
@@ -852,16 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iRGd5ZEpYZUJJWFVMa3B4WWtVX1FYczNWeHNvZ1huYlR0ZGUwT1ZURUg0c2NSbU82Y0lzdjk3bnhWaFZFb1ZLUnhWQWQ3LXJK?oc=5"
   },
   {
-   "title": "성공투자 오후증시",
-   "source": "한국경제TV",
-   "time": "2026-08-14T17:10:36+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTdYUXhFcGQ5MjdwNWpYWDAyYmx0THJpRkY0RDZzVGVvZ1pVNDBBQWV5am1OOXBndEhqZnNwYTd4VDNINmZQQVhYM1NpNTEtZDlqMEdUZ0xOUXBJS21uWkI1WUlBVlo2SjFaTGxkUDNJNVhERUE1UTFrSy01cThybDlTeUtjQ2pZZ0l6SFhFVktxYkgzOXBQYjI1VUxSQ2tHb2Zr?oc=5"
-  },
-  {
-   "title": "[D-BIZ 암호화폐 뉴스] '비트코인 매수·은행가 매도' 시대 끝…전통금융, 암호화폐와 경계 허물고 통합으로",
-   "source": "데일리비즈온",
-   "time": "2026-08-16T23:32:06+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWGZDeU01QXpKMEduU3VhMzNBbEJKalVKR3Q5aDNOOEJZU0hHQUdQRmRja2dwYmRqWTBMNXNnM0FxZTlLNW5NdDd4UjBDWkJ5TDdCOVhocFYtbnIycVZROFlWbV9QVEhXZzV6NA?oc=5"
+   "title": "상반기 ‘연봉킹’ 카뱅 윤호영 82억… 증시 활황에 한투 오너·사장 2·3위",
+   "source": "서울신문",
+   "time": "2026-08-17T00:48:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fYXpTbG5aYzBQRTVMQ2c1RG00VU1iRFRtTkhXakVNenY4bmNwTjlOaXZLUU84WHRUelVmY1I2ektPMTVHWlpUUDJiZTJCcU1jU3B4OElEOEpLT2ZIdWx5WVhWRmZGZEdKelFieHp6RmYyU3BmMU9YYUdB?oc=5"
   }
  ]
 }
