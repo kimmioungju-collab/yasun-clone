@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T22:38:02.700005+09:00",
+ "updated": "2026-08-16T22:57:08.608251+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -451,39 +451,35 @@
    ]
   },
   "btc": {
-   "price": 62985.26,
+   "price": 62998.35,
    "prev": 63024.637,
    "spark": [
-    62942.8398,
-    62934.8594,
-    62937.9219,
-    62939.1719,
     62939.5117,
     62935.0312,
-    62940.1914,
-    62942.8086,
+    62940.1992,
+    62942.2305,
     62940.5312,
-    62935.6406,
+    62935.6484,
     62936.9492,
-    62917.8398,
+    62917.8516,
     62915.7617,
-    62916.0312,
+    62916.0391,
     62928.8984,
     62925.6094,
     62907.7305,
     62920.5586,
-    62945.3203,
+    62945.3281,
     62947.8516,
     62951.9805,
     62943.4883,
     62947.7695,
-    62949.7617,
+    62949.7695,
     62944.4492,
     62942.1484,
     62940.9219,
     62927.1094,
     62943.2305,
-    62945.4688,
+    62945.4609,
     62948.0,
     62948.0,
     62994.6719,
@@ -492,18 +488,18 @@
     62999.9805,
     62999.9883,
     62997.8711,
-    62985.2617,
-    62985.2617
+    62985.2695,
+    62994.0117,
+    62994.2812,
+    62996.8086,
+    62998.3594,
+    62998.3516
    ]
   },
   "eth": {
-   "price": 1878.6,
+   "price": 1879.48,
    "prev": 1880.982,
    "spark": [
-    1878.5699,
-    1878.21,
-    1878.59,
-    1878.78,
     1879.12,
     1878.85,
     1878.76,
@@ -511,7 +507,7 @@
     1878.64,
     1878.92,
     1878.75,
-    1878.28,
+    1878.27,
     1878.52,
     1878.6,
     1878.8199,
@@ -531,15 +527,19 @@
     1878.03,
     1877.9301,
     1877.75,
-    1877.85,
+    1877.84,
     1878.74,
     1878.7,
     1879.25,
     1878.58,
     1878.76,
     1879.79,
-    1878.66,
-    1878.6
+    1879.1,
+    1879.37,
+    1879.62,
+    1879.76,
+    1879.8,
+    1879.48
    ]
   },
   "eurkrw": {
@@ -810,16 +810,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UlN0QWRNNTlIN1lBeXczcjFpYkdqOUV5b3FzbUN4aFJBYUZadWFNQk45aWltMkZOSXRiWEZjVlVFU1liU1IxbVlRMkd6bm1KY3B4QThQNHZzdmfSAWBBVV95cUxOTnplV25wWGt4RlRJcXhrV1A5cnZFcmR1Ny1MMFVHMTVpcm83UXUzdU85UXd2SkRtWXdPUnhGWWM4ZnRVeGxvT2R6OE0zVFByNXRlbzNKaHB0dHRtSGp1dko?oc=5"
   },
   {
-   "title": "비트코인 6만3천 달러 상회...세일러 \"디지털 화폐 에너지\" 주장",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-16T18:09:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTnd3bXhVZmgzY3lnaXc4bnlucGlfc0FMTUVVVzduWUxLakxPNFEwaWVjUElNdmpYdF9zRmZwampnTTBMVU5mVFdQQWVSaVRad2J6UVBwMnphOFBpRkROZXFGZVIwR3pCLU0tZk9HWjRVNEE?oc=5"
-  },
-  {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
    "source": "KBS 뉴스",
    "time": "2026-08-14T06:53:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySnlFc2NrVWFycm9tZVk2Zzhwd0ZLRndJT2ExVlRtVW5lR0hBZEtCR2JLUjV0aGZUX1BiU0EzMUhkY1h6dk4wM2htN2tid3hydmR6MjVVVFVMdmM?oc=5"
+  },
+  {
+   "title": "비트코인 6만3천 달러 상회...세일러 \"디지털 화폐 에너지\" 주장",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-16T18:09:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTnd3bXhVZmgzY3lnaXc4bnlucGlfc0FMTUVVVzduWUxLakxPNFEwaWVjUElNdmpYdF9zRmZwampnTTBMVU5mVFdQQWVSaVRad2J6UVBwMnphOFBpRkROZXFGZVIwR3pCLU0tZk9HWjRVNEE?oc=5"
   },
   {
    "title": "[표] 외국환율고시표",
@@ -853,13 +853,13 @@
   },
   {
    "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
-   "source": "newsworks.co.kr",
+   "source": "뉴스웍스",
    "time": "2026-08-16T14:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5"
   },
   {
    "title": "수출 중견기업 56%, 하반기 실적 증가 전망… ‘환율 변동성’은 과제",
-   "source": "산업일보",
+   "source": "kidd.co.kr",
    "time": "2026-08-16T12:30:33+09:00",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xRW12ZVUxZFlSZ05JRS1Yd0NwSWlqc0M2dEhsdkF0WjFwVXQtVUY5OU03ejlPOWVBajl1OXo0b2xSX3k5?oc=5"
   }
