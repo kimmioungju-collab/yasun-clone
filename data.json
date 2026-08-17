@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T06:27:53.996961+09:00",
+ "updated": "2026-08-18T06:50:53.946019+09:00",
  "quotes": {
   "k200": {
    "price": 1098.18,
@@ -187,7 +187,7 @@
   },
   "nq": {
    "price": 30078.25,
-   "prev": 30141.75,
+   "prev": 30096.0,
    "spark": [
     30111.0,
     30112.0,
@@ -233,7 +233,7 @@
   },
   "es": {
    "price": 7765.5,
-   "prev": 7805.0,
+   "prev": 7768.75,
    "spark": [
     7776.25,
     7776.25,
@@ -417,7 +417,7 @@
   },
   "wti": {
    "price": 84.95,
-   "prev": 82.4,
+   "prev": 84.5,
    "spark": [
     84.13,
     84.53,
@@ -463,7 +463,7 @@
   },
   "brent": {
    "price": 91.1,
-   "prev": 88.52,
+   "prev": 90.87,
    "spark": [
     90.45,
     90.87,
@@ -509,7 +509,7 @@
   },
   "gold": {
    "price": 4473.1,
-   "prev": 4437.3,
+   "prev": 4473.7,
    "spark": [
     4476.5,
     4474.7998,
@@ -555,7 +555,7 @@
   },
   "silver": {
    "price": 65.905,
-   "prev": 65.108,
+   "prev": 66.231,
    "spark": [
     66.21,
     66.215,
@@ -601,7 +601,7 @@
   },
   "gas": {
    "price": 2.704,
-   "prev": 2.733,
+   "prev": 2.69,
    "spark": [
     2.689,
     2.691,
@@ -692,13 +692,9 @@
    ]
   },
   "usdkrw": {
-   "price": 1415.23,
+   "price": 1414.85,
    "prev": 1416.48,
    "spark": [
-    1415.14,
-    1414.84,
-    1415.21,
-    1415.0,
     1414.85,
     1415.21,
     1415.33,
@@ -733,18 +729,18 @@
     1415.29,
     1414.9,
     1414.95,
-    1414.91,
-    1415.23
+    1414.87,
+    1414.88,
+    1414.83,
+    1414.92,
+    1414.84,
+    1414.85
    ]
   },
   "btc": {
-   "price": 64278.39,
+   "price": 64318.43,
    "prev": 62829.637,
    "spark": [
-    64352.7188,
-    64490.1914,
-    64427.9688,
-    64359.9688,
     64395.0195,
     64403.9883,
     64397.5195,
@@ -779,18 +775,18 @@
     64327.7109,
     64322.6719,
     64287.2188,
-    64278.3906,
-    64278.3906
+    64276.7891,
+    64297.8203,
+    64287.5391,
+    64285.8398,
+    64318.9805,
+    64318.4297
    ]
   },
   "eth": {
-   "price": 1904.75,
+   "price": 1905.11,
    "prev": 1874.101,
    "spark": [
-    1908.24,
-    1909.5699,
-    1908.62,
-    1907.79,
     1907.8101,
     1909.08,
     1908.48,
@@ -825,19 +821,18 @@
     1906.46,
     1905.75,
     1904.8199,
-    1904.79,
-    1904.75
+    1904.5601,
+    1905.61,
+    1904.9399,
+    1904.75,
+    1904.74,
+    1905.11
    ]
   },
   "eurkrw": {
-   "price": 1637.6,
+   "price": 1637.5,
    "prev": 1638.2,
    "spark": [
-    1637.9,
-    1638.0,
-    1637.7,
-    1637.0,
-    1637.4,
     1636.8,
     1636.6,
     1637.0,
@@ -872,18 +867,18 @@
     1637.5,
     1638.0,
     1637.8,
-    1637.6
+    1637.6,
+    1637.5,
+    1637.6,
+    1637.7,
+    1637.9,
+    1637.5
    ]
   },
   "jpykrw": {
-   "price": 8.854,
+   "price": 8.853,
    "prev": 8.867,
    "spark": [
-    8.851,
-    8.852,
-    8.85,
-    8.846,
-    8.847,
     8.845,
     8.845,
     8.847,
@@ -918,17 +913,18 @@
     8.85,
     8.855,
     8.853,
-    8.854
+    8.854,
+    8.854,
+    8.854,
+    8.853,
+    8.853,
+    8.853
    ]
   },
   "cnykrw": {
-   "price": 209.998,
+   "price": 209.826,
    "prev": 210.032,
    "spark": [
-    209.986,
-    210.044,
-    210.02,
-    209.929,
     209.927,
     209.937,
     209.977,
@@ -964,17 +960,17 @@
     210.025,
     209.998,
     210.056,
-    209.998
+    209.998,
+    209.839,
+    209.827,
+    209.861,
+    209.826
    ]
   },
   "usdjpy": {
-   "price": 159.358,
+   "price": 159.387,
    "prev": 159.305,
    "spark": [
-    159.507,
-    159.543,
-    159.563,
-    159.58,
     159.573,
     159.558,
     159.578,
@@ -1009,18 +1005,18 @@
     159.4,
     159.394,
     159.368,
-    159.37,
-    159.358
+    159.371,
+    159.371,
+    159.377,
+    159.41,
+    159.381,
+    159.387
    ]
   },
   "eurusd": {
-   "price": 1.1583,
+   "price": 1.1581,
    "prev": 1.1573,
    "spark": [
-    1.1581,
-    1.1578,
-    1.1578,
-    1.1575,
     1.1575,
     1.1575,
     1.1577,
@@ -1056,17 +1052,17 @@
     1.1582,
     1.1582,
     1.1582,
-    1.1583
+    1.1582,
+    1.1583,
+    1.1582,
+    1.1582,
+    1.1581
    ]
   },
   "dxy": {
-   "price": 99.567,
+   "price": 99.579,
    "prev": 99.667,
    "spark": [
-    99.599,
-    99.59,
-    99.591,
-    99.613,
     99.621,
     99.641,
     99.637,
@@ -1101,8 +1097,12 @@
     99.565,
     99.586,
     99.577,
-    99.562,
-    99.567
+    99.575,
+    99.578,
+    99.58,
+    99.581,
+    99.58,
+    99.579
    ]
   }
  },
@@ -1138,28 +1138,28 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5"
   },
   {
+   "title": "고지, 나스닥 상장 유지 위한 주식 병합 주총 승인",
+   "source": "매일경제 마켓",
+   "time": "2026-08-18T06:30:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WcEZodExFZG4yZ2J3SGlFcDdRWWFOOWc1bzhLUTY3UlUyOC16c0g1dmgzelhlNUVIYml5RC1neHRxYjg3ZHBKTGdGVXJpOUpBaWc?oc=5"
+  },
+  {
    "title": "[코스피·코스닥 전 거래일(14일) 주요공시]",
    "source": "연합뉴스",
    "time": "2026-08-18T06:05:01+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CTXN2WjIxWWxtemhZeks1Uk5McUY3c2N5UjF3U3N1SUpMQkxuU0tvdjl1b0xhQ3EtZWoxbnJXbzhVWFlWTEJuZER5SmUyOThEZkZoRkhmaEpVLUXSAWBBVV95cUxQQnlvU2p6Uml2Y045YmdzWXlvUVBwZHhWZ2Q2NnF6RllCS1A0OFBjSXVhcEdvRnp6Vk5kak52TkVZd0RMMTNwMHRnX1ZoSUFJSXVqR3ZlNmk5b3VLMnhfczY?oc=5"
   },
   {
-   "title": "뉴욕증시 3대지수 하락···30년물 국채금리 19년래 최고[월가월부]",
-   "source": "매일경제 마켓",
-   "time": "2026-08-18T06:06:07+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xUlBJMFZqcUZueF9CS2hjNUozczBxelVjMkpyVS0xOTlURGNJdmRkQmk2NTZqV1VTVmtLWmNISFY0VnUxT0hvSVByOFVuX3RGZUE?oc=5"
+   "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
+   "source": "조선일보",
+   "time": "2026-08-16T10:29:34+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
   },
   {
    "title": "[중국증시 주간 포인트] 7월 中 생산·소비·투자 부진, 유니트리 상장 일정, WRC 등 로봇 이벤트, 딥시크 가격차등제, A주·홍콩증시 상반기 실적발표 위크",
    "source": "뉴스핌",
    "time": "2026-08-17T22:08:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53dl95YXlyNks4V0lOWmV5eFVmNmZiVEFNeExQSTltV3lHeUR3RGU5T0YxU2ZFbmJwbTJNN3NxaTJpc0FrbGVhbDVjdi00TEpWdHpkV3VTazdxWFhm?oc=5"
-  },
-  {
-   "title": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
-   "source": "조선일보",
-   "time": "2026-08-16T10:29:34+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5"
   },
   {
    "title": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
@@ -1180,16 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5"
   },
   {
-   "title": "[중국증시-마감] 경제지표 기다리며 기술주 위주로 상승",
-   "source": "연합인포맥스",
-   "time": "2026-08-17T16:22:42+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WdEpmZEpnaXdfUUVaNnVEQkJaX0YwMnhFSldUM0hwR0xBY01OY0xHQjVWSEszR1puaU50ang5cjN0S1BuWnlaOGhuWW9ESldvZjZjWHkwa2MtQ1RyZFdUQV82WVV3c1UyaHljWUhDRWo?oc=5"
+   "title": "뉴욕증시, 美 국채금리 급등에 나란히 '하락'…나스닥 0.32%↓",
+   "source": "뉴스웍스",
+   "time": "2026-08-18T06:05:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aTDd5emdFQk5fS2ZxaGU0aTRJTWl2SG9wUzd6UTgtOFpHbmZ5OG5nYzBNS0xJQ3YyU3ZkaWxSWVlwSXVNa1JLaXEyWXo0aDljYWNkUktNeG15MmhLakhpejV3M2NBT3hYNGozYkpHMNIBc0FVX3lxTE5wQ2xuSWY3a1Z6UTZJeklFM2EtaXdOUm91SGhvWmRkZVVjcm1pRUN4VFRoYWNuMUZzM1AtbzNaTzJzQXExeHBWZk1OMThTM2VSR18zbE5qNzRtZERiUFBfcDJDeERpak81Q1I4UnBGT2wyUVE?oc=5"
   },
   {
-   "title": "유럽증시, 실적 시즌 마무리로 상승세 한풀 꺾이며 소폭 하락 … 나흘 연속 내림세",
-   "source": "뉴스핌",
-   "time": "2026-08-18T03:03:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8za1V1cVh1TjdOeURWX1pDaHBTNFRKS3N6Z3B0S3MyaF9xZXlMWmc3ZnVUS2kwRmtyWGxsRWEzR3VtZ1pFR2R3eFNSSmstdDZPS0pLLTRQRmZoOVU4?oc=5"
+   "title": "뉴욕증시 3대지수 하락···30년물 국채금리 19년래 최고[월가월부]",
+   "source": "매일경제 마켓",
+   "time": "2026-08-18T06:06:07+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xUlBJMFZqcUZueF9CS2hjNUozczBxelVjMkpyVS0xOTlURGNJdmRkQmk2NTZqV1VTVmtLWmNISFY0VnUxT0hvSVByOFVuX3RGZUE?oc=5"
   }
  ]
 }
