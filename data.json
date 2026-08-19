@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T05:03:15.565014+09:00",
+ "updated": "2026-08-20T05:38:15.030324+09:00",
  "quotes": {
   "k200": {
    "price": 1012.61,
@@ -186,16 +186,9 @@
    ]
   },
   "nq": {
-   "price": 29497.75,
+   "price": 29524.25,
    "prev": 29586.0,
    "spark": [
-    29610.25,
-    29588.75,
-    29571.5,
-    29559.5,
-    29556.0,
-    29541.75,
-    29548.0,
     29526.25,
     29518.5,
     29539.75,
@@ -228,20 +221,20 @@
     29530.75,
     29511.0,
     29511.25,
-    29497.75
+    29521.5,
+    29533.75,
+    29533.5,
+    29518.25,
+    29519.0,
+    29518.75,
+    29525.25,
+    29524.25
    ]
   },
   "es": {
-   "price": 7725.0,
+   "price": 7729.0,
    "prev": 7714.0,
    "spark": [
-    7743.25,
-    7741.25,
-    7738.0,
-    7736.25,
-    7738.5,
-    7734.25,
-    7737.75,
     7734.0,
     7732.5,
     7735.0,
@@ -274,7 +267,14 @@
     7729.5,
     7727.25,
     7727.0,
-    7725.0
+    7731.25,
+    7729.75,
+    7729.5,
+    7728.5,
+    7727.25,
+    7727.25,
+    7729.5,
+    7729.0
    ]
   },
   "ndx": {
@@ -416,16 +416,9 @@
    ]
   },
   "wti": {
-   "price": 84.12,
+   "price": 84.29,
    "prev": 84.06,
    "spark": [
-    85.42,
-    85.44,
-    85.52,
-    85.59,
-    85.62,
-    85.72,
-    85.6,
     85.54,
     85.4,
     85.36,
@@ -458,20 +451,20 @@
     83.98,
     84.03,
     84.22,
-    84.12
+    84.26,
+    84.21,
+    84.21,
+    84.18,
+    84.28,
+    84.29,
+    84.3,
+    84.29
    ]
   },
   "brent": {
-   "price": 91.3,
+   "price": 91.44,
    "prev": 91.02,
    "spark": [
-    92.29,
-    92.35,
-    92.49,
-    92.59,
-    92.57,
-    92.64,
-    92.53,
     92.47,
     92.38,
     92.4,
@@ -504,30 +497,30 @@
     91.17,
     91.22,
     91.41,
-    91.3
+    91.46,
+    91.42,
+    91.4,
+    91.38,
+    91.46,
+    91.47,
+    91.44,
+    91.44
    ]
   },
   "gold": {
-   "price": 4568.1,
+   "price": 4578.4,
    "prev": 4420.6,
    "spark": [
-    4553.2998,
-    4552.2998,
-    4552.2998,
-    4551.0,
-    4554.5,
-    4550.7002,
-    4550.1001,
     4546.7998,
     4547.2998,
-    4545.7998,
+    4545.6001,
     4545.8999,
     4546.0,
     4546.6001,
     4546.5,
     4544.1001,
-    4545.0,
-    4553.7998,
+    4544.7002,
+    4553.3999,
     4547.1001,
     4546.2998,
     4543.2002,
@@ -535,35 +528,35 @@
     4533.7998,
     4538.6001,
     4542.2002,
-    4548.6001,
+    4548.7002,
     4549.7002,
     4552.7002,
-    4553.2998,
+    4552.7998,
     4555.1001,
     4563.6001,
     4561.6001,
     4562.6001,
     4563.2002,
-    4565.1001,
+    4565.0,
     4567.5,
     4563.7002,
     4564.5,
     4568.2002,
     4568.6001,
-    4568.1001
+    4568.2998,
+    4566.7002,
+    4567.8999,
+    4564.5,
+    4568.2002,
+    4576.3999,
+    4576.7002,
+    4578.3999
    ]
   },
   "silver": {
-   "price": 66.475,
+   "price": 66.695,
    "prev": 64.037,
    "spark": [
-    65.95,
-    65.98,
-    65.945,
-    65.9,
-    65.97,
-    65.895,
-    65.915,
     65.75,
     65.83,
     65.78,
@@ -596,20 +589,20 @@
     66.435,
     66.495,
     66.49,
-    66.475
+    66.505,
+    66.465,
+    66.495,
+    66.445,
+    66.53,
+    66.645,
+    66.66,
+    66.695
    ]
   },
   "gas": {
-   "price": 2.776,
+   "price": 2.774,
    "prev": 2.776,
    "spark": [
-    2.837,
-    2.837,
-    2.842,
-    2.84,
-    2.84,
-    2.841,
-    2.839,
     2.839,
     2.831,
     2.831,
@@ -642,18 +635,20 @@
     2.775,
     2.778,
     2.774,
-    2.776
+    2.776,
+    2.781,
+    2.775,
+    2.775,
+    2.775,
+    2.773,
+    2.775,
+    2.774
    ]
   },
   "vix": {
-   "price": 15.06,
+   "price": 14.89,
    "prev": 15.84,
    "spark": [
-    15.16,
-    15.17,
-    15.2,
-    15.24,
-    15.24,
     15.18,
     15.19,
     15.16,
@@ -687,21 +682,19 @@
     14.94,
     15.01,
     15.02,
-    15.06,
-    15.06
+    15.05,
+    15.01,
+    14.91,
+    14.86,
+    14.87,
+    14.89,
+    14.89
    ]
   },
   "usdkrw": {
-   "price": 1387.96,
+   "price": 1387.67,
    "prev": 1412.26,
    "spark": [
-    1388.02,
-    1387.65,
-    1387.97,
-    1387.38,
-    1387.84,
-    1388.28,
-    1387.97,
     1388.01,
     1388.1801,
     1388.0,
@@ -733,21 +726,21 @@
     1388.0601,
     1387.95,
     1388.17,
-    1388.04,
-    1387.96
+    1387.97,
+    1388.1899,
+    1388.17,
+    1387.99,
+    1388.0699,
+    1388.15,
+    1388.22,
+    1388.5,
+    1387.67
    ]
   },
   "btc": {
-   "price": 68396.02,
+   "price": 68672.93,
    "prev": 64681.22,
    "spark": [
-    68576.5938,
-    68453.9766,
-    68372.6484,
-    68283.3594,
-    68224.0312,
-    68014.9766,
-    67929.8672,
     67977.1016,
     67942.0078,
     68011.3828,
@@ -779,21 +772,21 @@
     68365.8438,
     68399.3984,
     68406.1328,
-    68403.3281,
-    68396.0234
+    68499.9922,
+    68609.0469,
+    68666.5,
+    68602.5312,
+    68769.8438,
+    68685.8203,
+    68740.0078,
+    68663.2578,
+    68672.9297
    ]
   },
   "eth": {
-   "price": 2104.79,
+   "price": 2122.44,
    "prev": 1916.4741,
    "spark": [
-    2089.74,
-    2088.77,
-    2082.5,
-    2081.52,
-    2079.3,
-    2068.8501,
-    2071.0801,
     2076.6699,
     2076.3701,
     2084.3601,
@@ -825,21 +818,21 @@
     2097.1499,
     2101.5601,
     2101.9299,
-    2106.0,
-    2104.79
+    2107.5801,
+    2116.3999,
+    2112.3601,
+    2111.6899,
+    2116.04,
+    2125.5701,
+    2125.1201,
+    2121.73,
+    2122.4399
    ]
   },
   "eurkrw": {
-   "price": 1620.3,
+   "price": 1620.8,
    "prev": 1633.9,
    "spark": [
-    1619.4,
-    1619.1,
-    1619.5,
-    1618.5,
-    1618.8,
-    1618.4,
-    1618.3,
     1618.6,
     1618.3,
     1618.3,
@@ -872,20 +865,20 @@
     1619.7,
     1619.7,
     1620.0,
-    1620.3
+    1620.3,
+    1620.1,
+    1620.4,
+    1620.2,
+    1619.9,
+    1620.2,
+    1619.8,
+    1620.8
    ]
   },
   "jpykrw": {
-   "price": 8.756,
+   "price": 8.755,
    "prev": 8.826,
    "spark": [
-    8.743,
-    8.743,
-    8.745,
-    8.739,
-    8.74,
-    8.736,
-    8.735,
     8.74,
     8.736,
     8.735,
@@ -918,7 +911,14 @@
     8.749,
     8.749,
     8.751,
-    8.756
+    8.756,
+    8.756,
+    8.757,
+    8.755,
+    8.753,
+    8.753,
+    8.751,
+    8.755
    ]
   },
   "cnykrw": {
@@ -968,16 +968,9 @@
    ]
   },
   "usdjpy": {
-   "price": 158.109,
+   "price": 158.168,
    "prev": 159.577,
    "spark": [
-    158.344,
-    158.385,
-    158.407,
-    158.456,
-    158.477,
-    158.455,
-    158.468,
     158.498,
     158.508,
     158.553,
@@ -1009,21 +1002,21 @@
     158.263,
     158.19,
     158.139,
-    158.109,
-    158.109
+    158.116,
+    158.132,
+    158.152,
+    158.18,
+    158.173,
+    158.206,
+    158.191,
+    158.17,
+    158.168
    ]
   },
   "eurusd": {
    "price": 1.1681,
    "prev": 1.1577,
    "spark": [
-    1.1674,
-    1.1673,
-    1.1671,
-    1.167,
-    1.167,
-    1.1667,
-    1.1669,
     1.1667,
     1.1666,
     1.1665,
@@ -1056,20 +1049,20 @@
     1.168,
     1.1681,
     1.1681,
+    1.1681,
+    1.168,
+    1.168,
+    1.1681,
+    1.168,
+    1.1681,
+    1.1681,
     1.1681
    ]
   },
   "dxy": {
-   "price": 98.804,
+   "price": 98.812,
    "prev": 99.657,
    "spark": [
-    98.866,
-    98.864,
-    98.848,
-    98.869,
-    98.875,
-    98.891,
-    98.903,
     98.913,
     98.914,
     98.919,
@@ -1101,15 +1094,22 @@
     98.827,
     98.829,
     98.83,
-    98.806,
-    98.804
+    98.801,
+    98.797,
+    98.79,
+    98.796,
+    98.81,
+    98.815,
+    98.805,
+    98.812,
+    98.812
    ]
   }
  },
  "news": [
   {
    "title": "환율 다시 1300원대로... 11개월 만에 내려왔다",
-   "source": "chosun.com",
+   "source": "조선일보",
    "time": "2026-08-19T17:11:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3J5aFlMdW1ldjVCMDNyam9DbzgyMTJaZGxUek5WN3dXMnBWWG4zUG9jZ1BJRUtMZUtaWC01Wk9YQXpPcDNzRWFONnh0c2dULTdRQV9aVlFRX2IyNU1FeGFrTmRpY2Fpd2NiRXhfMjdBNDhGdnRuYWhNRFlaekNRMGtfSzdWVTIxektNU1BR?oc=5"
   },
@@ -1163,7 +1163,7 @@
   },
   {
    "title": "원/달러 환율 1,300원대로…11개월 만에 최저(종합2보)",
-   "source": "yna.co.kr",
+   "source": "연합뉴스",
    "time": "2026-08-19T16:30:06+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tUGpZZG1RZGVvRlIxUmVwWmRNOWEyT29rSWtfaHZzRWVWWUZTdENpX0VnQmt2WGpDLXFnNjA5RS1mZ3FzQWc3clgzamp3bVJOZzBCRXREczhhRk3SAWBBVV95cUxQay12OE9XR0lNa0x3UGp2ano5bkRNN3QyV3QyTDNxSllTb0RoNy1zRUJ1Yk9aTFFfNENFZ3ZwR0hsYWxjdXBBRi1NQmdIYThUUmJNYlBKZkdiUXMyZUFURUc?oc=5"
   },
@@ -1174,10 +1174,10 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUYXAtV0RZRy1YeTc4OS1YWFJhUGNmcjNMLXNtY2VxaTZyZk1GQTRQNVNQWXR3U28xSGJZODJjUGU4X0Y5cUY1MnR4MTJqb2wtOTc3WkNiamZPdkExNXlaNGVZXzdEYXRHdHN6bGZwR0N4WENC0gF0QVVfeXFMUE11b2hEUWlaTmVoM3k0MzlrZHJqWkhBYnItUHpjZ3BOX1NWYmtRMHhHNjd5UXZjWjhITkJjX1pjdVA1NmQxZzlIbGxjd0lpM2VnYmpQUXdWSWkyLWotNlhEdU0xOTRTWmlrWnFtZkhnaW5IcWU?oc=5"
   },
   {
-   "title": "원·달러 환율 1400원 깨졌다···11개월 만에 1300원대로",
-   "source": "경향신문",
-   "time": "2026-08-19T15:36:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YbEtqeWFfLTJfZG55ejNPZFFWanYxMkk3RHU0MTRTS3lLZ0tnV1pCY1JyeTRfQmRBWFIxTURrMzdwS1JIakNvMi1yM3I1Ny1fSHd6VExJNWFWd9IBX0FVX3lxTE8tUHJOMDVPSnIzWDBxZG5NUVlVSVI3UEk4ZmVwbTczaTg0aUszbEdsUUdabjdGYjdmUmxDS0I4MFZHMWlDYUU2RjN5OGZXaXNmM3AxUXk4YVlfVTlzVmhn?oc=5"
+   "title": "원·달러 환율, 11개월 만에 1300원대로",
+   "source": "khan.co.kr",
+   "time": "2026-08-19T21:21:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83NkRWRkRtbU1WMlNfVmlQVjh2M1hfb1RPaWlZVjcxM1FNY0NnbDlxTTZydk41QURSNXp2VnNqSlBfUnBLUUZmRHVnelNJcngwRXVYLUJ6R1kwUdIBX0FVX3lxTE5FS2R5Rm42bHZLVUU3aDQtYjZXRXgzR1I5R2xTZ3ZaTDR3UXVmalFqWmlNWmt2M1NfX083VFZlVG45MDRMZ2VRaTZseGdwVnMyQW9aN3NaMENjc1BJTjhr?oc=5"
   },
   {
    "title": "美국채금리 급등 직격탄… 코스피, 6500선 아래로 - 머니투데이",
@@ -1186,10 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04U3B0TVVNTFBPajZzQ2JDMmszRXhtdUdfaHpOODhFVXVIcmRpUkFQSG02U0Q5dFVPTmRJTUJNS3plaENnSHcxUVRmZVFieW5Ca0dLRURJRTZiNkFxbnlnWVQ5bWliel9q0gFuQVVfeXFMTmZka0hLS3F3aVNlRnp5d0l6aXZ4N0E2OEhQQmprSlpkbDZBUmtXTm5kdkRSak1Xa0FjMWZfcW1kYXRzbk56SnlDdF9laVVacTJ4VWNzajU4UGVfazhYV2lxbDZCc3EwTjZudWIzQVE?oc=5"
   },
   {
-   "title": "[속보] 원·달러 환율 10개월 반 만에 1300원 대로 하락",
-   "source": "한국경제",
-   "time": "2026-08-19T12:05:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qalk1SlU0SU5TdElKT1B6bW1QSkUzdzdlbUQzR0hxcHlhUkh5c2dsOXI1eGduRkRaUmJrY2V4dlhoYjhjalMtMDJuczJIN05zZ1JZZnpZZFEzUQ?oc=5"
+   "title": "환율 1,300원대로…美 금리 동결 전망 등 영향",
+   "source": "연합뉴스TV",
+   "time": "2026-08-19T21:07:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zVGhHYlZycTlSNWtMckdaMGVSRDE0QVg4TDZvNjhBUDM4T1hGaTJmMzY1OTF4MzNkOTV6SThMZUxRRFVCaEJMYldIRUpkSTVyN1ctdDNiUTdodjVJRzg0RGFCZEM4TzA?oc=5"
   }
  ]
 }
