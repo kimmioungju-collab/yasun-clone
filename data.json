@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T04:29:32.427392+09:00",
+ "updated": "2026-08-23T04:47:31.163749+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77278.6,
+   "price": 77439.96,
    "prev": 78326.97,
    "spark": [
-    77164.5703,
-    77197.0078,
-    77183.9062,
-    77186.1562,
     77306.7188,
     77380.0078,
     77427.5938,
@@ -779,18 +775,18 @@
     77328.0078,
     77286.2422,
     77275.8906,
-    77288.0469,
-    77278.6016
+    77284.5625,
+    77323.0078,
+    77362.5938,
+    77422.8516,
+    77449.3672,
+    77439.9609
    ]
   },
   "eth": {
-   "price": 2427.95,
+   "price": 2438.34,
    "prev": 2515.2744,
    "spark": [
-    2419.25,
-    2421.3899,
-    2420.0,
-    2418.96,
     2422.4199,
     2425.4399,
     2426.27,
@@ -825,8 +821,12 @@
     2429.1599,
     2428.8101,
     2427.76,
-    2428.4299,
-    2427.95
+    2428.3799,
+    2430.97,
+    2431.78,
+    2434.6799,
+    2437.3201,
+    2438.3401
    ]
   },
   "eurkrw": {
@@ -1114,16 +1114,16 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRzBGX19ZeGp3MGE5ZV84eVNXNmozelROQllEM19heHRDX0VSYlgzSk1qb0ZUVnoydHJtNlk3YWI3UlR2SzZlVlV6S0JYZzQ5Z01HenRqckkwXzVNTHFIbFV6WUxXeHJI0gFuQVVfeXFMTVd5Ykd1eU53RU5aMDRZdjhqUzVqRUFnZXdwQXNyWW9ZMElMQUw0NzRaVnd4eUhMLWREdjZ2R3J5RGtSM0xydTRCbmNaUnNuSFc5VnpEc2llUTZ3YmhxRW5hQTBtTXg2V2QycUlONGc?oc=5"
   },
   {
-   "title": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
-   "source": "이로운넷",
-   "time": "2026-08-22T23:26:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
-  },
-  {
    "title": "재무부 주도 숏 스퀴즈 이후 비트코인 $77,000 위 유지",
    "source": "Investing.com 한국어",
    "time": "2026-08-22T18:52:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15UjNwejYybW1ZYV8tZ2ZQU2lua2Q2TmVKSVEtSlVrZ0YxT19oZWt1S1o1S3gydk8wS0N1YVdsTHgtcXNhX1RqNVZZY3dBa1ZqZWVTb04tZFhmby10cjdrTndTd2NCTHF4N2VxWUdqN2g2U1k?oc=5"
+  },
+  {
+   "title": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
+   "source": "이로운넷",
+   "time": "2026-08-22T23:26:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
   },
   {
    "title": "[뉴욕증시] 국채 바이백 후폭풍 속 저가 매수…상승 마감",
