@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T02:28:18.977981+09:00",
+ "updated": "2026-08-23T02:47:19.329414+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77268.65,
+   "price": 77240.4,
    "prev": 78326.97,
    "spark": [
-    76989.7969,
-    77011.6094,
-    77081.3594,
-    77133.4297,
     76980.5,
     76947.7188,
     76950.4219,
@@ -779,18 +775,18 @@
     77268.4062,
     77318.0078,
     77275.1797,
-    77268.7422,
-    77268.6484
+    77081.5312,
+    77161.5234,
+    77114.3516,
+    77212.7969,
+    77239.9688,
+    77240.3984
    ]
   },
   "eth": {
-   "price": 2424.3,
+   "price": 2423.68,
    "prev": 2515.2744,
    "spark": [
-    2416.24,
-    2416.1499,
-    2420.76,
-    2422.9199,
     2415.73,
     2412.1101,
     2411.3501,
@@ -825,8 +821,12 @@
     2423.5,
     2428.21,
     2424.96,
-    2424.3799,
-    2424.3
+    2418.6001,
+    2422.96,
+    2421.04,
+    2424.3899,
+    2423.5601,
+    2423.6799
    ]
   },
   "eurkrw": {
@@ -1150,22 +1150,16 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
   },
   {
-   "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
-   "source": "중앙일보",
-   "time": "2026-08-20T05:00:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
+   "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
+   "source": "KB Think",
+   "time": "2026-08-19T07:58:05+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
    "title": "환율도 움직이는 ‘삼전닉스’… 역대급 주주환원, 환율 하락에 힘 보탠다 - 조선비즈",
    "source": "Chosunbiz",
    "time": "2026-08-22T06:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
-  },
-  {
-   "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
-   "source": "KB Think",
-   "time": "2026-08-19T07:58:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
    "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
@@ -1186,10 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ObWxPeHNYNTJ1RjlzWFBhcFFaX3JSUFJGWS1wU0E1OXl2Vk9ScktzbmE1Ul9obHFEeDB3dEJ5WXVlSmFlMzdIX0dmZTZyN0lmb2hzX1B0NVRWMEst?oc=5"
   },
   {
-   "title": "\"비트코인, 지난 7일간 주요 거래소서 2721 BTC 순유출…펀딩비는 중립\"",
+   "title": "\"비트코인 3일간 23% 급등…단기 투자자 바이낸스 유입, 2월 이후 최대\"",
    "source": "블루밍비트",
-   "time": "2026-08-22T21:59:29+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95QVNTWVdKUUdMYldSanA2ckcyRkp2R3Npai1Hc1o3ekVGeDFnLTNhamRuTUxZNmlmMnIyQ1pxQnoxRFh1U1pGN1dtMW9CbnVX?oc=5"
+   "time": "2026-08-22T20:34:42+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOQVQ4MHlmMEtBUDIyVUlSbnFDNC1tS0RiQ0ZjX3d1azBwbjYwZ1lib09kTmhRQzg5akowX0F4c0FfcWtSUjZudm1FN1V5V0Fm?oc=5"
+  },
+  {
+   "title": "코스피 7,200부터 개인 투자자 집중 매수",
+   "source": "v.daum.net",
+   "time": "2026-08-20T06:02:24+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10YlpZNV9XU0xabWpkS1hFLVJpVUtFcG1jY3Nhc2V4RVZtQ3dmR3MxTzdlTXdkNHMzdHltOV9USmF0R3NYeDVzbjdsd2lUa2c?oc=5"
   }
  ]
 }
