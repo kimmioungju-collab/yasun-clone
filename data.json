@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T07:34:48.727701+09:00",
+ "updated": "2026-08-23T07:54:06.213373+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 76933.93,
+   "price": 77077.16,
    "prev": 78326.97,
    "spark": [
-    77275.8906,
-    77284.5625,
-    77323.0078,
-    77362.5938,
     77422.8516,
     77437.1094,
     77453.3828,
@@ -779,18 +775,18 @@
     77050.3594,
     77115.9609,
     77045.5781,
-    76894.2031,
-    76933.9297
+    76945.7891,
+    76975.4609,
+    77041.5,
+    77035.9297,
+    77060.8672,
+    77077.1562
    ]
   },
   "eth": {
-   "price": 2413.35,
+   "price": 2415.6,
    "prev": 2515.2744,
    "spark": [
-    2427.76,
-    2428.3799,
-    2430.97,
-    2431.78,
     2434.6799,
     2437.8301,
     2442.4299,
@@ -825,8 +821,12 @@
     2418.1299,
     2421.8701,
     2423.53,
-    2410.2,
-    2413.3501
+    2414.0601,
+    2413.8701,
+    2414.3301,
+    2414.22,
+    2415.3101,
+    2415.6001
    ]
   },
   "eurkrw": {
@@ -1108,6 +1108,12 @@
  },
  "news": [
   {
+   "title": "\"코스피 올해 9300 재돌파\"...지금 팔면 땅치고 후회?[부꾸미] - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-22T03:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRzBGX19ZeGp3MGE5ZV84eVNXNmozelROQllEM19heHRDX0VSYlgzSk1qb0ZUVnoydHJtNlk3YWI3UlR2SzZlVlV6S0JYZzQ5Z01HenRqckkwXzVNTHFIbFV6WUxXeHJI0gFuQVVfeXFMTVd5Ykd1eU53RU5aMDRZdjhqUzVqRUFnZXdwQXNyWW9ZMElMQUw0NzRaVnd4eUhMLWREdjZ2R3J5RGtSM0xydTRCbmNaUnNuSFc5VnpEc2llUTZ3YmhxRW5hQTBtTXg2V2QycUlONGc?oc=5"
+  },
+  {
    "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향",
    "source": "v.daum.net",
    "time": "2026-08-23T05:21:28+09:00",
@@ -1118,36 +1124,6 @@
    "source": "글로벌이코노믹",
    "time": "2026-08-23T06:29:56+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2VFVWluMm43bnJpRlR6aVBIRTZyaFpLa29mcExCSW5CVkhrcC04NHlTbnRaZ1NuVlFkdlpNb0x6OXNhVHV4WlphODBaWDJqQk1ORFFVMGRnWmVKYWVhRU0xMWNfMFBwTjdpa2NER2ZxeXBWbU53Vi1RRFJ5OGVlNXU0QzBxZ2J1?oc=5"
-  },
-  {
-   "title": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
-   "source": "이로운넷",
-   "time": "2026-08-22T23:26:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
-  },
-  {
-   "title": "[8월 셋째 주 세계경제동향 브리핑] 코스피 6,900선 약보합…코스닥 7%대 하락",
-   "source": "기호일보",
-   "time": "2026-08-22T18:25:22+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lMlMyZ3p2aWIxWWZtOGJRcFFWd05xMDNONzVSeThNT0hYZEQ5WTN5THdwajlpNnVremFWWWs2UlBvUE1tSEMyYmxRdVJ3RTRiY0VjOGlZeVhPSzU5X3pKdWc3dkVqcVhQRTd6ajFWMA?oc=5"
-  },
-  {
-   "title": "\"코스피 올해 9300 재돌파\"...지금 팔면 땅치고 후회?[부꾸미] - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-08-22T03:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRzBGX19ZeGp3MGE5ZV84eVNXNmozelROQllEM19heHRDX0VSYlgzSk1qb0ZUVnoydHJtNlk3YWI3UlR2SzZlVlV6S0JYZzQ5Z01HenRqckkwXzVNTHFIbFV6WUxXeHJI0gFuQVVfeXFMTVd5Ykd1eU53RU5aMDRZdjhqUzVqRUFnZXdwQXNyWW9ZMElMQUw0NzRaVnd4eUhMLWREdjZ2R3J5RGtSM0xydTRCbmNaUnNuSFc5VnpEc2llUTZ3YmhxRW5hQTBtTXg2V2QycUlONGc?oc=5"
-  },
-  {
-   "title": "1400원대 깨진 원/달러 환율, 삼성·LG 부품사 하반기 실적 악재에 더 노출되나",
-   "source": "비즈니스포스트",
-   "time": "2026-08-23T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CbnhsZFVXN0lJQXVxUHNfUEExXzg5Wk83Nk9RNnd3aWhvek1rVDJhQ01jVHVPbDIwQmNGMThTbml6VXlHNUdURXlvT2FqQWxqV0pZUkJ6YkpKM1ViSlRKWk5UeTNPNVhlQVc1MUlTV2pIaEU?oc=5"
-  },
-  {
-   "title": "[인베스트] 비트코인 10만 달러 언제 재탈환 할까…“1월 고점 9만7,900 달러를 먼저 넘어야”",
-   "source": "위키리크스한국",
-   "time": "2026-08-23T05:53:48+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80OE85YlVyWWhMZ2tVR3d6anMxSDBSZDJYcGt6ZlZhVDQtdHdKSkpWa2ZjZ3c1YUI5ZmVYQjd2cXN2T2dCMFVuM281OHg3QTl6bUNsX1VKc1R0OUpWN0JZWW5rZWJzTnhOOWJBazBjVQ?oc=5"
   },
   {
    "title": "재무부 주도 숏 스퀴즈 이후 비트코인 $77,000 위 유지",
@@ -1162,16 +1138,22 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2d2ZtalhHU2tiS3owMDRack1QS1BSVmdxSXZTeGVLanBrWEx1SzBlbEtJMi0wZ2xqOXp5R1lWdUtBcEtoTFUtZG1QaEt4cC01ZmY0X1pyOVZTOExEb3QtcG4wNA?oc=5"
   },
   {
-   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
-   "source": "연합뉴스",
-   "time": "2026-08-22T04:37:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
+   "title": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
+   "source": "이로운넷",
+   "time": "2026-08-22T23:26:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
   },
   {
-   "title": "\"트럼프 정책 기대에 비트코인·이더리움 동반 강세\"",
-   "source": "연합인포맥스",
-   "time": "2026-08-22T08:05:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kQmptb3c4Vk5VQXIzOThBV3pjY1BhNXpwdkJnWjJLdVB1ODQ2WDVWV2tWSlN2eS1WaW9jYzJib1J1MFJqZE56X2E2N1dKRjVEZmRqTllTN1JTOTlONUdjWnNwUXQ3ZFN3cXNZT09PemY?oc=5"
+   "title": "삼전닉스 올라도 개미는 ‘멈춤’…코스피 손바뀜 3분의 1 토막",
+   "source": "경북매일",
+   "time": "2026-08-23T06:52:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94WDI4c2ZlMWt5YXNoZkhTY0Y1UWlxN2NiYlM0VUlLQmlrRXc1cl9Zc01fbFBhSjVVLWZ3djI2MEZya2I2M19rVkRQclBFUDV2MkduMHhxMUV5QQ?oc=5"
+  },
+  {
+   "title": "[8월 셋째 주 세계경제동향 브리핑] 코스피 6,900선 약보합…코스닥 7%대 하락",
+   "source": "기호일보",
+   "time": "2026-08-22T18:25:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lMlMyZ3p2aWIxWWZtOGJRcFFWd05xMDNONzVSeThNT0hYZEQ5WTN5THdwajlpNnVremFWWWs2UlBvUE1tSEMyYmxRdVJ3RTRiY0VjOGlZeVhPSzU5X3pKdWc3dkVqcVhQRTd6ajFWMA?oc=5"
   },
   {
    "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
@@ -1180,16 +1162,34 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
-   "title": "\"비트코인, 지난 7일간 주요 거래소서 2721 BTC 순유출…펀딩비는 중립\"",
-   "source": "블루밍비트",
-   "time": "2026-08-22T21:59:29+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95QVNTWVdKUUdMYldSanA2ckcyRkp2R3Npai1Hc1o3ekVGeDFnLTNhamRuTUxZNmlmMnIyQ1pxQnoxRFh1U1pGN1dtMW9CbnVX?oc=5"
+   "title": "[뉴욕증시] 국채 바이백 후폭풍 속 저가 매수…상승 마감",
+   "source": "연합인포맥스",
+   "time": "2026-08-22T05:57:59+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWHpXdGZmSmpHME9fa09aN2p3bVp3T0JDU1ZjRUFUcmEwbHdESUluRXI4bXB6MTY3MDhUblJNU2Mzb1NKbDFNYlVsOEhaNC1ueWZLbFR2WXhENDBpV29ySl9tTHBHQVNGZTgySERWSEw?oc=5"
   },
   {
-   "title": "[속보] 美금리 동결 우세…원·달러 환율, 10개월 반 만에 1300원대",
-   "source": "중앙일보",
-   "time": "2026-08-19T12:04:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oM242ZF8zWXl2Sy1IeHdqemtzTk9HQ0kxM0tGdDJLUEhFM205M2ltcG5TV2hJQXV1N2U2bU5QZ0FHaXBVdFlldFU5ZVJpVjhiZHV2M2tR?oc=5"
+   "title": "[인베스트] 비트코인 10만 달러 언제 재탈환 할까…“1월 고점 9만7,900 달러를 먼저 넘어야”",
+   "source": "위키리크스한국",
+   "time": "2026-08-23T05:53:48+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80OE85YlVyWWhMZ2tVR3d6anMxSDBSZDJYcGt6ZlZhVDQtdHdKSkpWa2ZjZ3c1YUI5ZmVYQjd2cXN2T2dCMFVuM281OHg3QTl6bUNsX1VKc1R0OUpWN0JZWW5rZWJzTnhOOWJBazBjVQ?oc=5"
+  },
+  {
+   "title": "1400원대 깨진 원/달러 환율, 삼성·LG 부품사 하반기 실적 악재에 더 노출되나",
+   "source": "비즈니스포스트",
+   "time": "2026-08-23T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CbnhsZFVXN0lJQXVxUHNfUEExXzg5Wk83Nk9RNnd3aWhvek1rVDJhQ01jVHVPbDIwQmNGMThTbml6VXlHNUdURXlvT2FqQWxqV0pZUkJ6YkpKM1ViSlRKWk5UeTNPNVhlQVc1MUlTV2pIaEU?oc=5"
+  },
+  {
+   "title": "백훈종 대표 \"비트코인 가격 핵심 변수는 금리\"[경제일타강사]",
+   "source": "MTN 머니투데이방송",
+   "time": "2026-08-22T10:00:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUC1maF9VWWV0YkRzbUpIQ3prS2ZPOXdnU1h4RUYzbE90OGhJTHJTOWJWa1RZWlRaNzlad2VOY3loajhtWlJCRV9kTE04dldYZUhuWW45WWFPdnpKUVg1M3NfNXE?oc=5"
+  },
+  {
+   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
+   "source": "연합뉴스",
+   "time": "2026-08-22T04:37:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
   }
  ]
 }
