@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T00:56:12.962966+09:00",
+ "updated": "2026-08-23T01:19:05.018155+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 76988.59,
+   "price": 77146.53,
    "prev": 78326.97,
    "spark": [
-    77343.5625,
-    77312.9609,
-    77300.0078,
-    77220.6406,
     77252.7891,
     77217.5781,
     77137.2891,
@@ -779,18 +775,18 @@
     77049.5078,
     76985.6094,
     76950.8438,
-    76984.6016,
-    76988.5938
+    76970.5625,
+    77056.1484,
+    77010.0703,
+    77036.8516,
+    77137.2578,
+    77146.5312
    ]
   },
   "eth": {
-   "price": 2410.83,
+   "price": 2417.46,
    "prev": 2515.2744,
    "spark": [
-    2429.74,
-    2429.04,
-    2428.3999,
-    2426.04,
     2428.1899,
     2426.53,
     2425.1499,
@@ -825,8 +821,12 @@
     2412.22,
     2410.8,
     2410.01,
-    2410.3101,
-    2410.8301
+    2410.47,
+    2414.52,
+    2412.8601,
+    2414.0701,
+    2417.6599,
+    2417.46
    ]
   },
   "eurkrw": {
@@ -1138,16 +1138,16 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2d2ZtalhHU2tiS3owMDRack1QS1BSVmdxSXZTeGVLanBrWEx1SzBlbEtJMi0wZ2xqOXp5R1lWdUtBcEtoTFUtZG1QaEt4cC01ZmY0X1pyOVZTOExEb3QtcG4wNA?oc=5"
   },
   {
+   "title": "백훈종 대표 \"비트코인 가격 핵심 변수는 금리\"[경제일타강사]",
+   "source": "MTN 머니투데이방송",
+   "time": "2026-08-22T10:00:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUC1maF9VWWV0YkRzbUpIQ3prS2ZPOXdnU1h4RUYzbE90OGhJTHJTOWJWa1RZWlRaNzlad2VOY3loajhtWlJCRV9kTE04dldYZUhuWW45WWFPdnpKUVg1M3NfNXE?oc=5"
+  },
+  {
    "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
    "source": "연합뉴스",
    "time": "2026-08-22T04:37:38+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
-  },
-  {
-   "title": "환율도 움직이는 ‘삼전닉스’… 역대급 주주환원, 환율 하락에 힘 보탠다 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-08-22T06:58:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
   },
   {
    "title": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
@@ -1156,16 +1156,22 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
   },
   {
-   "title": "코스피 절반 삼킨 '삼전닉스'…커진 변동성에 \"지수 쏠림 낮춰야\"",
-   "source": "뉴스핌",
-   "time": "2026-08-22T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ObWxPeHNYNTJ1RjlzWFBhcFFaX3JSUFJGWS1wU0E1OXl2Vk9ScktzbmE1Ul9obHFEeDB3dEJ5WXVlSmFlMzdIX0dmZTZyN0lmb2hzX1B0NVRWMEst?oc=5"
+   "title": "환율도 움직이는 ‘삼전닉스’… 역대급 주주환원, 환율 하락에 힘 보탠다 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-08-22T06:58:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
   },
   {
    "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
    "source": "에너지경제신문",
    "time": "2026-08-22T20:22:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9makdDYzNHdmxSZWo0TjhCTzRVSmhKdk5iWnpSUVJ6aGsyN1lZQ19mMjhVajNxWC05ZW1vVTNpeDhpNlc3aTRxUDRDMkdwRjV5enpndEJrQnRVOEc4cFY4OWQzaw?oc=5"
+  },
+  {
+   "title": "코스피 절반 삼킨 '삼전닉스'…커진 변동성에 \"지수 쏠림 낮춰야\"",
+   "source": "뉴스핌",
+   "time": "2026-08-22T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ObWxPeHNYNTJ1RjlzWFBhcFFaX3JSUFJGWS1wU0E1OXl2Vk9ScktzbmE1Ul9obHFEeDB3dEJ5WXVlSmFlMzdIX0dmZTZyN0lmb2hzX1B0NVRWMEst?oc=5"
   },
   {
    "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
@@ -1180,16 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
-   "title": "백훈종 대표 \"비트코인 가격 핵심 변수는 금리\"[경제일타강사]",
-   "source": "MTN 머니투데이방송",
-   "time": "2026-08-22T10:00:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUC1maF9VWWV0YkRzbUpIQ3prS2ZPOXdnU1h4RUYzbE90OGhJTHJTOWJWa1RZWlRaNzlad2VOY3loajhtWlJCRV9kTE04dldYZUhuWW45WWFPdnpKUVg1M3NfNXE?oc=5"
-  },
-  {
-   "title": "금·비트코인만 오르고 달러는 약세…베센트의 역설",
-   "source": "매일경제",
-   "time": "2026-08-22T17:27:07+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzaThfU0l4SngzYmZ1Ukd4VzBQaDlVMl9pV2UyZmJPeXhDeUllWnBvUXg1WFIwNVROeWZsdmJudW9sTGgzYmw3cEFYTlpqT0FTSzYzUA?oc=5"
+   "title": "美 비트코인 현물 ETF, 5거래일 연속 순유입",
+   "source": "블루밍비트",
+   "time": "2026-08-22T14:45:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RREx1aXRfMHZCRThiX01LZTJoWWtIVWRIX3hkWHVhc0p6bVVWSDZxVkR6VUE5ckROdVdMOHE0VWl5Y2NpSFdCT2tMM0RpaDR5?oc=5"
   }
  ]
 }
