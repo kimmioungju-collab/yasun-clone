@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T01:19:05.018155+09:00",
+ "updated": "2026-08-23T01:44:41.123490+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77146.53,
+   "price": 77391.11,
    "prev": 78326.97,
    "spark": [
-    77252.7891,
-    77217.5781,
-    77137.2891,
-    77170.4688,
-    77162.3828,
     77123.8828,
     77115.9531,
     77158.4766,
@@ -779,19 +774,19 @@
     77056.1484,
     77010.0703,
     77036.8516,
-    77137.2578,
-    77146.5312
+    77164.5703,
+    77197.0078,
+    77183.9062,
+    77186.1562,
+    77306.7188,
+    77400.8516,
+    77391.1094
    ]
   },
   "eth": {
-   "price": 2417.46,
+   "price": 2426.17,
    "prev": 2515.2744,
    "spark": [
-    2428.1899,
-    2426.53,
-    2425.1499,
-    2427.0601,
-    2426.1699,
     2425.1399,
     2423.8799,
     2425.55,
@@ -825,8 +820,13 @@
     2414.52,
     2412.8601,
     2414.0701,
-    2417.6599,
-    2417.46
+    2419.25,
+    2421.3899,
+    2420.0,
+    2418.96,
+    2422.4199,
+    2426.9399,
+    2426.1699
    ]
   },
   "eurkrw": {
@@ -1144,22 +1144,28 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUC1maF9VWWV0YkRzbUpIQ3prS2ZPOXdnU1h4RUYzbE90OGhJTHJTOWJWa1RZWlRaNzlad2VOY3loajhtWlJCRV9kTE04dldYZUhuWW45WWFPdnpKUVg1M3NfNXE?oc=5"
   },
   {
-   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
-   "source": "연합뉴스",
-   "time": "2026-08-22T04:37:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
-  },
-  {
    "title": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
    "source": "이로운넷",
    "time": "2026-08-22T23:26:19+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
   },
   {
+   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
+   "source": "연합뉴스",
+   "time": "2026-08-22T04:37:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
+  },
+  {
    "title": "환율도 움직이는 ‘삼전닉스’… 역대급 주주환원, 환율 하락에 힘 보탠다 - 조선비즈",
    "source": "Chosunbiz",
    "time": "2026-08-22T06:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
+  },
+  {
+   "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
+   "source": "중앙일보",
+   "time": "2026-08-20T05:00:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
   },
   {
    "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
@@ -1172,12 +1178,6 @@
    "source": "뉴스핌",
    "time": "2026-08-22T06:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ObWxPeHNYNTJ1RjlzWFBhcFFaX3JSUFJGWS1wU0E1OXl2Vk9ScktzbmE1Ul9obHFEeDB3dEJ5WXVlSmFlMzdIX0dmZTZyN0lmb2hzX1B0NVRWMEst?oc=5"
-  },
-  {
-   "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
-   "source": "중앙일보",
-   "time": "2026-08-20T05:00:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
   },
   {
    "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
