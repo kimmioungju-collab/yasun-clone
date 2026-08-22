@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T08:11:22.115068+09:00",
+ "updated": "2026-08-23T08:34:24.413429+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 76987.5,
+   "price": 76910.22,
    "prev": 78326.97,
    "spark": [
-    77397.1719,
-    77425.2969,
-    77411.4609,
-    77341.8281,
     77324.3594,
     77298.5,
     77279.9609,
@@ -779,18 +775,18 @@
     76989.4609,
     77046.3203,
     77018.0,
-    77026.2578,
-    76987.5
+    76962.4062,
+    77003.6016,
+    76990.4922,
+    76933.4766,
+    76924.4531,
+    76910.2188
    ]
   },
   "eth": {
-   "price": 2415.22,
+   "price": 2415.58,
    "prev": 2515.2744,
    "spark": [
-    2438.5801,
-    2441.03,
-    2441.1001,
-    2439.48,
     2437.95,
     2437.73,
     2435.78,
@@ -825,8 +821,12 @@
     2413.6201,
     2415.4299,
     2415.24,
-    2416.0801,
-    2415.22
+    2415.0,
+    2416.74,
+    2418.6599,
+    2417.3799,
+    2416.78,
+    2415.5801
    ]
   },
   "eurkrw": {
@@ -1108,6 +1108,12 @@
  },
  "news": [
   {
+   "title": "[뉴욕증시-주간전망] '베선트 풋'에 곤란해진 워시…엔비디아 실적·PCE 지표도",
+   "source": "연합인포맥스",
+   "time": "2026-08-23T07:00:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kUERwbFBWbUozTDV4WEYwLUd1MzhQY2FSYlhMdGVtWjAzMDhpRmRueDBJbzZYZmVfQnM2SVNjM3JydER3WWNaMnhWMEpBUGs3SWVCYVpoYWc1YVVJUnEtVDUzdkxmQmVYTXluZy1QWHM?oc=5"
+  },
+  {
    "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향",
    "source": "v.daum.net",
    "time": "2026-08-23T05:21:28+09:00",
@@ -1126,22 +1132,28 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2VFVWluMm43bnJpRlR6aVBIRTZyaFpLa29mcExCSW5CVkhrcC04NHlTbnRaZ1NuVlFkdlpNb0x6OXNhVHV4WlphODBaWDJqQk1ORFFVMGRnWmVKYWVhRU0xMWNfMFBwTjdpa2NER2ZxeXBWbU53Vi1RRFJ5OGVlNXU0QzBxZ2J1?oc=5"
   },
   {
+   "title": "[윤유미의 돈 되는 뒷담화] 비트코인 10억 간다고? 미국은 왜 갑자기 친절해졌을까",
+   "source": "지이코노미",
+   "time": "2026-08-23T07:44:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UVFp0SUMtQkpad01oTHJMZ1FNWHNGUFdGRUl6WWZsMjlCVDV2aDc1T0hjd2dFRl93MHQtejhBMVJtYUl2YTcxWmZJQ2RFUGM5ckpSWkxOSEQ4MzlPUlhKLTgzYmEwYkE?oc=5"
+  },
+  {
    "title": "재무부 주도 숏 스퀴즈 이후 비트코인 $77,000 위 유지",
    "source": "Investing.com 한국어",
    "time": "2026-08-22T18:52:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15UjNwejYybW1ZYV8tZ2ZQU2lua2Q2TmVKSVEtSlVrZ0YxT19oZWt1S1o1S3gydk8wS0N1YVdsTHgtcXNhX1RqNVZZY3dBa1ZqZWVTb04tZFhmby10cjdrTndTd2NCTHF4N2VxWUdqN2g2U1k?oc=5"
   },
   {
-   "title": "오락가락 코스피에 증권가, 엔비디아 실적·연준 잭슨홀 미팅 주목",
-   "source": "더구루",
-   "time": "2026-08-23T00:00:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2d2ZtalhHU2tiS3owMDRack1QS1BSVmdxSXZTeGVLanBrWEx1SzBlbEtJMi0wZ2xqOXp5R1lWdUtBcEtoTFUtZG1QaEt4cC01ZmY0X1pyOVZTOExEb3QtcG4wNA?oc=5"
-  },
-  {
    "title": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
    "source": "이로운넷",
    "time": "2026-08-22T23:26:19+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
+  },
+  {
+   "title": "오락가락 코스피에 증권가, 엔비디아 실적·연준 잭슨홀 미팅 주목",
+   "source": "더구루",
+   "time": "2026-08-23T00:00:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2d2ZtalhHU2tiS3owMDRack1QS1BSVmdxSXZTeGVLanBrWEx1SzBlbEtJMi0wZ2xqOXp5R1lWdUtBcEtoTFUtZG1QaEt4cC01ZmY0X1pyOVZTOExEb3QtcG4wNA?oc=5"
   },
   {
    "title": "삼전닉스 올라도 개미는 ‘멈춤’…코스피 손바뀜 3분의 1 토막",
@@ -1162,18 +1174,6 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
-   "title": "[뉴욕증시] 국채 바이백 후폭풍 속 저가 매수…상승 마감",
-   "source": "연합인포맥스",
-   "time": "2026-08-22T05:57:59+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWHpXdGZmSmpHME9fa09aN2p3bVp3T0JDU1ZjRUFUcmEwbHdESUluRXI4bXB6MTY3MDhUblJNU2Mzb1NKbDFNYlVsOEhaNC1ueWZLbFR2WXhENDBpV29ySl9tTHBHQVNGZTgySERWSEw?oc=5"
-  },
-  {
-   "title": "[윤유미의 돈 되는 뒷담화] 비트코인 10억 간다고? 미국은 왜 갑자기 친절해졌을까",
-   "source": "지이코노미",
-   "time": "2026-08-23T07:44:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UVFp0SUMtQkpad01oTHJMZ1FNWHNGUFdGRUl6WWZsMjlCVDV2aDc1T0hjd2dFRl93MHQtejhBMVJtYUl2YTcxWmZJQ2RFUGM5ckpSWkxOSEQ4MzlPUlhKLTgzYmEwYkE?oc=5"
-  },
-  {
    "title": "[인베스트] 비트코인 10만 달러 언제 재탈환 할까…“1월 고점 9만7,900 달러를 먼저 넘어야”",
    "source": "위키리크스한국",
    "time": "2026-08-23T05:53:48+09:00",
@@ -1186,10 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CbnhsZFVXN0lJQXVxUHNfUEExXzg5Wk83Nk9RNnd3aWhvek1rVDJhQ01jVHVPbDIwQmNGMThTbml6VXlHNUdURXlvT2FqQWxqV0pZUkJ6YkpKM1ViSlRKWk5UeTNPNVhlQVc1MUlTV2pIaEU?oc=5"
   },
   {
-   "title": "백훈종 대표 \"비트코인 가격 핵심 변수는 금리\"[경제일타강사]",
-   "source": "MTN 머니투데이방송",
-   "time": "2026-08-22T10:00:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUC1maF9VWWV0YkRzbUpIQ3prS2ZPOXdnU1h4RUYzbE90OGhJTHJTOWJWa1RZWlRaNzlad2VOY3loajhtWlJCRV9kTE04dldYZUhuWW45WWFPdnpKUVg1M3NfNXE?oc=5"
+   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
+   "source": "연합뉴스",
+   "time": "2026-08-22T04:37:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
   }
  ]
 }
