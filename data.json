@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T03:00:13.570659+09:00",
+ "updated": "2026-08-23T03:40:12.516553+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,17 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77270.53,
+   "price": 77253.64,
    "prev": 78326.97,
    "spark": [
-    76950.4297,
-    76935.1406,
-    76995.5938,
-    77011.8516,
-    76951.3438,
-    76940.5469,
-    76936.3281,
-    76984.4688,
     76965.3594,
     77081.9219,
     77039.8828,
@@ -780,21 +772,21 @@
     77275.0938,
     77296.8125,
     77269.4922,
-    77270.5312
+    77339.7188,
+    77242.7031,
+    77240.3906,
+    77280.5781,
+    77303.2812,
+    77295.2891,
+    77324.7969,
+    77273.6016,
+    77253.6406
    ]
   },
   "eth": {
-   "price": 2425.83,
+   "price": 2429.16,
    "prev": 2515.2744,
    "spark": [
-    2411.53,
-    2409.72,
-    2413.51,
-    2413.0701,
-    2408.04,
-    2406.9399,
-    2407.76,
-    2409.1299,
     2410.51,
     2414.3201,
     2411.4199,
@@ -826,7 +818,15 @@
     2426.1101,
     2427.9399,
     2426.2,
-    2425.8301
+    2428.8899,
+    2426.54,
+    2426.6499,
+    2428.3999,
+    2431.3201,
+    2431.21,
+    2433.5901,
+    2428.8,
+    2429.1599
    ]
   },
   "eurkrw": {
@@ -1120,6 +1120,12 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWHpXdGZmSmpHME9fa09aN2p3bVp3T0JDU1ZjRUFUcmEwbHdESUluRXI4bXB6MTY3MDhUblJNU2Mzb1NKbDFNYlVsOEhaNC1ueWZLbFR2WXhENDBpV29ySl9tTHBHQVNGZTgySERWSEw?oc=5"
   },
   {
+   "title": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
+   "source": "이로운넷",
+   "time": "2026-08-22T23:26:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
+  },
+  {
    "title": "재무부 주도 숏 스퀴즈 이후 비트코인 $77,000 위 유지",
    "source": "Investing.com 한국어",
    "time": "2026-08-22T18:52:00+09:00",
@@ -1144,28 +1150,22 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUC1maF9VWWV0YkRzbUpIQ3prS2ZPOXdnU1h4RUYzbE90OGhJTHJTOWJWa1RZWlRaNzlad2VOY3loajhtWlJCRV9kTE04dldYZUhuWW45WWFPdnpKUVg1M3NfNXE?oc=5"
   },
   {
-   "title": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
-   "source": "이로운넷",
-   "time": "2026-08-22T23:26:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
-  },
-  {
    "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
    "source": "KB Think",
    "time": "2026-08-19T07:58:05+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
-   "title": "환율도 움직이는 ‘삼전닉스’… 역대급 주주환원, 환율 하락에 힘 보탠다 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-08-22T06:58:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
-  },
-  {
    "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
    "source": "에너지경제신문",
    "time": "2026-08-22T20:22:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9makdDYzNHdmxSZWo0TjhCTzRVSmhKdk5iWnpSUVJ6aGsyN1lZQ19mMjhVajNxWC05ZW1vVTNpeDhpNlc3aTRxUDRDMkdwRjV5enpndEJrQnRVOEc4cFY4OWQzaw?oc=5"
+  },
+  {
+   "title": "환율도 움직이는 ‘삼전닉스’… 역대급 주주환원, 환율 하락에 힘 보탠다 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-08-22T06:58:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
   },
   {
    "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
