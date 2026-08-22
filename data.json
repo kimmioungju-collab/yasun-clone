@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T06:08:18.704164+09:00",
+ "updated": "2026-08-23T06:33:37.376041+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77120.15,
+   "price": 77124.65,
    "prev": 78326.97,
    "spark": [
-    77270.5234,
-    77347.1875,
-    77242.7031,
-    77240.3906,
-    77280.5781,
     77310.0,
     77295.2812,
     77324.7969,
@@ -779,19 +774,19 @@
     77319.0469,
     77312.9766,
     77080.5938,
-    77118.1562,
-    77120.1484
+    77136.9609,
+    77048.1406,
+    77190.2422,
+    77129.6172,
+    77179.5781,
+    77112.7812,
+    77124.6484
    ]
   },
   "eth": {
-   "price": 2420.52,
+   "price": 2417.39,
    "prev": 2515.2744,
    "spark": [
-    2426.1001,
-    2428.8799,
-    2426.54,
-    2426.95,
-    2428.8,
     2431.4399,
     2431.21,
     2433.3799,
@@ -825,8 +820,13 @@
     2435.29,
     2431.8,
     2420.02,
-    2419.76,
-    2420.52
+    2422.1699,
+    2412.7,
+    2419.3999,
+    2418.3201,
+    2421.6001,
+    2416.98,
+    2417.3899
    ]
   },
   "eurkrw": {
@@ -1114,6 +1114,12 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRzBGX19ZeGp3MGE5ZV84eVNXNmozelROQllEM19heHRDX0VSYlgzSk1qb0ZUVnoydHJtNlk3YWI3UlR2SzZlVlV6S0JYZzQ5Z01HenRqckkwXzVNTHFIbFV6WUxXeHJI0gFuQVVfeXFMTVd5Ykd1eU53RU5aMDRZdjhqUzVqRUFnZXdwQXNyWW9ZMElMQUw0NzRaVnd4eUhMLWREdjZ2R3J5RGtSM0xydTRCbmNaUnNuSFc5VnpEc2llUTZ3YmhxRW5hQTBtTXg2V2QycUlONGc?oc=5"
   },
   {
+   "title": "[주간증시전망] 엔비디아 실적 발표·美 국채금리에 ‘쏠린 눈’ - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-08-23T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0VkWEJtSmYyZ016aHZjeERVZ0VVSVhidXZlVjNBMUdXd0Uwakx1bHIxaUdzY25sZlF0TjhFV2FIWDhOSHphSlNBRkJDaHh1M3dQbHpLU3FnTmgtVTF5YWxRMmdHTkE3VFg0WWw4OVAzRl9UWTBYUnpBX0c0eksyVUtDVU9FX0gw0gGcAUFVX3lxTFBuekZrbU9YYWtoX1RDbXFzNXlOMy1fNEIxOUVfdGZhLVZvU1RtWXZ2azN0OEZuRm4taTJwazFORWlzcV9HYXhpQTZDWXh2VGc3N19ZZk9rVFlaSnJYei03RWRoTER6ejMzZGtOcS10S2xOQ29IeWpTMDhkQVdhS2xFSDktNzdGUGhyY19jVUlDbV9aZkd4Wlo5M09Jdw?oc=5"
+  },
+  {
    "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향",
    "source": "v.daum.net",
    "time": "2026-08-23T05:21:28+09:00",
@@ -1126,6 +1132,12 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5"
   },
   {
+   "title": "오락가락 코스피에 증권가, 엔비디아 실적·연준 잭슨홀 미팅 주목",
+   "source": "더구루",
+   "time": "2026-08-23T00:00:10+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2d2ZtalhHU2tiS3owMDRack1QS1BSVmdxSXZTeGVLanBrWEx1SzBlbEtJMi0wZ2xqOXp5R1lWdUtBcEtoTFUtZG1QaEt4cC01ZmY0X1pyOVZTOExEb3QtcG4wNA?oc=5"
+  },
+  {
    "title": "재무부 주도 숏 스퀴즈 이후 비트코인 $77,000 위 유지",
    "source": "Investing.com 한국어",
    "time": "2026-08-22T18:52:00+09:00",
@@ -1136,12 +1148,6 @@
    "source": "기호일보",
    "time": "2026-08-22T18:25:22+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lMlMyZ3p2aWIxWWZtOGJRcFFWd05xMDNONzVSeThNT0hYZEQ5WTN5THdwajlpNnVremFWWWs2UlBvUE1tSEMyYmxRdVJ3RTRiY0VjOGlZeVhPSzU5X3pKdWc3dkVqcVhQRTd6ajFWMA?oc=5"
-  },
-  {
-   "title": "오락가락 코스피에 증권가, 엔비디아 실적·연준 잭슨홀 미팅 주목",
-   "source": "더구루",
-   "time": "2026-08-23T00:00:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2d2ZtalhHU2tiS3owMDRack1QS1BSVmdxSXZTeGVLanBrWEx1SzBlbEtJMi0wZ2xqOXp5R1lWdUtBcEtoTFUtZG1QaEt4cC01ZmY0X1pyOVZTOExEb3QtcG4wNA?oc=5"
   },
   {
    "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
@@ -1162,34 +1168,28 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUC1maF9VWWV0YkRzbUpIQ3prS2ZPOXdnU1h4RUYzbE90OGhJTHJTOWJWa1RZWlRaNzlad2VOY3loajhtWlJCRV9kTE04dldYZUhuWW45WWFPdnpKUVg1M3NfNXE?oc=5"
   },
   {
+   "title": "[G-돋보기] '달러 가치 절하' 베팅에 비트코인·금 폭발…美 재무부·트럼프가 불당겼다",
+   "source": "글로벌이코노믹",
+   "time": "2026-08-23T06:29:56+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2VFVWluMm43bnJpRlR6aVBIRTZyaFpLa29mcExCSW5CVkhrcC04NHlTbnRaZ1NuVlFkdlpNb0x6OXNhVHV4WlphODBaWDJqQk1ORFFVMGRnWmVKYWVhRU0xMWNfMFBwTjdpa2NER2ZxeXBWbU53Vi1RRFJ5OGVlNXU0QzBxZ2J1?oc=5"
+  },
+  {
    "title": "1400원대 깨진 원/달러 환율, 삼성·LG 부품사 하반기 실적 악재에 더 노출되나",
    "source": "비즈니스포스트",
    "time": "2026-08-23T06:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CbnhsZFVXN0lJQXVxUHNfUEExXzg5Wk83Nk9RNnd3aWhvek1rVDJhQ01jVHVPbDIwQmNGMThTbml6VXlHNUdURXlvT2FqQWxqV0pZUkJ6YkpKM1ViSlRKWk5UeTNPNVhlQVc1MUlTV2pIaEU?oc=5"
   },
   {
+   "title": "[인베스트] 비트코인 10만 달러 언제 재탈환 할까…“1월 고점 9만7,900 달러를 먼저 넘어야”",
+   "source": "위키리크스한국",
+   "time": "2026-08-23T05:53:48+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80OE85YlVyWWhMZ2tVR3d6anMxSDBSZDJYcGt6ZlZhVDQtdHdKSkpWa2ZjZ3c1YUI5ZmVYQjd2cXN2T2dCMFVuM281OHg3QTl6bUNsX1VKc1R0OUpWN0JZWW5rZWJzTnhOOWJBazBjVQ?oc=5"
+  },
+  {
    "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
    "source": "에너지경제신문",
    "time": "2026-08-22T20:22:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9makdDYzNHdmxSZWo0TjhCTzRVSmhKdk5iWnpSUVJ6aGsyN1lZQ19mMjhVajNxWC05ZW1vVTNpeDhpNlc3aTRxUDRDMkdwRjV5enpndEJrQnRVOEc4cFY4OWQzaw?oc=5"
-  },
-  {
-   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
-   "source": "연합뉴스",
-   "time": "2026-08-22T04:37:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
-  },
-  {
-   "title": "\"비트코인 3일간 23% 급등…단기 투자자 바이낸스 유입, 2월 이후 최대\"",
-   "source": "블루밍비트",
-   "time": "2026-08-22T20:34:42+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOQVQ4MHlmMEtBUDIyVUlSbnFDNC1tS0RiQ0ZjX3d1azBwbjYwZ1lib09kTmhRQzg5akowX0F4c0FfcWtSUjZudm1FN1V5V0Fm?oc=5"
-  },
-  {
-   "title": "환율도 움직이는 ‘삼전닉스’… 역대급 주주환원, 환율 하락에 힘 보탠다 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-08-22T06:58:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
   }
  ]
 }
