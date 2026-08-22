@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T03:40:12.516553+09:00",
+ "updated": "2026-08-23T04:02:35.553831+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77253.64,
+   "price": 77294.89,
    "prev": 78326.97,
    "spark": [
-    76965.3594,
-    77081.9219,
-    77039.8828,
-    77047.3672,
-    76985.6172,
     76957.7578,
     76970.5469,
     77056.1484,
@@ -779,19 +774,19 @@
     77303.2812,
     77295.2891,
     77324.7969,
-    77273.6016,
-    77253.6406
+    77261.2812,
+    77221.5,
+    77208.4922,
+    77203.9062,
+    77266.6172,
+    77280.0,
+    77294.8906
    ]
   },
   "eth": {
-   "price": 2429.16,
+   "price": 2427.93,
    "prev": 2515.2744,
    "spark": [
-    2410.51,
-    2414.3201,
-    2411.4199,
-    2412.22,
-    2410.45,
     2410.01,
     2410.47,
     2414.73,
@@ -826,7 +821,12 @@
     2431.21,
     2433.5901,
     2428.8,
-    2429.1599
+    2426.5601,
+    2426.1899,
+    2424.51,
+    2427.1499,
+    2427.52,
+    2427.9299
    ]
   },
   "eurkrw": {
@@ -1114,12 +1114,6 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRzBGX19ZeGp3MGE5ZV84eVNXNmozelROQllEM19heHRDX0VSYlgzSk1qb0ZUVnoydHJtNlk3YWI3UlR2SzZlVlV6S0JYZzQ5Z01HenRqckkwXzVNTHFIbFV6WUxXeHJI0gFuQVVfeXFMTVd5Ykd1eU53RU5aMDRZdjhqUzVqRUFnZXdwQXNyWW9ZMElMQUw0NzRaVnd4eUhMLWREdjZ2R3J5RGtSM0xydTRCbmNaUnNuSFc5VnpEc2llUTZ3YmhxRW5hQTBtTXg2V2QycUlONGc?oc=5"
   },
   {
-   "title": "[뉴욕증시] 국채 바이백 후폭풍 속 저가 매수…상승 마감",
-   "source": "연합인포맥스",
-   "time": "2026-08-22T05:57:59+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWHpXdGZmSmpHME9fa09aN2p3bVp3T0JDU1ZjRUFUcmEwbHdESUluRXI4bXB6MTY3MDhUblJNU2Mzb1NKbDFNYlVsOEhaNC1ueWZLbFR2WXhENDBpV29ySl9tTHBHQVNGZTgySERWSEw?oc=5"
-  },
-  {
    "title": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
    "source": "이로운넷",
    "time": "2026-08-22T23:26:19+09:00",
@@ -1130,6 +1124,12 @@
    "source": "Investing.com 한국어",
    "time": "2026-08-22T18:52:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15UjNwejYybW1ZYV8tZ2ZQU2lua2Q2TmVKSVEtSlVrZ0YxT19oZWt1S1o1S3gydk8wS0N1YVdsTHgtcXNhX1RqNVZZY3dBa1ZqZWVTb04tZFhmby10cjdrTndTd2NCTHF4N2VxWUdqN2g2U1k?oc=5"
+  },
+  {
+   "title": "[뉴욕증시] 국채 바이백 후폭풍 속 저가 매수…상승 마감",
+   "source": "연합인포맥스",
+   "time": "2026-08-22T05:57:59+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWHpXdGZmSmpHME9fa09aN2p3bVp3T0JDU1ZjRUFUcmEwbHdESUluRXI4bXB6MTY3MDhUblJNU2Mzb1NKbDFNYlVsOEhaNC1ueWZLbFR2WXhENDBpV29ySl9tTHBHQVNGZTgySERWSEw?oc=5"
   },
   {
    "title": "오락가락 코스피에 증권가, 엔비디아 실적·연준 잭슨홀 미팅 주목",
@@ -1168,10 +1168,10 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
   },
   {
-   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
-   "source": "연합뉴스",
-   "time": "2026-08-22T04:37:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
+   "title": "\"비트코인 3일간 23% 급등…단기 투자자 바이낸스 유입, 2월 이후 최대\"",
+   "source": "블루밍비트",
+   "time": "2026-08-22T20:34:42+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOQVQ4MHlmMEtBUDIyVUlSbnFDNC1tS0RiQ0ZjX3d1azBwbjYwZ1lib09kTmhRQzg5akowX0F4c0FfcWtSUjZudm1FN1V5V0Fm?oc=5"
   },
   {
    "title": "코스피 절반 삼킨 '삼전닉스'…커진 변동성에 \"지수 쏠림 낮춰야\"",
@@ -1180,10 +1180,10 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ObWxPeHNYNTJ1RjlzWFBhcFFaX3JSUFJGWS1wU0E1OXl2Vk9ScktzbmE1Ul9obHFEeDB3dEJ5WXVlSmFlMzdIX0dmZTZyN0lmb2hzX1B0NVRWMEst?oc=5"
   },
   {
-   "title": "\"비트코인 3일간 23% 급등…단기 투자자 바이낸스 유입, 2월 이후 최대\"",
-   "source": "블루밍비트",
-   "time": "2026-08-22T20:34:42+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOQVQ4MHlmMEtBUDIyVUlSbnFDNC1tS0RiQ0ZjX3d1azBwbjYwZ1lib09kTmhRQzg5akowX0F4c0FfcWtSUjZudm1FN1V5V0Fm?oc=5"
+   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
+   "source": "연합뉴스",
+   "time": "2026-08-22T04:37:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
   },
   {
    "title": "코스피 7,200부터 개인 투자자 집중 매수",
