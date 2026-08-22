@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T19:51:13.351166+09:00",
+ "updated": "2026-08-22T20:08:02.797503+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,12 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77040.83,
+   "price": 76999.73,
    "prev": 78326.97,
    "spark": [
-    77401.7812,
-    77333.6406,
-    77338.3281,
     77286.2422,
     77253.0234,
     77326.7031,
@@ -779,18 +776,17 @@
     77068.5078,
     77147.9219,
     77042.4297,
-    77059.5,
-    77040.8281
+    76981.1406,
+    76961.5469,
+    76955.7031,
+    76995.9297,
+    76999.7266
    ]
   },
   "eth": {
-   "price": 2412.49,
+   "price": 2414.23,
    "prev": 2515.2744,
    "spark": [
-    2437.97,
-    2436.48,
-    2435.0801,
-    2437.0801,
     2432.55,
     2430.1899,
     2433.0801,
@@ -826,7 +822,11 @@
     2410.2,
     2415.3601,
     2411.8401,
-    2412.49
+    2411.71,
+    2412.8501,
+    2410.8101,
+    2413.0801,
+    2414.23
    ]
   },
   "eurkrw": {
@@ -1174,10 +1174,10 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ocG1vNmcxRks3UW9CMnVLMjBiMXJlbzE0VzFMNHR0dVJJUENOVjEwQ0tzZV83dnUyOUNMak5BalZLek5TSThvU19sblladkRYMlMwSTdiUnpLQTdRTUM5WDFRLWduc2xzWFHSAW5BVV95cUxQa1BOY0NndGtZMnhoMEtXX1c3OXlVNWI5eFVTbUtBWDVHTktNVzZybFQ3SzlmbThRMWtncjUwQm1Pa1RFOFNCYjJDaXNGSTRJQUdYSTRFcHVzRjdxRnJvbHM0UVNORl92N1hYTlVVQQ?oc=5"
   },
   {
-   "title": "달리오 \"美, '3±2'년내 부채위기…채권 줄이고 금·비트코인 늘려라\"",
+   "title": "\"트럼프 정책 기대에 비트코인·이더리움 동반 강세\"",
    "source": "연합인포맥스",
-   "time": "2026-08-22T05:09:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JWW9WeTQtTDhBT2pzdnNBUmlEMTRESnlsbUhvZmJSdjZha1FOX1FrMFE1b091T21WSW83aVhlY1RzYWpzQzczTmxyTm5pTzdMUkdYNDBCZzVFSzRydkhVQW1QaEdlbVE0VU9EWkFUVHI?oc=5"
+   "time": "2026-08-22T08:05:05+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kQmptb3c4Vk5VQXIzOThBV3pjY1BhNXpwdkJnWjJLdVB1ODQ2WDVWV2tWSlN2eS1WaW9jYzJib1J1MFJqZE56X2E2N1dKRjVEZmRqTllTN1JTOTlONUdjWnNwUXQ3ZFN3cXNZT09PemY?oc=5"
   },
   {
    "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
