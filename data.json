@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T14:46:28.963291+09:00",
+ "updated": "2026-08-22T15:02:18.390586+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,12 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77141.09,
+   "price": 77385.56,
    "prev": 78326.97,
    "spark": [
-    78397.9922,
-    78492.0078,
-    78359.6562,
     78428.4609,
     78462.7969,
     78573.5938,
@@ -779,17 +776,17 @@
     77306.9219,
     77118.9609,
     77150.2734,
-    77122.2422,
-    77141.0938
+    77370.2891,
+    77314.0,
+    77351.1875,
+    77393.2109,
+    77385.5625
    ]
   },
   "eth": {
-   "price": 2430.84,
+   "price": 2437.81,
    "prev": 2515.2744,
    "spark": [
-    2508.05,
-    2509.6201,
-    2508.3601,
     2512.26,
     2515.47,
     2516.8,
@@ -825,8 +822,11 @@
     2442.9099,
     2431.6799,
     2432.6001,
-    2430.21,
-    2430.8401
+    2440.97,
+    2435.1599,
+    2440.24,
+    2439.1299,
+    2437.8101
    ]
   },
   "eurkrw": {
@@ -1108,6 +1108,12 @@
  },
  "news": [
   {
+   "title": "\"코스피 올해 9300 재돌파\"...지금 팔면 땅치고 후회?[부꾸미] - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-22T03:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRzBGX19ZeGp3MGE5ZV84eVNXNmozelROQllEM19heHRDX0VSYlgzSk1qb0ZUVnoydHJtNlk3YWI3UlR2SzZlVlV6S0JYZzQ5Z01HenRqckkwXzVNTHFIbFV6WUxXeHJI0gFuQVVfeXFMTVd5Ykd1eU53RU5aMDRZdjhqUzVqRUFnZXdwQXNyWW9ZMElMQUw0NzRaVnd4eUhMLWREdjZ2R3J5RGtSM0xydTRCbmNaUnNuSFc5VnpEc2llUTZ3YmhxRW5hQTBtTXg2V2QycUlONGc?oc=5"
+  },
+  {
    "title": "[뉴욕증시] 국채 바이백 후폭풍 속 저가 매수…상승 마감",
    "source": "연합인포맥스",
    "time": "2026-08-22T05:57:59+09:00",
@@ -1132,18 +1138,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KXzN5UlJqQU1qWU5QM2cwdVp6SUQ0ZXg0eU1GZEs1R1VHQTRpNzlFNGpkYWJzQVpoYl9aajlSeElNdExtcW9zLUR5TFZ4VENiekR0ZFZ3?oc=5"
   },
   {
-   "title": "\"코스피 올해 9300 재돌파\"...지금 팔면 땅치고 후회?[부꾸미] - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-08-22T03:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRzBGX19ZeGp3MGE5ZV84eVNXNmozelROQllEM19heHRDX0VSYlgzSk1qb0ZUVnoydHJtNlk3YWI3UlR2SzZlVlV6S0JYZzQ5Z01HenRqckkwXzVNTHFIbFV6WUxXeHJI0gFuQVVfeXFMTVd5Ykd1eU53RU5aMDRZdjhqUzVqRUFnZXdwQXNyWW9ZMElMQUw0NzRaVnd4eUhMLWREdjZ2R3J5RGtSM0xydTRCbmNaUnNuSFc5VnpEc2llUTZ3YmhxRW5hQTBtTXg2V2QycUlONGc?oc=5"
-  },
-  {
-   "title": "코스피 발목 잡는 ‘보이지 않는 손’, 미국 장기국채 금리의 정체[경제뭔데]",
-   "source": "v.daum.net",
-   "time": "2026-08-22T06:02:39+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4NGE1cGlBUnZkLXVFNUcwTnpxbVdLT3dlQzRscGVIUC1aLW5GOXRSZ0lRMWMwVlFZdTJhbG9ObUZNUDh1dDJ0Z3hTZUNnc2s?oc=5"
-  },
-  {
    "title": "[뉴욕마켓워치] 베선트가 촉발한 비트코인·금 랠리…주식↑채권·달러↓",
    "source": "KB Think",
    "time": "2026-08-22T06:18:51+09:00",
@@ -1154,6 +1148,12 @@
    "source": "글로벌이코노믹",
    "time": "2026-08-22T05:36:20+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa203WE5xOEkta0oxMkRVM0NhZl9yaEVUX0FlN2h3Zi1GWl8xbVdWMGRoNnNKOHA3Q3BmWDBJYkcyMjFYVTJXOUUxeFFWbVNPTGttSnZvNFBPVC16eUg5S3QyNU53YnVJNXkxTzJoY2RPWlp1NXJFeF9vekVJUnRTUE9YV0tpSXNq?oc=5"
+  },
+  {
+   "title": "뉴욕증시, 美국채금리 상승에도 저가 매수세에 반등…다우 1%↑(종합)",
+   "source": "v.daum.net",
+   "time": "2026-08-22T06:45:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vTU9YendxWlk5RWdaeVdYVzNKQmpnRjEweFVtVVpnX3pxR3IzbHNJUTJaQ0RIOWlTZ3p1Vjg1anBqZzlqQmVmZ0JDZTJaa00?oc=5"
   },
   {
    "title": "[주간증시전망] 美금리 충격에 출렁인 코스피…엔비디아 실적이 다음 분수령",
@@ -1180,10 +1180,10 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ocG1vNmcxRks3UW9CMnVLMjBiMXJlbzE0VzFMNHR0dVJJUENOVjEwQ0tzZV83dnUyOUNMak5BalZLek5TSThvU19sblladkRYMlMwSTdiUnpLQTdRTUM5WDFRLWduc2xzWFHSAW5BVV95cUxQa1BOY0NndGtZMnhoMEtXX1c3OXlVNWI5eFVTbUtBWDVHTktNVzZybFQ3SzlmbThRMWtncjUwQm1Pa1RFOFNCYjJDaXNGSTRJQUdYSTRFcHVzRjdxRnJvbHM0UVNORl92N1hYTlVVQQ?oc=5"
   },
   {
-   "title": "뉴욕증시, 美국채금리 상승에도 저가 매수세에 반등…다우 1%↑(종합)",
+   "title": "코스피 발목 잡는 ‘보이지 않는 손’, 미국 장기국채 금리의 정체[경제뭔데]",
    "source": "v.daum.net",
-   "time": "2026-08-22T06:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vTU9YendxWlk5RWdaeVdYVzNKQmpnRjEweFVtVVpnX3pxR3IzbHNJUTJaQ0RIOWlTZ3p1Vjg1anBqZzlqQmVmZ0JDZTJaa00?oc=5"
+   "time": "2026-08-22T06:02:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90bHA4RGdUQTFVNEZzUTFPX0dVaFgyUkNpZWhGS0xWbHg3UUlRUjYyLWVIUl9aemw4UHFrT2dNUjhBM3lLcFE?oc=5"
   },
   {
    "title": "비트코인 7만7000불 뚫었지만…\"올 연말 떨어진다\" 예측시장선 찬물 - 머니투데이",
