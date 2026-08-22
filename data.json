@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T20:08:02.797503+09:00",
+ "updated": "2026-08-22T20:32:29.927467+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 76999.73,
+   "price": 77057.49,
    "prev": 78326.97,
    "spark": [
-    77286.2422,
-    77253.0234,
-    77326.7031,
-    77413.0469,
-    77328.2734,
     77282.7109,
     77209.9922,
     77102.8828,
@@ -779,19 +774,19 @@
     76981.1406,
     76961.5469,
     76955.7031,
-    76995.9297,
-    76999.7266
+    76874.4766,
+    76881.3281,
+    76820.2031,
+    76837.9219,
+    76972.7031,
+    77078.0,
+    77057.4922
    ]
   },
   "eth": {
-   "price": 2414.23,
+   "price": 2417.16,
    "prev": 2515.2744,
    "spark": [
-    2432.55,
-    2430.1899,
-    2433.0801,
-    2439.5,
-    2432.95,
     2433.03,
     2425.4299,
     2418.0,
@@ -825,8 +820,13 @@
     2411.71,
     2412.8501,
     2410.8101,
-    2413.0801,
-    2414.23
+    2408.29,
+    2408.1499,
+    2408.6201,
+    2410.4399,
+    2414.29,
+    2418.1201,
+    2417.1599
    ]
   },
   "eurkrw": {
@@ -1144,12 +1144,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KXzN5UlJqQU1qWU5QM2cwdVp6SUQ0ZXg0eU1GZEs1R1VHQTRpNzlFNGpkYWJzQVpoYl9aajlSeElNdExtcW9zLUR5TFZ4VENiekR0ZFZ3?oc=5"
   },
   {
-   "title": "美 비트코인 현물 ETF, 5거래일 연속 순유입",
-   "source": "블루밍비트",
-   "time": "2026-08-22T14:45:12+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RREx1aXRfMHZCRThiX01LZTJoWWtIVWRIX3hkWHVhc0p6bVVWSDZxVkR6VUE5ckROdVdMOHE0VWl5Y2NpSFdCT2tMM0RpaDR5?oc=5"
-  },
-  {
    "title": "[8월 셋째 주 세계경제동향 브리핑] 코스피 6,900선 약보합…코스닥 7%대 하락",
    "source": "v.daum.net",
    "time": "2026-08-22T18:25:22+09:00",
@@ -1168,10 +1162,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
   },
   {
-   "title": "트럼프가 끌어올린 비트코인…다시 1억원 돌파, ‘숏’ 10억달러 청산",
-   "source": "주간조선",
-   "time": "2026-08-21T22:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ocG1vNmcxRks3UW9CMnVLMjBiMXJlbzE0VzFMNHR0dVJJUENOVjEwQ0tzZV83dnUyOUNMak5BalZLek5TSThvU19sblladkRYMlMwSTdiUnpLQTdRTUM5WDFRLWduc2xzWFHSAW5BVV95cUxQa1BOY0NndGtZMnhoMEtXX1c3OXlVNWI5eFVTbUtBWDVHTktNVzZybFQ3SzlmbThRMWtncjUwQm1Pa1RFOFNCYjJDaXNGSTRJQUdYSTRFcHVzRjdxRnJvbHM0UVNORl92N1hYTlVVQQ?oc=5"
+   "title": "美 비트코인 현물 ETF, 5거래일 연속 순유입",
+   "source": "블루밍비트",
+   "time": "2026-08-22T14:45:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RREx1aXRfMHZCRThiX01LZTJoWWtIVWRIX3hkWHVhc0p6bVVWSDZxVkR6VUE5ckROdVdMOHE0VWl5Y2NpSFdCT2tMM0RpaDR5?oc=5"
+  },
+  {
+   "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
+   "source": "에너지경제신문",
+   "time": "2026-08-22T20:22:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9makdDYzNHdmxSZWo0TjhCTzRVSmhKdk5iWnpSUVJ6aGsyN1lZQ19mMjhVajNxWC05ZW1vVTNpeDhpNlc3aTRxUDRDMkdwRjV5enpndEJrQnRVOEc4cFY4OWQzaw?oc=5"
   },
   {
    "title": "\"트럼프 정책 기대에 비트코인·이더리움 동반 강세\"",
