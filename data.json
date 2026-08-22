@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T16:51:25.121064+09:00",
+ "updated": "2026-08-22T17:12:48.340186+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77299.68,
+   "price": 77400.84,
    "prev": 78326.97,
    "spark": [
-    78657.6172,
-    78561.8203,
-    78525.9297,
-    78475.7109,
     78494.7969,
     77796.4219,
     77319.0234,
@@ -779,18 +775,18 @@
     77397.0234,
     77401.7891,
     77333.6406,
-    77349.7812,
-    77299.6797
+    77338.3281,
+    77286.2422,
+    77253.0078,
+    77326.7031,
+    77366.4688,
+    77400.8438
    ]
   },
   "eth": {
-   "price": 2434.92,
+   "price": 2439.83,
    "prev": 2515.2744,
    "spark": [
-    2527.3,
-    2517.8899,
-    2518.6001,
-    2514.8101,
     2515.9299,
     2452.9199,
     2445.0801,
@@ -825,8 +821,12 @@
     2437.97,
     2436.48,
     2435.0801,
-    2434.9199,
-    2434.9199
+    2437.0801,
+    2432.76,
+    2430.1899,
+    2433.0801,
+    2439.3501,
+    2439.8301
    ]
   },
   "eurkrw": {
@@ -1126,12 +1126,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KXzN5UlJqQU1qWU5QM2cwdVp6SUQ0ZXg0eU1GZEs1R1VHQTRpNzlFNGpkYWJzQVpoYl9aajlSeElNdExtcW9zLUR5TFZ4VENiekR0ZFZ3?oc=5"
   },
   {
-   "title": "환율도 움직이는 ‘삼전닉스’… 역대급 주주환원, 환율 하락에 힘 보탠다 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-08-22T06:58:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
-  },
-  {
    "title": "백훈종 대표 \"비트코인 가격 핵심 변수는 금리\"[경제일타강사]",
    "source": "MTN 머니투데이방송",
    "time": "2026-08-22T10:00:01+09:00",
@@ -1142,6 +1136,12 @@
    "source": "KB Think",
    "time": "2026-08-22T06:18:51+09:00",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BZlRfWHZ4MWhTRXpWZnVLRWpFU05UbXV5UFVWeWFFRldRNmRZeEMwM3FjX2pZdFA0a2p3c0tXNTFydUdyS2FNX0psRlFpSXg0aHd4ZkhSTHRPaVlnelREcDBTZXd0NWxjdVZMQi1lcmZRZw?oc=5"
+  },
+  {
+   "title": "트럼프가 끌어올린 비트코인…다시 1억원 돌파, ‘숏’ 10억달러 청산",
+   "source": "주간조선",
+   "time": "2026-08-21T22:40:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ocG1vNmcxRks3UW9CMnVLMjBiMXJlbzE0VzFMNHR0dVJJUENOVjEwQ0tzZV83dnUyOUNMak5BalZLek5TSThvU19sblladkRYMlMwSTdiUnpLQTdRTUM5WDFRLWduc2xzWFHSAW5BVV95cUxQa1BOY0NndGtZMnhoMEtXX1c3OXlVNWI5eFVTbUtBWDVHTktNVzZybFQ3SzlmbThRMWtncjUwQm1Pa1RFOFNCYjJDaXNGSTRJQUdYSTRFcHVzRjdxRnJvbHM0UVNORl92N1hYTlVVQQ?oc=5"
   },
   {
    "title": "[주간증시전망] 美금리 충격에 출렁인 코스피…엔비디아 실적이 다음 분수령",
@@ -1156,28 +1156,22 @@
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90bHA4RGdUQTFVNEZzUTFPX0dVaFgyUkNpZWhGS0xWbHg3UUlRUjYyLWVIUl9aemw4UHFrT2dNUjhBM3lLcFE?oc=5"
   },
   {
-   "title": "다시 1억원 넘은 비트코인…두 달 만에 투자심리 ‘꿈틀’",
-   "source": "이코노미스트",
-   "time": "2026-08-22T09:33:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sYVRLNWhMaUhFaE1GWmsyWVFaQTlwU1V6MGNVNEdCbjM5NDN0STFBUGk5eG1sSWJ5akM3bzViMzJsdVQ5ZTlCU1JCbS1JQmh2alc1QnE2eUlibzZya1dodDln?oc=5"
-  },
-  {
    "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
    "source": "중앙일보",
    "time": "2026-08-20T05:00:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
   },
   {
+   "title": "다시 1억원 넘은 비트코인…두 달 만에 투자심리 ‘꿈틀’",
+   "source": "이코노미스트",
+   "time": "2026-08-22T09:33:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sYVRLNWhMaUhFaE1GWmsyWVFaQTlwU1V6MGNVNEdCbjM5NDN0STFBUGk5eG1sSWJ5akM3bzViMzJsdVQ5ZTlCU1JCbS1JQmh2alc1QnE2eUlibzZya1dodDln?oc=5"
+  },
+  {
    "title": "달리오 \"美, '3±2'년내 부채위기…채권 줄이고 금·비트코인 늘려라\"",
    "source": "연합인포맥스",
    "time": "2026-08-22T05:09:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JWW9WeTQtTDhBT2pzdnNBUmlEMTRESnlsbUhvZmJSdjZha1FOX1FrMFE1b091T21WSW83aVhlY1RzYWpzQzczTmxyTm5pTzdMUkdYNDBCZzVFSzRydkhVQW1QaEdlbVE0VU9EWkFUVHI?oc=5"
-  },
-  {
-   "title": "트럼프가 끌어올린 비트코인…다시 1억원 돌파, ‘숏’ 10억달러 청산",
-   "source": "주간조선",
-   "time": "2026-08-21T22:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ocG1vNmcxRks3UW9CMnVLMjBiMXJlbzE0VzFMNHR0dVJJUENOVjEwQ0tzZV83dnUyOUNMak5BalZLek5TSThvU19sblladkRYMlMwSTdiUnpLQTdRTUM5WDFRLWduc2xzWFHSAW5BVV95cUxQa1BOY0NndGtZMnhoMEtXX1c3OXlVNWI5eFVTbUtBWDVHTktNVzZybFQ3SzlmbThRMWtncjUwQm1Pa1RFOFNCYjJDaXNGSTRJQUdYSTRFcHVzRjdxRnJvbHM0UVNORl92N1hYTlVVQQ?oc=5"
   },
   {
    "title": "비트코인 7만7000불 뚫었지만…\"올 연말 떨어진다\" 예측시장선 찬물 - 머니투데이",
@@ -1190,6 +1184,12 @@
    "source": "KB Think",
    "time": "2026-08-19T07:58:05+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
+  },
+  {
+   "title": "비트코인, 다시 1억원 뚫어 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-08-22T00:41:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3RILXBmMHg2Q0pYS1JhaEFScmNzVmFrS0c5SkRuakI5YlVMVmNUNnVRelRkeWRBWmJSbHRJRFpSYlB5R2tKekJTc3ZnMlRFN3NjV2h6c1VNZHM0S2ZBeUxJUk1wT0FLQnFRcFlwUkdvV09DajRhRG9QVWNzM1pnZThVTzZicVVs0gGcAUFVX3lxTFBtUjVHS3VaOTNCQklxa1VhTHhYYWNIcWE2ckQ3MVRHeVk5RXhYVkl0NEMyLTRPSWdyZ3h3NnVjTG1RWkZnSlVPdjFpR0M5ZENyNkNyMXBUaXBfTmRxdmhvZjQyNmFuR0JGcld5UDZSeDE4b0gxR2ViNWZadXU1RjBXRmJSR3lKd0JCTFlMdldZc1VLTm5Sa2pvYlp3NQ?oc=5"
   }
  ]
 }
