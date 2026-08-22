@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T02:01:07.364813+09:00",
+ "updated": "2026-08-23T02:28:18.977981+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,14 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77297.69,
+   "price": 77268.65,
    "prev": 78326.97,
    "spark": [
-    77295.7188,
-    77277.2969,
-    77195.5938,
-    77072.3281,
-    77018.9922,
     76989.7969,
     77011.6094,
     77081.3594,
@@ -779,19 +774,19 @@
     77427.5938,
     77310.9375,
     77282.4609,
-    77290.75,
-    77297.6875
+    77258.4531,
+    77286.1484,
+    77268.4062,
+    77318.0078,
+    77275.1797,
+    77268.7422,
+    77268.6484
    ]
   },
   "eth": {
-   "price": 2423.08,
+   "price": 2424.3,
    "prev": 2515.2744,
    "spark": [
-    2429.3899,
-    2429.98,
-    2425.73,
-    2419.0701,
-    2418.24,
     2416.24,
     2416.1499,
     2420.76,
@@ -825,8 +820,13 @@
     2426.27,
     2422.55,
     2422.3701,
-    2422.8999,
-    2423.0801
+    2422.72,
+    2423.3799,
+    2423.5,
+    2428.21,
+    2424.96,
+    2424.3799,
+    2424.3
    ]
   },
   "eurkrw": {
@@ -1126,16 +1126,16 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15UjNwejYybW1ZYV8tZ2ZQU2lua2Q2TmVKSVEtSlVrZ0YxT19oZWt1S1o1S3gydk8wS0N1YVdsTHgtcXNhX1RqNVZZY3dBa1ZqZWVTb04tZFhmby10cjdrTndTd2NCTHF4N2VxWUdqN2g2U1k?oc=5"
   },
   {
-   "title": "[8월 셋째 주 세계경제동향 브리핑] 코스피 6,900선 약보합…코스닥 7%대 하락",
-   "source": "기호일보",
-   "time": "2026-08-22T18:25:22+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lMlMyZ3p2aWIxWWZtOGJRcFFWd05xMDNONzVSeThNT0hYZEQ5WTN5THdwajlpNnVremFWWWs2UlBvUE1tSEMyYmxRdVJ3RTRiY0VjOGlZeVhPSzU5X3pKdWc3dkVqcVhQRTd6ajFWMA?oc=5"
-  },
-  {
    "title": "오락가락 코스피에 증권가, 엔비디아 실적·연준 잭슨홀 미팅 주목",
    "source": "더구루",
    "time": "2026-08-23T00:00:10+09:00",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2d2ZtalhHU2tiS3owMDRack1QS1BSVmdxSXZTeGVLanBrWEx1SzBlbEtJMi0wZ2xqOXp5R1lWdUtBcEtoTFUtZG1QaEt4cC01ZmY0X1pyOVZTOExEb3QtcG4wNA?oc=5"
+  },
+  {
+   "title": "[8월 셋째 주 세계경제동향 브리핑] 코스피 6,900선 약보합…코스닥 7%대 하락",
+   "source": "기호일보",
+   "time": "2026-08-22T18:25:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lMlMyZ3p2aWIxWWZtOGJRcFFWd05xMDNONzVSeThNT0hYZEQ5WTN5THdwajlpNnVremFWWWs2UlBvUE1tSEMyYmxRdVJ3RTRiY0VjOGlZeVhPSzU5X3pKdWc3dkVqcVhQRTd6ajFWMA?oc=5"
   },
   {
    "title": "백훈종 대표 \"비트코인 가격 핵심 변수는 금리\"[경제일타강사]",
@@ -1162,10 +1162,10 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
   },
   {
-   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
-   "source": "연합뉴스",
-   "time": "2026-08-22T04:37:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
+   "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
+   "source": "KB Think",
+   "time": "2026-08-19T07:58:05+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
    "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
@@ -1174,10 +1174,10 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9makdDYzNHdmxSZWo0TjhCTzRVSmhKdk5iWnpSUVJ6aGsyN1lZQ19mMjhVajNxWC05ZW1vVTNpeDhpNlc3aTRxUDRDMkdwRjV5enpndEJrQnRVOEc4cFY4OWQzaw?oc=5"
   },
   {
-   "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
-   "source": "KB Think",
-   "time": "2026-08-19T07:58:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
+   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
+   "source": "연합뉴스",
+   "time": "2026-08-22T04:37:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRGRBVDFlNGhUZ1M4bUZ2aVhMeVlPTDd6QTV5NmNKcU1vNkUwV016VkpxdkNwNFhQWktZR3F2Q0VCMVlrY0JpMHpIbnNzaHp0czlvT0ZzUGNIeGPSAWBBVV95cUxPNl9KbndxZXpEWVBDUUZNN01kRlRnRy1OYTVWOEtZWjVJN01iVDNXRDZ5MFcyTU1MVGJiMXB6WElLdlhYaVZFQWxJbldlZWFvY3pRcjBSV2lxMTFCd0ppS1A?oc=5"
   },
   {
    "title": "코스피 절반 삼킨 '삼전닉스'…커진 변동성에 \"지수 쏠림 낮춰야\"",
