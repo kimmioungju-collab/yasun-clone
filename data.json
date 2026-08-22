@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T09:54:03.990503+09:00",
+ "updated": "2026-08-22T11:09:45.667034+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -88,7 +88,7 @@
     13865.0,
     13830.0,
     13770.0,
-    13760.0,
+    13765.0,
     13745.0,
     13810.0
    ]
@@ -191,35 +191,35 @@
    "spark": [
     29399.5,
     29394.5,
-    29383.75,
+    29383.5,
     29400.75,
-    29376.25,
+    29376.5,
     29374.75,
     29380.0,
     29384.75,
     29363.0,
-    29357.5,
+    29357.25,
     29361.25,
     29366.5,
     29382.25,
     29391.25,
-    29400.25,
+    29400.75,
     29392.0,
     29398.0,
-    29388.5,
+    29389.0,
     29388.25,
-    29398.5,
-    29394.5,
+    29398.75,
+    29394.25,
     29404.0,
     29410.0,
     29410.75,
-    29427.75,
+    29427.0,
     29395.5,
     29395.25,
     29387.75,
-    29383.0,
+    29382.75,
     29381.75,
-    29376.75,
+    29377.0,
     29371.5,
     29370.0,
     29378.25,
@@ -239,7 +239,7 @@
     7691.25,
     7689.5,
     7692.0,
-    7688.25,
+    7688.5,
     7688.5,
     7689.75,
     7690.0,
@@ -249,10 +249,10 @@
     7689.25,
     7691.75,
     7694.0,
-    7697.25,
+    7697.0,
     7695.25,
     7696.25,
-    7695.25,
+    7695.5,
     7694.75,
     7697.0,
     7695.5,
@@ -260,7 +260,7 @@
     7697.75,
     7699.5,
     7701.25,
-    7694.25,
+    7694.0,
     7691.5,
     7691.5,
     7691.25,
@@ -426,7 +426,7 @@
     87.14,
     87.17,
     87.28,
-    87.24,
+    87.23,
     87.07,
     87.1,
     87.02,
@@ -511,9 +511,9 @@
    "price": 4661.6,
    "prev": 4571.4,
    "spark": [
-    4676.2002,
-    4677.7998,
-    4678.7002,
+    4676.6001,
+    4677.7002,
+    4678.7998,
     4684.3999,
     4684.0,
     4682.5,
@@ -738,39 +738,69 @@
    ]
   },
   "btc": {
-   "price": 77852.48,
+   "price": 77992.12,
    "prev": 78326.97,
    "spark": [
     78179.0703,
-    77868.1719,
+    77879.7266,
     77893.6172,
     78057.0234,
-    78092.5234,
-    77910.0,
-    77902.2812,
-    77928.0078,
+    78092.2031,
+    77910.0078,
+    77902.25,
+    77934.7188,
     77829.3281,
-    77805.8516,
-    77813.2188,
-    77852.4766
+    77811.1016,
+    77828.6797,
+    77934.0625,
+    78060.1484,
+    78073.1562,
+    78101.3984,
+    77998.3984,
+    77994.9609,
+    77998.5312,
+    78111.3672,
+    77999.9922,
+    77912.7188,
+    77834.9609,
+    77880.1719,
+    77821.0469,
+    77960.3203,
+    78000.4531,
+    77992.1172
    ]
   },
   "eth": {
-   "price": 2513.71,
+   "price": 2508.9,
    "prev": 2515.2744,
    "spark": [
-    2512.23,
-    2497.8201,
-    2501.51,
-    2504.74,
-    2510.47,
-    2506.79,
-    2509.9199,
-    2511.49,
-    2509.0601,
-    2515.0,
-    2513.1699,
-    2513.71
+    2511.6699,
+    2497.7,
+    2501.4199,
+    2504.9199,
+    2510.01,
+    2506.4399,
+    2509.96,
+    2511.1799,
+    2508.96,
+    2515.24,
+    2514.5601,
+    2521.8101,
+    2527.0,
+    2520.1101,
+    2519.49,
+    2518.1899,
+    2517.97,
+    2517.76,
+    2521.3501,
+    2515.96,
+    2513.8201,
+    2514.1399,
+    2519.2,
+    2508.24,
+    2509.9299,
+    2509.54,
+    2508.8999
    ]
   },
   "eurkrw": {
@@ -1005,7 +1035,7 @@
   },
   "dxy": {
    "price": 98.839,
-   "prev": 98.895,
+   "prev": 98.8,
    "spark": [
     98.826,
     98.82,
@@ -1060,8 +1090,20 @@
   {
    "title": "환율도 움직이는 ‘삼전닉스’… 역대급 주주환원, 환율 하락에 힘 보탠다 - 조선비즈",
    "source": "Chosunbiz",
-   "time": "2026-08-22T06:00:00+09:00",
+   "time": "2026-08-22T06:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
+  },
+  {
+   "title": "백훈종 대표 \"비트코인 가격 핵심 변수는 금리\"[경제일타강사]",
+   "source": "MTN 머니투데이방송",
+   "time": "2026-08-22T10:00:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUC1maF9VWWV0YkRzbUpIQ3prS2ZPOXdnU1h4RUYzbE90OGhJTHJTOWJWa1RZWlRaNzlad2VOY3loajhtWlJCRV9kTE04dldYZUhuWW45WWFPdnpKUVg1M3NfNXE?oc=5"
+  },
+  {
+   "title": "코스피 발목 잡는 ‘보이지 않는 손’, 미국 장기국채 금리의 정체[경제뭔데]",
+   "source": "v.daum.net",
+   "time": "2026-08-22T06:02:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4NGE1cGlBUnZkLXVFNUcwTnpxbVdLT3dlQzRscGVIUC1aLW5GOXRSZ0lRMWMwVlFZdTJhbG9ObUZNUDh1dDJ0Z3hTZUNnc2s?oc=5"
   },
   {
    "title": "\"코스피 올해 9300 재돌파\"...지금 팔면 땅치고 후회?[부꾸미] - 머니투데이",
@@ -1088,10 +1130,10 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BZlRfWHZ4MWhTRXpWZnVLRWpFU05UbXV5UFVWeWFFRldRNmRZeEMwM3FjX2pZdFA0a2p3c0tXNTFydUdyS2FNX0psRlFpSXg0aHd4ZkhSTHRPaVlnelREcDBTZXd0NWxjdVZMQi1lcmZRZw?oc=5"
   },
   {
-   "title": "뉴욕증시, 강한 경기지표에 반등…다우 0.98%↑[뉴욕마감]",
-   "source": "MTN 머니투데이방송",
-   "time": "2026-08-22T05:32:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16cWhtb2ZjOUVKVk1ZblBEN1hfcTJYN3JDdTBMY2RQZExUWFpNeWF1cTFwZHVPUTJiOENJRjRnUzlmUmdkNS1NMG5EVG5IbHlNUlNyQW9GUC1XTUNZc2FRS25CaHM?oc=5"
+   "title": "비트코인 8만 달러 육박…스트래티지 주가 6% 상승",
+   "source": "지디넷코리아",
+   "time": "2026-08-22T10:55:23+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KXzN5UlJqQU1qWU5QM2cwdVp6SUQ0ZXg0eU1GZEs1R1VHQTRpNzlFNGpkYWJzQVpoYl9aajlSeElNdExtcW9zLUR5TFZ4VENiekR0ZFZ3?oc=5"
   },
   {
    "title": "비트코인 랠리 지속...예측시장은 신중 \"연말 7만5000달러\"",
@@ -1106,16 +1148,10 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UNzNiR0tfRTZiZDVFTmRzc0E4Z1ZSQjBEcjRYeU1McWlRU1lnd2NvRTZsNWtCM3pVWjYweG96MXJIRTFCLTg5b2RtZnlJckcwcV9tS3Q5VVBtQQ?oc=5"
   },
   {
-   "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
-   "source": "v.daum.net",
-   "time": "2026-08-22T04:38:52+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVWFvR1dpOU5UYjBTdHhfWS1HelhaYW11R3JQbGdFUmV0MGdjTS1lOEVsUXZ5R01XazZmT29ZeXJ0akhlaklXTlozekVVMW8?oc=5"
-  },
-  {
-   "title": "이토록 하락하는 환율에도 도도한 금리…괴리 얼마나 이어질까",
+   "title": "\"트럼프 정책 기대에 비트코인·이더리움 동반 강세\"",
    "source": "연합인포맥스",
-   "time": "2026-08-21T11:57:37+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wNFVUbGQ4c3JHMEtNSmlQN0JiTHNVYjBnLU9uN3V2alFBa3oxb05sN2ZnLXlVYk9rMGMtSldwRzFxUlU0dUtZR0tyTXZsN2Rpek1jUzRmenBYUUVQaHBMYzRsTHN1a01tNk9iOHg3U3E?oc=5"
+   "time": "2026-08-22T08:05:05+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kQmptb3c4Vk5VQXIzOThBV3pjY1BhNXpwdkJnWjJLdVB1ODQ2WDVWV2tWSlN2eS1WaW9jYzJib1J1MFJqZE56X2E2N1dKRjVEZmRqTllTN1JTOTlONUdjWnNwUXQ3ZFN3cXNZT09PemY?oc=5"
   },
   {
    "title": "트럼프가 끌어올린 비트코인…다시 1억원 돌파, ‘숏’ 10억달러 청산",
@@ -1124,16 +1160,10 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ocG1vNmcxRks3UW9CMnVLMjBiMXJlbzE0VzFMNHR0dVJJUENOVjEwQ0tzZV83dnUyOUNMak5BalZLek5TSThvU19sblladkRYMlMwSTdiUnpLQTdRTUM5WDFRLWduc2xzWFHSAW5BVV95cUxQa1BOY0NndGtZMnhoMEtXX1c3OXlVNWI5eFVTbUtBWDVHTktNVzZybFQ3SzlmbThRMWtncjUwQm1Pa1RFOFNCYjJDaXNGSTRJQUdYSTRFcHVzRjdxRnJvbHM0UVNORl92N1hYTlVVQQ?oc=5"
   },
   {
-   "title": "\"코스피 생큐, 잘 먹고 갑니다\" 외인 7개월째 매도...'여기로' 몰려갔다 - 머니투데이",
+   "title": "비트코인 7만7000불 뚫었지만…\"올 연말 떨어진다\" 예측시장선 찬물 - 머니투데이",
    "source": "머니투데이",
-   "time": "2026-08-22T05:45:28+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OMzhjVDZqa2dTNjc4MERKcC1qNVRXUkxBNHcyZHd4UDZfd1VoNGJoQWhuSGRvU0wzV3BMS0VoRUNyeTlWb3BmWEMtaklMMjlSSzdhaVBiaUpuUElpZmpYamZWLWxxN3Vm0gFuQVVfeXFMTll4ZnduUTlSSUc0YmljSmpndldHVVZiU3JaSVFsdDduSVN0bW5zVFh0ckJfYTY2YWtPTUoxLXVnQXNQNUQ4LVc2RWYtU3kwekV1SmNhQnVrNUFjLW40YUZONFNRaHdfWkU5dGY2WWc?oc=5"
-  },
-  {
-   "title": "美, 국채 매입 2배 확대… 비트코인, 7만 8000달러 돌파 파장",
-   "source": "글로벌이코노믹",
-   "time": "2026-08-22T03:55:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXBiWUlXYnd6eFBnbE4zVzlDZjNYb3h4WDY4U2hTTVpMQWUzNjNvOHV2WUZkdXpIT0tzcWdMRDNHMEVmT01mZElkcmpISDdTVC1KTzZtdFdmQktKcHMwcW1LQWlSQ2VDZFRidzRoNkMydGJoUmtNc2hYSGJrdkkyNzdEOHNLTGc?oc=5"
+   "time": "2026-08-22T06:45:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3ME51c0hCbFlNTXVsNGJWNjJpZF9XWE82LTAwaXQ1SjFRVVFJUXEzYTdHR1lxeDlwaTNYMkhCcXdXQ3FjWmk4cmZmMmdWVEFLQl9IRXhSVVV5VnN1ZHY3UWlwNU9jaDg00gFuQVVfeXFMTk9yODF6ZDM1ZFJwMDlobGdqMkNSSnpWUVBVZGlLdzd4b25fOV9jNm9xeFctZ3VwcFppZ1Z6bnVmbWJySnRxWHJKOXpQLU1URXRscHM0MU1qcXNJSWFFTzQ1M1Vwd2hWUmVZZEFhRGc?oc=5"
   }
  ]
 }
