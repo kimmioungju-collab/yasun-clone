@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T18:42:00.622050+09:00",
+ "updated": "2026-08-22T18:59:40.753480+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77165.17,
+   "price": 77026.49,
    "prev": 78326.97,
    "spark": [
-    77235.0234,
-    77083.7891,
-    77507.8125,
-    77406.4609,
     77439.0391,
     77452.5,
     77477.25,
@@ -779,18 +775,18 @@
     77221.2969,
     77197.0703,
     77183.0938,
-    77183.7109,
-    77165.1719
+    77152.5391,
+    77188.8594,
+    76957.0234,
+    76911.8906,
+    77015.7422,
+    77026.4922
    ]
   },
   "eth": {
-   "price": 2421.44,
+   "price": 2421.49,
    "prev": 2515.2744,
    "spark": [
-    2429.26,
-    2417.47,
-    2434.2,
-    2431.48,
     2434.79,
     2435.1001,
     2437.5601,
@@ -825,8 +821,12 @@
     2425.0801,
     2424.73,
     2423.1299,
-    2421.4399,
-    2421.4399
+    2420.52,
+    2422.76,
+    2417.3201,
+    2416.78,
+    2421.3999,
+    2421.49
    ]
   },
   "eurkrw": {
@@ -1144,22 +1144,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RREx1aXRfMHZCRThiX01LZTJoWWtIVWRIX3hkWHVhc0p6bVVWSDZxVkR6VUE5ckROdVdMOHE0VWl5Y2NpSFdCT2tMM0RpaDR5?oc=5"
   },
   {
-   "title": "[뉴욕마켓워치] 베선트가 촉발한 비트코인·금 랠리…주식↑채권·달러↓",
-   "source": "KB Think",
-   "time": "2026-08-22T06:18:51+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BZlRfWHZ4MWhTRXpWZnVLRWpFU05UbXV5UFVWeWFFRldRNmRZeEMwM3FjX2pZdFA0a2p3c0tXNTFydUdyS2FNX0psRlFpSXg0aHd4ZkhSTHRPaVlnelREcDBTZXd0NWxjdVZMQi1lcmZRZw?oc=5"
-  },
-  {
    "title": "[8월 셋째 주 세계경제동향 브리핑] 코스피 6,900선 약보합…코스닥 7%대 하락",
    "source": "v.daum.net",
    "time": "2026-08-22T18:25:22+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZlBVN1dZb1gwUkxLNlhYcXdZVnNEcFhCYV9iTFV4UHFMMVIxcmRHQmI1SHEzM3JQemoxMUZhRG1YZHUxczQ2ZGtmeGF6TlU?oc=5"
   },
   {
-   "title": "[주간증시전망] 美금리 충격에 출렁인 코스피…엔비디아 실적이 다음 분수령",
-   "source": "아주경제",
-   "time": "2026-08-22T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zeE8xbzJ5NEh2X2hfanhLVUh6WWxobEZ0bWR2eXhNYjZVeVJTQ1lLNWs2aGVJUzVIZWtnai1tWTEyXzF4SnZHUnc4Q0ZiVmIybUV1Um16cEVvUdIBWEFVX3lxTE1mN1pkb1BBR3lPZERDWEtlTUYzYTlNczctVk5qc2tGX3BVRWlCSGFMaVZta2p1d01GOUVzQV80bU44amcxT3VRQlAxME4zV1lpc1VKd0tEN2Q?oc=5"
+   "title": "[뉴욕마켓워치] 베선트가 촉발한 비트코인·금 랠리…주식↑채권·달러↓",
+   "source": "KB Think",
+   "time": "2026-08-22T06:18:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BZlRfWHZ4MWhTRXpWZnVLRWpFU05UbXV5UFVWeWFFRldRNmRZeEMwM3FjX2pZdFA0a2p3c0tXNTFydUdyS2FNX0psRlFpSXg0aHd4ZkhSTHRPaVlnelREcDBTZXd0NWxjdVZMQi1lcmZRZw?oc=5"
   },
   {
    "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
@@ -1174,22 +1168,28 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ocG1vNmcxRks3UW9CMnVLMjBiMXJlbzE0VzFMNHR0dVJJUENOVjEwQ0tzZV83dnUyOUNMak5BalZLek5TSThvU19sblladkRYMlMwSTdiUnpLQTdRTUM5WDFRLWduc2xzWFHSAW5BVV95cUxQa1BOY0NndGtZMnhoMEtXX1c3OXlVNWI5eFVTbUtBWDVHTktNVzZybFQ3SzlmbThRMWtncjUwQm1Pa1RFOFNCYjJDaXNGSTRJQUdYSTRFcHVzRjdxRnJvbHM0UVNORl92N1hYTlVVQQ?oc=5"
   },
   {
+   "title": "다시 1억원 넘은 비트코인…두 달 만에 투자심리 ‘꿈틀’",
+   "source": "이코노미스트",
+   "time": "2026-08-22T09:33:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sYVRLNWhMaUhFaE1GWmsyWVFaQTlwU1V6MGNVNEdCbjM5NDN0STFBUGk5eG1sSWJ5akM3bzViMzJsdVQ5ZTlCU1JCbS1JQmh2alc1QnE2eUlibzZya1dodDln?oc=5"
+  },
+  {
    "title": "달리오 \"美, '3±2'년내 부채위기…채권 줄이고 금·비트코인 늘려라\"",
    "source": "연합인포맥스",
    "time": "2026-08-22T05:09:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JWW9WeTQtTDhBT2pzdnNBUmlEMTRESnlsbUhvZmJSdjZha1FOX1FrMFE1b091T21WSW83aVhlY1RzYWpzQzczTmxyTm5pTzdMUkdYNDBCZzVFSzRydkhVQW1QaEdlbVE0VU9EWkFUVHI?oc=5"
   },
   {
-   "title": "코스피 발목 잡는 ‘보이지 않는 손’, 미국 장기국채 금리의 정체[경제뭔데]",
-   "source": "v.daum.net",
-   "time": "2026-08-22T06:02:39+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90bHA4RGdUQTFVNEZzUTFPX0dVaFgyUkNpZWhGS0xWbHg3UUlRUjYyLWVIUl9aemw4UHFrT2dNUjhBM3lLcFE?oc=5"
-  },
-  {
    "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
    "source": "KB Think",
    "time": "2026-08-19T07:58:05+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
+  },
+  {
+   "title": "코스피 발목 잡는 ‘보이지 않는 손’, 미국 장기국채 금리의 정체[경제뭔데]",
+   "source": "v.daum.net",
+   "time": "2026-08-22T06:02:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90bHA4RGdUQTFVNEZzUTFPX0dVaFgyUkNpZWhGS0xWbHg3UUlRUjYyLWVIUl9aemw4UHFrT2dNUjhBM3lLcFE?oc=5"
   }
  ]
 }
