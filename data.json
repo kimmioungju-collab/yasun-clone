@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T20:50:57.383987+09:00",
+ "updated": "2026-08-22T21:10:39.192999+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -738,13 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77068.3,
+   "price": 77254.3,
    "prev": 78326.97,
    "spark": [
-    77129.6172,
-    77282.4297,
-    77173.6328,
-    77172.0234,
     77195.4922,
     77106.0703,
     77228.9531,
@@ -780,17 +776,17 @@
     77122.0,
     77161.6406,
     77094.6719,
-    77068.2969
+    77081.0391,
+    77114.3516,
+    77133.9766,
+    77231.7734,
+    77254.2969
    ]
   },
   "eth": {
-   "price": 2421.36,
+   "price": 2430.31,
    "prev": 2515.2744,
    "spark": [
-    2420.01,
-    2424.78,
-    2421.79,
-    2421.96,
     2425.51,
     2416.27,
     2422.8799,
@@ -826,7 +822,11 @@
     2420.04,
     2424.78,
     2422.3501,
-    2421.3601
+    2423.3401,
+    2424.02,
+    2423.27,
+    2428.96,
+    2430.3101
    ]
   },
   "eurkrw": {
@@ -1144,6 +1144,12 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KXzN5UlJqQU1qWU5QM2cwdVp6SUQ0ZXg0eU1GZEs1R1VHQTRpNzlFNGpkYWJzQVpoYl9aajlSeElNdExtcW9zLUR5TFZ4VENiekR0ZFZ3?oc=5"
   },
   {
+   "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
+   "source": "에너지경제신문",
+   "time": "2026-08-22T20:22:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9makdDYzNHdmxSZWo0TjhCTzRVSmhKdk5iWnpSUVJ6aGsyN1lZQ19mMjhVajNxWC05ZW1vVTNpeDhpNlc3aTRxUDRDMkdwRjV5enpndEJrQnRVOEc4cFY4OWQzaw?oc=5"
+  },
+  {
    "title": "[8월 셋째 주 세계경제동향 브리핑] 코스피 6,900선 약보합…코스닥 7%대 하락",
    "source": "v.daum.net",
    "time": "2026-08-22T18:25:22+09:00",
@@ -1166,12 +1172,6 @@
    "source": "중앙일보",
    "time": "2026-08-20T05:00:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
-  },
-  {
-   "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
-   "source": "에너지경제신문",
-   "time": "2026-08-22T20:22:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9makdDYzNHdmxSZWo0TjhCTzRVSmhKdk5iWnpSUVJ6aGsyN1lZQ19mMjhVajNxWC05ZW1vVTNpeDhpNlc3aTRxUDRDMkdwRjV5enpndEJrQnRVOEc4cFY4OWQzaw?oc=5"
   },
   {
    "title": "\"트럼프 정책 기대에 비트코인·이더리움 동반 강세\"",
