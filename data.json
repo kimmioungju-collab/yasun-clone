@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T01:35:20.977994+09:00",
+ "updated": "2026-08-24T01:56:36.142442+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -451,14 +451,9 @@
    ]
   },
   "btc": {
-   "price": 77407.7,
+   "price": 77400.83,
    "prev": 77076.06,
    "spark": [
-    77628.2188,
-    77419.9531,
-    77376.4609,
-    77564.4688,
-    77510.2891,
     77454.3281,
     77484.8906,
     77477.2422,
@@ -493,18 +488,18 @@
     77251.0625,
     77306.3203,
     77397.0234,
-    77407.7031
+    77371.5312,
+    77370.2891,
+    77359.9922,
+    77381.0,
+    77389.3828,
+    77400.8281
    ]
   },
   "eth": {
-   "price": 2449.91,
+   "price": 2452.56,
    "prev": 2423.2788,
    "spark": [
-    2463.3601,
-    2453.8799,
-    2453.97,
-    2456.77,
-    2455.6001,
     2452.21,
     2456.3201,
     2459.28,
@@ -539,7 +534,12 @@
     2444.3999,
     2446.6699,
     2449.8701,
-    2449.9099
+    2446.99,
+    2446.6001,
+    2449.49,
+    2452.4099,
+    2452.3899,
+    2452.5601
    ]
   },
   "eurkrw": {
@@ -834,6 +834,12 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
   },
   {
+   "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
+   "source": "블루밍비트",
+   "time": "2026-08-23T13:41:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
+  },
+  {
    "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
    "source": "국제신문",
    "time": "2026-08-23T19:05:00+09:00",
@@ -856,12 +862,6 @@
    "source": "에너지경제신문",
    "time": "2026-08-23T10:02:43+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaWg3UEFRbENSNkZTVklGaFZVYm5EdHdXeS1ZMnNkc3VSTjJCQVBYcTN2RVdaN2FXdW5iT3M4bFd6WW9BdGU0UkJiRHBIWTE4WlpfcndYZmk5SnRzSUE?oc=5"
-  },
-  {
-   "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
-   "source": "블루밍비트",
-   "time": "2026-08-23T13:41:12+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
   }
  ]
 }
