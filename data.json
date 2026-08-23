@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T06:51:25.875091+09:00",
+ "updated": "2026-08-24T07:02:48.704769+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1385.91,
+   "price": 1385.77,
    "prev": 1393.74,
    "spark": [
     1385.53,
@@ -451,11 +451,9 @@
    ]
   },
   "btc": {
-   "price": 77790.49,
+   "price": 77779.02,
    "prev": 77076.06,
    "spark": [
-    77333.6094,
-    77295.8672,
     77283.6172,
     77325.0,
     77334.4688,
@@ -492,16 +490,16 @@
     77662.1797,
     77622.3984,
     77790.4219,
-    77789.4219,
-    77790.4922
+    77786.2188,
+    77832.5,
+    77754.8281,
+    77779.0234
    ]
   },
   "eth": {
-   "price": 2470.55,
+   "price": 2463.86,
    "prev": 2423.2788,
    "spark": [
-    2447.3899,
-    2446.1499,
     2446.6201,
     2448.23,
     2447.26,
@@ -538,12 +536,14 @@
     2462.3999,
     2461.6599,
     2467.75,
-    2469.28,
-    2470.55
+    2473.3899,
+    2469.95,
+    2463.72,
+    2463.8601
    ]
   },
   "eurkrw": {
-   "price": 1617.7,
+   "price": 1617.4,
    "prev": 1627.0,
    "spark": [
     1617.4,
@@ -635,7 +635,7 @@
    ]
   },
   "cnykrw": {
-   "price": 206.118,
+   "price": 206.132,
    "prev": 207.152,
    "spark": [
     206.086,
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 158.92,
+   "price": 158.906,
    "prev": 159.028,
    "spark": [
     159.027,
@@ -727,7 +727,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1681,
+   "price": 1.1678,
    "prev": 1.1681,
    "spark": [
     1.1685,
@@ -804,12 +804,6 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQ0hBb2FyMUpoSkktekdBLVY0WUtqalZaMGZ2ZzNjSmd6bG5NZndrVnRxSWhpWldSTEg4Yjh0Z0x5bE9IQk93RnlQWF96a1dXQjdrUEl3QXJUbmlrX093STVpMkJ3SFJjN0JJS2k3eDXSAXRBVV95cUxOMW5OZE80TzZUMGwyWXFnQk1GWE5OcXd1M0UtajhrZUl0UEdoV0l0WXRMTmZXaW9ZODdCS2Y1Y1o3MG5DZjhWaTZsN1QzQW1BMUx0dlFkVHdPb1RtTjR3SWs0ZHVOdFVSdTNTN1VrNWV1SFRnTQ?oc=5"
   },
   {
-   "title": "“롤러코스피 잠시 쉬어가세요”… 파킹통장이 다시 뜬다",
-   "source": "v.daum.net",
-   "time": "2026-08-24T00:38:40+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03WGlPWVctVTdiYy15bFhQQnRSR1lXYmlRM2lQUGI2cDJOWXp2V0l3bUZ4aTktSi1JN0RKTnNKNnZ1QkplRUxpQjFtOERjWDQ?oc=5"
-  },
-  {
    "title": "[미리보는 증시재료] 美 엔비디아·韓 금통위 '촉각'…코스피 향방 좌우",
    "source": "뉴스핌",
    "time": "2026-08-24T06:00:00+09:00",
@@ -828,16 +822,16 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkpGWXNhRG5vNzJGdDJFaFpuZzJrMGtlRk84Vk9WQmh0WGdnZUVRSkRVdGFvVEFuX0l6MW50X0U0S2g0UU43cTFieGNqSGU3ZE83bzBMamp5dU50WmFTRmJHc1lMdmI0Rm1nVTBYZWZYaF9QUHZGYUE1NmFEdlRDbmJCSGtmLUVw?oc=5"
   },
   {
+   "title": "“롤러코스피 잠시 쉬어가세요”… 파킹통장이 다시 뜬다",
+   "source": "v.daum.net",
+   "time": "2026-08-24T00:38:40+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03WGlPWVctVTdiYy15bFhQQnRSR1lXYmlRM2lQUGI2cDJOWXp2V0l3bUZ4aTktSi1JN0RKTnNKNnZ1QkplRUxpQjFtOERjWDQ?oc=5"
+  },
+  {
    "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
    "source": "중앙일보",
    "time": "2026-08-20T05:00:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
-  },
-  {
-   "title": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈",
-   "source": "경향신문",
-   "time": "2026-08-23T10:49:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5"
   },
   {
    "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
@@ -846,16 +840,22 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
+   "title": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈",
+   "source": "경향신문",
+   "time": "2026-08-23T10:49:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5"
+  },
+  {
+   "title": "비트코인, 8만달러 눈앞…숏 청산·ETF 자금 유입에 추가 상승 기대",
+   "source": "블루밍비트",
+   "time": "2026-08-24T06:59:45+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkZWpIdWhXTExqQTN3M24zN3p2RGhMTGQyVEkwbzlENzFGNXRPYnhROW9WNVhwZ21BLXA4Y01JR2N1NUtIQzRCaE00WlN6ZXA3?oc=5"
+  },
+  {
    "title": "기업 달러 순매도 작년의 3.7배… 환율 하락세 1300원대로",
    "source": "동아일보",
    "time": "2026-08-24T00:30:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
-  },
-  {
-   "title": "[표] 외국환율고시표",
-   "source": "매일경제 마켓",
-   "time": "2026-08-23T17:53:32+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hOGg1WlhxWjNYSUxna1dLbE1VbFc3eWx0LTZRMXgyVkpnN2xrTnNrZFVKb29vcTRRR0gwS3BRNGhJTktPclhxYUdQTzV0TXd1RFE?oc=5"
   },
   {
    "title": "비트코인, 최근 랠리 모멘텀 되찾으며 손실 만회",
