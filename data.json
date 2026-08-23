@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T05:32:38.895779+09:00",
+ "updated": "2026-08-24T05:52:53.963009+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -88,7 +88,7 @@
     13865.0,
     13830.0,
     13770.0,
-    13760.0,
+    13765.0,
     13745.0,
     13810.0
    ]
@@ -451,33 +451,29 @@
    ]
   },
   "btc": {
-   "price": 77400.86,
+   "price": 77414.16,
    "prev": 77076.06,
    "spark": [
-    77280.8672,
-    77243.3438,
-    77245.2578,
-    77228.9531,
     77229.0078,
     77242.3594,
-    77224.7266,
-    77171.6484,
-    77166.9688,
+    77219.2891,
+    77175.4688,
+    77170.75,
     77206.0234,
-    77337.1172,
+    77337.25,
     77309.5625,
     77310.7188,
     77343.5469,
-    77286.8281,
-    77320.0078,
+    77288.3906,
+    77320.0,
     77333.6094,
     77295.8672,
-    77283.6328,
+    77283.6172,
     77325.0,
     77334.4688,
     77309.1797,
-    77316.0234,
-    77362.6484,
+    77316.0078,
+    77369.7578,
     77349.3125,
     77343.5391,
     77338.3594,
@@ -485,29 +481,29 @@
     77429.0625,
     77381.0703,
     77377.8438,
-    77328.2969,
+    77328.2734,
     77186.8438,
     77255.1562,
-    77267.1406,
+    77266.1797,
     77295.9609,
     77359.6328,
-    77360.6406,
-    77400.8516,
-    77400.8594
+    77360.6328,
+    77391.3828,
+    77411.2969,
+    77412.3203,
+    77403.1172,
+    77424.8672,
+    77414.1562
    ]
   },
   "eth": {
-   "price": 2447.38,
+   "price": 2448.81,
    "prev": 2423.2788,
    "spark": [
-    2444.3401,
-    2440.8301,
-    2440.1101,
-    2440.1499,
     2438.6599,
     2440.8401,
     2439.6299,
-    2440.26,
+    2440.27,
     2439.8799,
     2439.97,
     2444.9299,
@@ -515,31 +511,35 @@
     2445.77,
     2446.76,
     2444.1101,
-    2445.8601,
+    2445.76,
     2447.3899,
     2446.1499,
     2446.6201,
-    2448.24,
+    2448.23,
     2447.26,
     2445.3799,
     2443.3999,
     2444.1201,
     2443.5701,
     2442.73,
-    2442.74,
+    2442.8601,
     2444.8,
     2447.96,
     2449.54,
-    2447.01,
+    2447.25,
     2444.46,
     2436.5901,
-    2440.1101,
+    2440.1001,
     2441.4099,
     2442.6899,
     2447.24,
     2445.23,
-    2447.3799,
-    2447.3799
+    2446.97,
+    2448.73,
+    2449.3,
+    2447.72,
+    2449.6201,
+    2448.8101
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 158.993,
+   "price": 158.974,
    "prev": 159.028,
    "spark": [
     159.027,
@@ -834,16 +834,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hOGg1WlhxWjNYSUxna1dLbE1VbFc3eWx0LTZRMXgyVkpnN2xrTnNrZFVKb29vcTRRR0gwS3BRNGhJTktPclhxYUdQTzV0TXd1RFE?oc=5"
   },
   {
-   "title": "기업 달러 순매도 작년의 3.7배… 환율 하락세 1300원대로",
-   "source": "동아일보",
-   "time": "2026-08-24T00:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
-  },
-  {
    "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
    "source": "KB Think",
    "time": "2026-08-19T07:58:05+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
+  },
+  {
+   "title": "기업 달러 순매도 작년의 3.7배… 환율 하락세 1300원대로",
+   "source": "동아일보",
+   "time": "2026-08-24T00:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
   },
   {
    "title": "체크온체인 \"비트코인, 약세장 막바지…4년 주기설 회의적\" - 머니투데이",
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CV3RnTHBxNl9RZFl4U2NxR2Q0VXVZeEhTQXNKdDNLZUE0UzdLT3R6VFJPQk9ZV0g0ay1pRC0wUzNCUnZLLUVQc2cwQXJDYkdJZ0lPUG1ZajJFeXYwOUJHQjVUTjlKN2NIRHFkelVwS1FhMjZDWFVxS0NJRlVldw?oc=5"
   },
   {
-   "title": "[이번주 증시] 엔비디아 실적 및 잭슨홀 미팅 주목",
-   "source": "오피니언뉴스",
-   "time": "2026-08-23T09:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZ2E3c1JGZWx1TEVOVllaNGt6X1I5NlBvcjE1Y0g4ajZTZDJ5YjNRS3lqYmU0M1dlM1Z5VFQzWHAtYjZSLThscHpsOVRSR1RGaXdVTTY5blVDRVNUMmtsTDJQZm1JTWRHbC1xOGllckxidw?oc=5"
+   "title": "일본 증시, 2023년 말과 유사한 흐름…의미는?",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-24T05:34:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZS0VTU2N5RXhNbUp1REVxNTAyMzQzYUh6TnluSXZyQnRudDBGXzFCcE9PMFlCZkxvYW5jbVlZV29WSWpZaHVRX0h1NFVDZV9xbUJHa3BUVjRXRlJ1NGdHVmFzVV9vdlE5YklEODRhSi0?oc=5"
   }
  ]
 }
