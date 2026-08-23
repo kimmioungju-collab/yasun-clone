@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T02:39:08.012958+09:00",
+ "updated": "2026-08-24T02:54:26.528725+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -451,12 +451,9 @@
    ]
   },
   "btc": {
-   "price": 77270.97,
+   "price": 77251.87,
    "prev": 77076.06,
    "spark": [
-    77439.2422,
-    77412.7422,
-    77426.6719,
     76992.1016,
     77179.2891,
     77259.5078,
@@ -492,17 +489,17 @@
     77280.8672,
     77243.3438,
     77245.2578,
-    77276.1562,
-    77270.9688
+    77228.9531,
+    77229.0078,
+    77242.3594,
+    77265.6328,
+    77251.8672
    ]
   },
   "eth": {
-   "price": 2441.85,
+   "price": 2441.14,
    "prev": 2423.2788,
    "spark": [
-    2456.4299,
-    2453.3799,
-    2452.6201,
     2419.5901,
     2432.71,
     2444.2,
@@ -538,8 +535,11 @@
     2444.3401,
     2440.8301,
     2440.1101,
-    2441.74,
-    2441.8501
+    2440.1499,
+    2438.6599,
+    2440.8401,
+    2441.52,
+    2441.1399
    ]
   },
   "eurkrw": {
@@ -792,6 +792,12 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQ0hBb2FyMUpoSkktekdBLVY0WUtqalZaMGZ2ZzNjSmd6bG5NZndrVnRxSWhpWldSTEg4Yjh0Z0x5bE9IQk93RnlQWF96a1dXQjdrUEl3QXJUbmlrX093STVpMkJ3SFJjN0JJS2k3eDXSAXRBVV95cUxOMW5OZE80TzZUMGwyWXFnQk1GWE5OcXd1M0UtajhrZUl0UEdoV0l0WXRMTmZXaW9ZODdCS2Y1Y1o3MG5DZjhWaTZsN1QzQW1BMUx0dlFkVHdPb1RtTjR3SWs0ZHVOdFVSdTNTN1VrNWV1SFRnTQ?oc=5"
   },
   {
+   "title": "비트코인, 최근 랠리 모멘텀 되찾으며 손실 만회",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-23T18:58:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MGVDMXY1ZW1id0JKZHFaMUo3d2tHTm9LbzJ4aHdtWkZ6QW1YLWJ1VGpDNkZON1Zsb0NxN3J4Q09PVTRFcS1TeEhmSG5zUWpqdktPaVpXaHZGc0YzU1JqdXhVNThBRmh6NXF0SW1FcjhiTEU?oc=5"
+  },
+  {
    "title": "美 규제완화 훈풍…비트코인 기지개",
    "source": "전자신문",
    "time": "2026-08-23T15:00:00+09:00",
@@ -802,12 +808,6 @@
    "source": "경향신문",
    "time": "2026-08-23T10:49:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5"
-  },
-  {
-   "title": "비트코인, 7만7천 달러 아래로 하락…채굴 수익성은 개선",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-23T18:58:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHRMdVpObXdjbThsSzRkOUVEMWF6OWtrZVRpQU1KVFhhMTdHSkpfRmlZRjI0WGtuNE84WjRURnRaOUw4RGpTMTJYRHR5b3Y2Vk52LTAyam1xSkRPd05rZUhRUndNVWlpYVVKMTBvbDdLM2xfZXNodEtnYWt1aGMxMTlKLUhKTUEyNVhhWVZfQjFQZEIwNTNOWGthZ0ZWTjhaZGt6QjdNWjczYkRaZ25TcEtvRTRVRkUtMWR5Zm9EM1Jzbk15aE5nNFBLX2VzeENCb2JB?oc=5"
   },
   {
    "title": "[표] 외국환율고시표",
