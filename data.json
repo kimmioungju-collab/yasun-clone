@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T18:55:57.717716+09:00",
+ "updated": "2026-08-23T19:19:22.112544+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -451,14 +451,9 @@
    ]
   },
   "btc": {
-   "price": 76583.38,
+   "price": 76642.57,
    "prev": 77076.06,
    "spark": [
-    76246.5078,
-    76182.3828,
-    76136.4297,
-    76090.8203,
-    76109.3281,
     76222.1797,
     76289.0703,
     76319.0312,
@@ -493,18 +488,18 @@
     76559.5938,
     76591.0078,
     76588.1016,
-    76583.3828
+    76540.0,
+    76601.2812,
+    76667.3984,
+    76642.3438,
+    76642.5703,
+    76642.5703
    ]
   },
   "eth": {
-   "price": 2414.2,
+   "price": 2414.17,
    "prev": 2423.2788,
    "spark": [
-    2392.05,
-    2390.04,
-    2387.78,
-    2389.51,
-    2389.6599,
     2392.01,
     2394.1201,
     2396.03,
@@ -539,7 +534,12 @@
     2411.5801,
     2414.53,
     2413.6699,
-    2414.2
+    2411.1799,
+    2413.4199,
+    2413.99,
+    2414.1499,
+    2414.6699,
+    2414.1699
    ]
   },
   "eurkrw": {
@@ -798,6 +798,12 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5"
   },
   {
+   "title": "비트코인, 7만7천 달러 아래로 하락…채굴 수익성은 개선",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-23T18:58:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHRMdVpObXdjbThsSzRkOUVEMWF6OWtrZVRpQU1KVFhhMTdHSkpfRmlZRjI0WGtuNE84WjRURnRaOUw4RGpTMTJYRHR5b3Y2Vk52LTAyam1xSkRPd05rZUhRUndNVWlpYVVKMTBvbDdLM2xfZXNodEtnYWt1aGMxMTlKLUhKTUEyNVhhWVZfQjFQZEIwNTNOWGthZ0ZWTjhaZGt6QjdNWjczYkRaZ25TcEtvRTRVRkUtMWR5Zm9EM1Jzbk15aE5nNFBLX2VzeENCb2JB?oc=5"
+  },
+  {
    "title": "정부 환율 관리 압박에 수출기업 달러 쏟아냈다…상반기 달러 순매도 1869억달러, 작년의 3배",
    "source": "조선일보",
    "time": "2026-08-23T12:15:04+09:00",
@@ -856,12 +862,6 @@
    "source": "경북매일",
    "time": "2026-08-23T06:52:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94WDI4c2ZlMWt5YXNoZkhTY0Y1UWlxN2NiYlM0VUlLQmlrRXc1cl9Zc01fbFBhSjVVLWZ3djI2MEZya2I2M19rVkRQclBFUDV2MkduMHhxMUV5QQ?oc=5"
-  },
-  {
-   "title": "“벌어들인 달러 풀어라” 압박에… 환율 하락 주도한 수출 기업",
-   "source": "동아일보",
-   "time": "2026-08-23T17:06:45+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTm1DMHVNRFZ1Tlh1UVQ4S19CQ0UzY3hheDI0WXN5NERmTHc3R2hVTXQ4Qi1EZ2RZQWI5VjQxZXNqMkJfLXdXVUpELXhlaXNHNUFSVlR5cXowNUJLelZPTGJDcUx4d3NUeWNtZFprTS1kaW04RFHSAWZBVV95cUxQeGlsYVZxYXRtZDQ4cElIcDhNUTdmOGZWV1lPMEx1MzhxcUlOclhNVlJRSzJyN1FGRVNhNkJXbEFralZ4RXhaSGlOa25wN3hpYkVZVmgyUVFodTJ6LUZSb1MweEI5cEE?oc=5"
   }
  ]
 }
