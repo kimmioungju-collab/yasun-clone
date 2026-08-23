@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T22:53:45.628850+09:00",
+ "updated": "2026-08-23T23:13:40.052516+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -88,7 +88,7 @@
     13865.0,
     13830.0,
     13770.0,
-    13760.0,
+    13765.0,
     13745.0,
     13810.0
    ]
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1383.9,
+   "price": 1385.98,
    "prev": 1393.74,
    "spark": [
     1385.53,
@@ -451,71 +451,67 @@
    ]
   },
   "btc": {
-   "price": 77411.1,
+   "price": 77551.61,
    "prev": 77076.06,
    "spark": [
-    76841.4531,
-    76792.9219,
-    76805.0469,
-    76776.9375,
-    76729.5703,
+    76729.5781,
     76794.3516,
-    76862.2266,
-    76956.5781,
+    76862.2188,
+    76956.5703,
     77269.3438,
-    77145.8828,
-    77193.2188,
-    77364.5938,
-    77263.3281,
+    77145.9531,
+    77183.7578,
+    77364.5781,
+    77257.1016,
     77197.5625,
     77343.1406,
     77288.1562,
     77176.4531,
     77127.8125,
-    77073.0078,
-    77076.3828,
+    77068.4062,
+    77076.0312,
     77095.25,
-    77029.4688,
+    77030.2969,
     77072.0234,
     77127.8125,
     77228.9375,
     77194.2578,
-    77151.8672,
+    77151.8828,
     77201.5938,
-    77204.7578,
-    77234.2969,
+    77194.7031,
+    77226.6172,
     77318.3594,
-    77656.7891,
-    77628.2188,
-    77419.9531,
+    77664.4219,
+    77623.7969,
+    77425.6328,
     77376.4609,
-    77564.4688,
+    77583.1406,
     77510.2891,
     77454.3281,
-    77375.0078,
-    77411.1016
+    77480.2734,
+    77477.2422,
+    77546.0078,
+    77408.2734,
+    77511.6328,
+    77551.6094
    ]
   },
   "eth": {
-   "price": 2453.88,
+   "price": 2467.04,
    "prev": 2423.2788,
    "spark": [
-    2416.52,
-    2416.05,
-    2415.8601,
-    2414.75,
-    2414.8999,
+    2414.74,
     2417.29,
     2419.9199,
     2423.2,
-    2432.03,
-    2427.26,
-    2429.8401,
-    2437.9099,
+    2431.95,
+    2427.3401,
+    2429.8701,
+    2437.9399,
     2434.0901,
     2428.3999,
     2430.8401,
-    2433.3601,
+    2433.3401,
     2427.0701,
     2425.05,
     2422.8,
@@ -527,19 +523,23 @@
     2428.28,
     2425.3501,
     2424.9199,
-    2426.72,
+    2426.8401,
     2428.0,
-    2430.3601,
+    2430.4099,
     2431.73,
-    2469.96,
-    2463.3601,
-    2453.8799,
+    2470.3201,
+    2463.9299,
+    2453.24,
     2453.97,
     2456.77,
-    2455.6001,
-    2452.21,
-    2453.1101,
-    2453.8799
+    2455.6599,
+    2452.5601,
+    2455.75,
+    2459.28,
+    2463.3401,
+    2459.01,
+    2465.46,
+    2467.04
    ]
   },
   "eurkrw": {
@@ -822,6 +822,12 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRUxCOXEtamdNNFR0M2pDUFBZeFNRY29nc2t6bE5BNXBEcXhWM3k2aEJHSlk1SVE0NFFiMkZGRjJ6aDRnazNxWlBORkZUdExBZ0lwOGszQ1o3TG5NXzh2WkpNWnpRdVlJ0gFuQVVfeXFMUGdDc3pxczM1bm5UalVKTzBxOVc2U3p3a3liRkhweEk4Q1pLS2h6VGFoV3Ata0duMEtybmdmNHREdS12N0cyRnU5YmpiN3hVYVo5Sm1wbExKOVczRnlsMG13MGJPQzRRRGF5RDNObEE?oc=5"
   },
   {
+   "title": "반도체 반등에도 개미들 '관망'…코스피 주식 회전율 연중 '최저'",
+   "source": "글로벌이코노믹",
+   "time": "2026-08-23T19:36:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXd1b3ViNkVPeDRZU1FqeW0tcnZscnhSMjBOQS1lcXJJemhXdGR6OHNsNE16TUVaMWpFZUlxSkdQdUUzQmJvX1VBS0NhN2kxSG9jRFR2bGdiWEtVMHoyeWozRi1KUjJpTVN4MlBvWWpVaGlld2IxSm1nOTBIT2locmF5cnAwV0U?oc=5"
+  },
+  {
    "title": "[표] 외국환율고시표",
    "source": "매일경제 마켓",
    "time": "2026-08-23T17:53:32+09:00",
@@ -846,22 +852,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
   },
   {
-   "title": "금·은·비트코인 ‘급등’…미 재정 불안에 달러·국채 시장 흔들려",
-   "source": "한겨레",
-   "time": "2026-08-23T16:42:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOMEVpejF6V2NXaW5KdXJMc2p5YTVneU85YW1WMUhiS3pqcHV5TEVuM1k4SXZuQVk4eFhUWGcyYXUzcG9OTVhEa2d6MlRmYnRBclY4VnFESEVDQUt6c25fcGRodTJwckpSYkxqTVdJYlZjQQ?oc=5"
+   "title": "코스피 9000선 불장에…외국계 증권사 2분기 순익 214% ‘폭증’",
+   "source": "v.daum.net",
+   "time": "2026-08-23T16:36:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGellVZzhlYzVaNEc3THk5MkVUQV9MUzEwZXoxM3FxYXZ3SVVlRmNfVWtZOW1ROW9iMXdEOWg0RUhtTHB3cm5ablJWVjh4eFE?oc=5"
   },
   {
    "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
    "source": "중앙일보",
    "time": "2026-08-20T05:00:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
-  },
-  {
-   "title": "[마켓 ING]코스피, 금리 부담 VS 주주환원 기대감",
-   "source": "아시아경제",
-   "time": "2026-08-23T15:24:25+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aY0FQb3hxXzBfN3NRLWczMUNhOWYySkQxbUxkMFRIZVUwMWgzZ0c1SUZDSDJQX3Rxd2F2cG9nOXlCb3ZvSkZjelh0UmF3R28wZUstTmZPTV9xcVNIWkdhLQ?oc=5"
   }
  ]
 }
