@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T18:02:17.460400+09:00",
+ "updated": "2026-08-23T18:36:28.885910+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -451,16 +451,9 @@
    ]
   },
   "btc": {
-   "price": 76552.37,
+   "price": 76497.02,
    "prev": 77076.06,
    "spark": [
-    76138.3281,
-    76048.5703,
-    76109.6797,
-    75914.8672,
-    76071.7734,
-    76261.1719,
-    76261.3984,
     76219.5078,
     76323.6094,
     76220.3906,
@@ -492,21 +485,21 @@
     76473.6797,
     76499.3203,
     76464.9375,
-    76526.9297,
-    76552.3672
+    76583.8281,
+    76572.8516,
+    76568.1406,
+    76524.4609,
+    76479.3281,
+    76537.5312,
+    76482.0078,
+    76476.6719,
+    76497.0234
    ]
   },
   "eth": {
-   "price": 2414.68,
+   "price": 2406.52,
    "prev": 2423.2788,
    "spark": [
-    2376.26,
-    2373.0601,
-    2375.1101,
-    2370.75,
-    2378.99,
-    2387.76,
-    2388.6699,
     2389.6599,
     2393.21,
     2388.75,
@@ -538,8 +531,15 @@
     2414.8799,
     2415.2,
     2412.3899,
-    2413.72,
-    2414.6799
+    2415.1299,
+    2413.1101,
+    2412.3,
+    2411.71,
+    2408.1399,
+    2410.5901,
+    2407.6101,
+    2405.6599,
+    2406.52
    ]
   },
   "eurkrw": {
@@ -816,6 +816,12 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZ2E3c1JGZWx1TEVOVllaNGt6X1I5NlBvcjE1Y0g4ajZTZDJ5YjNRS3lqYmU0M1dlM1Z5VFQzWHAtYjZSLThscHpsOVRSR1RGaXdVTTY5blVDRVNUMmtsTDJQZm1JTWRHbC1xOGllckxidw?oc=5"
   },
   {
+   "title": "[표] 외국환율고시표",
+   "source": "매일경제 마켓",
+   "time": "2026-08-23T17:53:32+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hOGg1WlhxWjNYSUxna1dLbE1VbFc3eWx0LTZRMXgyVkpnN2xrTnNrZFVKb29vcTRRR0gwS3BRNGhJTktPclhxYUdQTzV0TXd1RFE?oc=5"
+  },
+  {
    "title": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시]",
    "source": "에너지경제신문",
    "time": "2026-08-23T10:02:43+09:00",
@@ -834,6 +840,12 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PRkRudVFRM1hEUGhsVTlGSjJyVDJMS3Frc3h5SDUzOS1hdDZtOVNIYmJCVnhjVzFRckIwdFRWMzRSdHV1cnJidWVkMS1JZ3VDblVkX2FvdjhFRm1qNFlHY1hBQUdGTDZGQ0JmYm43dEFKaWc?oc=5"
   },
   {
+   "title": "[마켓 ING]코스피, 금리 부담 VS 주주환원 기대감",
+   "source": "아시아경제",
+   "time": "2026-08-23T15:24:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aY0FQb3hxXzBfN3NRLWczMUNhOWYySkQxbUxkMFRIZVUwMWgzZ0c1SUZDSDJQX3Rxd2F2cG9nOXlCb3ZvSkZjelh0UmF3R28wZUstTmZPTV9xcVNIWkdhLQ?oc=5"
+  },
+  {
    "title": "삼전닉스 올라도 개미는 ‘멈춤’…코스피 손바뀜 3분의 1 토막",
    "source": "경북매일",
    "time": "2026-08-23T06:52:00+09:00",
@@ -846,22 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOMEVpejF6V2NXaW5KdXJMc2p5YTVneU85YW1WMUhiS3pqcHV5TEVuM1k4SXZuQVk4eFhUWGcyYXUzcG9OTVhEa2d6MlRmYnRBclY4VnFESEVDQUt6c25fcGRodTJwckpSYkxqTVdJYlZjQQ?oc=5"
   },
   {
-   "title": "[마켓 ING]코스피, 금리 부담 VS 주주환원 기대감",
-   "source": "아시아경제",
-   "time": "2026-08-23T15:24:25+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aY0FQb3hxXzBfN3NRLWczMUNhOWYySkQxbUxkMFRIZVUwMWgzZ0c1SUZDSDJQX3Rxd2F2cG9nOXlCb3ZvSkZjelh0UmF3R28wZUstTmZPTV9xcVNIWkdhLQ?oc=5"
-  },
-  {
    "title": "“벌어들인 달러 풀어라” 압박에… 환율 하락 주도한 수출 기업",
    "source": "동아일보",
    "time": "2026-08-23T17:06:45+09:00",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTm1DMHVNRFZ1Tlh1UVQ4S19CQ0UzY3hheDI0WXN5NERmTHc3R2hVTXQ4Qi1EZ2RZQWI5VjQxZXNqMkJfLXdXVUpELXhlaXNHNUFSVlR5cXowNUJLelZPTGJDcUx4d3NUeWNtZFprTS1kaW04RFHSAWZBVV95cUxQeGlsYVZxYXRtZDQ4cElIcDhNUTdmOGZWV1lPMEx1MzhxcUlOclhNVlJRSzJyN1FGRVNhNkJXbEFralZ4RXhaSGlOa25wN3hpYkVZVmgyUVFodTJ6LUZSb1MweEI5cEE?oc=5"
-  },
-  {
-   "title": "\"코스피에 놀란 가슴, 나스닥에도 놀란다\"...서학개미 거래도 뚝",
-   "source": "파이낸셜뉴스",
-   "time": "2026-08-23T14:11:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55V3BPblNKUXIxb3RGM3NmNko0aVVmMm9SMlNob2N2MG5PUnlMeGtVOFE1VDhTX3R4Y1UyTl8zcmV4emF0cURaajFrN0Vwa0p5bDFpbzA4NllPQQ?oc=5"
   }
  ]
 }
