@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T19:19:22.112544+09:00",
+ "updated": "2026-08-23T19:45:00.179224+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -88,7 +88,7 @@
     13865.0,
     13830.0,
     13770.0,
-    13760.0,
+    13765.0,
     13745.0,
     13810.0
    ]
@@ -451,95 +451,95 @@
    ]
   },
   "btc": {
-   "price": 76642.57,
+   "price": 76840.09,
    "prev": 77076.06,
    "spark": [
-    76222.1797,
-    76289.0703,
-    76319.0312,
-    76220.4531,
-    76216.6484,
     76081.6172,
     76113.4922,
     76049.8828,
-    76083.0078,
+    76086.7578,
     76036.6172,
     75986.9922,
     76024.5,
-    76209.0078,
+    76209.7578,
     76190.9922,
     76246.1094,
     76227.0391,
-    76219.3516,
-    76289.8828,
+    76219.4922,
+    76289.8906,
     76425.7812,
     76506.4922,
     76473.6797,
-    76492.9062,
+    76499.3203,
     76464.9375,
     76583.8281,
-    76572.8438,
+    76572.8516,
     76568.1406,
     76524.4609,
     76479.3281,
     76537.5312,
-    76482.0,
+    76482.0078,
     76521.8125,
     76559.5938,
     76591.0078,
     76588.1016,
-    76540.0,
-    76601.2812,
+    76540.0078,
+    76610.1016,
     76667.3984,
-    76642.3438,
-    76642.5703,
-    76642.5703
+    76642.3516,
+    76647.9219,
+    76787.4922,
+    76738.7031,
+    76876.5625,
+    76810.5781,
+    76834.4375,
+    76840.0938
    ]
   },
   "eth": {
-   "price": 2414.17,
+   "price": 2416.69,
    "prev": 2423.2788,
    "spark": [
-    2392.01,
-    2394.1201,
-    2396.03,
-    2393.28,
-    2392.52,
     2389.1499,
-    2390.3601,
+    2390.3301,
     2389.1899,
     2390.3301,
-    2390.4099,
-    2388.4199,
-    2389.72,
-    2405.74,
-    2406.45,
-    2407.5,
+    2390.1599,
+    2388.3601,
+    2389.73,
+    2406.01,
+    2406.26,
+    2407.49,
     2406.3701,
-    2406.6399,
-    2415.1799,
+    2406.6699,
+    2415.1201,
     2417.6399,
-    2419.22,
+    2419.21,
     2414.8799,
-    2415.1399,
+    2415.2,
     2412.3899,
-    2415.54,
+    2415.1299,
     2413.1101,
-    2412.28,
+    2412.3,
     2411.71,
-    2407.96,
+    2408.1399,
     2410.5901,
     2407.6101,
-    2408.8799,
+    2408.6299,
     2411.5801,
-    2414.53,
-    2413.6699,
+    2414.04,
+    2413.6599,
     2411.1799,
     2413.4199,
     2413.99,
-    2414.1499,
-    2414.6699,
-    2414.1699
+    2414.1599,
+    2415.28,
+    2416.05,
+    2413.51,
+    2416.48,
+    2415.6001,
+    2416.54,
+    2416.6899
    ]
   },
   "eurkrw": {
@@ -792,16 +792,16 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oVkp5TWYwNENoWmV3N0M5U19JeXJZM0ZrWXdtenh6QWJVaVVEdS01OS1lVzJiZU4xY2RZMXlqTDY5NWU4WU02LWoydHE3QQ?oc=5"
   },
   {
-   "title": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈",
-   "source": "경향신문",
-   "time": "2026-08-23T10:49:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5"
-  },
-  {
    "title": "비트코인, 7만7천 달러 아래로 하락…채굴 수익성은 개선",
    "source": "Investing.com 한국어",
    "time": "2026-08-23T18:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHRMdVpObXdjbThsSzRkOUVEMWF6OWtrZVRpQU1KVFhhMTdHSkpfRmlZRjI0WGtuNE84WjRURnRaOUw4RGpTMTJYRHR5b3Y2Vk52LTAyam1xSkRPd05rZUhRUndNVWlpYVVKMTBvbDdLM2xfZXNodEtnYWt1aGMxMTlKLUhKTUEyNVhhWVZfQjFQZEIwNTNOWGthZ0ZWTjhaZGt6QjdNWjczYkRaZ25TcEtvRTRVRkUtMWR5Zm9EM1Jzbk15aE5nNFBLX2VzeENCb2JB?oc=5"
+  },
+  {
+   "title": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈",
+   "source": "경향신문",
+   "time": "2026-08-23T10:49:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5"
   },
   {
    "title": "정부 환율 관리 압박에 수출기업 달러 쏟아냈다…상반기 달러 순매도 1869억달러, 작년의 3배",
@@ -822,10 +822,22 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRUxCOXEtamdNNFR0M2pDUFBZeFNRY29nc2t6bE5BNXBEcXhWM3k2aEJHSlk1SVE0NFFiMkZGRjJ6aDRnazNxWlBORkZUdExBZ0lwOGszQ1o3TG5NXzh2WkpNWnpRdVlJ0gFuQVVfeXFMUGdDc3pxczM1bm5UalVKTzBxOVc2U3p3a3liRkhweEk4Q1pLS2h6VGFoV3Ata0duMEtybmdmNHREdS12N0cyRnU5YmpiN3hVYVo5Sm1wbExKOVczRnlsMG13MGJPQzRRRGF5RDNObEE?oc=5"
   },
   {
+   "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
+   "source": "블루밍비트",
+   "time": "2026-08-23T13:41:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
+  },
+  {
    "title": "[표] 외국환율고시표",
    "source": "매일경제 마켓",
    "time": "2026-08-23T17:53:32+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hOGg1WlhxWjNYSUxna1dLbE1VbFc3eWx0LTZRMXgyVkpnN2xrTnNrZFVKb29vcTRRR0gwS3BRNGhJTktPclhxYUdQTzV0TXd1RFE?oc=5"
+  },
+  {
+   "title": "“벌어들인 달러 풀어라” 압박에… 환율 하락 주도한 수출 기업",
+   "source": "동아일보",
+   "time": "2026-08-23T17:06:45+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTm1DMHVNRFZ1Tlh1UVQ4S19CQ0UzY3hheDI0WXN5NERmTHc3R2hVTXQ4Qi1EZ2RZQWI5VjQxZXNqMkJfLXdXVUpELXhlaXNHNUFSVlR5cXowNUJLelZPTGJDcUx4d3NUeWNtZFprTS1kaW04RFHSAWZBVV95cUxQeGlsYVZxYXRtZDQ4cElIcDhNUTdmOGZWV1lPMEx1MzhxcUlOclhNVlJRSzJyN1FGRVNhNkJXbEFralZ4RXhaSGlOa25wN3hpYkVZVmgyUVFodTJ6LUZSb1MweEI5cEE?oc=5"
   },
   {
    "title": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시]",
@@ -834,10 +846,10 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaWg3UEFRbENSNkZTVklGaFZVYm5EdHdXeS1ZMnNkc3VSTjJCQVBYcTN2RVdaN2FXdW5iT3M4bFd6WW9BdGU0UkJiRHBIWTE4WlpfcndYZmk5SnRzSUE?oc=5"
   },
   {
-   "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
-   "source": "블루밍비트",
-   "time": "2026-08-23T13:41:12+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
+   "title": "[마켓 ING]코스피, 금리 부담 VS 주주환원 기대감",
+   "source": "아시아경제",
+   "time": "2026-08-23T15:24:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aY0FQb3hxXzBfN3NRLWczMUNhOWYySkQxbUxkMFRIZVUwMWgzZ0c1SUZDSDJQX3Rxd2F2cG9nOXlCb3ZvSkZjelh0UmF3R28wZUstTmZPTV9xcVNIWkdhLQ?oc=5"
   },
   {
    "title": "사이드카가 일상이 된 증시",
@@ -846,22 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PRkRudVFRM1hEUGhsVTlGSjJyVDJMS3Frc3h5SDUzOS1hdDZtOVNIYmJCVnhjVzFRckIwdFRWMzRSdHV1cnJidWVkMS1JZ3VDblVkX2FvdjhFRm1qNFlHY1hBQUdGTDZGQ0JmYm43dEFKaWc?oc=5"
   },
   {
-   "title": "[마켓 ING]코스피, 금리 부담 VS 주주환원 기대감",
-   "source": "아시아경제",
-   "time": "2026-08-23T15:24:25+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aY0FQb3hxXzBfN3NRLWczMUNhOWYySkQxbUxkMFRIZVUwMWgzZ0c1SUZDSDJQX3Rxd2F2cG9nOXlCb3ZvSkZjelh0UmF3R28wZUstTmZPTV9xcVNIWkdhLQ?oc=5"
-  },
-  {
    "title": "금·은·비트코인 ‘급등’…미 재정 불안에 달러·국채 시장 흔들려",
    "source": "한겨레",
    "time": "2026-08-23T16:42:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOMEVpejF6V2NXaW5KdXJMc2p5YTVneU85YW1WMUhiS3pqcHV5TEVuM1k4SXZuQVk4eFhUWGcyYXUzcG9OTVhEa2d6MlRmYnRBclY4VnFESEVDQUt6c25fcGRodTJwckpSYkxqTVdJYlZjQQ?oc=5"
-  },
-  {
-   "title": "삼전닉스 올라도 개미는 ‘멈춤’…코스피 손바뀜 3분의 1 토막",
-   "source": "경북매일",
-   "time": "2026-08-23T06:52:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94WDI4c2ZlMWt5YXNoZkhTY0Y1UWlxN2NiYlM0VUlLQmlrRXc1cl9Zc01fbFBhSjVVLWZ3djI2MEZya2I2M19rVkRQclBFUDV2MkduMHhxMUV5QQ?oc=5"
   }
  ]
 }
