@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T03:51:11.860096+09:00",
+ "updated": "2026-08-24T04:11:24.066425+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -451,13 +451,9 @@
    ]
   },
   "btc": {
-   "price": 77274.6,
+   "price": 77282.47,
    "prev": 77076.06,
    "spark": [
-    77255.6406,
-    77180.0078,
-    77166.8672,
-    77133.4531,
     77248.0469,
     77191.5391,
     77259.4766,
@@ -492,18 +488,18 @@
     77320.0,
     77333.6094,
     77295.8672,
-    77274.6016,
-    77274.6016
+    77283.6172,
+    77325.0,
+    77334.4688,
+    77309.1797,
+    77287.6875,
+    77282.4688
    ]
   },
   "eth": {
-   "price": 2445.23,
+   "price": 2443.53,
    "prev": 2423.2788,
    "spark": [
-    2446.4199,
-    2445.24,
-    2441.8101,
-    2438.3899,
     2444.53,
     2442.02,
     2444.3,
@@ -538,8 +534,12 @@
     2445.76,
     2447.3899,
     2446.1499,
-    2445.1399,
-    2445.23
+    2446.6201,
+    2448.23,
+    2447.26,
+    2445.3799,
+    2444.96,
+    2443.53
    ]
   },
   "eurkrw": {
@@ -798,6 +798,12 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MGVDMXY1ZW1id0JKZHFaMUo3d2tHTm9LbzJ4aHdtWkZ6QW1YLWJ1VGpDNkZON1Zsb0NxN3J4Q09PVTRFcS1TeEhmSG5zUWpqdktPaVpXaHZGc0YzU1JqdXhVNThBRmh6NXF0SW1FcjhiTEU?oc=5"
   },
   {
+   "title": "“롤러코스피 잠시 쉬어가세요”… 파킹통장이 다시 뜬다",
+   "source": "v.daum.net",
+   "time": "2026-08-24T00:38:40+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03WGlPWVctVTdiYy15bFhQQnRSR1lXYmlRM2lQUGI2cDJOWXp2V0l3bUZ4aTktSi1JN0RKTnNKNnZ1QkplRUxpQjFtOERjWDQ?oc=5"
+  },
+  {
    "title": "美 규제완화 훈풍…비트코인 기지개",
    "source": "전자신문",
    "time": "2026-08-23T15:00:00+09:00",
@@ -816,16 +822,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hOGg1WlhxWjNYSUxna1dLbE1VbFc3eWx0LTZRMXgyVkpnN2xrTnNrZFVKb29vcTRRR0gwS3BRNGhJTktPclhxYUdQTzV0TXd1RFE?oc=5"
   },
   {
-   "title": "기업 달러 순매도 작년의 3.7배… 환율 하락세 1300원대로",
-   "source": "동아일보",
-   "time": "2026-08-24T00:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
-  },
-  {
    "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
    "source": "중앙일보",
    "time": "2026-08-20T05:00:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
+  },
+  {
+   "title": "기업 달러 순매도 작년의 3.7배… 환율 하락세 1300원대로",
+   "source": "동아일보",
+   "time": "2026-08-24T00:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
   },
   {
    "title": "체크온체인 \"비트코인, 약세장 막바지…4년 주기설 회의적\" - 머니투데이",
@@ -840,28 +846,22 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZ2E3c1JGZWx1TEVOVllaNGt6X1I5NlBvcjE1Y0g4ajZTZDJ5YjNRS3lqYmU0M1dlM1Z5VFQzWHAtYjZSLThscHpsOVRSR1RGaXdVTTY5blVDRVNUMmtsTDJQZm1JTWRHbC1xOGllckxidw?oc=5"
   },
   {
-   "title": "외국계 증권사 배불린 코스피 불장?",
-   "source": "서울신문",
-   "time": "2026-08-23T23:53:22+09:00",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CV3RnTHBxNl9RZFl4U2NxR2Q0VXVZeEhTQXNKdDNLZUE0UzdLT3R6VFJPQk9ZV0g0ay1pRC0wUzNCUnZLLUVQc2cwQXJDYkdJZ0lPUG1ZajJFeXYwOUJHQjVUTjlKN2NIRHFkelVwS1FhMjZDWFVxS0NJRlVldw?oc=5"
-  },
-  {
    "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
    "source": "KB Think",
    "time": "2026-08-19T07:58:05+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
-   "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
-   "source": "국제신문",
-   "time": "2026-08-23T19:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXBvVldNdVNES3owLWwyM2pZUENyQl9HbUVJZUtCSW5Ucm45eDhPQngwWG45SEpJN1pRQy1OcDZqU3UtTzhieVhubzR6SllTQ1VVOXY1Y0FyVTFtUUhoMWhlN1ZpZ0RRWnowcTBDNzFmSHBMdnBxUmVXRDFyUlhEeHp4RkU3elhhMHBCSndn?oc=5"
+   "title": "외국계 증권사 배불린 코스피 불장?",
+   "source": "서울신문",
+   "time": "2026-08-23T23:53:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CV3RnTHBxNl9RZFl4U2NxR2Q0VXVZeEhTQXNKdDNLZUE0UzdLT3R6VFJPQk9ZV0g0ay1pRC0wUzNCUnZLLUVQc2cwQXJDYkdJZ0lPUG1ZajJFeXYwOUJHQjVUTjlKN2NIRHFkelVwS1FhMjZDWFVxS0NJRlVldw?oc=5"
   },
   {
-   "title": "\"롤러코스피 잠시 쉬어가세요\"… 파킹통장이 다시 뜬다",
-   "source": "조선일보",
-   "time": "2026-08-24T00:37:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlNQcENrT1BzREVwVXBOYjhEZjVBSXFlNkdBUTdGUmdNOHdrOFBiYzZJTUMxUmY1cEROWHpfZ01oUXdCci0tWnhkRkV1QVZDVjZzcTZJV1NEaVlvNFpZWWdiTXg5ZDZrS1ozWk83c05vR1hKWWxCV3Bpa3BlYXJxTFZ4d2duYU1ZQ3RCT0pn?oc=5"
+   "title": "이란 제재 우려에 유가 상승, 걸프 증시 일제히 상승",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-23T22:50:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrV19OMFd6Y25melN5SGVROVUwVkpHSy1oN3N0TjFSVGdrdk1xOVhxSVNRNWJITVRDZV9jTHk0cWFzcFdKdkMzQ3VXOUpkSnlUSXlVbmpFYjJKUW1PTy1YMWg2RjRVd1hnY19KUWpMbHg0SVJPMzZ3?oc=5"
   }
  ]
 }
