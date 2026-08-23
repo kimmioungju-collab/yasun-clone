@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T23:59:19.772660+09:00",
+ "updated": "2026-08-24T00:27:24.740058+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -88,7 +88,7 @@
     13865.0,
     13830.0,
     13770.0,
-    13760.0,
+    13765.0,
     13745.0,
     13810.0
    ]
@@ -451,35 +451,29 @@
    ]
   },
   "btc": {
-   "price": 77167.63,
+   "price": 77208.92,
    "prev": 77076.06,
    "spark": [
-    77197.5625,
-    77343.1406,
-    77288.1562,
-    77176.4531,
-    77127.8125,
-    77073.0078,
-    77076.3828,
+    77076.0312,
     77095.25,
-    77029.4688,
+    77030.2969,
     77072.0234,
     77127.8125,
     77228.9375,
     77194.2578,
-    77151.8672,
+    77151.8828,
     77201.5938,
-    77204.7578,
-    77234.2969,
+    77194.7031,
+    77226.6172,
     77318.3594,
-    77656.7891,
-    77628.2188,
-    77419.9531,
+    77664.4219,
+    77623.7969,
+    77425.6328,
     77376.4609,
-    77564.4688,
+    77583.1406,
     77510.2891,
     77454.3281,
-    77484.8906,
+    77480.2734,
     77477.2422,
     77546.0078,
     77408.2734,
@@ -487,25 +481,25 @@
     77467.5391,
     77414.8594,
     77439.2422,
-    77412.7422,
+    77412.75,
     77426.6719,
+    77004.2891,
+    77190.7422,
+    77255.3203,
+    77180.4531,
+    77251.8594,
+    77263.3125,
+    77144.9062,
     76992.1016,
-    77179.2891,
-    77259.5078,
-    77156.3594,
-    77167.6328
+    77206.0234,
+    77207.0469,
+    77208.9219
    ]
   },
   "eth": {
-   "price": 2439.58,
+   "price": 2437.62,
    "prev": 2423.2788,
    "spark": [
-    2428.3999,
-    2430.8401,
-    2433.3601,
-    2427.0701,
-    2425.05,
-    2422.8,
     2423.76,
     2422.98,
     2422.6599,
@@ -514,32 +508,38 @@
     2428.28,
     2425.3501,
     2424.9199,
-    2426.72,
+    2426.8401,
     2428.0,
-    2430.3601,
+    2430.4099,
     2431.73,
-    2469.96,
-    2463.3601,
-    2453.8799,
+    2470.3201,
+    2463.9299,
+    2453.24,
     2453.97,
     2456.77,
-    2455.6001,
-    2452.21,
-    2456.3201,
+    2455.6599,
+    2452.5601,
+    2455.75,
     2459.28,
-    2463.2,
+    2463.3401,
     2459.01,
     2463.72,
     2461.21,
-    2456.8301,
+    2456.5901,
     2456.4299,
     2453.3799,
     2452.6201,
-    2419.5901,
+    2420.0,
     2432.71,
     2444.2,
-    2438.9399,
-    2439.5801
+    2438.5,
+    2436.3799,
+    2438.79,
+    2432.9399,
+    2425.5601,
+    2435.0601,
+    2437.6101,
+    2437.6201
    ]
   },
   "eurkrw": {
@@ -840,28 +840,28 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaWg3UEFRbENSNkZTVklGaFZVYm5EdHdXeS1ZMnNkc3VSTjJCQVBYcTN2RVdaN2FXdW5iT3M4bFd6WW9BdGU0UkJiRHBIWTE4WlpfcndYZmk5SnRzSUE?oc=5"
   },
   {
-   "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
-   "source": "블루밍비트",
-   "time": "2026-08-23T13:41:12+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
-  },
-  {
    "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
    "source": "중앙일보",
    "time": "2026-08-20T05:00:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
   },
   {
+   "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
+   "source": "블루밍비트",
+   "time": "2026-08-23T13:41:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
+  },
+  {
+   "title": "외국계 증권사 배불린 코스피 불장?",
+   "source": "서울신문",
+   "time": "2026-08-23T23:53:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CV3RnTHBxNl9RZFl4U2NxR2Q0VXVZeEhTQXNKdDNLZUE0UzdLT3R6VFJPQk9ZV0g0ay1pRC0wUzNCUnZLLUVQc2cwQXJDYkdJZ0lPUG1ZajJFeXYwOUJHQjVUTjlKN2NIRHFkelVwS1FhMjZDWFVxS0NJRlVldw?oc=5"
+  },
+  {
    "title": "코스피 9000선 불장에…외국계 증권사 2분기 순익 214% ‘폭증’",
    "source": "v.daum.net",
    "time": "2026-08-23T16:36:38+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGellVZzhlYzVaNEc3THk5MkVUQV9MUzEwZXoxM3FxYXZ3SVVlRmNfVWtZOW1ROW9iMXdEOWg0RUhtTHB3cm5ablJWVjh4eFE?oc=5"
-  },
-  {
-   "title": "금·은·비트코인 ‘급등’…미 재정 불안에 달러·국채 시장 흔들려",
-   "source": "한겨레",
-   "time": "2026-08-23T16:42:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOMEVpejF6V2NXaW5KdXJMc2p5YTVneU85YW1WMUhiS3pqcHV5TEVuM1k4SXZuQVk4eFhUWGcyYXUzcG9OTVhEa2d6MlRmYnRBclY4VnFESEVDQUt6c25fcGRodTJwckpSYkxqTVdJYlZjQQ?oc=5"
   }
  ]
 }
