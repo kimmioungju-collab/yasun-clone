@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T04:50:20.332877+09:00",
+ "updated": "2026-08-24T05:00:55.923393+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -451,11 +451,9 @@
    ]
   },
   "btc": {
-   "price": 77382.73,
+   "price": 77307.66,
    "prev": 77076.06,
    "spark": [
-    77371.5391,
-    77362.6484,
     77359.9922,
     77381.0,
     77405.6719,
@@ -493,15 +491,15 @@
     77358.7812,
     77429.0625,
     77381.0703,
-    77382.7266
+    77377.8438,
+    77328.2734,
+    77307.6562
    ]
   },
   "eth": {
-   "price": 2449.51,
+   "price": 2443.74,
    "prev": 2423.2788,
    "spark": [
-    2446.99,
-    2446.6001,
     2449.49,
     2452.4099,
     2450.54,
@@ -539,7 +537,9 @@
     2444.8,
     2447.96,
     2449.54,
-    2449.51
+    2447.25,
+    2444.46,
+    2443.74
    ]
   },
   "eurkrw": {
@@ -822,12 +822,6 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5"
   },
   {
-   "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
-   "source": "중앙일보",
-   "time": "2026-08-20T05:00:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
-  },
-  {
    "title": "[표] 외국환율고시표",
    "source": "매일경제 마켓",
    "time": "2026-08-23T17:53:32+09:00",
@@ -838,12 +832,6 @@
    "source": "동아일보",
    "time": "2026-08-24T00:30:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
-  },
-  {
-   "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
-   "source": "KB Think",
-   "time": "2026-08-19T07:58:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
    "title": "체크온체인 \"비트코인, 약세장 막바지…4년 주기설 회의적\" - 머니투데이",
@@ -862,6 +850,18 @@
    "source": "서울신문",
    "time": "2026-08-23T23:53:22+09:00",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CV3RnTHBxNl9RZFl4U2NxR2Q0VXVZeEhTQXNKdDNLZUE0UzdLT3R6VFJPQk9ZV0g0ay1pRC0wUzNCUnZLLUVQc2cwQXJDYkdJZ0lPUG1ZajJFeXYwOUJHQjVUTjlKN2NIRHFkelVwS1FhMjZDWFVxS0NJRlVldw?oc=5"
+  },
+  {
+   "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
+   "source": "국제신문",
+   "time": "2026-08-23T19:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXBvVldNdVNES3owLWwyM2pZUENyQl9HbUVJZUtCSW5Ucm45eDhPQngwWG45SEpJN1pRQy1OcDZqU3UtTzhieVhubzR6SllTQ1VVOXY1Y0FyVTFtUUhoMWhlN1ZpZ0RRWnowcTBDNzFmSHBMdnBxUmVXRDFyUlhEeHp4RkU3elhhMHBCSndn?oc=5"
+  },
+  {
+   "title": "이란 제재 우려에 유가 상승, 걸프 증시 일제히 상승",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-23T22:50:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrV19OMFd6Y25melN5SGVROVUwVkpHSy1oN3N0TjFSVGdrdk1xOVhxSVNRNWJITVRDZV9jTHk0cWFzcFdKdkMzQ3VXOUpkSnlUSXlVbmpFYjJKUW1PTy1YMWg2RjRVd1hnY19KUWpMbHg0SVJPMzZ3?oc=5"
   }
  ]
 }
