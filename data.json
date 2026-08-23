@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T03:17:23.722420+09:00",
+ "updated": "2026-08-24T03:51:11.860096+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -88,7 +88,7 @@
     13865.0,
     13830.0,
     13770.0,
-    13760.0,
+    13765.0,
     13745.0,
     13810.0
    ]
@@ -451,65 +451,58 @@
    ]
   },
   "btc": {
-   "price": 77341.26,
+   "price": 77274.6,
    "prev": 77076.06,
    "spark": [
-    77274.7812,
-    77144.9062,
-    76984.4609,
-    77206.0234,
-    77185.3906,
-    77148.7266,
-    77259.0,
     77255.6406,
-    77180.0,
+    77180.0078,
     77166.8672,
-    77141.0938,
-    77259.5,
-    77197.2891,
-    77261.8984,
-    77226.9219,
-    77251.0625,
+    77133.4531,
+    77248.0469,
+    77191.5391,
+    77259.4766,
+    77222.8672,
+    77257.1328,
     77306.3203,
-    77397.0234,
-    77371.5312,
-    77370.2891,
+    77397.8438,
+    77371.5391,
+    77362.6484,
     77359.9922,
     77381.0,
     77405.6719,
     77198.5,
     77323.1875,
-    77266.1797,
+    77270.9688,
     77359.6328,
-    77280.8672,
-    77243.3438,
+    77274.7891,
+    77243.3516,
     77245.2578,
     77228.9531,
     77229.0078,
     77242.3594,
-    77224.7266,
-    77171.6484,
-    77166.9688,
+    77219.2891,
+    77175.4688,
+    77170.75,
     77206.0234,
-    77337.1172,
-    77342.6484,
-    77341.2578
+    77337.25,
+    77309.5625,
+    77310.7188,
+    77343.5469,
+    77288.3906,
+    77320.0,
+    77333.6094,
+    77295.8672,
+    77274.6016,
+    77274.6016
    ]
   },
   "eth": {
-   "price": 2446.92,
+   "price": 2445.23,
    "prev": 2423.2788,
    "spark": [
-    2438.8,
-    2432.9399,
-    2425.7,
-    2435.0601,
-    2436.8301,
-    2436.71,
-    2443.8999,
     2446.4199,
-    2445.1001,
-    2441.6399,
+    2445.24,
+    2441.8101,
     2438.3899,
     2444.53,
     2442.02,
@@ -523,23 +516,30 @@
     2449.49,
     2452.4099,
     2450.54,
-    2441.79,
+    2441.6001,
     2450.6399,
-    2447.21,
+    2447.24,
     2448.6899,
     2444.3401,
-    2440.8301,
+    2440.8401,
     2440.1101,
     2440.1499,
     2438.6599,
     2440.8401,
     2439.6299,
-    2440.26,
+    2440.27,
     2439.8799,
     2439.97,
     2444.9299,
-    2446.8201,
-    2446.9199
+    2444.6201,
+    2445.77,
+    2446.76,
+    2444.1101,
+    2445.76,
+    2447.3899,
+    2446.1499,
+    2445.1399,
+    2445.23
    ]
   },
   "eurkrw": {
@@ -822,6 +822,12 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
   },
   {
+   "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
+   "source": "중앙일보",
+   "time": "2026-08-20T05:00:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
+  },
+  {
    "title": "체크온체인 \"비트코인, 약세장 막바지…4년 주기설 회의적\" - 머니투데이",
    "source": "머니투데이",
    "time": "2026-08-23T10:25:45+09:00",
@@ -834,22 +840,10 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZ2E3c1JGZWx1TEVOVllaNGt6X1I5NlBvcjE1Y0g4ajZTZDJ5YjNRS3lqYmU0M1dlM1Z5VFQzWHAtYjZSLThscHpsOVRSR1RGaXdVTTY5blVDRVNUMmtsTDJQZm1JTWRHbC1xOGllckxidw?oc=5"
   },
   {
-   "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
-   "source": "중앙일보",
-   "time": "2026-08-20T05:00:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
-  },
-  {
-   "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
-   "source": "블루밍비트",
-   "time": "2026-08-23T13:41:12+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
-  },
-  {
-   "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
-   "source": "국제신문",
-   "time": "2026-08-23T19:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXBvVldNdVNES3owLWwyM2pZUENyQl9HbUVJZUtCSW5Ucm45eDhPQngwWG45SEpJN1pRQy1OcDZqU3UtTzhieVhubzR6SllTQ1VVOXY1Y0FyVTFtUUhoMWhlN1ZpZ0RRWnowcTBDNzFmSHBMdnBxUmVXRDFyUlhEeHp4RkU3elhhMHBCSndn?oc=5"
+   "title": "외국계 증권사 배불린 코스피 불장?",
+   "source": "서울신문",
+   "time": "2026-08-23T23:53:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CV3RnTHBxNl9RZFl4U2NxR2Q0VXVZeEhTQXNKdDNLZUE0UzdLT3R6VFJPQk9ZV0g0ay1pRC0wUzNCUnZLLUVQc2cwQXJDYkdJZ0lPUG1ZajJFeXYwOUJHQjVUTjlKN2NIRHFkelVwS1FhMjZDWFVxS0NJRlVldw?oc=5"
   },
   {
    "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
@@ -858,10 +852,16 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5"
   },
   {
-   "title": "반도체 반등에도 개미들 '관망'…코스피 주식 회전율 연중 '최저'",
-   "source": "글로벌이코노믹",
-   "time": "2026-08-23T19:36:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXd1b3ViNkVPeDRZU1FqeW0tcnZscnhSMjBOQS1lcXJJemhXdGR6OHNsNE16TUVaMWpFZUlxSkdQdUUzQmJvX1VBS0NhN2kxSG9jRFR2bGdiWEtVMHoyeWozRi1KUjJpTVN4MlBvWWpVaGlld2IxSm1nOTBIT2locmF5cnAwV0U?oc=5"
+   "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
+   "source": "국제신문",
+   "time": "2026-08-23T19:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXBvVldNdVNES3owLWwyM2pZUENyQl9HbUVJZUtCSW5Ucm45eDhPQngwWG45SEpJN1pRQy1OcDZqU3UtTzhieVhubzR6SllTQ1VVOXY1Y0FyVTFtUUhoMWhlN1ZpZ0RRWnowcTBDNzFmSHBMdnBxUmVXRDFyUlhEeHp4RkU3elhhMHBCSndn?oc=5"
+  },
+  {
+   "title": "\"롤러코스피 잠시 쉬어가세요\"… 파킹통장이 다시 뜬다",
+   "source": "조선일보",
+   "time": "2026-08-24T00:37:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlNQcENrT1BzREVwVXBOYjhEZjVBSXFlNkdBUTdGUmdNOHdrOFBiYzZJTUMxUmY1cEROWHpfZ01oUXdCci0tWnhkRkV1QVZDVjZzcTZJV1NEaVlvNFpZWWdiTXg5ZDZrS1ozWk83c05vR1hKWWxCV3Bpa3BlYXJxTFZ4d2duYU1ZQ3RCT0pn?oc=5"
   }
  ]
 }
