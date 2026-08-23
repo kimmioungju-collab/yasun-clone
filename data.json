@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T00:27:24.740058+09:00",
+ "updated": "2026-08-24T00:47:26.298431+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -88,7 +88,7 @@
     13865.0,
     13830.0,
     13770.0,
-    13765.0,
+    13760.0,
     13745.0,
     13810.0
    ]
@@ -451,29 +451,25 @@
    ]
   },
   "btc": {
-   "price": 77208.92,
+   "price": 77219.54,
    "prev": 77076.06,
    "spark": [
-    77076.0312,
-    77095.25,
-    77030.2969,
-    77072.0234,
     77127.8125,
     77228.9375,
     77194.2578,
-    77151.8828,
+    77151.8672,
     77201.5938,
-    77194.7031,
-    77226.6172,
+    77204.7578,
+    77234.2969,
     77318.3594,
-    77664.4219,
-    77623.7969,
-    77425.6328,
+    77656.7891,
+    77628.2188,
+    77419.9531,
     77376.4609,
-    77583.1406,
+    77564.4688,
     77510.2891,
     77454.3281,
-    77480.2734,
+    77484.8906,
     77477.2422,
     77546.0078,
     77408.2734,
@@ -481,65 +477,69 @@
     77467.5391,
     77414.8594,
     77439.2422,
-    77412.75,
+    77412.7422,
     77426.6719,
-    77004.2891,
-    77190.7422,
-    77255.3203,
-    77180.4531,
-    77251.8594,
-    77263.3125,
-    77144.9062,
     76992.1016,
+    77179.2891,
+    77259.5078,
+    77179.2812,
+    77251.8594,
+    77274.7812,
+    77144.9062,
+    76984.4609,
     77206.0234,
-    77207.0469,
-    77208.9219
+    77185.3906,
+    77148.7266,
+    77259.0,
+    77255.6406,
+    77202.2109,
+    77219.5391
    ]
   },
   "eth": {
-   "price": 2437.62,
+   "price": 2448.48,
    "prev": 2423.2788,
    "spark": [
-    2423.76,
-    2422.98,
-    2422.6599,
-    2424.6001,
     2425.3999,
     2428.28,
     2425.3501,
     2424.9199,
-    2426.8401,
+    2426.72,
     2428.0,
-    2430.4099,
+    2430.3601,
     2431.73,
-    2470.3201,
-    2463.9299,
-    2453.24,
+    2469.96,
+    2463.3601,
+    2453.8799,
     2453.97,
     2456.77,
-    2455.6599,
-    2452.5601,
-    2455.75,
+    2455.6001,
+    2452.21,
+    2456.3201,
     2459.28,
-    2463.3401,
+    2463.2,
     2459.01,
     2463.72,
     2461.21,
-    2456.5901,
+    2456.8301,
     2456.4299,
     2453.3799,
     2452.6201,
-    2420.0,
+    2419.5901,
     2432.71,
     2444.2,
     2438.5,
     2436.3799,
-    2438.79,
+    2438.8,
     2432.9399,
-    2425.5601,
+    2425.7,
     2435.0601,
-    2437.6101,
-    2437.6201
+    2436.8301,
+    2436.71,
+    2443.8999,
+    2446.4199,
+    2446.1101,
+    2448.48
    ]
   },
   "eurkrw": {
@@ -798,16 +798,16 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oVkp5TWYwNENoWmV3N0M5U19JeXJZM0ZrWXdtenh6QWJVaVVEdS01OS1lVzJiZU4xY2RZMXlqTDY5NWU4WU02LWoydHE3QQ?oc=5"
   },
   {
-   "title": "비트코인, 7만7천 달러 아래로 하락…채굴 수익성은 개선",
-   "source": "Investing.com 한국어",
-   "time": "2026-08-23T18:58:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHRMdVpObXdjbThsSzRkOUVEMWF6OWtrZVRpQU1KVFhhMTdHSkpfRmlZRjI0WGtuNE84WjRURnRaOUw4RGpTMTJYRHR5b3Y2Vk52LTAyam1xSkRPd05rZUhRUndNVWlpYVVKMTBvbDdLM2xfZXNodEtnYWt1aGMxMTlKLUhKTUEyNVhhWVZfQjFQZEIwNTNOWGthZ0ZWTjhaZGt6QjdNWjczYkRaZ25TcEtvRTRVRkUtMWR5Zm9EM1Jzbk15aE5nNFBLX2VzeENCb2JB?oc=5"
-  },
-  {
    "title": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈",
    "source": "경향신문",
    "time": "2026-08-23T10:49:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5"
+  },
+  {
+   "title": "비트코인, 7만7천 달러 아래로 하락…채굴 수익성은 개선",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-23T18:58:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHRMdVpObXdjbThsSzRkOUVEMWF6OWtrZVRpQU1KVFhhMTdHSkpfRmlZRjI0WGtuNE84WjRURnRaOUw4RGpTMTJYRHR5b3Y2Vk52LTAyam1xSkRPd05rZUhRUndNVWlpYVVKMTBvbDdLM2xfZXNodEtnYWt1aGMxMTlKLUhKTUEyNVhhWVZfQjFQZEIwNTNOWGthZ0ZWTjhaZGt6QjdNWjczYkRaZ25TcEtvRTRVRkUtMWR5Zm9EM1Jzbk15aE5nNFBLX2VzeENCb2JB?oc=5"
   },
   {
    "title": "[표] 외국환율고시표",
@@ -826,6 +826,18 @@
    "source": "머니투데이",
    "time": "2026-08-23T10:25:45+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRUxCOXEtamdNNFR0M2pDUFBZeFNRY29nc2t6bE5BNXBEcXhWM3k2aEJHSlk1SVE0NFFiMkZGRjJ6aDRnazNxWlBORkZUdExBZ0lwOGszQ1o3TG5NXzh2WkpNWnpRdVlJ0gFuQVVfeXFMUGdDc3pxczM1bm5UalVKTzBxOVc2U3p3a3liRkhweEk4Q1pLS2h6VGFoV3Ata0duMEtybmdmNHREdS12N0cyRnU5YmpiN3hVYVo5Sm1wbExKOVczRnlsMG13MGJPQzRRRGF5RDNObEE?oc=5"
+  },
+  {
+   "title": "기업 달러 순매도 작년의 3.7배… 환율 하락세 1300원대로",
+   "source": "동아일보",
+   "time": "2026-08-24T00:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
+  },
+  {
+   "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
+   "source": "국제신문",
+   "time": "2026-08-23T19:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXBvVldNdVNES3owLWwyM2pZUENyQl9HbUVJZUtCSW5Ucm45eDhPQngwWG45SEpJN1pRQy1OcDZqU3UtTzhieVhubzR6SllTQ1VVOXY1Y0FyVTFtUUhoMWhlN1ZpZ0RRWnowcTBDNzFmSHBMdnBxUmVXRDFyUlhEeHp4RkU3elhhMHBCSndn?oc=5"
   },
   {
    "title": "반도체 반등에도 개미들 '관망'…코스피 주식 회전율 연중 '최저'",
@@ -850,18 +862,6 @@
    "source": "블루밍비트",
    "time": "2026-08-23T13:41:12+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
-  },
-  {
-   "title": "외국계 증권사 배불린 코스피 불장?",
-   "source": "서울신문",
-   "time": "2026-08-23T23:53:22+09:00",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CV3RnTHBxNl9RZFl4U2NxR2Q0VXVZeEhTQXNKdDNLZUE0UzdLT3R6VFJPQk9ZV0g0ay1pRC0wUzNCUnZLLUVQc2cwQXJDYkdJZ0lPUG1ZajJFeXYwOUJHQjVUTjlKN2NIRHFkelVwS1FhMjZDWFVxS0NJRlVldw?oc=5"
-  },
-  {
-   "title": "코스피 9000선 불장에…외국계 증권사 2분기 순익 214% ‘폭증’",
-   "source": "v.daum.net",
-   "time": "2026-08-23T16:36:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGellVZzhlYzVaNEc3THk5MkVUQV9MUzEwZXoxM3FxYXZ3SVVlRmNfVWtZOW1ROW9iMXdEOWg0RUhtTHB3cm5ablJWVjh4eFE?oc=5"
   }
  ]
 }
