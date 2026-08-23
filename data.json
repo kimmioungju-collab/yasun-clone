@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T21:00:49.708685+09:00",
+ "updated": "2026-08-23T21:55:24.446222+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -451,20 +451,9 @@
    ]
   },
   "btc": {
-   "price": 77282.4,
+   "price": 77171.63,
    "prev": 77076.06,
    "spark": [
-    76473.6797,
-    76499.3203,
-    76464.9375,
-    76583.8281,
-    76572.8516,
-    76568.1406,
-    76524.4609,
-    76479.3281,
-    76537.5312,
-    76482.0078,
-    76521.8125,
     76559.5938,
     76591.0078,
     76588.1016,
@@ -493,24 +482,24 @@
     77197.5625,
     77343.1406,
     77288.1562,
-    77282.3984
+    77176.4531,
+    77127.8125,
+    77068.4062,
+    77076.0312,
+    77095.25,
+    77030.2969,
+    77072.0234,
+    77127.8125,
+    77228.9375,
+    77194.2578,
+    77151.8828,
+    77171.6328
    ]
   },
   "eth": {
-   "price": 2432.32,
+   "price": 2426.38,
    "prev": 2423.2788,
    "spark": [
-    2414.8799,
-    2415.2,
-    2412.3899,
-    2415.1299,
-    2413.1101,
-    2412.3,
-    2411.71,
-    2408.1399,
-    2410.5901,
-    2407.6101,
-    2408.6299,
     2411.5801,
     2414.04,
     2413.6599,
@@ -539,7 +528,18 @@
     2428.3999,
     2430.8401,
     2433.3401,
-    2432.3201
+    2427.0701,
+    2425.05,
+    2422.8,
+    2423.76,
+    2422.98,
+    2422.6599,
+    2424.6001,
+    2425.3999,
+    2428.28,
+    2425.3501,
+    2424.9199,
+    2426.3799
    ]
   },
   "eurkrw": {
@@ -780,6 +780,12 @@
  },
  "news": [
   {
+   "title": "환율 1300원대 내려오자 ‘달러 사재기’…환차손 우려 커진 해외주식 투자는 주춤",
+   "source": "조선일보",
+   "time": "2026-08-23T20:50:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjI4QU90QlkwZmhnTDF5bHo3OVJQUUxrbENzVXNIZ3A0MV9aNWVJSlFjNERUOWc5T1oxZjhraURReXZlbEpiOHFrR2g2UW13SnJvckYxNzlFdnBXMzVTMUU4VXZqRFpaUmx1T0Z6VHJIQk9BUlY4M2VsMm1UWFl4alVYMFdacHVDT0dSaWRB?oc=5"
+  },
+  {
    "title": "금리에 막힌 코스피, 주주환원이 받친다…\"대형주 딱 붙어있어라\"",
    "source": "연합인포맥스",
    "time": "2026-08-23T08:05:05+09:00",
@@ -804,12 +810,6 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5"
   },
   {
-   "title": "정부 환율 관리 압박에 수출기업 달러 쏟아냈다…상반기 달러 순매도 1869억달러, 작년의 3배",
-   "source": "조선일보",
-   "time": "2026-08-23T12:15:04+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclpGTjkzbkpOM3RFSDJYMno3dWx6LW1vR25IYTlKaVFXaTg1SklzWVlpOER3LWJhcmlKaFdvQ3JoazRRUDBoWVpaX0dsdUZzeWxTcUxlUk5fSnN6RkVua0pzLVVoaTRvRUt3M0NhV0ctczFESXN2SUgtRHJ5SVgzcVhWT29tZ29PNnNIWlZB?oc=5"
-  },
-  {
    "title": "[이번주 증시] 엔비디아 실적 및 잭슨홀 미팅 주목",
    "source": "오피니언뉴스",
    "time": "2026-08-23T09:00:00+09:00",
@@ -828,10 +828,10 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hOGg1WlhxWjNYSUxna1dLbE1VbFc3eWx0LTZRMXgyVkpnN2xrTnNrZFVKb29vcTRRR0gwS3BRNGhJTktPclhxYUdQTzV0TXd1RFE?oc=5"
   },
   {
-   "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
-   "source": "블루밍비트",
-   "time": "2026-08-23T13:41:12+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
+   "title": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시]",
+   "source": "에너지경제신문",
+   "time": "2026-08-23T10:02:43+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaWg3UEFRbENSNkZTVklGaFZVYm5EdHdXeS1ZMnNkc3VSTjJCQVBYcTN2RVdaN2FXdW5iT3M4bFd6WW9BdGU0UkJiRHBIWTE4WlpfcndYZmk5SnRzSUE?oc=5"
   },
   {
    "title": "“벌어들인 달러 풀어라” 압박에… 환율 하락 주도한 수출 기업",
@@ -840,10 +840,10 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTm1DMHVNRFZ1Tlh1UVQ4S19CQ0UzY3hheDI0WXN5NERmTHc3R2hVTXQ4Qi1EZ2RZQWI5VjQxZXNqMkJfLXdXVUpELXhlaXNHNUFSVlR5cXowNUJLelZPTGJDcUx4d3NUeWNtZFprTS1kaW04RFHSAWZBVV95cUxQeGlsYVZxYXRtZDQ4cElIcDhNUTdmOGZWV1lPMEx1MzhxcUlOclhNVlJRSzJyN1FGRVNhNkJXbEFralZ4RXhaSGlOa25wN3hpYkVZVmgyUVFodTJ6LUZSb1MweEI5cEE?oc=5"
   },
   {
-   "title": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시]",
-   "source": "에너지경제신문",
-   "time": "2026-08-23T10:02:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaWg3UEFRbENSNkZTVklGaFZVYm5EdHdXeS1ZMnNkc3VSTjJCQVBYcTN2RVdaN2FXdW5iT3M4bFd6WW9BdGU0UkJiRHBIWTE4WlpfcndYZmk5SnRzSUE?oc=5"
+   "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
+   "source": "블루밍비트",
+   "time": "2026-08-23T13:41:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
   },
   {
    "title": "금·은·비트코인 ‘급등’…미 재정 불안에 달러·국채 시장 흔들려",
