@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T07:32:17.194429+09:00",
+ "updated": "2026-08-24T07:52:07.228754+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -186,23 +186,31 @@
    ]
   },
   "nq": {
-   "price": 29341.75,
+   "price": 29352.25,
    "prev": 29387.75,
    "spark": [
     29331.75,
     29324.5,
     29336.0,
-    29341.75
+    29338.75,
+    29340.25,
+    29355.5,
+    29382.25,
+    29352.25
    ]
   },
   "es": {
-   "price": 7684.75,
+   "price": 7685.25,
    "prev": 7691.25,
    "spark": [
     7684.25,
     7683.0,
     7683.75,
-    7684.75
+    7684.0,
+    7683.75,
+    7686.0,
+    7689.25,
+    7685.25
    ]
   },
   "ndx": {
@@ -344,52 +352,73 @@
    ]
   },
   "wti": {
-   "price": 86.42,
+   "price": 86.35,
    "prev": 87.06,
    "spark": [
     86.4,
     86.39,
     86.41,
-    86.42
+    86.41,
+    86.37,
+    86.33,
+    86.36,
+    86.35
    ]
   },
   "brent": {
-   "price": 93.7,
+   "price": 93.64,
    "prev": 94.39,
    "spark": [
     93.69,
     93.7,
-    93.7
+    93.69,
+    93.71,
+    93.69,
+    93.64,
+    93.67,
+    93.64
    ]
   },
   "gold": {
-   "price": 4675.5,
+   "price": 4664.0,
    "prev": 4680.6,
    "spark": [
     4675.3999,
     4675.7998,
     4674.8999,
-    4675.5
+    4671.6001,
+    4671.6001,
+    4668.8999,
+    4667.5,
+    4664.0
    ]
   },
   "silver": {
-   "price": 69.36,
+   "price": 69.05,
    "prev": 69.53,
    "spark": [
     69.41,
     69.39,
-    69.295,
-    69.36
+    69.28,
+    69.2,
+    69.15,
+    69.1,
+    69.1,
+    69.05
    ]
   },
   "gas": {
-   "price": 2.779,
+   "price": 2.778,
    "prev": 2.811,
    "spark": [
     2.776,
     2.78,
     2.78,
-    2.779
+    2.782,
+    2.781,
+    2.779,
+    2.777,
+    2.778
    ]
   },
   "vix": {
@@ -439,7 +468,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1385.84,
+   "price": 1386.0,
    "prev": 1393.74,
    "spark": [
     1385.53,
@@ -485,13 +514,9 @@
    ]
   },
   "btc": {
-   "price": 77668.25,
+   "price": 77682.47,
    "prev": 77076.06,
    "spark": [
-    77349.3125,
-    77343.5391,
-    77338.3594,
-    77358.7812,
     77429.0625,
     77381.0703,
     77377.8438,
@@ -526,18 +551,18 @@
     77744.1562,
     77775.2031,
     77668.2422,
-    77673.25,
-    77668.25
+    77661.5234,
+    77698.8125,
+    77642.5625,
+    77670.0938,
+    77651.8906,
+    77682.4688
    ]
   },
   "eth": {
-   "price": 2461.51,
+   "price": 2459.1,
    "prev": 2423.2788,
    "spark": [
-    2443.5701,
-    2442.73,
-    2442.8601,
-    2444.8,
     2447.96,
     2449.54,
     2447.25,
@@ -572,12 +597,16 @@
     2464.76,
     2463.72,
     2460.6001,
-    2461.1899,
-    2461.51
+    2460.0801,
+    2461.6799,
+    2459.04,
+    2461.05,
+    2460.05,
+    2459.1001
    ]
   },
   "eurkrw": {
-   "price": 1617.9,
+   "price": 1617.5,
    "prev": 1627.0,
    "spark": [
     1617.4,
@@ -715,7 +744,7 @@
    ]
   },
   "usdjpy": {
-   "price": 158.945,
+   "price": 158.95,
    "prev": 159.028,
    "spark": [
     159.027,
@@ -761,7 +790,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1682,
+   "price": 1.168,
    "prev": 1.1681,
    "spark": [
     1.1685,
@@ -807,24 +836,28 @@
    ]
   },
   "dxy": {
-   "price": 98.844,
+   "price": 98.858,
    "prev": 98.8,
    "spark": [
     98.857,
     98.842,
     98.841,
     98.843,
-    98.843,
-    98.844
+    98.846,
+    98.846,
+    98.852,
+    98.861,
+    98.858,
+    98.858
    ]
   }
  },
  "news": [
   {
-   "title": "[마켓 브리핑] 국채금리에 증시 '좌우'…'베센트 풋'에도 금리 재상승",
+   "title": "[마켓 프리뷰] 반도체 랠리에 코스피 '방긋'…대척점에 선 코스닥",
    "source": "v.daum.net",
-   "time": "2026-08-24T07:25:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EeldpR1AteTBUYnJyY0otQ09CUlBScUViT2dZWkc4bzk5MW9uU0V0WHpxY3I0QmN6aGZ6ZDNjQ0dYU2JJOUpPdlNfbjVYd1U?oc=5"
+   "time": "2026-08-24T07:31:21+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEVUhUUFZxV2xibWdzV0pCanF0bDh4bmVqTEVGcVN4SGF0NzU5c2wtUXNFSFFXT1BZSXkyWGs5MHl6UGR5eVMyV0VaUnl4RzQ?oc=5"
   },
   {
    "title": "환율 1300원대 내려오자 ‘달러 사재기’…환차손 우려 커진 해외주식 투자는 주춤",
@@ -845,12 +878,6 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oVkp5TWYwNENoWmV3N0M5U19JeXJZM0ZrWXdtenh6QWJVaVVEdS01OS1lVzJiZU4xY2RZMXlqTDY5NWU4WU02LWoydHE3QQ?oc=5"
   },
   {
-   "title": "[미리보는 증시재료] 美 엔비디아·韓 금통위 '촉각'…코스피 향방 좌우",
-   "source": "뉴스핌",
-   "time": "2026-08-24T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMekhqcHFMZmF6NHlGaDZoemxWUW9DTmFGREQ4MDU0Z1YyQ3ZiVi1SbWs0UFpkZFBTblpPX2RMUVpBUXZ5bHV2VWZzUUU5MUhMN2YxMWo1RUtJUThU?oc=5"
-  },
-  {
    "title": "금리에 막힌 코스피, 주주환원이 받친다…\"대형주 딱 붙어있어라\"",
    "source": "연합인포맥스",
    "time": "2026-08-23T08:05:05+09:00",
@@ -869,6 +896,12 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CcDN6S21kVHZ2VjJCY0xMbWZiUlIydWh2V0tkd3Y2bDI4NlJRN1Rtbktlc3o3Uzk1SnJ6ak8xbi1xcnhnT2tNb1JBU1BFdw?oc=5"
   },
   {
+   "title": "[0824개장체크] 美 증시, 서비스업 경기 호조 및 저가 매수세 유입",
+   "source": "인포스탁데일리",
+   "time": "2026-08-24T07:38:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55WV9rbkFLTEE1MUhPSUw3UGZIQnl5a2szQVY3UXJFWkItdGtPak15Zkw1QXdIdFZ3aW5iamk4V0Q4cUNMYkNLSWFtNXdPQU5Rajd4MHZPWktnN3k3cXJDcGtMMTVLQ3JaR0Q0R1NrNHNUcW94TVE?oc=5"
+  },
+  {
    "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
    "source": "중앙일보",
    "time": "2026-08-20T05:00:02+09:00",
@@ -881,28 +914,28 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xTi02NFJ1emdZSzZKbXQwQ25qcDg2Ql9iZUpsRGZ6WENwdFhqbVhYbHFOcTVOVXNNVFRTYVNOT01xWUFYcE9wNDNUbGY3R3p3anIwRXdsRVJZUm53bFM3SWRLMzctTFA5N3h3a0tjQjNrUQ?oc=5"
   },
   {
+   "title": "'칠천피' 복귀 기다리는 증시…엔비디아·금리·주주환원 3대 변수",
+   "source": "ebn.co.kr",
+   "time": "2026-08-24T06:52:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6anI3ekRrQTBOMGxRSmdHelVXbUlaNzIxNnB2blFaR21qWFg1TnhLOE5qZUtFWGFQMDhjZm5obC1CWFZYdHVDaGZEYllPZWRLT05oWjRkTFprZncxc29FTUhjcUZPOXNZ?oc=5"
+  },
+  {
+   "title": "[마켓 브리핑] 국채금리에 증시 '좌우'…'베센트 풋'에도 금리 재상승",
+   "source": "v.daum.net",
+   "time": "2026-08-24T07:25:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EeldpR1AteTBUYnJyY0otQ09CUlBScUViT2dZWkc4bzk5MW9uU0V0WHpxY3I0QmN6aGZ6ZDNjQ0dYU2JJOUpPdlNfbjVYd1U?oc=5"
+  },
+  {
    "title": "비트코인, 최근 랠리 모멘텀 되찾으며 손실 만회",
    "source": "Investing.com 한국어",
    "time": "2026-08-23T18:58:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MGVDMXY1ZW1id0JKZHFaMUo3d2tHTm9LbzJ4aHdtWkZ6QW1YLWJ1VGpDNkZON1Zsb0NxN3J4Q09PVTRFcS1TeEhmSG5zUWpqdktPaVpXaHZGc0YzU1JqdXhVNThBRmh6NXF0SW1FcjhiTEU?oc=5"
   },
   {
-   "title": "TD증권 \"잭슨홀, 증시에 리스크\"",
-   "source": "v.daum.net",
-   "time": "2026-08-24T06:57:07+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pVk1TNThtOTB0STVyalhQVDU2VmhIbEQ2Z01SM1FZOVIyWjhmM2E0SVZzVFgtODk3VjBfYmxCeFVXRmk5akcteEIyWlRndGM?oc=5"
-  },
-  {
    "title": "[뉴욕증시 주간전망] 엔비디아 실적·7월 PCE·잭슨홀…'운명의 5일'",
    "source": "글로벌이코노믹",
    "time": "2026-08-24T05:46:37+09:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkpGWXNhRG5vNzJGdDJFaFpuZzJrMGtlRk84Vk9WQmh0WGdnZUVRSkRVdGFvVEFuX0l6MW50X0U0S2g0UU43cTFieGNqSGU3ZE83bzBMamp5dU50WmFTRmJHc1lMdmI0Rm1nVTBYZWZYaF9QUHZGYUE1NmFEdlRDbmJCSGtmLUVw?oc=5"
-  },
-  {
-   "title": "[뉴욕증시] 국채 바이백 후폭풍 속 저가 매수…상승 마감",
-   "source": "연합인포맥스",
-   "time": "2026-08-22T05:57:59+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWHpXdGZmSmpHME9fa09aN2p3bVp3T0JDU1ZjRUFUcmEwbHdESUluRXI4bXB6MTY3MDhUblJNU2Mzb1NKbDFNYlVsOEhaNC1ueWZLbFR2WXhENDBpV29ySl9tTHBHQVNGZTgySERWSEw?oc=5"
   }
  ]
 }
