@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T01:56:36.142442+09:00",
+ "updated": "2026-08-24T02:17:57.169254+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -197,7 +197,7 @@
   },
   "ndx": {
    "price": 26180.455,
-   "prev": 26067.166,
+   "prev": 26067.2,
    "spark": [
     26198.5,
     26189.9336,
@@ -243,7 +243,7 @@
   },
   "sox": {
    "price": 11740.374,
-   "prev": 11800.019,
+   "prev": 11800.0,
    "spark": [
     11690.4775,
     11678.1709,
@@ -289,7 +289,7 @@
   },
   "nikkei": {
    "price": 66016.36,
-   "prev": 66216.79,
+   "prev": 66216.8,
    "spark": [
     66019.4531,
     66008.4531,
@@ -451,13 +451,9 @@
    ]
   },
   "btc": {
-   "price": 77400.83,
+   "price": 77259.5,
    "prev": 77076.06,
    "spark": [
-    77454.3281,
-    77484.8906,
-    77477.2422,
-    77546.0078,
     77408.2734,
     77541.8828,
     77467.5391,
@@ -492,18 +488,18 @@
     77370.2891,
     77359.9922,
     77381.0,
-    77389.3828,
-    77400.8281
+    77405.6719,
+    77198.5,
+    77323.1875,
+    77266.1797,
+    77221.2969,
+    77259.5
    ]
   },
   "eth": {
-   "price": 2452.56,
+   "price": 2444.02,
    "prev": 2423.2788,
    "spark": [
-    2452.21,
-    2456.3201,
-    2459.28,
-    2463.2,
     2459.01,
     2463.72,
     2461.21,
@@ -538,8 +534,12 @@
     2446.6001,
     2449.49,
     2452.4099,
-    2452.3899,
-    2452.5601
+    2450.54,
+    2441.79,
+    2450.6399,
+    2447.21,
+    2442.5801,
+    2444.02
    ]
   },
   "eurkrw": {
@@ -773,7 +773,7 @@
    ]
   },
   "dxy": {
-   "price": 98.839,
+   "price": 98.8,
    "prev": 98.8,
    "spark": []
   }
@@ -816,6 +816,12 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hOGg1WlhxWjNYSUxna1dLbE1VbFc3eWx0LTZRMXgyVkpnN2xrTnNrZFVKb29vcTRRR0gwS3BRNGhJTktPclhxYUdQTzV0TXd1RFE?oc=5"
   },
   {
+   "title": "기업 달러 순매도 작년의 3.7배… 환율 하락세 1300원대로",
+   "source": "동아일보",
+   "time": "2026-08-24T00:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
+  },
+  {
    "title": "[이번주 증시] 엔비디아 실적 및 잭슨홀 미팅 주목",
    "source": "오피니언뉴스",
    "time": "2026-08-23T09:00:00+09:00",
@@ -828,28 +834,22 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRUxCOXEtamdNNFR0M2pDUFBZeFNRY29nc2t6bE5BNXBEcXhWM3k2aEJHSlk1SVE0NFFiMkZGRjJ6aDRnazNxWlBORkZUdExBZ0lwOGszQ1o3TG5NXzh2WkpNWnpRdVlJ0gFuQVVfeXFMUGdDc3pxczM1bm5UalVKTzBxOVc2U3p3a3liRkhweEk4Q1pLS2h6VGFoV3Ata0duMEtybmdmNHREdS12N0cyRnU5YmpiN3hVYVo5Sm1wbExKOVczRnlsMG13MGJPQzRRRGF5RDNObEE?oc=5"
   },
   {
-   "title": "기업 달러 순매도 작년의 3.7배… 환율 하락세 1300원대로",
-   "source": "동아일보",
-   "time": "2026-08-24T00:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5"
-  },
-  {
    "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
    "source": "블루밍비트",
    "time": "2026-08-23T13:41:12+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
   },
   {
-   "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
-   "source": "국제신문",
-   "time": "2026-08-23T19:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXBvVldNdVNES3owLWwyM2pZUENyQl9HbUVJZUtCSW5Ucm45eDhPQngwWG45SEpJN1pRQy1OcDZqU3UtTzhieVhubzR6SllTQ1VVOXY1Y0FyVTFtUUhoMWhlN1ZpZ0RRWnowcTBDNzFmSHBMdnBxUmVXRDFyUlhEeHp4RkU3elhhMHBCSndn?oc=5"
-  },
-  {
    "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3",
    "source": "중앙일보",
    "time": "2026-08-20T05:00:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5"
+  },
+  {
+   "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
+   "source": "국제신문",
+   "time": "2026-08-23T19:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXBvVldNdVNES3owLWwyM2pZUENyQl9HbUVJZUtCSW5Ucm45eDhPQngwWG45SEpJN1pRQy1OcDZqU3UtTzhieVhubzR6SllTQ1VVOXY1Y0FyVTFtUUhoMWhlN1ZpZ0RRWnowcTBDNzFmSHBMdnBxUmVXRDFyUlhEeHp4RkU3elhhMHBCSndn?oc=5"
   },
   {
    "title": "반도체 반등에도 개미들 '관망'…코스피 주식 회전율 연중 '최저'",
