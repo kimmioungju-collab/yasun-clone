@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T16:03:22.283349+09:00",
+ "updated": "2026-08-23T16:41:30.421281+09:00",
  "quotes": {
   "k200": {
    "price": 1096.25,
@@ -451,17 +451,9 @@
    ]
   },
   "btc": {
-   "price": 76039.44,
+   "price": 76063.21,
    "prev": 77076.06,
    "spark": [
-    76945.4609,
-    76916.9922,
-    76835.7109,
-    76808.75,
-    76989.4609,
-    76810.5078,
-    76893.9766,
-    76952.7109,
     76858.6484,
     76845.0312,
     76811.9922,
@@ -492,22 +484,22 @@
     76182.3828,
     76136.4297,
     76090.8203,
-    76030.5078,
-    76039.4375
+    76109.3281,
+    76222.1797,
+    76289.0703,
+    76319.0312,
+    76220.4531,
+    76216.6484,
+    76081.6172,
+    76113.4922,
+    76067.1484,
+    76063.2109
    ]
   },
   "eth": {
-   "price": 2388.24,
+   "price": 2388.87,
    "prev": 2423.2788,
    "spark": [
-    2413.53,
-    2413.74,
-    2408.8101,
-    2406.96,
-    2413.8899,
-    2406.0601,
-    2409.52,
-    2410.6001,
     2404.74,
     2405.9199,
     2402.25,
@@ -538,8 +530,16 @@
     2390.04,
     2387.78,
     2389.51,
-    2389.26,
-    2388.24
+    2389.6599,
+    2392.01,
+    2394.1201,
+    2396.03,
+    2393.28,
+    2392.52,
+    2389.1499,
+    2390.3601,
+    2389.1799,
+    2388.8701
    ]
   },
   "eurkrw": {
@@ -786,7 +786,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQ0hBb2FyMUpoSkktekdBLVY0WUtqalZaMGZ2ZzNjSmd6bG5NZndrVnRxSWhpWldSTEg4Yjh0Z0x5bE9IQk93RnlQWF96a1dXQjdrUEl3QXJUbmlrX093STVpMkJ3SFJjN0JJS2k3eDXSAXRBVV95cUxOMW5OZE80TzZUMGwyWXFnQk1GWE5OcXd1M0UtajhrZUl0UEdoV0l0WXRMTmZXaW9ZODdCS2Y1Y1o3MG5DZjhWaTZsN1QzQW1BMUx0dlFkVHdPb1RtTjR3SWs0ZHVOdFVSdTNTN1VrNWV1SFRnTQ?oc=5"
   },
   {
-   "title": "트럼프 한마디에 살아난 비트코인…9월 美 가상자산법이 다음 분수령",
+   "title": "美 규제완화 훈풍…비트코인 기지개",
    "source": "전자신문",
    "time": "2026-08-23T15:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oVkp5TWYwNENoWmV3N0M5U19JeXJZM0ZrWXdtenh6QWJVaVVEdS01OS1lVzJiZU4xY2RZMXlqTDY5NWU4WU02LWoydHE3QQ?oc=5"
@@ -800,7 +800,7 @@
   {
    "title": "정부 환율 관리 압박에 수출기업 달러 쏟아냈다…상반기 달러 순매도 1869억달러, 작년의 3배",
    "source": "조선일보",
-   "time": "2026-08-23T12:09:00+09:00",
+   "time": "2026-08-23T12:15:04+09:00",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclpGTjkzbkpOM3RFSDJYMno3dWx6LW1vR25IYTlKaVFXaTg1SklzWVlpOER3LWJhcmlKaFdvQ3JoazRRUDBoWVpaX0dsdUZzeWxTcUxlUk5fSnN6RkVua0pzLVVoaTRvRUt3M0NhV0ctczFESXN2SUgtRHJ5SVgzcVhWT29tZ29PNnNIWlZB?oc=5"
   },
   {
@@ -846,22 +846,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94WDI4c2ZlMWt5YXNoZkhTY0Y1UWlxN2NiYlM0VUlLQmlrRXc1cl9Zc01fbFBhSjVVLWZ3djI2MEZya2I2M19rVkRQclBFUDV2MkduMHhxMUV5QQ?oc=5"
   },
   {
+   "title": "[마켓 ING]코스피, 금리 부담 VS 주주환원 기대감",
+   "source": "아시아경제",
+   "time": "2026-08-23T15:24:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aY0FQb3hxXzBfN3NRLWczMUNhOWYySkQxbUxkMFRIZVUwMWgzZ0c1SUZDSDJQX3Rxd2F2cG9nOXlCb3ZvSkZjelh0UmF3R28wZUstTmZPTV9xcVNIWkdhLQ?oc=5"
+  },
+  {
+   "title": "대체자산 ‘금·은·비트코인’ 다시 치솟나…미 국채·달러 불안 영향",
+   "source": "한겨레",
+   "time": "2026-08-23T16:16:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOMEVpejF6V2NXaW5KdXJMc2p5YTVneU85YW1WMUhiS3pqcHV5TEVuM1k4SXZuQVk4eFhUWGcyYXUzcG9OTVhEa2d6MlRmYnRBclY4VnFESEVDQUt6c25fcGRodTJwckpSYkxqTVdJYlZjQQ?oc=5"
+  },
+  {
    "title": "코인베이스 비트코인 역프리미엄 97일째…역대 최장 기록",
    "source": "블루밍비트",
    "time": "2026-08-23T13:41:12+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETlBkUmlLQk5ydEMxUXgzalQtNklmd0hGeUFMUXVWVDhIbHlBRG9BSTRacDdEeFBOZm55YUJlc2E0SktMTmltUmNRWmpoTVVC?oc=5"
-  },
-  {
-   "title": "8월 금리 '백투백 인상' 촉각…성장·집값 vs 환율·물가",
-   "source": "파이낸셜뉴스",
-   "time": "2026-08-23T08:20:59+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VTGhzT0RCX2dIVVJPeTVWY3JPNGpHS3FiQXppOWc1SjJDQnRFekc1b3pOYTlFZzNpcVlZY3pLUlJObDhwMGRtTzEyVkhoTEdiTFZMY1QwZGlfQQ?oc=5"
-  },
-  {
-   "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향",
-   "source": "v.daum.net",
-   "time": "2026-08-23T05:21:28+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfWHdfNEcyNXZoWG5YY1NVNVhOdWNNaWpZbjdIMGY3QkNQMjcyR0ZKWGFUNEt5alZTcWFFZlN6d3JmRUt3VDJMa2ZSdUlFeHM?oc=5"
   }
  ]
 }
