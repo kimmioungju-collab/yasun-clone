@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T15:46:07.738444+09:00",
+ "updated": "2026-08-30T21:16:44.466701+09:00",
  "quotes": {
   "k200": {
    "price": 1065.7,
@@ -451,95 +451,95 @@
    ]
   },
   "btc": {
-   "price": 78229.14,
+   "price": 78562.73,
    "prev": 78234.75,
    "spark": [
-    78229.9922,
-    78184.2969,
-    78188.6016,
-    78167.0078,
-    78147.4375,
-    78135.1016,
-    78208.2266,
-    78163.3203,
-    78158.2891,
-    78149.0312,
-    78086.3125,
-    78115.1562,
-    78090.25,
-    78029.9922,
-    78011.1875,
-    78008.6016,
-    78079.6875,
-    78116.1484,
-    78199.2891,
-    78174.1719,
-    78149.9688,
-    78130.3594,
-    78143.2031,
-    78146.5312,
-    78133.4297,
-    78123.0938,
-    78122.6797,
-    78133.5781,
-    78124.0781,
-    78138.5938,
-    78133.4062,
-    78109.9375,
-    78110.1719,
-    78149.1328,
-    78199.2812,
-    78180.0,
-    78199.3516,
-    78239.2891,
-    78243.4297,
-    78229.1406
+    78069.1016,
+    78094.9219,
+    78071.9219,
+    78038.4297,
+    77984.3906,
+    77998.7891,
+    77994.6797,
+    78030.3438,
+    78000.9609,
+    77995.8125,
+    77992.1406,
+    77960.8438,
+    78040.3516,
+    78005.5469,
+    77985.7422,
+    78050.0391,
+    78039.7578,
+    78049.7578,
+    78071.9922,
+    78106.5703,
+    78140.8125,
+    78140.6875,
+    78144.9375,
+    78147.2188,
+    78191.0938,
+    78163.3828,
+    78162.4609,
+    78178.7734,
+    78213.3906,
+    78201.4766,
+    78158.6406,
+    78172.0234,
+    78141.1484,
+    78127.5781,
+    78163.4062,
+    78273.3828,
+    78593.5078,
+    78659.7188,
+    78579.0781,
+    78562.7266
    ]
   },
   "eth": {
-   "price": 2459.82,
+   "price": 2467.07,
    "prev": 2457.449,
    "spark": [
-    2460.3401,
-    2459.0601,
-    2458.6599,
-    2458.1699,
-    2457.2,
-    2457.3501,
-    2458.52,
-    2457.1899,
-    2457.3501,
-    2457.26,
-    2455.3999,
-    2455.8601,
-    2454.75,
+    2456.3301,
+    2456.9199,
+    2456.52,
+    2455.1299,
+    2453.1299,
+    2454.25,
+    2452.9199,
+    2454.04,
     2453.1201,
-    2453.47,
-    2452.6101,
-    2453.99,
-    2456.1599,
+    2453.2,
+    2453.23,
+    2452.45,
+    2454.6299,
+    2453.4399,
+    2453.5601,
+    2455.29,
+    2455.4099,
+    2455.95,
+    2456.27,
+    2457.48,
+    2459.01,
+    2458.8999,
+    2459.3,
+    2457.9399,
+    2459.6799,
+    2458.5,
+    2459.3899,
     2459.6899,
-    2458.04,
-    2456.97,
-    2455.75,
-    2455.9299,
-    2456.0701,
-    2455.8401,
-    2456.02,
-    2455.98,
-    2456.46,
-    2455.5601,
-    2456.1399,
-    2456.25,
-    2455.3899,
-    2455.72,
-    2456.6299,
-    2457.9099,
-    2456.7,
-    2457.3999,
-    2458.53,
-    2459.51,
-    2459.8201
+    2461.1299,
+    2460.0,
+    2458.75,
+    2459.3501,
+    2458.3401,
+    2458.0901,
+    2460.01,
+    2462.9399,
+    2469.49,
+    2469.6001,
+    2467.01,
+    2467.0701
    ]
   },
   "eurkrw": {
@@ -780,40 +780,28 @@
  },
  "news": [
   {
-   "title": "국장 25% 폭락하며 약세장… 개미 자금 10조는 美 증시로",
-   "source": "조선일보",
-   "time": "2026-08-30T10:19:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFZ6cnJwekhxVzZhUS1feWdxamtTd011QTRXS253X3dham9oSnNNUnNzVGZhN2hCRUQ5MjZYQXBqdHgzZGJqNkhWUTdReEM3R3RqLVpDYjd4WklXWTlFa0xNRWVsMm5abXJwcnVRNEg5NkJfM3RpQVh3eGRWdWRRVQ?oc=5"
+   "title": "비트코인, 글로벌 ETF 접근성 확대 속 7만 8천 달러 근방 유지",
+   "source": "Investing.com 한국어",
+   "time": "2026-08-30T17:56:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZUNBVEt1VENScG1SZ19LRUYxRS1oQ090TUxKQUpBQlZXeG5SdXRqenlVaEJLeE5HdUNiWnNGU3RIRHhwQkY1V05NaWRpZEJESFlKQnA0V0lwQTAxM1FqXy1iTnlaV3V5NzhsZTh4Sk1vRlk?oc=5"
   },
   {
-   "title": "신현송 \"원화 면역력 생겨…대미 투자, 환율에 부담 안 돼\"",
-   "source": "연합뉴스",
-   "time": "2026-08-30T09:00:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KU1JvMFJpdW41cERTTmhUOGIxNVZqNk9CcHdqdnBWUnp1Y1IwYkFJa3FwR3hvbnc1bUFGUGxBY2U5QWJWQi1IOFROOUYwTER1MnZuT0tMSXhVQXA2SjZZT9IBYEFVX3lxTE9KU1JvMFJpdW41cERTTmhUOGIxNVZqNk9CcHdqdnBWUnp1Y1IwYkFJa3FwR3hvbnc1bUFGUGxBY2U5QWJWQi1IOFROOUYwTER1MnZuT0tMSXhVQXA2SjZZTw?oc=5"
+   "title": "13개월 만에 ‘최저’ 1300원대 원·달러 환율...신현송 \"원화 면역력 생겼다\"",
+   "source": "JTBC뉴스",
+   "time": "2026-08-30T16:42:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9keXNsM3VEbEZHeUVxNHhXeG12M29HT2JneUdORERXc0NuS28zdmdKUV9HSHFlZ2RDUkpKREdCQ3RWaTJxVndINkgydHVNQW1IOGF3Zw?oc=5"
   },
   {
-   "title": "개인, 두 달간 미국 주식 10조 순매수…코스피보다 더 샀다",
-   "source": "매일경제 마켓",
-   "time": "2026-08-30T11:04:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X3RsUnhrN2pSOHlHd2FzZWpmYVRVYzJBR3VhdTB4V1J0UFpXTzYwUVFxdF9keUNTaFpTSm5fVmppOG1nZHVjR3ZHYVNCTXQxTVE?oc=5"
+   "title": "변동성 줄자 거래 열기도 ‘뚝’…코스피 다시 ‘박스피’ 갇히나 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-08-30T14:14:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa21Ib1lERk5RVVE2M1JxeTdzZUo4cUctTnA1TExOZ2NXcmsyb0lYdkpjTW1tQWRXT1BhNXlWMGhkYjVDYi1EXzZ1eUVwTEtSVk5UTS11VjFHRTI2c1lQUTZBUEFVR3o0NDROX2kwUlM2anQ3LXFtWlVvOVg2eUxsNTE2b2tXSi1f0gGcAUFVX3lxTE8tZlZZNTN2VXZiVmpHMFpWMW5CdUtTbDZCSll4aE12VklmNmxIci1jWVd5cGhRV0YwRjZFamhMQURwVmRCejFmSlhNOGZTU1pibEtUVTFjYzhEeFJSUWU1ZmF2UE9qV3lpQ1NFVWZndWM5UWhpZnR3ekNDbWg2U3BXUHZQay1KTzBqTUdSMnRDVEowcnBVT2NRRGVmcQ?oc=5"
   },
   {
-   "title": "신현송 한은 총재 \"美 금리 올려도 기계적 대응 안 해…환율·금융안정 종합 판단\" - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-08-30T09:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1WmJwZUQxWXVJUHBkLUxXekwxSFRfcVo3eXRNalJZTVRqZjFaSmo5U0FOQmduMmM5ZkZTRENSMVBmS2xqeFNmOUxhMjl4S0h6MGI1aG9ZdlI4dlJYd1RKUjA2alAwVlNEcUZn0gFwQVVfeXFMUDJfNmlQbXkyNzdjQV9GYTlUdkV1OS1zTGhNQzluaVoxR1BSNG1WYkFRR3FDMTFHX3BjY21WVzlfYTZwakFUYzBEQXB0RFdxZ01WbUNQTnR1YzJoVjB6TEoxY3B2aFo3b3lZcTYzRDVUbg?oc=5"
-  },
-  {
-   "title": "자사주가 지킨 코스피…이번 주, 수출·AI 인프라 실적이 가른다[주간증시]",
-   "source": "에너지경제신문",
-   "time": "2026-08-30T08:23:56+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oSGRvU0VIelVQS0xNVi0wdUhBTVk1VWh5aGpTTURZdFliYVRWTmFyUHNRZTRWRENmRF9BWWFobEJjZFJDeVc5Rnc2aDF4QXpQRTVOdUxfMmJXYjQ?oc=5"
-  },
-  {
-   "title": "사흘 오르고 하루 밀린 코스피…‘7천피’ 안착은",
-   "source": "인천일보",
-   "time": "2026-08-30T11:51:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKbkNDNko0dzE1aE5qVDItWEFEaFh4RUh6WmFOUXFwSnNUbVJGSDdXdjBnWjhzaDNOYW85dXRpQ0lUTnJ3YV96UklJWGVRTzMxbWU0b0lub1hXUGl1cHFMX3pQVXF2VUI3QTZXNDdla2M?oc=5"
+   "title": "[마켓 ING]박스권에 갇힌 코스피, 종목 장세 이어질듯",
+   "source": "아시아경제",
+   "time": "2026-08-30T16:52:03+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0RDVhRWtuVFlIbDFhMVJPNjFnbmFvWHVTUG1OM0FwN1RfOWozWTBFU29BRHZxRGMxMFhBOVkwV2VLdWo1bHBiNzEwdTRxNll1akVIZlpoXzFTenVrbzh0dQ?oc=5"
   },
   {
    "title": "'1500원 뉴노멀' 한 달 만에 흔들…1300원대 환율은 언제까지 갈까",
@@ -822,10 +810,16 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObkhvS09kWVNmbkhHSVoxX1ljenNMeC1rWURiWEVfYWJRTVh3RFBKOXk0T2lQeGRCbVMtd1N0RzJ5Ymh5Qy1UVDZqZXVYSk9Qb3c0bG1lUXBsa3RyeTM5ck10WnF3dUMwZjM5WENhMER5WWlsQlJQd1B1anVCNmFhSVZucw?oc=5"
   },
   {
-   "title": "코스피 변동성 잡혔다... 다만 증시 체력 추가 회복은 필수",
-   "source": "v.daum.net",
-   "time": "2026-08-30T09:41:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRajRJT0FBdWVJR3FiZWc4R3BmeE1Wc0VVaEg4YnBNa3hWVGpqb09jc0swVldZSmU3MlhDR0xWUXJQOHlYT1NxNTBSUVljd2s?oc=5"
+   "title": "[표] 외국환율고시표",
+   "source": "매일경제 마켓",
+   "time": "2026-08-30T17:38:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54ZUNjMTkzZHVENW9PQ2VYc2hELUdQZHphU1hpUFJHbDdCem5VVHBHTHlzMHFfbHhHU3pvR0x5dU5RSHhMZkhWYW9zOHFiV2FFSkE?oc=5"
+  },
+  {
+   "title": "신현송 “원화, 충격 면역력 생겼다…대미투자도 환율 부담 안 돼”",
+   "source": "중앙일보",
+   "time": "2026-08-30T18:11:50+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YaGZBcHF4c2pZSEZ6OWJ3RF9aUlp3X0I1RUlmajJpZTFwcGpkdWxmY01oRmRJcjctTHlJN3BITWNFdnZrdV83VnNyeW9ITFpMbndscm53?oc=5"
   },
   {
    "title": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니]",
@@ -834,34 +828,40 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZi1qeE1PZHU0Q3hLZUF2OW9CZ2gydDNENkhMZDJ5bmR1Z1BiRHdBVHRCb0hmdFZfZjhSNEhEei1yQVFjRTgweW83aF9ucVEyZjRRRjFGcHlZQkE?oc=5"
   },
   {
+   "title": "'롤러코스피' 멈췄지만…활력 위축에 7천선 문턱 걸린 코스피",
+   "source": "연합뉴스",
+   "time": "2026-08-30T07:05:17+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5seFlyRXU3ZHl5Zk05VnBGUElmQWFaREhTbGdlX1lnVXFJWXAtbWFyMlJTZjRWLXI3QnBKNXFRRmVnRTc1UHg5LVltcnVEQXpZQ2s5SzNRVDBzUzjSAWBBVV95cUxPeW1UT2ktZUJmOFRkQm91UHVpR3dhQUNmQWd4N0pZMDVxYkFLdS1qNHhiY0NlRGJERUFyd1FWMk1OcFluN24xdTd1X2k3bzVPbE4tU1BJbGthSTY0SHRyWUs?oc=5"
+  },
+  {
+   "title": "‘8만달러’ 불붙은 비트코인, 덮쳐오는 ‘과세 찬물’",
+   "source": "v.daum.net",
+   "time": "2026-08-30T14:26:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pQUQ4Z01PcGFGUkQtdUEyZ2ZuUjlDVVRiNDRoVzZUdlZJTzBmY3YwZ2o2T28xbFgtTVpKMFcxdFBnVTlRSUpWV2ZHcXFDaTg?oc=5"
+  },
+  {
    "title": "금리에 막힌 코스피, 주주환원이 받친다…\"대형주 딱 붙어있어라\"",
    "source": "연합인포맥스",
    "time": "2026-08-23T08:05:05+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQ0hBb2FyMUpoSkktekdBLVY0WUtqalZaMGZ2ZzNjSmd6bG5NZndrVnRxSWhpWldSTEg4Yjh0Z0x5bE9IQk93RnlQWF96a1dXQjdrUEl3QXJUbmlrX093STVpMkJ3SFJjN0JJS2k3eDXSAXRBVV95cUxOMW5OZE80TzZUMGwyWXFnQk1GWE5OcXd1M0UtajhrZUl0UEdoV0l0WXRMTmZXaW9ZODdCS2Y1Y1o3MG5DZjhWaTZsN1QzQW1BMUx0dlFkVHdPb1RtTjR3SWs0ZHVOdFVSdTNTN1VrNWV1SFRnTQ?oc=5"
   },
   {
-   "title": "(주간증시전망)7000선 다시 넘본다…반도체 호조에 미 고용이 변수",
-   "source": "뉴스토마토",
-   "time": "2026-08-30T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DWlRNQVVRUEJub25ueHY5YjRTRVBMd3JlZ3RnYjFyYTNIODE5YWY5R1dEQXNPYmxoSFFVUzE0bFktakRRWWhJTjI2el84b1M5bVBxNHA1ZXQ5dXdzYWt6Sw?oc=5"
+   "title": "신현송 한은 총재 \"美 금리 올려도 기계적 대응 안 해…환율·금융안정 종합 판단\" - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-08-30T09:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1WmJwZUQxWXVJUHBkLUxXekwxSFRfcVo3eXRNalJZTVRqZjFaSmo5U0FOQmduMmM5ZkZTRENSMVBmS2xqeFNmOUxhMjl4S0h6MGI1aG9ZdlI4dlJYd1RKUjA2alAwVlNEcUZn0gFwQVVfeXFMUDJfNmlQbXkyNzdjQV9GYTlUdkV1OS1zTGhNQzluaVoxR1BSNG1WYkFRR3FDMTFHX3BjY21WVzlfYTZwakFUYzBEQXB0RFdxZ01WbUNQTnR1YzJoVjB6TEoxY3B2aFo3b3lZcTYzRDVUbg?oc=5"
   },
   {
-   "title": "‘롤러코스피’에 두 달 새 52조 몰렸다… 5대 은행 정기예금 첫 1000조",
-   "source": "서울신문",
-   "time": "2026-08-30T14:52:17+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aS1sTkQwMi1PcnJyQUZPcXJVdHB3LVVLeXVBX3dIRW0ycDB3eXNlT09XUml4SzFydnU3d0RJQndLdG01MXdiWDhlRXZ1Ml90bkFxR0pNYm01MEZyNlJjS1BiblFFNkJGNnJrbEFVRQ?oc=5"
+   "title": "사흘 오르고 하루 밀린 코스피…‘7천피’ 안착은",
+   "source": "인천일보",
+   "time": "2026-08-30T11:51:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKbkNDNko0dzE1aE5qVDItWEFEaFh4RUh6WmFOUXFwSnNUbVJGSDdXdjBnWjhzaDNOYW85dXRpQ0lUTnJ3YV96UklJWGVRTzMxbWU0b0lub1hXUGl1cHFMX3pQVXF2VUI3QTZXNDdla2M?oc=5"
   },
   {
-   "title": "'롤러코스피' 끝나니…7000선 문턱 '박스피' 됐다",
-   "source": "한국경제",
-   "time": "2026-08-30T08:56:58+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZX2hJUWpHdWU0b1Z1bXVBaklXWTNZcTVGclNoc214OHYyZ21UTnFBQmJ6bFlpYmxjcW4tbldaTkNMcTVRTXdzbC1jR0NwTHE2eXNwUmNLbnI2QQ?oc=5"
-  },
-  {
-   "title": "환율 1300원대 진입, 부자들은 지금 이 자산을 담고 있다",
-   "source": "조선일보",
-   "time": "2026-08-28T05:24:50+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejNvNEJsWVV5VFN3NC0wX2dmaDVDMklUckp2UVlmSUpvS2wtdndVcjZFX2haSVdwOU9PVGdCX2JSVzV4QmFra05GZFBuLUxDcy1RYnUxZ215dDlheGZSRXNKLUFqSWxEcm84ZUdtTFBFQjlVaHRMaUZwcER4WGpHVQ?oc=5"
+   "title": "“풍차돌리기 쏠쏠”…‘롤러코스피’에 지친 투자자들, 예·적금으로 U턴",
+   "source": "동아일보",
+   "time": "2026-08-30T17:18:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95cmpsZEFsNVFWNTRIc1E4Sk13aW9XUDNDUEhxWEtQYmxuS3NqZEZjVWprb2o3RlI1aU5uck83Rjdsc2FoOC1TWENNVjU2WUpacUJoWFl3R3pHcE82TWdoZEtSTWZmak9UQ0tlcDJtRnlmMW9fMVHSAWZBVV95cUxPVGMtOTBKX2UyQnE1WWIwOU95bkQxTGEwVTZRTkpudWxLZjdsWFJHdTdERV94RzYydGdRdHlNTHdXa2htMXpJbHhMRnF1ZnN1YTFqSEpxQ1hFcmRJdzU3dVR6ZVluOGc?oc=5"
   }
  ]
 }
