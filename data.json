@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T08:18:24.156862+09:00",
+ "updated": "2026-09-05T10:04:27.812866+09:00",
  "quotes": {
   "k200": {
    "price": 1051.52,
@@ -141,7 +141,7 @@
   },
   "kosdaq": {
    "price": 813.5,
-   "prev": 803.98,
+   "prev": 790.21,
    "spark": [
     809.81,
     810.24,
@@ -186,7 +186,7 @@
    ]
   },
   "nq": {
-   "price": 29523.0,
+   "price": 29565.25,
    "prev": 29524.75,
    "spark": [
     29484.25,
@@ -227,12 +227,12 @@
     29530.75,
     29526.0,
     29528.75,
-    29523.0,
-    29523.0
+    29565.25,
+    29565.25
    ]
   },
   "es": {
-   "price": 7715.0,
+   "price": 7722.0,
    "prev": 7754.75,
    "spark": [
     7715.5,
@@ -273,8 +273,8 @@
     7715.75,
     7715.0,
     7716.5,
-    7715.0,
-    7715.0
+    7722.0,
+    7722.0
    ]
   },
   "ndx": {
@@ -738,95 +738,43 @@
    ]
   },
   "btc": {
-   "price": 79628.04,
-   "prev": 81271.92,
+   "price": 79627.74,
+   "prev": 79676.33,
    "spark": [
-    79832.3906,
-    79831.1328,
-    79851.3438,
-    79760.2734,
-    79779.3516,
-    79751.7578,
-    79752.0078,
-    79732.4297,
-    79767.1172,
-    79752.6016,
-    79723.4766,
-    79769.9766,
-    79801.3516,
-    79794.1328,
-    79819.8516,
-    79801.8516,
-    79798.5078,
-    79817.5469,
-    79813.0625,
-    79791.6719,
-    79735.5938,
-    79653.0,
-    79654.1172,
-    79690.3594,
-    79679.9922,
-    79719.7266,
-    79728.3906,
-    79700.2734,
-    79726.9922,
-    79693.3984,
-    79719.6094,
-    79680.0234,
-    79685.3281,
-    79676.9766,
-    79654.1016,
-    79660.5781,
-    79663.9062,
-    79630.8281,
-    79625.2109,
-    79628.0391
+    79660.5391,
+    79673.9766,
+    79682.9922,
+    79637.6016,
+    79650.0078,
+    79672.8125,
+    79676.6328,
+    79663.4922,
+    79645.8438,
+    79619.5,
+    79654.5,
+    79584.0078,
+    79614.5391,
+    79627.7422
    ]
   },
   "eth": {
-   "price": 2451.5,
-   "prev": 2507.7039,
+   "price": 2454.3,
+   "prev": 2456.2046,
    "spark": [
-    2454.99,
-    2453.8501,
-    2456.1699,
-    2453.22,
-    2453.5601,
-    2453.1201,
-    2454.1201,
-    2454.2,
-    2454.9099,
-    2452.95,
-    2451.49,
-    2453.6399,
-    2454.0701,
-    2454.0801,
-    2454.72,
-    2454.45,
-    2453.5901,
-    2455.6899,
-    2455.5901,
-    2457.1899,
-    2455.04,
-    2453.6499,
-    2452.4299,
-    2453.8401,
-    2452.96,
+    2455.6299,
+    2455.55,
+    2455.3401,
+    2454.02,
+    2453.3899,
+    2453.48,
+    2452.6299,
+    2454.9299,
+    2454.6299,
     2453.29,
-    2452.6399,
-    2452.0701,
-    2453.1599,
-    2453.46,
-    2454.1101,
-    2452.8601,
-    2451.75,
-    2452.0,
-    2451.5,
-    2452.03,
-    2451.1599,
-    2450.9199,
-    2451.5,
-    2451.5
+    2455.26,
+    2452.3401,
+    2453.7,
+    2454.3
    ]
   },
   "eurkrw": {
@@ -922,7 +870,7 @@
    ]
   },
   "cnykrw": {
-   "price": 200.503,
+   "price": 200.64,
    "prev": 201.719,
    "spark": [
     200.457,
@@ -1108,16 +1056,16 @@
  },
  "news": [
   {
+   "title": "'롤러코스피 끝났나'…'68→97→39' 반년 만에 떨어졌다",
+   "source": "v.daum.net",
+   "time": "2026-09-04T19:57:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pNXc0c1h0WHYyTVFkOUNSSUtIOUxmVC1WOXJidlY4aUVfR3FSN21XckJSVmFCU1JNQUVmWmFYQ0lZTGV2SzFvd3laVWNuSHM?oc=5"
+  },
+  {
    "title": "원·달러 환율 14개월 만에 장중 1,340원대",
    "source": "연합뉴스TV",
    "time": "2026-09-04T22:55:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fSWljT1A5UmJwVjhjc0swWlRLajBubHlra0FjUXdKa045QTVvVXhFc3kwSnFEemtzaUNIRWNDLURObTVWV2pEeHpXVFJlSXh2cWx0Y2wtbVVJbk9nd3JtWmtnSUM0c2M?oc=5"
-  },
-  {
-   "title": "환율 떨어지니 실적도 뚝?…증시 덮친 '원화 강세' 역풍",
-   "source": "연합인포맥스",
-   "time": "2026-09-04T10:35:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GMTFtUGYtV081ckF5cFk0Sno4S0ZReUlnT3dTeWZQZzduR2J3NnRtajJScnloMXo0ZTB3SjZLb1FBZFFkeWtRNlhFX1dCcHFkSlNMOFc0S1ZpRW5hU2UxejhXbGRuZnduVjB4dWNOTlg?oc=5"
   },
   {
    "title": "“주식이랑 완전히 반대로 가는건가요?”…비트코인, 최근 상승세 봤더니",
@@ -1126,22 +1074,10 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vRXpsT2lWaVBMOWh1OW1SQm0yWmlhZzhsYWVDcXNLLU5WLTVKZmpUellubGZ6YzJQaFdBUkVwclEwcmFNTlNoNm5EN0puM0VGRGc?oc=5"
   },
   {
-   "title": "美국채금리 안정에 외인·기관 복귀…코스피 1.6% 상승 마감(종합)",
-   "source": "연합뉴스",
-   "time": "2026-09-04T16:08:33+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RM3llUVRldENsRDFDQTFiQk00OFZsWlUyMlgxYWhUS2NLNE1rWTM3Ul9PRlNsOUQ2QzlqZ2wxTjNYelVIUWllUEU1SnZIMXFLbU13SGN3X2NXbzdBRXYtWNIBYEFVX3lxTE9RM3llUVRldENsRDFDQTFiQk00OFZsWlUyMlgxYWhUS2NLNE1rWTM3Ul9PRlNsOUQ2QzlqZ2wxTjNYelVIUWllUEU1SnZIMXFLbU13SGN3X2NXbzdBRXYtWA?oc=5"
-  },
-  {
-   "title": "'마이너스 MAR' 뭐길래…1,340원대로 급락한 환율 이면에 '+15전→-15전'",
-   "source": "KB Think",
-   "time": "2026-09-05T07:30:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZZ05pcW9vWW5qekgxa2tuWVFtb0p4N2tTcVVNTFBVM1VkaThJc1B0a3NUZU9BUkZyQnpSSHN6QzVvN1lKTnVsbFVRTlRkZ1NxMldLeV9TUHBwcy1PU0xsY2Nvblh0a3R1RHlncU02MXVTdw?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 美고용호조에 금리인상 경계감 고조…다우 0.5%↓(종합)",
-   "source": "v.daum.net",
-   "time": "2026-09-05T06:16:39+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vWldWWFRXMjh3WTNxdUdSY2UyS2d5aWNxTEVRMTdwZ0puei1tamNfNE1vWW8wRExfVXVBRjdHQmYzeXBoUEJQZHIxWExCLVE?oc=5"
+   "title": "환율 떨어지니 실적도 뚝?…증시 덮친 '원화 강세' 역풍",
+   "source": "연합인포맥스",
+   "time": "2026-09-04T10:35:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GMTFtUGYtV081ckF5cFk0Sno4S0ZReUlnT3dTeWZQZzduR2J3NnRtajJScnloMXo0ZTB3SjZLb1FBZFFkeWtRNlhFX1dCcHFkSlNMOFc0S1ZpRW5hU2UxejhXbGRuZnduVjB4dWNOTlg?oc=5"
   },
   {
    "title": "유럽증시, 미 '서프라이즈 고용 지표' 소화하며 보합권 마감… 폭스바겐 6.5% 올라",
@@ -1150,16 +1086,22 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ta3FSc1dDSlVIOFd5SFlCdEw5cDU0bVI3ZmdrT1hiYUxqVmlLUUVwTHpFTF9pWFBIMTQwSTdobnVjbzJob2Z2bXFQaEtYMU4wZVNKUU9OU1NjWS1H?oc=5"
   },
   {
-   "title": "강한 고용 지표에 금광주·비트코인 관련주 일제히 하락",
-   "source": "Investing.com 한국어",
-   "time": "2026-09-04T22:11:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbzBGTWlhekRVRW5xWm12dWhmODV6MzM0MDJQakp1cmRneW12cS1OYWs0aG05YUxXTUlaU1VmVEN6cGdwWFZaYkx5SnpyckRxNXZtWHVFR0VDRHdWTi1qck45ZFB5M1FTWEpmQUxVOTE?oc=5"
+   "title": "美국채금리 안정에 외인·기관 복귀…코스피 1.6% 상승 마감(종합)",
+   "source": "yna.co.kr",
+   "time": "2026-09-04T16:08:33+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RM3llUVRldENsRDFDQTFiQk00OFZsWlUyMlgxYWhUS2NLNE1rWTM3Ul9PRlNsOUQ2QzlqZ2wxTjNYelVIUWllUEU1SnZIMXFLbU13SGN3X2NXbzdBRXYtWNIBYEFVX3lxTE9RM3llUVRldENsRDFDQTFiQk00OFZsWlUyMlgxYWhUS2NLNE1rWTM3Ul9PRlNsOUQ2QzlqZ2wxTjNYelVIUWllUEU1SnZIMXFLbU13SGN3X2NXbzdBRXYtWA?oc=5"
   },
   {
-   "title": "[코스피 시대, 미국서 TK경제의 길을 묻다 ⑤] 공유오피스 넘어 공유 공장 ‘Circuit Launch’",
-   "source": "영남일보",
-   "time": "2026-09-05T08:00:31+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwSVJibzNqbG50QU9fRG80RzBCdGkycmJjZmZ4OXMtVXNPa2hDRE1qTVRZVXdQdnhCc3J0dnl4aWlxUzFDbDlfY19VYzZzRmNkdW5KR0xIdHhKcFZWdm5YNU1tOA?oc=5"
+   "title": "ADARx Pharmaceuticals, 나스닥 IPO 신청",
+   "source": "Investing.com 한국어",
+   "time": "2026-09-05T06:37:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GR2FmcHd6SGh2OEltaVdhUEd4QWtPalpBYzhZR1d0bEdJZ2cwbXlLenJ0dUllSHcxQml4QnBLYzVod2hKXzlBc0x6NERlbUlKdjhjZFNpZndGMTFkU3ZXSDNBS0o1RUZseWRzSVBFNEx5eGNGZ3hOVQ?oc=5"
+  },
+  {
+   "title": "한국판 공포지수 연초 수준으로…증시 활력 떨어졌나",
+   "source": "ebn.co.kr",
+   "time": "2026-09-05T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GRVJtY1RLSldieXA0aXdfQ2FvcF9naGc4a2I2c1ZxcXB4R0dra1k2VVVDSElrQ1lZUU9ydm1BSVhGM3dOQmJlMHRTMlhVUjlNdjlXRFhnVWI5aFRFdjNMRlNxYkxqWVJv?oc=5"
   },
   {
    "title": "원/달러 환율 3거래일 연속 하락…장중 1,340원대로",
@@ -1168,28 +1110,34 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pZm1VV2VKMmNWWHBGLVBGWUxVY3BNbUpzS1dHaTktdXhvYUZWemw3Qk1uZkxRakpyU3BuYk1kYS05MzRLNTNmMWtrMUtwRXIxWlV3LWdUUjhaQUE5ZjFqb3JHd3RxbDg?oc=5"
   },
   {
-   "title": "코스피200 변동성지수, 40선 아래 마감…6개월여만 최저(종합)",
-   "source": "연합뉴스",
-   "time": "2026-09-04T15:58:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rT1p4RTE1ek9yOThtb0oyT3loZ19LUVZJekpWY25rSnZXSldwejJOcEJGeWlyMnFVb0QxaXlfN25qZkhRMl9PWVotVE9OWGo2Wk1iNDhHMmY0UWtxRXdzbNIBYEFVX3lxTE1rT1p4RTE1ek9yOThtb0oyT3loZ19LUVZJekpWY25rSnZXSldwejJOcEJGeWlyMnFVb0QxaXlfN25qZkhRMl9PWVotVE9OWGo2Wk1iNDhHMmY0UWtxRXdzbA?oc=5"
-  },
-  {
-   "title": "“7000 간다더니 6600도 간당”…코스피 전망, 일주일 새 무슨 일?",
-   "source": "매일경제",
-   "time": "2026-09-04T12:54:51+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ocXo3WVNnSmlzX05SNWQ1bVVWMFNxNTNXU19Rd1ptazhXcnFXejJkS2lIS3pVTVpzQTMwSGh2ZE1xS1haaEpOb1Fac1d1dENTT1E?oc=5"
-  },
-  {
    "title": "[주간증시전망] 코스피, 반도체 반등 이어갈까…美 물가·동시만기 '변수'",
    "source": "v.daum.net",
    "time": "2026-09-05T06:00:40+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NQjNXaE9rZG9zSkRINEJtY2RqaG5fekNPSmF0d2VNb3RvQjQxXzN2OTBUZWNjSGNlMmhjZFFnZGotQ2NxY2E3OHFoSHJBdlU?oc=5"
   },
   {
+   "title": "코스피200 변동성지수, 40선 아래 마감…6개월여만 최저(종합)",
+   "source": "yna.co.kr",
+   "time": "2026-09-04T15:58:08+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rT1p4RTE1ek9yOThtb0oyT3loZ19LUVZJekpWY25rSnZXSldwejJOcEJGeWlyMnFVb0QxaXlfN25qZkhRMl9PWVotVE9OWGo2Wk1iNDhHMmY0UWtxRXdzbNIBYEFVX3lxTE1rT1p4RTE1ek9yOThtb0oyT3loZ19LUVZJekpWY25rSnZXSldwejJOcEJGeWlyMnFVb0QxaXlfN25qZkhRMl9PWVotVE9OWGo2Wk1iNDhHMmY0UWtxRXdzbA?oc=5"
+  },
+  {
+   "title": "'마이너스 MAR' 뭐길래…1,340원대로 급락한 환율 이면에 '+15전→-15전'",
+   "source": "연합인포맥스",
+   "time": "2026-09-05T09:30:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BMXRmRDdvemljMjc4VDNrdm9Vd1ZzNHJ0QnRYdUVseGVZb25FejQ4U3pBTGtWTDkwb0l1UU1Lci10V1VCZFY0b1g0UmlvaFhXZFBzLWpJWllaQnZyZkwxYWhqNU8yN0pLT0dDZzczX1M?oc=5"
+  },
+  {
    "title": "\"사이클 바뀌었다\"…비트코인 ’운명의 한달’ By Bloomingbit",
    "source": "Investing.com 한국어",
    "time": "2026-09-04T20:42:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SV0ZoTkNrZldWc054SXFyRFNuSm5vZnhmVkRzaWtWNThQb1hhUnNwdlJfZW9xSFgtZ1dEN3NjeGxyNGI1VWw3TlE0WUw5Z2ZkSUVOX1dwYUtMelpyTnVfUnVpYmJNcjN3dXJVOUlKRjQ?oc=5"
+  },
+  {
+   "title": "“7000 간다더니 6600도 간당”…코스피 전망, 일주일 새 무슨 일?",
+   "source": "매일경제",
+   "time": "2026-09-04T12:54:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ocXo3WVNnSmlzX05SNWQ1bVVWMFNxNTNXU19Rd1ptazhXcnFXejJkS2lIS3pVTVpzQTMwSGh2ZE1xS1haaEpOb1Fac1d1dENTT1E?oc=5"
   }
  ]
 }
