@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T02:35:25.455064+09:00",
+ "updated": "2026-09-06T04:26:21.602255+09:00",
  "quotes": {
   "k200": {
    "price": 1051.52,
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 80055.34,
+   "price": 79975.61,
    "prev": 79676.33,
    "spark": [
-    79685.9766,
-    79737.2422,
-    79753.4766,
-    79745.9219,
-    79721.1797,
-    79737.1094,
-    79753.5078,
-    79723.1875,
-    79741.7578,
-    79713.7891,
-    79718.8281,
-    79689.9922,
-    79751.1484,
-    79686.0312,
-    79711.6484,
-    79734.5078,
-    79750.0,
-    79755.4375,
-    79765.7109,
-    79802.0078,
-    79847.3516,
-    79795.9531,
-    79769.4922,
     79818.7266,
     79863.1719,
-    79898.7578,
+    79892.4766,
     79987.4766,
-    79946.8984,
-    79943.3203,
-    79999.9922,
-    80097.9922,
-    80040.5312,
-    80039.1172,
-    80118.9062,
-    80124.1406,
-    80052.1797,
-    80060.6172,
-    80034.0469,
+    79949.9922,
+    79944.6875,
+    80000.0,
+    80099.9922,
+    80042.9609,
+    80039.1094,
+    80112.0234,
+    80126.9766,
+    80050.0312,
+    80060.0,
+    80039.5391,
     80070.1328,
-    80055.3438
+    79991.7109,
+    80052.2812,
+    80057.8516,
+    80070.7109,
+    80069.7109,
+    80028.4297,
+    80008.0469,
+    79997.9297,
+    80025.0,
+    79998.7969,
+    79964.4609,
+    79991.9922,
+    79976.9922,
+    79972.7734,
+    79952.4297,
+    79963.2188,
+    80000.0234,
+    79933.3828,
+    79947.3594,
+    79939.3516,
+    79936.2031,
+    79964.9922,
+    79975.6094,
+    79975.6094
    ]
   },
   "eth": {
-   "price": 2479.09,
+   "price": 2481.85,
    "prev": 2456.2046,
    "spark": [
-    2455.27,
-    2457.3899,
-    2458.2,
-    2458.1799,
-    2456.4399,
-    2456.8501,
-    2458.71,
-    2457.3999,
-    2457.8401,
-    2457.8401,
-    2459.28,
-    2456.5901,
-    2458.9199,
-    2457.6799,
-    2458.98,
-    2458.72,
-    2458.8101,
-    2459.4199,
-    2458.9299,
-    2460.4099,
-    2460.8201,
-    2460.02,
-    2459.8401,
     2460.6299,
     2461.8401,
-    2463.78,
-    2468.78,
+    2463.5701,
+    2468.7,
     2466.3301,
-    2466.5601,
-    2470.55,
-    2473.3201,
-    2471.23,
-    2475.6499,
-    2480.21,
+    2466.6399,
+    2471.53,
+    2473.74,
+    2471.5,
+    2475.6201,
+    2479.8501,
     2480.6899,
-    2478.01,
+    2477.8899,
     2479.0801,
     2478.21,
     2480.1299,
-    2479.0901
+    2475.49,
+    2477.3301,
+    2479.1001,
+    2479.4399,
+    2481.3101,
+    2479.71,
+    2478.72,
+    2478.8201,
+    2478.8999,
+    2478.2,
+    2477.03,
+    2478.21,
+    2477.3,
+    2478.1499,
+    2476.99,
+    2478.51,
+    2480.8601,
+    2476.8101,
+    2478.79,
+    2478.3,
+    2479.3401,
+    2481.27,
+    2481.75,
+    2481.8501
    ]
   },
   "eurkrw": {
@@ -1108,16 +1108,16 @@
  },
  "news": [
   {
-   "title": "환율 떨어지니 실적도 뚝?…증시 덮친 '원화 강세' 역풍",
-   "source": "연합인포맥스",
-   "time": "2026-09-04T10:35:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GMTFtUGYtV081ckF5cFk0Sno4S0ZReUlnT3dTeWZQZzduR2J3NnRtajJScnloMXo0ZTB3SjZLb1FBZFFkeWtRNlhFX1dCcHFkSlNMOFc0S1ZpRW5hU2UxejhXbGRuZnduVjB4dWNOTlg?oc=5"
+   "title": "삼전닉스 자사주 매입 벌써 30% 돌파…불안해지는 코스피 수급 방패 [박진우의 개미수다]",
+   "source": "v.daum.net",
+   "time": "2026-09-06T00:07:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TVlkwaFpwMUQ5a2dpU0FhUFZNeUw5NGx4WFRmVWhNRkdGeWlycS0yMEltSmlBSlJrTDN1c1A1aXM3MTRRb0NMdUFQX1FpZ0U?oc=5"
   },
   {
-   "title": "'롤러코스피 끝났나'…'68→97→39' 반년 만에 떨어졌다",
-   "source": "v.daum.net",
-   "time": "2026-09-04T19:57:28+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pNXc0c1h0WHYyTVFkOUNSSUtIOUxmVC1WOXJidlY4aUVfR3FSN21XckJSVmFCU1JNQUVmWmFYQ0lZTGV2SzFvd3laVWNuSHM?oc=5"
+   "title": "환율 떨어지니 실적도 뚝?…증시 덮친 '원화 강세' 역풍",
+   "source": "news.einfomax.co.kr",
+   "time": "2026-09-04T10:35:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GMTFtUGYtV081ckF5cFk0Sno4S0ZReUlnT3dTeWZQZzduR2J3NnRtajJScnloMXo0ZTB3SjZLb1FBZFFkeWtRNlhFX1dCcHFkSlNMOFc0S1ZpRW5hU2UxejhXbGRuZnduVjB4dWNOTlg?oc=5"
   },
   {
    "title": "기록적 실적에도 일본 증시 위험회피 심리 지속, 노무라",
@@ -1126,34 +1126,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PNE5hcGtYaF9oYkphMzJSd0ZNSDVRQ2tHWlZIbDJkOHZjYXFoLW5ELTRyWTNmZ3NUUEVxa0hzcmlXNHlhbExNeDhJUndqSzNWbUVKb3JRS1VkbWhRbXU4aWFLWm5EVm41akpDMDU3bzQ?oc=5"
   },
   {
-   "title": "비트코인·금 90일 상관 6년 고점 근접",
-   "source": "tokenpost.kr",
-   "time": "2026-09-05T20:49:55+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HTkthTFlOQV9TaWg0bngxeXJwd05FejQ5R0dYalhtemNUSWpsRGNyR2R3TFVTWkE3bXR6N1RuNVczQnh0ZDFCN2ZMVjZkWTJYR0s4b2pVc0dIUGd5YnhvStIBZkFVX3lxTE1JVTdqQWwya0lBcjhzX09LTGdhWERHVmhuUlJkRkZVZnkxYUEzbU5PRFFNUHBQYVI4U25DTDdUYjM0VlI3VnM2OTNrZXQ1NVBJUHRteG1veTJJZGtual9VQjNiWGVQdw?oc=5"
+   "title": "12년 전 잃어버린 비트코인…450만달러로 불어나서 돌아와",
+   "source": "블루밍비트",
+   "time": "2026-09-05T21:39:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wRnFEc3VheDk3eVUxNjAwVGxtQm45RTVwaU5kWHdqcE10TTJXMWpnSVd6YXZRUXJrdy1UMl80SERzeEhOay1wRjJvUlVpTUs1?oc=5"
   },
   {
    "title": "“700~900달러에 사서 2030년까지 안판다”…8만달러 뚫은 비트코인 '버티기·사들이기'",
-   "source": "전자신문",
+   "source": "etnews.com",
    "time": "2026-09-05T18:20:22+09:00",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IZ2pkbFZUd2ZtcDlWTm8zNGNpcXJMZ2o5QTVCVWxta0NWTzJTajZvVUJYMmkydlhTM3FtTEUya3lqdUV4NmNqWkVkT2FmUQ?oc=5"
-  },
-  {
-   "title": "“7000 간다더니 6600도 간당”…코스피 전망, 일주일 새 무슨 일?",
-   "source": "mk.co.kr",
-   "time": "2026-09-04T12:54:51+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ocXo3WVNnSmlzX05SNWQ1bVVWMFNxNTNXU19Rd1ptazhXcnFXejJkS2lIS3pVTVpzQTMwSGh2ZE1xS1haaEpOb1Fac1d1dENTT1E?oc=5"
-  },
-  {
-   "title": "흘러내리는 코스피…’삼전닉스’ 각각 4%대 급락",
-   "source": "chosun.com",
-   "time": "2026-09-02T14:07:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnoxdHR3WUpHWFVZd1BjenVMazdmMGw1NElUbTQyU2ZUWm5rTkE1LTJSamU0T0dXNGtOZmotY19RNThycmE3eHFwcWoxc3dCSjRVeXRuay1zT0N1akQtOTlDdjNOTlpuOG9vX3QwUDEzVk1aWFpleXY2cTFraWlVQw?oc=5"
-  },
-  {
-   "title": "[D-BIZ 암호화폐 뉴스] 英 투자자, 12년간 잃었던 비트코인 되찾아…2,000달러 투자 450만 달러로",
-   "source": "데일리비즈온",
-   "time": "2026-09-05T23:23:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0Zmx6VGxGYjN2R0NTRXdzV1hfSkRoakhsbjY2UEN5Z2VTTjRzUlQwRnJFYk5qYVZjWWpwSWpQMXJRYWFMeERWa3B6em40R2M4THBFZVdvRTRLRmNnZ2QwS1pFTzFTZDU5LUc3Zg?oc=5"
   },
   {
    "title": "원/달러 환율 3거래일 연속 하락…장중 1,340원대로",
@@ -1162,34 +1144,52 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pZm1VV2VKMmNWWHBGLVBGWUxVY3BNbUpzS1dHaTktdXhvYUZWemw3Qk1uZkxRakpyU3BuYk1kYS05MzRLNTNmMWtrMUtwRXIxWlV3LWdUUjhaQUE5ZjFqb3JHd3RxbDg?oc=5"
   },
   {
+   "title": "흘러내리는 코스피…’삼전닉스’ 각각 4%대 급락",
+   "source": "조선일보",
+   "time": "2026-09-02T14:07:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnoxdHR3WUpHWFVZd1BjenVMazdmMGw1NElUbTQyU2ZUWm5rTkE1LTJSamU0T0dXNGtOZmotY19RNThycmE3eHFwcWoxc3dCSjRVeXRuay1zT0N1akQtOTlDdjNOTlpuOG9vX3QwUDEzVk1aWFpleXY2cTFraWlVQw?oc=5"
+  },
+  {
+   "title": "환율 끌어내린 기업발 달러 공급…원·달러 추가 하락에 무게",
+   "source": "에너지경제신문",
+   "time": "2026-09-05T15:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40UHZ1QzNtMV8zd2dnMWNCNEdxU0Z1S2tGTmxjWklPbWxtd1dPR0k3NkNTLTU3N3dEcVp3WWt1eTYwRkR5dWg1TkNscFZkWjNJWE9leGVUZkt0akU?oc=5"
+  },
+  {
    "title": "코스피200 변동성지수, 40선 아래 마감…6개월여만 최저(종합)",
-   "source": "연합뉴스",
+   "source": "yna.co.kr",
    "time": "2026-09-04T15:58:08+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rT1p4RTE1ek9yOThtb0oyT3loZ19LUVZJekpWY25rSnZXSldwejJOcEJGeWlyMnFVb0QxaXlfN25qZkhRMl9PWVotVE9OWGo2Wk1iNDhHMmY0UWtxRXdzbNIBYEFVX3lxTE1rT1p4RTE1ek9yOThtb0oyT3loZ19LUVZJekpWY25rSnZXSldwejJOcEJGeWlyMnFVb0QxaXlfN25qZkhRMl9PWVotVE9OWGo2Wk1iNDhHMmY0UWtxRXdzbA?oc=5"
   },
   {
-   "title": "미 강력 고용 데이터에 연준 금리 인상 우려 재점화, 비트코인 8만 달러 하회",
+   "title": "[D-BIZ 암호화폐 뉴스] 英 투자자, 12년간 잃었던 비트코인 되찾아…2,000달러 투자 450만 달러로",
+   "source": "데일리비즈온",
+   "time": "2026-09-05T23:23:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0Zmx6VGxGYjN2R0NTRXdzV1hfSkRoakhsbjY2UEN5Z2VTTjRzUlQwRnJFYk5qYVZjWWpwSWpQMXJRYWFMeERWa3B6em40R2M4THBFZVdvRTRLRmNnZ2QwS1pFTzFTZDU5LUc3Zg?oc=5"
+  },
+  {
+   "title": "12년 전 잃어버린 비트코인…450만달러로 불어나서 돌아와 By Bloomingbit",
    "source": "Investing.com 한국어",
-   "time": "2026-09-05T18:24:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKd0NUU2dmRUxtOGNnbGVnNWMwQVJYRDAya3NidGotRWx5SkMwWHBYc2owUlB3d3ZwSGdvX1dVVTNKblQ0dDlFMmMwN29yOGh5cmpuc25JU2FKX3ZXZHpxdzEzY2txOXBnYk9aMDNkdl9aZU0?oc=5"
+   "time": "2026-09-05T23:59:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpdEpMQXh1QUVmN2VPb2lsNGxVYi00NlVVRENmOUs3aGdjRk9EOU5LTG93blUxUkJ6VUNhLXlIQWRFaVdKZXRpVmIyYmJrUkx6ZXdYYmtMSnE5WmFnLXlUa3N6c3B3VmlDeTFkOVhnbVBYdWc?oc=5"
   },
   {
    "title": "'마이너스 MAR' 뭐길래…1,340원대로 급락한 환율 이면에 '+15전→-15전'",
-   "source": "연합인포맥스",
+   "source": "news.einfomax.co.kr",
    "time": "2026-09-05T09:30:02+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BMXRmRDdvemljMjc4VDNrdm9Vd1ZzNHJ0QnRYdUVseGVZb25FejQ4U3pBTGtWTDkwb0l1UU1Lci10V1VCZFY0b1g0UmlvaFhXZFBzLWpJWllaQnZyZkwxYWhqNU8yN0pLT0dDZzczX1M?oc=5"
   },
   {
-   "title": "[9월 첫째 주 세계경제동향 브리핑] 코스피 6,600선 후퇴…美 증시는 혼조",
+   "title": "'롤러코스피 끝났나'…'68→97→39' 반년 만에 떨어졌다",
    "source": "v.daum.net",
-   "time": "2026-09-05T10:26:53+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWZTc0ZGZFdmt3UkhlRXRuUVRiaDk3SWpBNlN1VkhSNHcxVGdsNGlZdmRjZXIyZ0RZdHRtX3RYLUVSNi00VWRzT2VKa3RLRTQ?oc=5"
+   "time": "2026-09-04T19:57:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pNXc0c1h0WHYyTVFkOUNSSUtIOUxmVC1WOXJidlY4aUVfR3FSN21XckJSVmFCU1JNQUVmWmFYQ0lZTGV2SzFvd3laVWNuSHM?oc=5"
   },
   {
-   "title": "테더 CEO \"비트코인, 금 넘기엔 세대 교체 필요\"",
-   "source": "tokenpost.kr",
-   "time": "2026-09-06T01:37:52+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jU0ZGYnpxWG5NanNPdFVLOTJ3Q3VoNXVmNlRVdVk3aUZQSktQRndRUDBLS3MyaU1NMko2SW55SE1tLW53bXZSRUhFZ3BweXEwa0RTYjduNVNXZUdUNVlTc9IBZkFVX3lxTFBONHRrQzRFRHJUSjAxUE02ODRMRHNaUTNacTBtLUwycG43RU9JNzFSa2VTYW1GVndlOTFoRXZvTnZTc1NDekZZc19hS2d2M3czWkxMTlJheWhoMzJHMm1OVW9HdlI1QQ?oc=5"
+   "title": "[퇴근길머니] 원·달러 환율 1,340원대…이름 같다고 ’용혜인 테마주’?",
+   "source": "연합뉴스TV",
+   "time": "2026-09-04T17:27:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zbkZvQnNCTVFnY2tBWV9nUFF3bE5qLTZ3eXZlcEVCbXlpcW5DWXlScmtJUmhsOHhzZDVsY0YzNTdWQXBGbV9LaVVUVUZhLWRVV0xkN0N5WXFmWExwOWNQZEZlVlV6MGc?oc=5"
   }
  ]
 }
