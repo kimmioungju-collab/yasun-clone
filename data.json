@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T00:38:45.354566+09:00",
+ "updated": "2026-09-13T02:49:05.111381+09:00",
  "quotes": {
   "k200": {
    "price": 1090.22,
@@ -738,35 +738,9 @@
    ]
   },
   "btc": {
-   "price": 77352.66,
+   "price": 77174.08,
    "prev": 77201.88,
    "spark": [
-    77310.0,
-    77314.1797,
-    77321.2812,
-    77306.3281,
-    77300.0078,
-    77272.6406,
-    77318.0625,
-    77317.3828,
-    77348.9766,
-    77295.9297,
-    77284.4609,
-    77266.9375,
-    77288.5625,
-    77289.6484,
-    77269.7031,
-    77274.7109,
-    77257.3828,
-    77320.1016,
-    77351.6016,
-    77360.0,
-    77364.0078,
-    77349.0,
-    77357.8125,
-    77369.9922,
-    77404.0938,
-    77415.2266,
     77449.5703,
     77424.75,
     77466.6719,
@@ -779,40 +753,40 @@
     77418.8125,
     77434.5625,
     77388.6094,
-    77358.6719,
-    77352.6562
+    77406.5391,
+    77379.9062,
+    77360.3125,
+    77369.0938,
+    77363.9688,
+    77401.4922,
+    77348.4531,
+    77345.1094,
+    77361.8828,
+    77368.8203,
+    77368.2734,
+    77372.1875,
+    77342.6172,
+    77343.6562,
+    77337.7188,
+    77333.5781,
+    77337.9609,
+    77360.5078,
+    77376.0312,
+    77339.0391,
+    77301.6016,
+    77279.6719,
+    77279.0938,
+    77263.7188,
+    77212.4297,
+    77221.3828,
+    77174.7422,
+    77174.0781
    ]
   },
   "eth": {
-   "price": 2531.56,
+   "price": 2525.18,
    "prev": 2515.5227,
    "spark": [
-    2533.0701,
-    2532.8701,
-    2534.95,
-    2533.9399,
-    2535.1101,
-    2532.3401,
-    2535.22,
-    2535.54,
-    2539.47,
-    2538.51,
-    2538.9199,
-    2540.3101,
-    2540.1399,
-    2540.3401,
-    2538.6201,
-    2537.8601,
-    2537.5701,
-    2540.99,
-    2543.97,
-    2542.6101,
-    2542.3101,
-    2540.9399,
-    2540.26,
-    2540.3999,
-    2542.23,
-    2540.54,
     2541.8601,
     2539.03,
     2540.6299,
@@ -825,8 +799,34 @@
     2539.6101,
     2539.6499,
     2537.8301,
-    2534.0701,
-    2531.5601
+    2534.9299,
+    2534.45,
+    2532.23,
+    2532.9199,
+    2534.51,
+    2535.02,
+    2533.1899,
+    2534.4099,
+    2533.6899,
+    2533.0901,
+    2532.21,
+    2532.5801,
+    2531.21,
+    2530.3999,
+    2530.51,
+    2531.29,
+    2531.3401,
+    2531.95,
+    2532.8101,
+    2531.1299,
+    2530.0,
+    2527.5901,
+    2527.1001,
+    2526.3501,
+    2524.74,
+    2526.4199,
+    2525.1799,
+    2525.1799
    ]
   },
   "eurkrw": {
@@ -1120,6 +1120,12 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mM1pEZEZFc3JwZ2hMblR3ME9ycjUxb29HdENXeHBNM1c2VnBycU02ZjFGdHE5S045WFFLdC1fTnVGY1VfeWh4WW5wLURzTkRmVmktLXYzZkJBMmFaTG9xWmFCZE8tdWZpdk5hckZZMmY?oc=5"
   },
   {
+   "title": "SK하이닉스(000660)",
+   "source": "매일경제 마켓",
+   "time": "2026-09-13T00:26:34+09:00",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVY4QTJLSXJhYjN3MmVLaFp6eUxiU0NlNE45MlVrajQzYk1DTzdHVE9ianA0enBHU2RNVFRmVlB4WHpmR0pPOEdkUk5zZVB5Q2EyXzZLbkxVbk5DZWs5VktGTU5uTUNwbGlSYUNtbHZZVVBxZzNLVDdFd01LYkkxU0h1eEhNamV2cDVtYVNwc2txRjBsTGZtYg?oc=5"
+  },
+  {
    "title": "美 물가지표 예상 부합에…비트코인, 7만 7000달러선 회복",
    "source": "지디넷코리아",
    "time": "2026-09-12T16:10:27+09:00",
@@ -1132,10 +1138,10 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5"
   },
   {
-   "title": "[9월 둘째 주 세계경제동향 브리핑] 코스피 6,900선 회복…美 증시는 동반 약세",
-   "source": "기호일보",
-   "time": "2026-09-12T10:18:36+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wdjJ5VVBfS2ZEbUYzNDRHOTltYTlWRnB0Rk02ZWMwbnpKa0c2V1pHR1BaWndTQmtaaVlBekxVMEU0RTB5SlVDNjVJbi1BRkhHWFFxTTlIU0hWUG9fTHI0SVF3UGw4S3k5eUlYcGg0UQ?oc=5"
+   "title": "연말 환율 1300원도 깨지나…원인 알아보니[주末머니]",
+   "source": "v.daum.net",
+   "time": "2026-09-12T16:20:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtQWluY29DaTRYbFFIZk5sX2xkclhiZVhUWWxqUU81R3pka2c2SHpmY3JnbkFVazFzMWREaTlnaEQ0NVBoaE55V1hHTjFVU3M?oc=5"
   },
   {
    "title": "고래 투자자, 나흘간 비트코인 1075개 매수…평단가 7만9412달러",
@@ -1144,16 +1150,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94SWd6MnE4VW1XR2JpeHlzeHR5SENyaXNsTGY3Tmx3Z25IZTZTZ2xJdGliSkUyU2ozbGhtd1NGQnJRNTV6djhyYUxiMFJpc3Bi?oc=5"
   },
   {
-   "title": "연말 환율 1300원도 깨지나…원인 알아보니[주末머니]",
-   "source": "v.daum.net",
-   "time": "2026-09-12T16:20:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtQWluY29DaTRYbFFIZk5sX2xkclhiZVhUWWxqUU81R3pka2c2SHpmY3JnbkFVazFzMWREaTlnaEQ0NVBoaE55V1hHTjFVU3M?oc=5"
+   "title": "[9월 둘째 주 세계경제동향 브리핑] 코스피 6,900선 회복…美 증시는 동반 약세",
+   "source": "기호일보",
+   "time": "2026-09-12T10:18:36+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wdjJ5VVBfS2ZEbUYzNDRHOTltYTlWRnB0Rk02ZWMwbnpKa0c2V1pHR1BaWndTQmtaaVlBekxVMEU0RTB5SlVDNjVJbi1BRkhHWFFxTTlIU0hWUG9fTHI0SVF3UGw4S3k5eUlYcGg0UQ?oc=5"
   },
   {
-   "title": "코스피, '네 마녀의 날' 경계감에 장 초반 보합권 등락",
-   "source": "한국경제",
-   "time": "2026-09-10T09:12:31+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5aGI2amZJTTNFUXp0bmI3elkzV2VTT3JrWGdtdG1SRllNSEx6SnVnTlFRd1dBU2g0Q1h0cUIxc0otWVdsNEdNZVc3RmQybmdPNkFhMURZYXRVZw?oc=5"
+   "title": "[D-BIZ 암호화폐 뉴스] 채권을 버리고 비트코인으로…AI 중심 시대, 암호화폐가 포트폴리오의 해결책으로 떠오른다",
+   "source": "데일리비즈온",
+   "time": "2026-09-13T02:04:40+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0bF84dGhSQzg3NHpoM1FXR1ByU1JtZjRkRFF2MWNqUjdnMmp1WldtQlpuc3F1cGRDSXZBYVl0ZE1zYzlXSVRDY3l3SDMwb1ZTR2NfSndnX0I3RXRwNE9NNjVDTWZ0SjVHbWRGaA?oc=5"
   },
   {
    "title": "고유가·고금리에 제동 걸린 반도체주…이 업종이 대신 뛰었다[김근희의 증시랩업] - 머니투데이",
@@ -1162,10 +1168,10 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53aEI0MUcyc0xVdGZ3WWpvLWFBdzQ4VkthUnBubWZ2X0lzejRvdVR4OHhRMlVGT1RxLXhLREFoLWxMcm1KM2hVZjBBZkZiUHR5UjByclAyM3dWN2tVa1hQR1RGaklsNzlY0gFuQVVfeXFMT0VmVjl4SWhJVGxUNEYxeThXOFJpcC1OdWdkT1pScEp1V1ZZZTJhNWNra3VRTi1VZE55RGloTEktVmNkZl9KQlBCOXRqbXhGM2lXNWtrRVpVc1JkSElMaS1VVFZhc21oUXJZU3ZyNWc?oc=5"
   },
   {
-   "title": "전 리플 CTO \"XRP가 비트코인 시총 추월 가능\"...역전 시나리오는?",
-   "source": "글로벌이코노믹",
-   "time": "2026-09-12T19:37:29+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanZneWFUNkhYV2N2clJnVmlPUTJHX0hjVk51bzhqanV1WFZrdzZ0MDdZTFZIdks1cmNqZ2g3ZWdBdnp4NmJpSDBMa2dMeW9tQi1tYktkVC0xTkdrTmZ6S014VmgwajNjelg3UUtuemE0UGJSN1hybzNZLTJTZmZPbldUSVAta0sz?oc=5"
+   "title": "코스피, '네 마녀의 날' 경계감에 장 초반 보합권 등락",
+   "source": "한국경제",
+   "time": "2026-09-10T09:12:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5aGI2amZJTTNFUXp0bmI3elkzV2VTT3JrWGdtdG1SRllNSEx6SnVnTlFRd1dBU2g0Q1h0cUIxc0otWVdsNEdNZVc3RmQybmdPNkFhMURZYXRVZw?oc=5"
   },
   {
    "title": "고유가·美 금리인상 우려…환율, 6.7원 오른 1,345.9원",
@@ -1175,21 +1181,15 @@
   },
   {
    "title": "코스피, 장중 2% 넘게 하락해 6,800대…삼전닉스 4% 내외 하락",
-   "source": "연합뉴스",
+   "source": "yna.co.kr",
    "time": "2026-09-11T11:11:15+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04RmpnaTRONG5BWjZ2YlpNZjJYTW1hbFYyMDJ3UUxIS1RWSHRrTTF6NTNmTlYya01KZXF1Nm1PZU5YR3BPd19GQTZmT3VaMUdSTTc1WWxxU3NBZ2JwZVZKetIBYEFVX3lxTE04RmpnaTRONG5BWjZ2YlpNZjJYTW1hbFYyMDJ3UUxIS1RWSHRrTTF6NTNmTlYya01KZXF1Nm1PZU5YR3BPd19GQTZmT3VaMUdSTTc1WWxxU3NBZ2JwZVZKeg?oc=5"
   },
   {
-   "title": "1억1000만원 찍은 비트코인 '숨고르기'...고유가·고금리에 상승세 제동",
-   "source": "ebn.co.kr",
-   "time": "2026-09-12T13:42:07+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UMHhmZkV1bWFoRDdmNzZKcXZrd29nZ25HTnZubl83VG11cXN4Yk9oT1VVNElwX2VlNHlnbUhGUjZHSjNQVmZXQ2xZcnVfV0xzY2dQbUhpYnkwQjY4RGFNTkk3VERYNElw?oc=5"
-  },
-  {
-   "title": "비트코인, 7만 달러 후반대서 지지선 시험…미 물가가 변수",
-   "source": "v.daum.net",
-   "time": "2026-09-12T18:32:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84bVRybm1yMEp3aVc5RF9TZXdLbnJ4ZkxOWXBtdDl4RERZZUduV3RsR0tjTmsxWDlDQTZzZ2EwQjV1dVhFalQ0YU9aSDBUZGs?oc=5"
+   "title": "채권을 버리고 비트코인으로: 암호화폐가 AI 중심 포트폴리오 딜레마를 해결할 수 있는 방법",
+   "source": "CoinDesk",
+   "time": "2026-09-13T01:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa0gyZ3lrdGl5UnFLZlgtT0trWS1kWGVIdm0xZkdhVWo0bVYxR05qMTEwZDdHQkxQLWN4aWhEXzJ3YkNEc0FuZkdqeTVMbW41amdUOTNKTmdSRTNCVWNOT0hjRUQybUxUZUxfakE2RHN3eFE3dS00czVCM283Q2w3M1d2WjVoMmo3ajlMM0twV29hT3BRN3ZyQTl1RGV5cVBZYkdxb21TeEFlb0NjZEl0U1dUcFN3N1RrQmdESkVNVUt2NjhVaUE?oc=5"
   }
  ]
 }
