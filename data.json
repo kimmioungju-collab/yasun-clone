@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T06:59:35.921166+09:00",
+ "updated": "2026-09-12T09:01:39.528386+09:00",
  "quotes": {
   "k200": {
    "price": 1090.22,
@@ -695,6 +695,7 @@
    "price": 1341.05,
    "prev": 1349.15,
    "spark": [
+    1339.8199,
     1340.16,
     1339.95,
     1340.54,
@@ -733,106 +734,30 @@
     1341.4,
     1341.23,
     1340.8101,
-    1341.05,
     1341.05
    ]
   },
   "btc": {
-   "price": 77073.85,
+   "price": 77229.89,
    "prev": 76535.95,
    "spark": [
-    77052.1016,
-    76946.0469,
-    77033.9766,
-    77144.1797,
-    77152.5703,
-    77190.5,
-    77130.4375,
-    77243.6172,
-    77207.75,
-    77201.3828,
-    77241.2188,
-    77287.3828,
-    77306.9062,
-    77330.6406,
-    77256.6172,
-    77429.1094,
-    77395.0312,
-    77431.6328,
-    77371.5625,
-    77421.1094,
-    77372.1875,
-    77360.1875,
-    77426.8516,
-    77390.0703,
-    77250.6719,
-    77238.1875,
-    77329.3594,
-    77327.1016,
-    77371.0703,
-    77341.4766,
-    77373.7891,
-    77363.2109,
-    77342.6797,
-    77364.1328,
-    77381.9922,
-    77334.4062,
-    77260.0078,
-    77211.25,
-    77072.0625,
-    77073.8516
+    77237.4922,
+    77229.8906
    ]
   },
   "eth": {
-   "price": 2514.25,
+   "price": 2514.06,
    "prev": 2437.0166,
    "spark": [
-    2542.1101,
-    2532.3,
-    2536.4299,
-    2541.3301,
-    2544.8201,
-    2545.1499,
-    2541.01,
-    2544.3101,
-    2545.25,
-    2544.8799,
-    2543.9399,
-    2543.1001,
-    2540.5801,
-    2540.3401,
-    2538.97,
-    2544.9199,
-    2542.4199,
-    2544.24,
-    2539.54,
-    2540.0,
-    2536.3501,
-    2532.9299,
-    2537.95,
-    2536.7,
-    2527.99,
-    2527.49,
-    2530.28,
-    2531.8,
-    2535.9099,
-    2538.7,
-    2538.02,
-    2536.3401,
-    2535.28,
-    2537.6001,
-    2537.3301,
-    2534.4399,
-    2529.77,
-    2522.9099,
-    2514.0701,
-    2514.25
+    2514.4399,
+    2514.0601
    ]
   },
   "eurkrw": {
    "price": 1554.8,
    "prev": 1565.7,
    "spark": [
+    1553.4,
     1553.3,
     1553.4,
     1553.4,
@@ -871,7 +796,6 @@
     1554.8,
     1554.8,
     1554.8,
-    1554.8,
     1554.8
    ]
   },
@@ -879,6 +803,7 @@
    "price": 8.71,
    "prev": 8.716,
    "spark": [
+    8.696,
     8.694,
     8.696,
     8.697,
@@ -917,7 +842,6 @@
     8.71,
     8.71,
     8.71,
-    8.71,
     8.71
    ]
   },
@@ -925,6 +849,7 @@
    "price": 199.885,
    "prev": 201.257,
    "spark": [
+    199.806,
     199.783,
     199.801,
     199.846,
@@ -963,7 +888,6 @@
     199.885,
     199.885,
     199.885,
-    199.885,
     199.885
    ]
   },
@@ -971,6 +895,7 @@
    "price": 153.554,
    "prev": 154.364,
    "spark": [
+    153.717,
     153.705,
     153.692,
     153.693,
@@ -1009,7 +934,6 @@
     153.739,
     153.702,
     153.48,
-    153.554,
     153.554
    ]
   },
@@ -1017,40 +941,40 @@
    "price": 1.1602,
    "prev": 1.1613,
    "spark": [
-    1.1601,
-    1.16,
-    1.16,
-    1.1597,
-    1.1596,
-    1.1597,
-    1.1596,
-    1.1598,
-    1.16,
-    1.1597,
-    1.16,
-    1.1601,
-    1.16,
-    1.1601,
-    1.16,
-    1.16,
-    1.1598,
-    1.16,
-    1.1598,
-    1.1598,
-    1.16,
-    1.16,
-    1.16,
-    1.1598,
-    1.1597,
-    1.1598,
-    1.1597,
-    1.1596,
-    1.1596,
-    1.1597,
-    1.1598,
-    1.1601,
-    1.16,
     1.1602,
+    1.1601,
+    1.16,
+    1.16,
+    1.1597,
+    1.1596,
+    1.1597,
+    1.1596,
+    1.1598,
+    1.16,
+    1.1597,
+    1.16,
+    1.1601,
+    1.16,
+    1.1601,
+    1.16,
+    1.16,
+    1.1598,
+    1.16,
+    1.1598,
+    1.1598,
+    1.16,
+    1.16,
+    1.16,
+    1.1598,
+    1.1597,
+    1.1598,
+    1.1597,
+    1.1596,
+    1.1596,
+    1.1597,
+    1.1598,
+    1.1601,
+    1.16,
     1.1602,
     1.1602,
     1.1602,
@@ -1108,10 +1032,22 @@
  },
  "news": [
   {
+   "title": "\"달라진 원화 강세 공식…外人 주식 17조원 팔아도 환율 급락\"",
+   "source": "KB Think",
+   "time": "2026-09-12T08:25:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84UTd5bFdsbXBqcXdPQ1RMcTJlb3RNVTR1LUtZUUt2ZzhxZVlDMmtEU3VJbHZsd1VEVUdqaUI3UUc2R3I1TzQ1eTYxdXAtU29ZS1ZCc0VNVXhsaC1wMWtyRXlfYVIyeDZnaTlvbzh4czNxZw?oc=5"
+  },
+  {
    "title": "고유가·美 금리인상 우려…환율, 6.7원 오른 1,345.9원",
-   "source": "yonhapnewstv.co.kr",
+   "source": "연합뉴스TV",
    "time": "2026-09-11T17:04:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMkpnUmhuZE5UQ2thSnBzaDVYQ2Y1Y0ZjOHZiRTNzTVNGZUs1LU5URHRrYXVpTnhXTXFCUklxdkotMGxxYjdvR2dsU0RLdXN4RGF5Y3d0Sm9nTGh1YVFTaGhLMDZGWG8?oc=5"
+  },
+  {
+   "title": "\"가상자산 시장, 유가·금리 부담에 약세\"…비트코인 7만6천달러대",
+   "source": "연합인포맥스",
+   "time": "2026-09-12T08:05:15+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tYWxuQWxHdDQ4SUw0MXhTeWVLZlJrNEVoaGx5YWYwd3NRenNBa0lhQmtDN0t3aFNNSzh0b29tUnVTdV83a0hRXzlWRWc1N3pYM3N3el8wM1cwcTJ1bFRUOHF2TEdxTkExQmd5R0pCanU?oc=5"
   },
   {
    "title": "25조 자사주 매입에 코스피 버텼는데…10월 수급 공백 우려",
@@ -1126,10 +1062,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42cW9mM0p5RWUtdmhjbmZKMUJMdnFGR2hwbFc0d0tBbWZkaXBRYTA0WW5fMERVU01pc3hiYmhhT21DaTFBNDQ0NTh3RG5xZHhEZDBlWktkVC1pcVHSAWBBVV95cUxPcWdRVXQ0cVNpZjVoSnVjenVPczVhT3pPNWFUUkh5Z3hVT01PV3RoNDc5YlRhXzZrdVZwRGhyaUNEdDlldmRVRGFmMGFkc3VUTEhCeEtGVjY4c2RiQ1lIeF8?oc=5"
   },
   {
-   "title": "[증시-마감] 코스피, 1.76% 하락 마감…'국제유가·금리 급등' 부담",
-   "source": "연합인포맥스",
-   "time": "2026-09-11T15:49:58+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vUXdTUnBQR2JYS0VFZEZpUGNHaEMwVW1xaGtNazRxRVZhbk5CSVBNYjlRLTI4R0kzTFJRVWppNTNOXzVRc05GM0tmTnp2ODRQRWhGdTNXUXAza3RETWV6cWt4VXg3RXh5ZmJvdUJHVGM?oc=5"
+   "title": "비트코인 4000개 훔친 해커들, 돌려주며 “버그부터 고쳐라” 요구",
+   "source": "보안뉴스",
+   "time": "2026-09-11T19:48:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ya3hvbmFUaGNoSENjUkZBNVBvU0M1QWhHczI3TFdQNnpHaXRqMDRlaUY5NjN3RU9KdGU4NG13Y2RSQ3doWWRKUzVXMEllRHVkdHcwQmFoa1RZMVhSMHl2WmFzNGxZVFpMWXhz?oc=5"
   },
   {
    "title": "“비트코인, 3년 뒤 5억 간다”…파격 전망 나온 이유",
@@ -1138,10 +1074,10 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JemZyNURSRVVqNkYzTHprTlI3djlma0dzQmh0Q3VUQ08ybS1DQThBUUVRUGlXVUVjSDJOc29udlZyalBYMm0zbFp5UmZNbHBFcG9MTUFkMjExRUJZUVNnckRaWmdLVm43SEdOa2NTSER5eU9tTGfSAWZBVV95cUxQbHRMOHQ3cWhIaVIyaHFaSzhTR3Vqd0RTam91MUpVblc4NS1LRkFCMGlqd0ctTGhsSlBYVFBwZGdJRWxxTzNKdWE2eTdoTy16aEJNallRVTB4LXlsSU1pWU5JNUNPSUE?oc=5"
   },
   {
-   "title": "비트코인 4000개 훔친 해커들, 돌려주며 “버그부터 고쳐라” 요구",
-   "source": "보안뉴스",
-   "time": "2026-09-11T19:48:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ya3hvbmFUaGNoSENjUkZBNVBvU0M1QWhHczI3TFdQNnpHaXRqMDRlaUY5NjN3RU9KdGU4NG13Y2RSQ3doWWRKUzVXMEllRHVkdHcwQmFoa1RZMVhSMHl2WmFzNGxZVFpMWXhz?oc=5"
+   "title": "유럽증시, 유가 하락세 돌아서자 일제히 상승… 통신과 은행 섹터는 1.5% 올라",
+   "source": "newspim.com",
+   "time": "2026-09-12T02:41:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Xc2VnNzZQVTJGNURnNjRSeDRyM0JIRW1Qak16UjFiQTlMbXBIbWl2clN5cll1bkg5VkhqYjV5ZWNkcWRINHJpM3REZWg2X1g4Q1dEa1NxN2N6Qk5R?oc=5"
   },
   {
    "title": "이스턴 인터내셔널, 나스닥 최저가 미달 경고..180일 유예",
@@ -1150,28 +1086,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uelJHT3hZLUkyMkdLRURQQk40aFc4X2l4QWl2UURmbndWTWdORjhvSnZpeEVQQkgzRXFIaDFNY3dmX2RVd0tLXzdqcThnRlo5bWc?oc=5"
   },
   {
+   "title": "브라이트라인 인터랙티브, 나스닥 최저 입찰가 미달로 상장폐지 통보",
+   "source": "Investing.com 한국어",
+   "time": "2026-09-12T07:41:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IcUJ5TkhCRUljdk0wRUV6MzhYXzlFbk4wQ3VOR3NWNE9SdUtZNzdkUnQxQTh5UmxScnhUeS1rcVlzWmpXS1gtU0F6YnMxYUJWbUlJU19jWXJDX1JKVTgyVlVSZllzSEpyWnZBSTRrZw?oc=5"
+  },
+  {
    "title": "'유가 쇼크·금리 부담' 코스피 1.76% 급락…7,000선 붕괴",
    "source": "KBC광주방송",
    "time": "2026-09-11T17:03:05+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WT05kR0ZIX3RUNlB2aE5GaUw2UFRhV3M4VVpUakU4VHc0Q0NTcjBjYzFMSDlINGUwZExrLUtDMm9HZnlvaHNVM1hET1hpeVR0YXA5Tzk1M0xYbS1VTEJuOA?oc=5"
-  },
-  {
-   "title": "전쟁 장기화에 국제유가·금리 '껑충'‥코스피 다시 7천 아래로",
-   "source": "MBC 뉴스",
-   "time": "2026-09-11T20:08:35+09:00",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fcUlha2VMOHF2V0VCWWtZVDdYeFpuanlkN0dhNW1JeHRrTmpSU095X0x1dmlUbnBXVGJTclYtczJkenM2LW5RejJpWlQwY0hpTzAxQWxyMmpPbDFOUUNWTVlyZmNFMG5wbXdyQ0hVcG9sOUVXMnhCSNIBeEFVX3lxTFA2RGdUV2JoMHVLbGoxdy1LdEcxN0pzZjB3OGlzWUlGME1RT0wtUWtDZ21FSjd5S3dCcTZ6Mk5IcmpjVnRTQTVfc2o1elh6bzB3R1laNnJabXhVNTFaS1RSVWdoYW81NGFyYlBOVFlQbEV2c3RTS0R0MQ?oc=5"
-  },
-  {
-   "title": "코스피 7000선 사흘 만에 '털썩'…이제 관심은 FOMC로 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-09-11T16:23:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iTFJVZjZkRDlxZzdPSDZJalJTOG9QaThFbE5paVJfN1pkT1pCRjB1c0d4Zzh6T2IzZDZRakNjU2lOQnljX2JJSFI5ODVOZUw4dUFMRzNkaWV5WUQxZG1JWFhBLXdPclhJ0gFuQVVfeXFMTmhxMEF1bGJRYVJxN1c0OTk2Mng2Nlc2ZmxHck9ENWdSMWMxWkRfU0k1T2dfczNod2lwMWJUVDM4WWpNZTBuSV90UXdDeU5OcGd4anRjTkZKTUZLZ1R1Tk1MWFdXanNXSjFMNXNKX2c?oc=5"
-  },
-  {
-   "title": "주식 위험 프리미엄, 2002년 수준으로 하락…증시에 미치는 영향은?",
-   "source": "Investing.com 한국어",
-   "time": "2026-09-11T22:32:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBobXBzZW96b19vRTFBSngzSi1vLTJZX0ZPd3RUdzlRS1pPWWg0aHFBb2VOLTVMdjgwTmJDaWpaM01EbmRYaGRlUUM1T0JXbWpCSDRNSXRDZFlFSzdQczRlYVphNXA2S2hzaFFFU0VnNEY?oc=5"
   },
   {
    "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
@@ -1180,16 +1104,16 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5"
   },
   {
-   "title": "[주간증시전망] 코스피, 7000선 안착할까…AI 훈풍 vs 고유가·고금리 '변수'",
-   "source": "v.daum.net",
-   "time": "2026-09-12T06:00:35+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoQW9UWFhTVDhiSWlFUzk5MGhhdG00aG5ZRmhsd0dZUHpuYkdQQlBXVW5sLTNKNllnbkNxYTVjaFBfdG9xNWJpMDdpeWI2SXM?oc=5"
+   "title": "전쟁 장기화에 국제유가·금리 '껑충'‥코스피 다시 7천 아래로",
+   "source": "MBC 뉴스",
+   "time": "2026-09-11T20:08:35+09:00",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fcUlha2VMOHF2V0VCWWtZVDdYeFpuanlkN0dhNW1JeHRrTmpSU095X0x1dmlUbnBXVGJTclYtczJkenM2LW5RejJpWlQwY0hpTzAxQWxyMmpPbDFOUUNWTVlyZmNFMG5wbXdyQ0hVcG9sOUVXMnhCSNIBeEFVX3lxTFA2RGdUV2JoMHVLbGoxdy1LdEcxN0pzZjB3OGlzWUlGME1RT0wtUWtDZ21FSjd5S3dCcTZ6Mk5IcmpjVnRTQTVfc2o1elh6bzB3R1laNnJabXhVNTFaS1RSVWdoYW81NGFyYlBOVFlQbEV2c3RTS0R0MQ?oc=5"
   },
   {
-   "title": "코스피, 장중 2% 넘게 하락해 6,800대…삼전닉스 4% 내외 하락",
-   "source": "연합뉴스",
-   "time": "2026-09-11T11:11:15+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04RmpnaTRONG5BWjZ2YlpNZjJYTW1hbFYyMDJ3UUxIS1RWSHRrTTF6NTNmTlYya01KZXF1Nm1PZU5YR3BPd19GQTZmT3VaMUdSTTc1WWxxU3NBZ2JwZVZKetIBYEFVX3lxTE04RmpnaTRONG5BWjZ2YlpNZjJYTW1hbFYyMDJ3UUxIS1RWSHRrTTF6NTNmTlYya01KZXF1Nm1PZU5YR3BPd19GQTZmT3VaMUdSTTc1WWxxU3NBZ2JwZVZKeg?oc=5"
+   "title": "'몸값 2조 달러' 앤트로픽 상장 임박…증시 블랙홀 되나",
+   "source": "ebn.co.kr",
+   "time": "2026-09-12T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45dDNxdkdKZk5xdkdBenhUSHdUYTd2U0NiTWxGc2JXbmh2OXRrbnhUdUVrZ09RakFXdGFPbTkxU0dudWoyVFAtSUNaZmJmMzVUSzBwQ01EeVlMYU1OR25iSGJhU3ZvbVhw?oc=5"
   }
  ]
 }
