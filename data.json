@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T00:03:50.413177+09:00",
+ "updated": "2026-09-14T03:06:23.446604+09:00",
  "quotes": {
   "k200": {
    "price": 1090.22,
@@ -197,7 +197,7 @@
   },
   "ndx": {
    "price": 26333.035,
-   "prev": 26081.725,
+   "prev": 26081.7,
    "spark": [
     26363.457,
     26366.6953,
@@ -243,7 +243,7 @@
   },
   "sox": {
    "price": 11823.998,
-   "prev": 11614.167,
+   "prev": 11614.2,
    "spark": [
     11851.7246,
     11873.7637,
@@ -289,7 +289,7 @@
   },
   "nikkei": {
    "price": 64011.34,
-   "prev": 65270.95,
+   "prev": 65270.9,
    "spark": [
     63414.0117,
     63469.3906,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1342.4,
+   "price": 1341.05,
    "prev": 1349.15,
    "spark": [
     1339.8199,
@@ -451,95 +451,95 @@
    ]
   },
   "btc": {
-   "price": 77106.12,
+   "price": 77285.1,
    "prev": 77270.22,
    "spark": [
-    76754.7109,
-    76749.2578,
-    76724.2266,
-    76745.1406,
-    76767.9922,
-    76813.6875,
-    76811.3594,
-    76809.0703,
-    76765.3984,
-    76747.8984,
-    76693.3828,
-    76672.75,
-    76715.9766,
-    76730.1562,
-    76671.4219,
-    76712.7031,
-    76736.1016,
-    76667.1328,
-    76632.6797,
-    76545.0625,
-    76639.9922,
-    76685.8203,
-    76738.75,
-    76812.5469,
-    76839.3281,
-    76818.1328,
-    76831.7109,
-    76936.3125,
-    76978.8203,
-    77028.3594,
-    77047.2188,
-    77070.0078,
-    77079.1562,
-    77165.9375,
-    77149.7812,
-    77174.2969,
-    77176.2734,
     77177.8203,
-    77111.2109,
-    77106.1172
+    77099.0938,
+    77100.7109,
+    77096.4531,
+    76995.5,
+    77159.9766,
+    77017.1172,
+    77097.4609,
+    77052.7891,
+    77141.7969,
+    77138.7812,
+    77123.8594,
+    77105.2734,
+    77130.7109,
+    77151.2031,
+    77183.4062,
+    77198.2188,
+    77233.7188,
+    77213.2109,
+    77215.0625,
+    77234.9688,
+    77295.2734,
+    77221.3281,
+    77265.4219,
+    77256.6484,
+    77303.2031,
+    77316.0625,
+    77346.3906,
+    77331.0781,
+    77289.6719,
+    77271.3984,
+    77221.0,
+    77251.7969,
+    77246.8281,
+    77305.5625,
+    77317.6016,
+    77298.5938,
+    77289.1484,
+    77284.7734,
+    77285.1016
    ]
   },
   "eth": {
-   "price": 2486.76,
+   "price": 2503.81,
    "prev": 2525.6802,
    "spark": [
-    2479.5801,
-    2480.79,
-    2478.6001,
-    2478.1399,
-    2480.8201,
-    2482.26,
-    2481.24,
-    2479.8401,
-    2478.0,
-    2476.9299,
-    2475.55,
-    2475.0901,
-    2476.8401,
-    2476.5901,
-    2474.0,
-    2475.45,
-    2476.5801,
-    2472.0801,
-    2469.3601,
-    2466.3999,
-    2470.23,
-    2472.8501,
-    2475.22,
-    2479.3999,
-    2477.6001,
-    2478.3701,
-    2479.55,
-    2483.4199,
-    2484.21,
-    2486.96,
-    2490.8101,
-    2489.8799,
-    2489.0801,
-    2490.3,
-    2491.8201,
-    2490.8501,
-    2491.6499,
     2491.9299,
-    2488.04,
-    2486.76
+    2486.3601,
+    2487.9199,
+    2486.8,
+    2484.22,
+    2489.74,
+    2486.23,
+    2489.54,
+    2487.3999,
+    2489.6001,
+    2490.1299,
+    2490.5901,
+    2490.2,
+    2493.4399,
+    2497.9199,
+    2500.24,
+    2499.96,
+    2501.0701,
+    2502.3101,
+    2500.04,
+    2501.75,
+    2503.3799,
+    2502.46,
+    2504.77,
+    2504.0,
+    2506.03,
+    2506.79,
+    2508.97,
+    2508.0601,
+    2504.98,
+    2504.7,
+    2502.3999,
+    2504.1699,
+    2503.29,
+    2504.3899,
+    2504.3501,
+    2504.1001,
+    2504.3601,
+    2503.9399,
+    2503.8101
    ]
   },
   "eurkrw": {
@@ -635,7 +635,7 @@
    ]
   },
   "cnykrw": {
-   "price": 200.159,
+   "price": 199.988,
    "prev": 201.257,
    "spark": [
     199.806,
@@ -780,6 +780,12 @@
  },
  "news": [
   {
+   "title": "‘환율·세금·빠진 거품’ 3대 호재에 얼어붙었던 미술시장, 돈 들어온다",
+   "source": "조선일보",
+   "time": "2026-09-14T00:32:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXFsQzRzQTdfX3o4MWcyU3dQMVo0bEpKQi1SRWNldFR6MFZEWXludWtkUFkyeUczVF9Hakd1Tm1BaEhIZXA4a1psTzNEdEN4UkwzaE0zLWxEQ18wa19Lc2lfd0VQVnVBdGpWaWNfSllZWHZmOENxV0c5VEJ5ZmpCVg?oc=5"
+  },
+  {
    "title": "한국 증시, 해외 투자자 유치 위해 야간 거래 시간 확대",
    "source": "Investing.com 한국어",
    "time": "2026-09-13T18:07:00+09:00",
@@ -792,22 +798,28 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yREpyUGdEa2NXTG00LS1oMmNsZVJJUDhtdmZzT1lyTjBYZEp4RUxvYjdMaTdjUWJKZjg4TlN0azQyUGJ2ZUFBajRVaWczN2dKZGc0?oc=5"
   },
   {
-   "title": "(주간증시전망)코스피 7000선 턱밑서 숨고르기…FOMC·중동 리스크 촉각",
-   "source": "뉴스토마토",
-   "time": "2026-09-13T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySnhTb0FFcC02ZTF5dVFWVW1xMVVJekZFUjdHTF9obUlSb05jQzR4X1NDSVlNYW5DYm9HMGxOUWdCamhfMll0bjB0dkM5X0FSblBma0o3US1abGFOdDVoeQ?oc=5"
-  },
-  {
    "title": "8월 대구·경북 증시 20조 증가…4월 이후 66조 손실의 30% 만회",
    "source": "대구일보",
    "time": "2026-09-13T14:45:26+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RZi1KekFZZ01LTWRZN3hxcU1SSVd5UmJCazFnb3NLQjlxM2lNSF9iY0ZGZ3hLNkw3REJfREpHZVloZTd1WXpad2xFY1YxT010ZUFTZzZ0aU9TZGZaeFdFSzVhWjFYZzQ3?oc=5"
   },
   {
-   "title": "환율·채권, 엇갈린 환율 전망 속 美·日 금리 촉각",
+   "title": "(주간증시전망)코스피 7000선 턱밑서 숨고르기…FOMC·중동 리스크 촉각",
+   "source": "newstomato.com",
+   "time": "2026-09-13T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySnhTb0FFcC02ZTF5dVFWVW1xMVVJekZFUjdHTF9obUlSb05jQzR4X1NDSVlNYW5DYm9HMGxOUWdCamhfMll0bjB0dkM5X0FSblBma0o3US1abGFOdDVoeQ?oc=5"
+  },
+  {
+   "title": "환율·채권, 주춤한 원·달러 환율 다시 오르나",
    "source": "한국경제",
    "time": "2026-09-13T19:12:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EMEs5QnhYaWFIc1NFTWl2OVRHUUtXRFVDSE5UbTNKS0wxUnlzOTRGWC03WnRqQkhzX2p3eHVfSVlaaUNpLUxxbDFveWUxaThaQjFqU3ltTXlsQQ?oc=5"
+  },
+  {
+   "title": "7천피 찍고 밀린 코스피 美연준 '금리 결정' 촉각 - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-09-14T03:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IaFpOcnRwY0VxUmNqaTN0c0dLTEZFQmhLcG51VDZTbjdYTWs0UWpfTzJWd1ZiS0tsOEFieWFSQV9oMWFfNGpXQ1plRHI5ZjhQd1lkMkRBLU1wTlgtNk8tQWsxVVdVVS1i0gFuQVVfeXFMUDJFZHJsYzF6Q2FrTGptWVRaM094SUZNTmxzQlBJTDNEaFNqelNnaXdqTVZLY0lqTTBoU2w4cWtSbEJ6YTR5Vk5PeS1YZmJKUWJ3dTNVNGx6ODF3VUtWWndZcWVEZWV0OGZaOTl2WFE?oc=5"
   },
   {
    "title": "“일단은 좀 두고 봅시다”…원화 강세 속 외국인 수급에 방향 달린 코스피",
@@ -822,6 +834,12 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56RmJEWnFmajExc0c4NEQtZHRDa1JPTHd2N3RlcHJxNmpTS3dJcVhVLU84U0Q3dmMwb3lHYUlZV0EtbVZ2anRLNUlxTmN3X2ZueVFFRzd4Rnd1V2xnem5ROXBnU1dueVNTM2VPaQ?oc=5"
   },
   {
+   "title": "[밤 8시 증시 시대] ETF·ETN 빠진 야간장…'공시 없는 2시간'도 숙제",
+   "source": "전자신문",
+   "time": "2026-09-13T15:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fN05jbUpNX0F3M0hYcWI2RFA4dEVpM3VZcUxoaGZmZk96V0JXS3Z3WkZkZ3BPZUNMbmpTVHZaX1dDSDZtRXdVcXFyVDZFUQ?oc=5"
+  },
+  {
    "title": "[뉴욕증시-주간전망] 금리 인상 재료는 갖춰졌다…이제 워시의 시간",
    "source": "연합뉴스",
    "time": "2026-09-13T07:00:00+09:00",
@@ -829,39 +847,21 @@
   },
   {
    "title": "코스피 6900인데…1년 전보다 싼 대형주들",
-   "source": "v.daum.net",
-   "time": "2026-09-13T16:28:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WOXRkZWRuZkw2OEF0UHFUTXBxcmI3TTE1UGpPWG9nVjZnQ2dPVW1SSHprSXRqUHNzLTUxZ2d3TEFyT1pMcVRXb3RWZ1h5TWM?oc=5"
+   "source": "ajunews.com",
+   "time": "2026-09-13T16:28:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NeEM2VlJxSHZQM1J1V1JObnlTNUdhdGVlMDNCMUFTWVBuQ3p6cmV3R3NlRXhVV2RjTDNtWjVkYkllQnVUbEd5ZnQ1Vkhla1RrVWZBR05NUVdJZ9IBWEFVX3lxTE5kRHBMLW1YUWlCUTU2WVptcVlyaXpmVThZdmViRzlYdTVtUVZweE1rclRtdUJjSkZaRHFIZTR3VXNnclkwUkVsZnctS3VoX21kaWExMTFJcVU?oc=5"
   },
   {
-   "title": "[밤 8시 증시 시대] ETF·ETN 빠진 야간장…'공시 없는 2시간'도 숙제",
-   "source": "전자신문",
-   "time": "2026-09-13T15:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fN05jbUpNX0F3M0hYcWI2RFA4dEVpM3VZcUxoaGZmZk96V0JXS3Z3WkZkZ3BPZUNMbmpTVHZaX1dDSDZtRXdVcXFyVDZFUQ?oc=5"
+   "title": "[Weekly Coin] 미국 인플레 우려에 비트코인 '하락'",
+   "source": "시사저널e",
+   "time": "2026-09-13T12:41:42+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zaXpmVFM1eC1RcGQ3S1M0LXl5OUk3SHNNakFnYVNVaXB0TGZEb0lHSFhJNk1YN01FcUUtVl80LU1uVDhQNXRLR0RhbU5pTktqdTdnT1dSMlZqdXhLdlpQRDJReE1hcTVObUlleFpXOEtPZ9IBdkFVX3lxTE0zenVfTmZIVklNdFlScDBKdm5wRERBRFlLdExQbUVuM09LRWxUTlZQNVA5bUtwX3JwcE9CNG01a0FsZ0dqWC1PNXpTckkzMFN0MmNqbmVBWmt0YUdZcHhGb1p3R0pzZUctNXJDYWFZa3poQUJsMEE?oc=5"
   },
   {
-   "title": "환율·세금·빠진 거품 ‘3대 호재’…부자들 다시 그림 산다",
-   "source": "조선일보",
-   "time": "2026-09-13T10:52:30+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUNOVHFrOF9NaDVQS05HZC1nemY2SkFuaE1IczFiT092cV9mYVZpZUpnYXlCQ1d5SlNpTzBPNUtMbGlkUGlHSWhDd0RSOVYtTTQ3THVwbHloeWtxY09pNk9VYkRlVGtWWXJZa0tRUUs0dEJmRk9oV1J3VXVKc3Bicg?oc=5"
-  },
-  {
-   "title": "[주간증시전망] 코스피, 7500 향할까···美금리보다 유가·환율 '변수'",
+   "title": "[주간증시전망] 코스피 7500 향할까···美FOMC보다 유가·환율 '변수'",
    "source": "서울파이낸스",
    "time": "2026-09-13T19:15:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMXNpb0FGRnh6V2tGTVV4dDY3ODZOTG5RODJ6MElRVU00bEdfd1VhdjVQZGNWTVp1eFVVNEtNVFNMRHl0UURLSmgxNy1vMVdVZ2wwbXZvb3VhXzJXQ0FrOTI1YVZKWGZWUGc?oc=5"
-  },
-  {
-   "title": "[표] 외국환율고시표",
-   "source": "매일경제 마켓",
-   "time": "2026-09-13T17:38:14+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KVlQ5NGk1OFIzS2lQU29yQnF1TTFISkREWDNFRzN3UUdBaGtLZ2pwMXR4eFZVYkEtelJYVUtNSm1wX0hVY0NTNVdzRkJNQUctZnc?oc=5"
-  },
-  {
-   "title": "나스닥 100 지수 내 스페이스X 비중 두 배 이상 증가 전망 - 블룸버그",
-   "source": "Investing.com 한국어",
-   "time": "2026-09-13T09:07:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTnByNDd3NjNISzY4Y3pEQW90NUV3RXUxUmFqdkdnTGcxeHJvU2txRWRsT3VUakdvSEhlSGRJOFJ2eTY2Snlxc0FNWUJsYVplZUJUaWZ0bDRKU0NPbEtFWWlwUWw1dEtEaGJLWm16V2w?oc=5"
   }
  ]
 }
