@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T08:20:28.469395+09:00",
+ "updated": "2026-09-13T10:09:51.504789+09:00",
  "quotes": {
   "k200": {
    "price": 1090.22,
@@ -738,95 +738,45 @@
    ]
   },
   "btc": {
-   "price": 77260.95,
-   "prev": 77201.88,
+   "price": 77242.05,
+   "prev": 77270.22,
    "spark": [
-    77164.4922,
-    77170.3984,
-    77149.6172,
-    77154.6719,
-    77175.5625,
-    77158.3281,
-    77142.5781,
-    77172.9062,
-    77193.0469,
-    77141.0781,
-    77152.6797,
-    77187.0312,
-    77214.6016,
-    77154.0703,
-    77159.4922,
-    77164.0703,
-    77198.9922,
-    77217.75,
-    77227.5703,
-    77224.1328,
-    77251.6406,
-    77258.3438,
-    77240.7891,
-    77257.8203,
-    77246.2969,
-    77209.6719,
-    77256.3594,
-    77278.7969,
-    77182.0625,
-    77185.2188,
-    77194.3438,
-    77183.6875,
-    77198.9766,
-    77225.7266,
-    77219.8594,
-    77241.0781,
-    77254.1484,
-    77261.4766,
-    77259.7266,
-    77260.9531
+    77269.4531,
+    77268.9688,
+    77254.3125,
+    77258.4531,
+    77250.5078,
+    77247.7031,
+    77252.3281,
+    77254.0312,
+    77201.7812,
+    77213.4219,
+    77251.0234,
+    77252.9609,
+    77241.3594,
+    77242.0469,
+    77242.0469
    ]
   },
   "eth": {
-   "price": 2524.07,
-   "prev": 2515.5227,
+   "price": 2524.32,
+   "prev": 2525.6802,
    "spark": [
-    2521.1499,
-    2521.95,
-    2521.1101,
-    2521.6399,
-    2522.0901,
-    2521.51,
-    2520.97,
-    2521.96,
-    2522.26,
-    2519.79,
-    2520.05,
-    2522.79,
-    2526.3,
-    2525.3799,
-    2523.25,
-    2523.51,
-    2524.3701,
-    2524.3301,
-    2524.47,
-    2523.2,
-    2523.3,
-    2523.6299,
-    2523.3601,
-    2522.98,
-    2523.1201,
-    2521.0701,
-    2524.02,
+    2525.4199,
+    2526.3401,
+    2524.3501,
     2524.8701,
-    2520.3401,
-    2519.74,
-    2521.24,
-    2520.99,
-    2521.51,
-    2522.72,
-    2522.6399,
-    2523.0,
-    2523.8301,
-    2524.2,
-    2524.0701,
-    2524.0701
+    2524.5801,
+    2524.9099,
+    2525.23,
+    2525.53,
+    2523.52,
+    2523.96,
+    2525.0901,
+    2524.4199,
+    2523.52,
+    2524.51,
+    2524.3201
    ]
   },
   "eurkrw": {
@@ -1108,10 +1058,28 @@
  },
  "news": [
   {
-   "title": "서학개미의 변심?…환율 하락에도 이달 美증시 순매도 전환",
+   "title": "(주간증시전망)코스피 7000선 턱밑서 숨고르기…FOMC·중동 리스크 촉각",
+   "source": "뉴스토마토",
+   "time": "2026-09-13T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySnhTb0FFcC02ZTF5dVFWVW1xMVVJekZFUjdHTF9obUlSb05jQzR4X1NDSVlNYW5DYm9HMGxOUWdCamhfMll0bjB0dkM5X0FSblBma0o3US1abGFOdDVoeQ?oc=5"
+  },
+  {
+   "title": "환율 급락에 반도체 이익 전망도 하락…두달 새 21조 증발",
    "source": "연합뉴스",
-   "time": "2026-09-13T06:10:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93RUhPay1SV3ZiUzhYM2o2UXJyU09zTXdZUHFLMTdSQk5nSHR2YWpEbFM2MGZKVVlUcWo1VnJYOTRrNlpFaDdBbDFFZVAzU0NYYVRwck85RHp4QlHSAWBBVV95cUxOalJkcGZjNDgzUkVZNmJub2x4OHNaUlUyMXFRRUIyY2MzTTAzM1VNdzlWWUFTUnVUNnNoTTduWU1SVjI4NnpOS1RET0pzcnlZRWtKYTJGMHp4YkFfRUZ6QVA?oc=5"
+   "time": "2026-09-13T06:01:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZcEN2WE9RUHVhX1Z4WU5UdkkyQ2Ywai0zRDd0QkVJdHc0eE1SanM0VXk2dGJpM2Jjb3EwM29iQkpuTTZtdV83T2VyTmktRl83YUJGcWs0N1hHcknSAWBBVV95cUxQQXFJbHdNeTdHd3MzNzVleWd4UElqaVYySmhXeU4yVTllZVF0MTVFXzFIWFBiaVpmVTU0aGNCNjZWODh6REV4b2hrbnRxTW9UcjVndjNNU2NWYTlldFA0ZHQ?oc=5"
+  },
+  {
+   "title": "환율 내려도 美주식 ‘팔자’…서학개미, ‘속슬’ 대량 매도에 방향 틀었다",
+   "source": "경북매일",
+   "time": "2026-09-13T06:51:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oRkZQUVpiRTFreFgzNHNkS3d5bExQY191Y2JhRW53N2UxejBhTnN1NDEzY09yWmlLb1I1SHJ5Z2xsdl93ck9FZ2Vob0hpSHh6LU1hd0FUNURldw?oc=5"
+  },
+  {
+   "title": "SpaceX의 나스닥 100 비중, 이달 말 두 배 이상 확대 전망",
+   "source": "Investing.com 한국어",
+   "time": "2026-09-13T09:07:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTnByNDd3NjNISzY4Y3pEQW90NUV3RXUxUmFqdkdnTGcxeHJvU2txRWRsT3VUakdvSEhlSGRJOFJ2eTY2Snlxc0FNWUJsYVplZUJUaWZ0bDRKU0NPbEtFWWlwUWw1dEtEaGJLWm16V2w?oc=5"
   },
   {
    "title": "비트코인 1억→11억 간다고? “140% 폭등한 이게 그 증거”",
@@ -1120,46 +1088,40 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11aDJEVDRZaDJmSXp1c1N6OEw4Skg4QnI3N2dmUTdySFpLb0lpYTJNcDJZMkc2VjFwYkFOcUo1ZmFpYWpXdjlHT0NQamlBQmtOOFRnU2dB?oc=5"
   },
   {
+   "title": "10% 뛴 ‘원전’·환율 호재 ‘은행주’… 불안한 횡보장 ‘피난처’로 부상",
+   "source": "v.daum.net",
+   "time": "2026-09-13T09:08:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ubUJBT0FvRktiTERaTXZ4UnBkdWZEVXVGVGhCNWFxbFJWQmpEa01YdG54dmNkOEVOV0dmblFqVVd6TmtRRFMteVQtWXNhZkE?oc=5"
+  },
+  {
+   "title": "환율 떨어졌는데 美주식 판 서학개미…9월 들어 '이것' 담았다",
+   "source": "economist.co.kr",
+   "time": "2026-09-13T09:47:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oVVNkOGx0NEE2UDBTLVQ5eTRzV2czWW0xdlBEWGlvcHFmUHRQSkVYMHVtNUFNV0duQnJKRXdRUFhYQkZFamViQUY4d3A5WmMxS2lXRVY1Sm50U3NZQXQ4N3d3?oc=5"
+  },
+  {
    "title": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시",
    "source": "매일경제 마켓",
    "time": "2026-09-13T06:00:08+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IdktHSldzTXRfeHl0bmg2N0xpU21keGZNYzFVdlNqSFBXWHdrZ2t6YUtjWVZfZTZEM01vYWw3d2FyV1dQUjBHallYa0lZc2FDQVE?oc=5"
   },
   {
-   "title": "(주간증시전망)코스피 7000선 턱밑서 숨고르기…FOMC·중동 리스크 촉각",
-   "source": "뉴스토마토",
-   "time": "2026-09-13T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySnhTb0FFcC02ZTF5dVFWVW1xMVVJekZFUjdHTF9obUlSb05jQzR4X1NDSVlNYW5DYm9HMGxOUWdCamhfMll0bjB0dkM5X0FSblBma0o3US1abGFOdDVoeQ?oc=5"
+   "title": "초파리 뇌로 비트코인 거래…오픈소스 프로젝트 '스통크플라이' 공개",
+   "source": "지디넷코리아",
+   "time": "2026-09-13T08:49:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SUVhTbzRCNW9JSnZtYmIxOGl5VS1qa3Z4TjdVY090YWkzX3pSZEFQdzBhdWt2VXpUVE5ESlhseHp3QjU0QTU0OXpqeVVWMmFmTzk3S0l3?oc=5"
   },
   {
-   "title": "환율 급락에 반도체 이익 전망도 하락…두달 새 21조 증발",
-   "source": "v.daum.net",
-   "time": "2026-09-13T06:02:41+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VZGpCdnBxQ2tpQ1d1YnlSMnA2TUdPLVdwOHVvRlFwR2hHdzlWZVlhZnVnbDdwNnFsekdOQk9MeV83b1VDWks0bGI1cVBZekE?oc=5"
+   "title": "스페이스X, 나스닥100 비중 2배 확대 전망",
+   "source": "글로벌이코노믹",
+   "time": "2026-09-13T08:29:44+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTS15Q3NEX3JsME9ZMWdta0RpdkFUdWlHNDRpSWI5bGNuSXJfUkg5OTJ1S2ZhUkEzZXpqMGE2aTk3czhidkhFeF9xalk2andxOGpwdkNrZzEwM2tvMWRBUm0tS1FiWENFWkpFRnNlWXFzSUt1b2gwcXFRRjNjQWhUTVlNdld1eXZu?oc=5"
   },
   {
-   "title": "\"금리 흔들려도 AI 성장 유효\"…코스피 7000선 안착할까 [주간전망]",
-   "source": "한국경제",
-   "time": "2026-09-13T08:00:07+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoeUNiU0l2d0s2MHhsMld6VVI3RkFiUDhyN0ZmYkZaX0ttdnA3RWs2TWN6c2NMd3R0SjMtWDRpQTJMYW5HSkpsbVlVdWgyZnVNdnRRVFF3djlodw?oc=5"
-  },
-  {
-   "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
-   "source": "주간조선",
-   "time": "2026-09-09T23:06:15+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5"
-  },
-  {
-   "title": "게임 규칙에서 숫자가 중요한 부분을 찾는 모바일 비트 코인 카지노",
-   "source": "Calgary Roughnecks",
-   "time": "2026-09-13T03:53:58+09:00",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNURRYVJ4T19zWUo4Q3RQQWozeXAycnlrTFJEZEpOZk1Bb1RYb2pXTHdGc2d5ZnYyU1l1c0FlaUw4MFpIbmFtU2thSW9VQVl1OTlLRjlvaTN1UmgwNFFNc0oxckpyZi1HNXItRmwtbEYzUmRRVzZpeXNuLXlZSkI1cDZGUEhfS0FOaER6bmNjLW9HZ1JPOHZZcjZtbTJCbXRaSkJLeEVRY3NJcFhpbjFqQ0l1VEE3MXZnRkRKdjNFX1ljWEF5SUx2NGE0Q3BaRUZRZGZNM0tEanhmdU4zd1BuOGJhdTk1Vk44NERWZW5fU0ZiNG4zVVZWU2l6OENwUkdLVjhqc3ZYSkpDNU54Q0lmSS1oY2FEUQ?oc=5"
-  },
-  {
-   "title": "\"달라진 원화 강세 공식…外人 주식 17조원 팔아도 환율 급락\"",
-   "source": "연합인포맥스",
-   "time": "2026-09-12T10:25:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mM1pEZEZFc3JwZ2hMblR3ME9ycjUxb29HdENXeHBNM1c2VnBycU02ZjFGdHE5S045WFFLdC1fTnVGY1VfeWh4WW5wLURzTkRmVmktLXYzZkJBMmFaTG9xWmFCZE8tdWZpdk5hckZZMmY?oc=5"
+   "title": "비트코인 8만달러 회복 '분수령'…‘클래리티법’이 뭐길래",
+   "source": "뉴시안",
+   "time": "2026-09-13T08:47:04+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QZ0lpN1dFRHotWVlpaFk5Z01hbXMzc0h1ZzhBMXBTT21JS0lkWm94aEdXV3BHenh6SUhTRXp2MjJOMkFNN2o3aURLQjhpNXJBWXg2aHdWNGZLOXdlR2liNmg0NUNJLUI2RXJB0gFuQVVfeXFMT2hvbVVGakZadjdKaFdyYnZKSGM2dWpVNnpPcFhudS1yS3ZWdWZDeWhaYXFMVXFodjlmOEM3NTVGT2I4bzNZcmlwbGQ4VUozWTM0Sk85UVBhdDJhY1daLV9jQnJpZTNkem9OekxQZVE?oc=5"
   },
   {
    "title": "“환율 1300원인데 1500원 적용”…‘아이폰 듀오’ 사상 첫 500만 원대 스마트폰",
@@ -1168,28 +1130,16 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fNnFhbEwydFpjRWduUTBEOHJaUWtkUkYzNXdlYVduOWwyMnBjWThjeUVWSTY3czBMamU3Uzk5R013dFBrY0hWQnhZaUprd1dGaF95MzNTMEQxSmlrU251X0d4RFE?oc=5"
   },
   {
-   "title": "美 물가지표 예상 부합에…비트코인, 7만 7000달러선 회복",
-   "source": "지디넷코리아",
-   "time": "2026-09-12T16:10:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12OVZiNnJqNkVOOVp3QmZPTWVoNElTU1QyMGdsUU9oMUFlTWw3OEhnY0k2amY1YmsyZFBJZVI2MDEzaS1zSkZsV2JvcXhIMUZFM1p0bkh3?oc=5"
+   "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
+   "source": "주간조선",
+   "time": "2026-09-09T23:06:15+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5"
   },
   {
-   "title": "환율 급락에 식품업계 '희비'···수출·입 의존도 따라 대응책 '제각각'",
-   "source": "서울파이낸스",
-   "time": "2026-09-13T08:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GRjRmWXVXdklRVmZnQ044VE1ybEJORFZnSDFXZzhycnBEUkdHQ3BObTQ2b19lczhzYmsxdFdqb01kLXhBejJXcnJaQzRVbWQ4X1JYSjVjTUdYT1pOQ3g2ZlgzMWxqMlJSMkE?oc=5"
-  },
-  {
-   "title": "고유가·美 금리인상 우려…환율, 6.7원 오른 1,345.9원",
-   "source": "yonhapnewstv.co.kr",
-   "time": "2026-09-11T17:04:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMkpnUmhuZE5UQ2thSnBzaDVYQ2Y1Y0ZjOHZiRTNzTVNGZUs1LU5URHRrYXVpTnhXTXFCUklxdkotMGxxYjdvR2dsU0RLdXN4RGF5Y3d0Sm9nTGh1YVFTaGhLMDZGWG8?oc=5"
-  },
-  {
-   "title": "[D-BIZ 암호화폐 뉴스] 채권을 버리고 비트코인으로…AI 중심 시대, 암호화폐가 포트폴리오의 해결책으로 떠오른다",
-   "source": "데일리비즈온",
-   "time": "2026-09-13T02:04:40+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0bF84dGhSQzg3NHpoM1FXR1ByU1JtZjRkRFF2MWNqUjdnMmp1WldtQlpuc3F1cGRDSXZBYVl0ZE1zYzlXSVRDY3l3SDMwb1ZTR2NfSndnX0I3RXRwNE9NNjVDTWZ0SjVHbWRGaA?oc=5"
+   "title": "[이번주 환율] 1330원대까지 내려온 환율…FOMC·BOJ에 방향성 좌우",
+   "source": "오피니언뉴스",
+   "time": "2026-09-13T09:38:34+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vNF9NMVdFLVpDSTByeFZSSTgyVlhrY2wwbW5vcWZwQll1SlFoNmJrc0NpTm4tUDU2REdkbjJBaGhWbFRHYWFVYlNZVWtXNVgzNXk0aFJ0bG9paFN5eHpucm1nMkpkQUJXQS15Z3h6bU8?oc=5"
   }
  ]
 }
