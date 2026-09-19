@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T20:30:50.430342+09:00",
+ "updated": "2026-09-19T23:42:57.279118+09:00",
  "quotes": {
   "k200": {
    "price": 1090.23,
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 81229.64,
+   "price": 81498.3,
    "prev": 80877.27,
    "spark": [
-    81210.2188,
-    81251.5938,
-    81270.0,
-    81303.9922,
-    81323.6875,
-    81288.3828,
-    81320.3828,
-    81295.5781,
-    81297.6172,
-    81310.0078,
-    81424.3438,
-    81410.4609,
-    81402.1484,
-    81474.4688,
-    81384.6406,
-    81286.1719,
-    81297.3672,
-    81241.2266,
-    81320.3672,
-    81301.4922,
-    81298.8438,
-    81247.0938,
-    81239.75,
-    81274.6875,
-    81277.5,
-    81266.2578,
-    81256.1797,
-    81231.6094,
-    81212.5469,
-    81225.5234,
-    81263.3281,
-    81290.9922,
-    81189.6016,
-    81261.2188,
-    81337.5391,
-    81280.1719,
-    81301.5078,
-    81334.0234,
-    81239.0469,
-    81229.6406
+    81221.4297,
+    81237.9531,
+    81263.8125,
+    81272.8828,
+    81272.75,
+    81280.0,
+    81290.7031,
+    81322.9688,
+    81326.5391,
+    81276.0391,
+    81195.3125,
+    81225.0469,
+    81254.8516,
+    81247.0234,
+    81251.7734,
+    81252.1406,
+    81309.9922,
+    81309.9922,
+    81309.4297,
+    81229.5078,
+    81216.3984,
+    81266.2969,
+    81245.8281,
+    81214.3906,
+    81241.5234,
+    81238.0,
+    81235.8984,
+    81242.1875,
+    81310.7734,
+    81324.9922,
+    81349.9766,
+    81379.7031,
+    81356.8203,
+    81456.0,
+    81451.5078,
+    81548.3594,
+    81513.8672,
+    81476.7031,
+    81470.9922,
+    81498.2969
    ]
   },
   "eth": {
-   "price": 2636.8,
+   "price": 2638.77,
    "prev": 2611.1133,
    "spark": [
-    2637.04,
-    2644.3601,
-    2644.0601,
-    2647.6699,
-    2651.6101,
-    2647.8701,
-    2647.22,
-    2647.0801,
-    2644.3999,
-    2648.45,
-    2651.1699,
-    2649.21,
-    2648.6699,
-    2652.0601,
-    2645.71,
-    2636.01,
-    2636.3601,
-    2635.3201,
-    2641.2,
-    2642.76,
-    2640.1899,
-    2637.6101,
+    2637.53,
+    2639.23,
+    2638.1399,
+    2639.1899,
+    2639.99,
+    2638.5901,
+    2640.3101,
+    2640.02,
+    2641.3401,
+    2640.4099,
+    2639.3701,
+    2640.9299,
+    2642.04,
+    2639.8899,
     2639.01,
-    2639.8501,
+    2639.55,
     2641.3799,
-    2642.1201,
-    2643.6101,
-    2644.47,
-    2642.6799,
-    2642.9399,
-    2641.3,
-    2641.99,
-    2637.23,
-    2640.0,
-    2641.9199,
-    2637.1101,
-    2638.3701,
-    2642.0,
+    2641.55,
+    2642.3899,
+    2637.3799,
+    2636.5601,
     2637.6699,
-    2636.8
+    2636.21,
+    2634.0701,
+    2636.3101,
+    2637.0,
+    2635.0901,
+    2634.1299,
+    2636.6599,
+    2637.6299,
+    2639.8899,
+    2638.27,
+    2637.6699,
+    2640.01,
+    2641.8799,
+    2642.9399,
+    2641.0701,
+    2636.6399,
+    2637.23,
+    2638.77
    ]
   },
   "eurkrw": {
@@ -1014,7 +1014,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1489,
+   "price": 1.149,
    "prev": 1.148,
    "spark": [
     1.1486,
@@ -1114,24 +1114,6 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wOUw4M1pVaF9zbnFsVW1ValNHcGYtc0RMeF83OUV2cVNEUWlqRUoyOThIOU1kT0Mxc2VHV2trM1RzSWJjSW1GajhFSmxFWmF3dUxqTklwNlhCb1lYNUQ3QzRZMXVJZ3JxZkl3MW5Sdzg?oc=5"
   },
   {
-   "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진",
-   "source": "AI타임스",
-   "time": "2026-09-19T15:17:50+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSXBWelFJeVFsUzU5Z2ZYMVJWXy11TDVhRFBtOEs2U3pJcWJXeUw4UUlCMk9vbW9lMDBtVFEtUzFaV0dVcDJtRGtKUVZObnN3UjJNbEdXUm9PUE96SHlmNkVVbXNFRzZMc0E?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 재료 부재 속 혼조 출발",
-   "source": "연합인포맥스",
-   "time": "2026-09-18T22:52:48+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZDBueTY0ODRvVWJIZVhOOHJwTXJnWjlnc3hlNi1CVW5FZXVQNm14eHVmRmk5b091bUNpbFh6a1RnQkNtb3NxMml0R2djdFV4SElDR21hWHEwckh0NklfeHQ0eUw4cE5QWkx3TWg2OGE?oc=5"
-  },
-  {
-   "title": "증시에 돈 빠진다고요?… “NO, 예금증가 주체는 가계 아닌 기업”",
-   "source": "v.daum.net",
-   "time": "2026-09-19T20:06:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kb2ZvRGF0Qk5yY3Z6ZDIyR1BGdTlHb1hoZ0E0Q01sNmFRN3NzZUNZT1pWTm9YRE1zSG91cnRKb240dldnR3hTclJaLVJMLVE?oc=5"
-  },
-  {
    "title": "비트코인 다시 8만달러 돌파…알트코인도 동반 강세",
    "source": "아시아투데이",
    "time": "2026-09-19T17:28:48+09:00",
@@ -1144,16 +1126,34 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSHJrMmp4bTRxZHVYakkyMlc5VlhOUlVoVERoUjZWUnNWVWhmakZBRXBKcTJXbzR4cDZNbkFXUjVyM0FmWHFmd0M5YV8xWTk3NXZFUEdEUlNqQQ?oc=5"
   },
   {
+   "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진",
+   "source": "AI타임스",
+   "time": "2026-09-19T15:17:50+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSXBWelFJeVFsUzU5Z2ZYMVJWXy11TDVhRFBtOEs2U3pJcWJXeUw4UUlCMk9vbW9lMDBtVFEtUzFaV0dVcDJtRGtKUVZObnN3UjJNbEdXUm9PUE96SHlmNkVVbXNFRzZMc0E?oc=5"
+  },
+  {
+   "title": "증시에 돈 빠진다고요?… “NO, 예금증가 주체는 가계 아닌 기업”",
+   "source": "v.daum.net",
+   "time": "2026-09-19T20:06:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kb2ZvRGF0Qk5yY3Z6ZDIyR1BGdTlHb1hoZ0E0Q01sNmFRN3NzZUNZT1pWTm9YRE1zSG91cnRKb240dldnR3hTclJaLVJMLVE?oc=5"
+  },
+  {
    "title": "집값·유가·환율 ‘쌓이는 명분’…한은, 3연속 금리 인상 문 열었다",
    "source": "중앙일보",
    "time": "2026-09-18T00:30:39+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KaVgydjl2emlkTWhnVHptNmtYQlY4cHdXR2FzbENIaUJjeDFsUWFHRHhuaXJhV1dRSWFIdzZ0YzAtXzJwVHlGcXZYQ2hKRmlSRG1rSVd3?oc=5"
   },
   {
-   "title": "美 비트코인 현물 ETF, 4.3억弗 순유입",
+   "title": "뉴욕증시, 재료 부재 속 혼조 출발",
+   "source": "news.einfomax.co.kr",
+   "time": "2026-09-18T22:52:48+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZDBueTY0ODRvVWJIZVhOOHJwTXJnWjlnc3hlNi1CVW5FZXVQNm14eHVmRmk5b091bUNpbFh6a1RnQkNtb3NxMml0R2djdFV4SElDR21hWHEwckh0NklfeHQ0eUw4cE5QWkx3TWg2OGE?oc=5"
+  },
+  {
+   "title": "\"비트코인, 차익실현에도 가격 버텨…매수세 유지\"",
    "source": "블루밍비트",
-   "time": "2026-09-19T13:30:34+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vUE5QMGlGSzA2NkRoVlRtUkQ3V3RrUVRlZ1cyZ01vdUFOeVZTbUNZZ1RmOU1iR3EzX2R3dVloN2FhY202NmI0TExCSm91OTM5?oc=5"
+   "time": "2026-09-19T20:37:08+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NM0VmTTBqaFVnbzFXcU1hTlFuRWg4eGtSWURpTldwTm91Nk5SLU94Q202Nnp1ZEJkMnBVTlY4bUxibEFzRWdzeVJIVHFSdm03?oc=5"
   },
   {
    "title": "“7천피 밑도는데, 무조건 더 오른다”…횡보하는 코스피에 레버리지 베팅",
@@ -1162,34 +1162,34 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12VW0yLU9IN0h6ZGpxbEljVV8ySVpqMXdKajRUaXF2T19wWjY3MUNVZldScDRMcFZtcWxKYXhHS2JEZTdOQWZRaURaakVoekJxTUE?oc=5"
   },
   {
+   "title": "미 긴축 기조에…원/달러 환율 3주만에 1,380원대로(종합)",
+   "source": "연합뉴스",
+   "time": "2026-09-17T16:08:46+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMkQteVpMb0V6NERIeFJQSHFGekpWbmtpOW1BbUR3WWUwSDVuUkZRUko5QzZMbGlQU19BLUFOZ3AwekY3eHNDSVJfQmZBQXRiYm5JcEpGNi16SlBTYmpvONIBYEFVX3lxTFAzMkQteVpMb0V6NERIeFJQSHFGekpWbmtpOW1BbUR3WWUwSDVuUkZRUko5QzZMbGlQU19BLUFOZ3AwekY3eHNDSVJfQmZBQXRiYm5JcEpGNi16SlBTYmpvOA?oc=5"
+  },
+  {
+   "title": "‘주황색 넥타이는 계속된다’: 마이클 세일러, 벤처 투자자의 비트코인 부고 기사에 대한 답변",
+   "source": "CoinDesk",
+   "time": "2026-09-19T21:13:57+09:00",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFpPLWZmcVh5TjNPb1V2Q2xkY2x4RTNnZ2VqOWM2dGZxdU8wb280V0l6aW5ha0d3Q1AwbDk0SGZNd3R2eFdyX2pIMk14azR4OGhobnphNE9pdk9WUkpkNFlaTEZwb1lDbTlFaTkyNEl4NVBpVGU2UGxyZlh2UnRiSTF2U1haeVBsYlZXU1pkR1E0MHF1b25CMlNyM2paS19qZ3FCUVpQcUx2RGl1OWZzOHBya0ZkTk9qNDJyeVZQaUwxVjVFUFl5SkF3UW0?oc=5"
+  },
+  {
    "title": "이중 악재 털어낸 비트코인…보름만에 8.1만달러 재탈환",
    "source": "edaily.co.kr",
    "time": "2026-09-19T18:20:34+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDdRSlFLem5qNmpjVGZ3WTgzaWRucTRCMUJ6NWRvTFJCTVdOekhvOUpySXUzZGt6VWVvUVJ1aXAyOExlbFRrRHI2enlIZDJYZ25RczFwSkpKcnNCVm13TXV1Y2pCeG5TbmpISTBqX2J0dHVreldpSXhwbmRmc05iYQ?oc=5"
   },
   {
-   "title": "비트코인 8만 달러 돌파에 스트래티지 16%·코인베이스 11% 급등",
-   "source": "글로벌이코노믹",
-   "time": "2026-09-19T06:21:20+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNU9MQ2RRRm9CQmlTTHRWRHhLWWlNdmdRYmF4X1FOVkZncTlxdDZyMmcxTlJxRnViYURZNTNqOUJ1bjk2Tk1CVDVDakJhZ0FadmFJNV9oLVZqb1dQZmJGS2tQV3Rud2JXWGZ5bFlwc0lwYVhHVXdRc2pDQVVLUWg2bXBUN05KZ1dH?oc=5"
+   "title": "미 금리 상승에 환율 13.6원 ↑...코스피 약보합 마감",
+   "source": "YTN",
+   "time": "2026-09-17T16:38:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkVU9jSEJyWF9xdmctQUZhdlRNZ0Z3bW1Ya0I0OVFKNEdIQndKME42QllIdmktR1VCVmJpMnZwU1ZYdFdBRmtWcnU0M2ZrcWpnLXloeWplQXRVTUVNN1E?oc=5"
   },
   {
-   "title": "숏 스퀴즈로 비트코인 $81,000 돌파…금리·규제 압박 상쇄",
-   "source": "Investing.com 한국어",
-   "time": "2026-09-19T11:41:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TZkpycEF2ckh5WkQycVA5X01JY3RsOElaNHhWdXNDbFIxNEdIQjRFSUszRHItRjFfd3IzenUtT0dyck45eWxTTm82N0dFV0pDdDNBcnFZb2FaRnotQnFpVzVRM0VYbExZRW8zcWI3cUJYVzA?oc=5"
-  },
-  {
-   "title": "개미들 \"환율 떨어질 때 더 고민\"…주목해야할 종목 찾아보니",
-   "source": "한국경제",
-   "time": "2026-09-19T08:00:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LYnoxZHcwRE82SHlwaGZlYWQxcWpKQ2NuM184NFZJSXBsRzFKZFQ4eFVTekJzOWhkZGRkR1BtWERYNjdrcmh5VzFCY25WN3VmeEE3UEFJek1Wdw?oc=5"
-  },
-  {
-   "title": "[분석] \"알트코인 70%, 200일선 회복…비트코인 대비 강세\"",
-   "source": "블루밍비트",
-   "time": "2026-09-19T17:44:48+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rRkhrM2QxSGt0RW5lTkdWc01JeUF6cFBSNmp5VUlIUkJOaFFoNllUZWlHR1RvUTMyaEhSSnFpRElkMkQyWVJmR2VIOW1OaTRi?oc=5"
+   "title": "비트코인 7만7천달러 회복, 금리 인상 대응",
+   "source": "jnilbo.com",
+   "time": "2026-09-19T07:01:14+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QWWRsUlVlLWZzLWdQc3ZtUk9nd2tWeG90T2hxYnNPUUZieURlRFVDYlgyNGdQN19rQXpIV2VYQU53dGstODRBbGNVWG81TVJ0Wi1OSV9hb2R4aDNYZ2hCWjI4LS1EdEhrU2U0Z0E5MA?oc=5"
   }
  ]
 }
