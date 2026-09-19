@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T04:29:06.757287+09:00",
+ "updated": "2026-09-20T06:38:14.559252+09:00",
  "quotes": {
   "k200": {
    "price": 1090.23,
@@ -738,35 +738,9 @@
    ]
   },
   "btc": {
-   "price": 81388.78,
+   "price": 80974.98,
    "prev": 80877.27,
    "spark": [
-    81800.8672,
-    81831.2109,
-    81798.7188,
-    81850.4375,
-    81816.3281,
-    81829.6719,
-    81827.7031,
-    81815.9531,
-    81813.3516,
-    81779.9922,
-    81780.0,
-    81694.0312,
-    81687.2266,
-    81523.9609,
-    81509.25,
-    81525.9922,
-    81457.3594,
-    81473.0781,
-    81480.3984,
-    81427.2188,
-    81437.1016,
-    81466.2031,
-    81458.9922,
-    81367.7969,
-    81398.4297,
-    81438.0391,
     81430.5078,
     81435.7578,
     81481.9766,
@@ -779,40 +753,40 @@
     81359.4297,
     81385.3594,
     81395.9766,
-    81388.7812,
-    81388.7812
+    81374.8594,
+    81362.1797,
+    81336.1797,
+    81305.0078,
+    81339.9766,
+    81336.8438,
+    81332.3828,
+    81374.9922,
+    81397.9688,
+    81398.5234,
+    81332.9297,
+    81310.1484,
+    81237.0234,
+    81228.2812,
+    81251.7812,
+    81271.6172,
+    81194.8984,
+    81096.4688,
+    81129.9766,
+    81163.1016,
+    81060.0,
+    80978.2891,
+    80971.3125,
+    80999.0703,
+    81036.1094,
+    80976.0,
+    80958.2969,
+    80974.9766
    ]
   },
   "eth": {
-   "price": 2636.98,
+   "price": 2622.32,
    "prev": 2611.1133,
    "spark": [
-    2644.8701,
-    2648.8701,
-    2647.2,
-    2649.99,
-    2647.1799,
-    2647.1599,
-    2646.9199,
-    2648.47,
-    2649.8701,
-    2649.9399,
-    2652.3999,
-    2649.1499,
-    2653.4099,
-    2645.0,
-    2646.3,
-    2647.3999,
-    2643.3401,
-    2646.3899,
-    2647.25,
-    2645.1101,
-    2644.8401,
-    2644.79,
-    2643.2,
-    2637.5701,
-    2639.71,
-    2640.3701,
     2640.3799,
     2639.3701,
     2642.3301,
@@ -825,8 +799,34 @@
     2633.9299,
     2634.3301,
     2636.3501,
-    2637.27,
-    2636.98
+    2636.6899,
+    2637.6201,
+    2636.3999,
+    2634.8301,
+    2635.9099,
+    2635.47,
+    2634.3301,
+    2633.99,
+    2635.25,
+    2634.5,
+    2634.8,
+    2638.1299,
+    2634.6799,
+    2635.0,
+    2638.96,
+    2639.8501,
+    2637.6201,
+    2633.95,
+    2635.3799,
+    2636.23,
+    2631.4299,
+    2624.3601,
+    2623.1399,
+    2625.75,
+    2626.95,
+    2624.5,
+    2621.8,
+    2622.3201
    ]
   },
   "eurkrw": {
@@ -1108,10 +1108,22 @@
  },
  "news": [
   {
+   "title": "삼성전기(009150)",
+   "source": "매일경제 마켓",
+   "time": "2026-09-20T05:03:45+09:00",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWduMW1DZ3I5SUprSUlqWVlucHM5NEprYW93TWhZLWV1S0ZvOGliM2dxdDlZb0pnNTJLOC1YbEsteXExekxMc0FaQWRnYkhMZUM5cF9UM3lJLVBCNlBXaWFqOXRrZHY5V1FrdFdyTzJGUnB0UTZZcUZ1TnNUdEhzZEFGQWVsLWE1bGVQVjIyWGZLNHVtNE5v?oc=5"
+  },
+  {
    "title": "스페이스X, 분기 리밸런싱으로 나스닥 100 비중 2.82%로 급등",
    "source": "Investing.com 한국어",
    "time": "2026-09-20T03:56:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qSWtUOGVOajNiLUhTcGwzNXZyTEtCaU9WV2lBREtUU1ZSYk14NTdUQW83REttZ2ZqM1dmTWJKYzBVcEtFcjdmSnh4WUxJdFlHYnJ5OUZrNnhpTzZFRWNRc0FKdGNGNGRzSkpTWU5ORVo?oc=5"
+  },
+  {
+   "title": "美 증시로 눈 돌리는 운용사…하반기 출시 ETF 40%는 해외",
+   "source": "연합뉴스",
+   "time": "2026-09-20T06:20:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GdDBmVmp4NU8tU29Qd05ocjllQzJMSGJvNlV0UnlhdHZTOVo5VHN1ZzZrZ09tdzZlTXpUcUJKSnppUXk2TmZWTVgyWUt2T2sxUW41TlIxaUdRZm_SAWBBVV95cUxNRkdrUi1Mby1lWTBvUWoxUnRrbURsWHZicEN2S1d1QzNna3BqYjZYakFIRElCX1htb0JtcHJGOGw1bGtvLTBPeDM5VV9mRVc4dVl4OHkyek9JTVdoNG9Dc1E?oc=5"
   },
   {
    "title": "미·일 긴축에도 7천피 넘보는 코스피…\"2022년과는 다르다\"",
@@ -1120,10 +1132,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSHJrMmp4bTRxZHVYakkyMlc5VlhOUlVoVERoUjZWUnNWVWhmakZBRXBKcTJXbzR4cDZNbkFXUjVyM0FmWHFmd0M5YV8xWTk3NXZFUEdEUlNqQQ?oc=5"
   },
   {
+   "title": "(주간증시전망)FOMC 넘긴 코스피…다음 고비는 유가·연준",
+   "source": "뉴스토마토",
+   "time": "2026-09-20T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fYWcybWQxRjhMdTJXRGNlWDFXSkVjTE01TmVTMzZmQ1dSbDc1dnJPY1JhdjdkZEVhNTF4NVBIYkZMTzRPc2ZZNDc5TWtYcjJjSjY2Qy16RnpvcTJsQjZ5eQ?oc=5"
+  },
+  {
    "title": "집값·유가·환율 ‘쌓이는 명분’…한은, 3연속 금리 인상 문 열었다",
-   "source": "중앙일보",
+   "source": "joongang.co.kr",
    "time": "2026-09-18T00:30:39+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KaVgydjl2emlkTWhnVHptNmtYQlY4cHdXR2FzbENIaUJjeDFsUWFHRHhuaXJhV1dRSWFIdzZ0YzAtXzJwVHlGcXZYQ2hKRmlSRG1rSVd3?oc=5"
+  },
+  {
+   "title": "'돌아온 외국인' 코스피 7000선 재도전…추석이 걸림돌?",
+   "source": "v.daum.net",
+   "time": "2026-09-20T06:01:32+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xa2pUQkhBTFY3STV1RzVTTHlPdlhITGNVbFZiTmlneEhtV1JadFFVNGkzbTZiTm9XSURpb3VsQ01ubU1GNEJ1cEhkbnNSQ1U?oc=5"
   },
   {
    "title": "뉴욕증시, 재료 부재 속 혼조 출발",
@@ -1132,16 +1156,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZDBueTY0ODRvVWJIZVhOOHJwTXJnWjlnc3hlNi1CVW5FZXVQNm14eHVmRmk5b091bUNpbFh6a1RnQkNtb3NxMml0R2djdFV4SElDR21hWHEwckh0NklfeHQ0eUw4cE5QWkx3TWg2OGE?oc=5"
   },
   {
+   "title": "추석 앞둔 코스피 방향성 탐색… ‘고금리·미중 회담’ 변수 [주간증시전망]",
+   "source": "IT조선",
+   "time": "2026-09-20T06:10:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uQV9WRVljYmpxQWstTXRGRDY2VHdrYVpOWDEyV0FhYVRtTzJ1X0JMRjJEeVI2aGRVeFdlNkV6bXdzd3hxNzJpazBLUGZjeFpCMEdkZ2dqWWZvdl81QlRxX25VUmhWa05vVTVJR0psanDSAXRBVV95cUxPdFZqOVFZLUptb1N3TXVJTkc2czA3Vlk4SkJzOFg5dUUwWUhHN3JpT2dFa29kWl9hZTFsSGVnNDY0V0RCMkh2a3loVEhWRWJKeDRoLWJDY3FCVlFjVG4wWXV5bFNsSWxNOV82TDJDaFZ1NzNYNQ?oc=5"
+  },
+  {
    "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진",
    "source": "AI타임스",
    "time": "2026-09-19T15:17:50+09:00",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSXBWelFJeVFsUzU5Z2ZYMVJWXy11TDVhRFBtOEs2U3pJcWJXeUw4UUlCMk9vbW9lMDBtVFEtUzFaV0dVcDJtRGtKUVZObnN3UjJNbEdXUm9PUE96SHlmNkVVbXNFRzZMc0E?oc=5"
-  },
-  {
-   "title": "비트코인 다시 8만달러 돌파…알트코인도 동반 강세",
-   "source": "아시아투데이",
-   "time": "2026-09-19T17:28:48+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1dmduYm10SE5KakxJZGhZUnYwNjdwVHFhRGgxWnZGYnRvM0tOdXY0Y2E2SmVNZlB5WUJtbTRZRF9YV1BlVHl1NTIyTmJRall1OUVOYUdQZ0JocHJXVENaejNqMmtHckVWNVA4WHVR?oc=5"
   },
   {
    "title": "\"비트코인, 차익실현에도 가격 버텨…매수세 유지\"",
@@ -1150,46 +1174,22 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NM0VmTTBqaFVnbzFXcU1hTlFuRWg4eGtSWURpTldwTm91Nk5SLU94Q202Nnp1ZEJkMnBVTlY4bUxibEFzRWdzeVJIVHFSdm03?oc=5"
   },
   {
-   "title": "“7천피 밑도는데, 무조건 더 오른다”…횡보하는 코스피에 레버리지 베팅",
-   "source": "매일경제",
-   "time": "2026-09-18T11:39:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12VW0yLU9IN0h6ZGpxbEljVV8ySVpqMXdKajRUaXF2T19wWjY3MUNVZldScDRMcFZtcWxKYXhHS2JEZTdOQWZRaURaakVoekJxTUE?oc=5"
+   "title": "비트코인 다시 8만달러 돌파…알트코인도 동반 강세",
+   "source": "아시아투데이",
+   "time": "2026-09-19T17:28:48+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1dmduYm10SE5KakxJZGhZUnYwNjdwVHFhRGgxWnZGYnRvM0tOdXY0Y2E2SmVNZlB5WUJtbTRZRF9YV1BlVHl1NTIyTmJRall1OUVOYUdQZ0JocHJXVENaejNqMmtHckVWNVA4WHVR?oc=5"
+  },
+  {
+   "title": "美 연준 긴축·유가 상승에 환율 ‘출렁’… 경상흑자 확대 중기 안정 전망",
+   "source": "글로벌이코노믹",
+   "time": "2026-09-20T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT3U5enBJSFNpTHBKUWRDUVdkX2JsNFRnZGFVXzF2VzdXbFBpcHNSczZpSm55TFFId2lUZmVOcVRsLXhmVF9mZFE2S1JudXJiSGd2ZFZENDQwN29ESmNlbW9pSWZHcTNqVmJYNTB1OUwyYUNlRTVBWG1YNndKeGtoemM4MFg?oc=5"
   },
   {
    "title": "증시에 돈 빠진다고요?… “NO, 예금증가 주체는 가계 아닌 기업”",
-   "source": "segye.com",
+   "source": "세계일보",
    "time": "2026-09-19T20:04:29+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xejh0WGNDdE5ZbzlYVGVkcXByUGJNV05DWTdZZThMWXFuc0tYa3pQQTZ3UVIwOFlqVGx6M2I5VndJaU9YRlBPX2h2OWJWVnRnWUNlUEptcnbSAVRBVV95cUxOejRLZnR4U19oVl9VMEtxdGxqZ1lQSXduOVU1Q3RzdEtTdFlFMERfM2VwZkVxeVJHdWh5NHptTW9pc3hCU1JjSWNySUpVLVhjRktIRFA?oc=5"
-  },
-  {
-   "title": "미 긴축 기조에…원/달러 환율 3주만에 1,380원대로(종합)",
-   "source": "연합뉴스",
-   "time": "2026-09-17T16:08:46+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMkQteVpMb0V6NERIeFJQSHFGekpWbmtpOW1BbUR3WWUwSDVuUkZRUko5QzZMbGlQU19BLUFOZ3AwekY3eHNDSVJfQmZBQXRiYm5JcEpGNi16SlBTYmpvONIBYEFVX3lxTFAzMkQteVpMb0V6NERIeFJQSHFGekpWbmtpOW1BbUR3WWUwSDVuUkZRUko5QzZMbGlQU19BLUFOZ3AwekY3eHNDSVJfQmZBQXRiYm5JcEpGNi16SlBTYmpvOA?oc=5"
-  },
-  {
-   "title": "미 금리 상승에 환율 13.6원 ↑...코스피 약보합 마감",
-   "source": "YTN",
-   "time": "2026-09-17T16:38:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkVU9jSEJyWF9xdmctQUZhdlRNZ0Z3bW1Ya0I0OVFKNEdIQndKME42QllIdmktR1VCVmJpMnZwU1ZYdFdBRmtWcnU0M2ZrcWpnLXloeWplQXRVTUVNN1E?oc=5"
-  },
-  {
-   "title": "美 금리인상·클래리티법 상원 좌절에도…비트코인 8만달러 재돌파 [강민승의 트레이드나우] By Bloomingbit",
-   "source": "Investing.com 한국어",
-   "time": "2026-09-19T16:12:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wOUw4M1pVaF9zbnFsVW1ValNHcGYtc0RMeF83OUV2cVNEUWlqRUoyOThIOU1kT0Mxc2VHV2trM1RzSWJjSW1GajhFSmxFWmF3dUxqTklwNlhCb1lYNUQ3QzRZMXVJZ3JxZkl3MW5Sdzg?oc=5"
-  },
-  {
-   "title": "비트코인 8.1만달러 회복…\"주봉 마감까지 버티면 약세론 약화\"",
-   "source": "bloomingbit.io",
-   "time": "2026-09-19T22:32:06+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11TnRoQTF1WFV4eHVDWGh6Z1ROZlREbXlkeDFnNDFoZFhzSk84ZlFCRkNjVTB1WTA3SUVKVVhyLUVpMGd3dEVLR3JqR2pnYjA1?oc=5"
-  },
-  {
-   "title": "'엔비디아 투자' 英 AI인프라 기업 엔스케일, 美증시 상장 신청",
-   "source": "연합뉴스",
-   "time": "2026-09-19T09:46:32+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GQ2JvZHpWa3dHZWFBNm5RTlB5S0poeHpVbk9vYTFsNW5KcDJjS2NsSzZnZXUzUlhhZkVhS2xtS1JYNW0ydngzRVM1cFduazcyMXhiV3hEWUZFY2_SAWBBVV95cUxOeUEzSFFNbGpUYXFVZXl6b3F6RDREbDdzaGRpMEpYMGtSc25LdnhQYXRSTTQtRlYza3FDNDVsOEJOWHNXa0RhWV9tM0t4ejJKanp4aG5Xd19zOFRLbUhHczg?oc=5"
   }
  ]
 }
