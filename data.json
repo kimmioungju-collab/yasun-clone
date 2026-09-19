@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T08:50:04.311228+09:00",
+ "updated": "2026-09-19T10:41:35.695673+09:00",
  "quotes": {
   "k200": {
    "price": 1090.23,
@@ -141,7 +141,7 @@
   },
   "kosdaq": {
    "price": 827.12,
-   "prev": 815.98,
+   "prev": 822.18,
    "spark": [
     827.94,
     828.38,
@@ -738,95 +738,59 @@
    ]
   },
   "btc": {
-   "price": 80890.5,
-   "prev": 76350.68,
+   "price": 81095.69,
+   "prev": 80877.27,
    "spark": [
-    81001.0,
-    81156.6328,
-    81072.6328,
-    81076.3438,
-    81096.1875,
-    81180.4688,
-    81165.0,
-    81263.8125,
-    81115.1172,
-    81185.9297,
-    81178.1328,
-    81136.4609,
-    81231.8203,
-    81205.3828,
-    81210.2422,
-    81210.2734,
-    81223.7812,
-    81231.7031,
-    81332.2578,
-    81236.4609,
-    81317.7422,
-    81247.6172,
-    81251.5,
-    81160.3828,
-    81174.9922,
-    81104.7266,
-    81112.2734,
-    81113.6719,
-    81124.5234,
-    81144.0,
-    81125.0,
-    81162.4688,
-    81118.2031,
-    81041.0078,
-    80983.1562,
-    81004.8828,
-    80884.5625,
-    80884.3203,
-    80872.9062,
-    80890.5
+    80849.9922,
+    80850.0391,
+    80960.9297,
+    81061.5703,
+    81037.5,
+    81085.1172,
+    81248.9922,
+    81252.6328,
+    81326.1172,
+    81274.9375,
+    81396.0,
+    81652.7109,
+    81471.0,
+    81389.4219,
+    81260.5,
+    81152.8672,
+    81285.9531,
+    81232.8906,
+    81085.3984,
+    81122.5703,
+    81096.2422,
+    81095.6875
    ]
   },
   "eth": {
-   "price": 2610.01,
-   "prev": 2445.485,
+   "price": 2608.34,
+   "prev": 2611.1133,
    "spark": [
-    2628.3301,
-    2634.03,
-    2632.3501,
-    2631.1699,
-    2631.54,
-    2635.21,
-    2632.79,
-    2638.3201,
-    2632.75,
-    2631.8601,
-    2632.0,
-    2629.02,
-    2632.3899,
-    2628.46,
-    2627.8401,
-    2626.6201,
-    2626.3101,
-    2627.53,
-    2632.24,
-    2629.4299,
-    2633.8501,
-    2630.04,
-    2632.0,
-    2625.78,
-    2621.8601,
-    2618.5901,
-    2619.29,
-    2620.4099,
-    2619.6899,
-    2616.22,
+    2609.1001,
+    2608.3701,
+    2611.8301,
     2616.6499,
-    2619.52,
-    2617.55,
-    2615.1799,
-    2613.8799,
-    2614.3101,
-    2610.6299,
-    2611.6499,
-    2609.24,
-    2610.01
+    2613.24,
+    2614.8799,
+    2619.8501,
+    2619.5,
+    2620.2,
+    2618.9099,
+    2621.8,
+    2626.4199,
+    2620.1101,
+    2616.96,
+    2612.49,
+    2607.4199,
+    2612.51,
+    2611.77,
+    2605.8999,
+    2609.6799,
+    2608.4399,
+    2608.3401
    ]
   },
   "eurkrw": {
@@ -1061,7 +1025,7 @@
   },
   "dxy": {
    "price": 100.215,
-   "prev": 100.248,
+   "prev": 100.222,
    "spark": [
     100.232,
     100.232,
@@ -1109,7 +1073,7 @@
  "news": [
   {
    "title": "뉴욕증시, 재료 부재 속 혼조 출발",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "time": "2026-09-18T22:52:48+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZDBueTY0ODRvVWJIZVhOOHJwTXJnWjlnc3hlNi1CVW5FZXVQNm14eHVmRmk5b091bUNpbFh6a1RnQkNtb3NxMml0R2djdFV4SElDR21hWHEwckh0NklfeHQ0eUw4cE5QWkx3TWg2OGE?oc=5"
   },
@@ -1126,40 +1090,10 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00bjMzQnNzRW1HLVhCMDRheVlrb1dLcXJ5U3hJbHZlczdETDEtRWRiU1JteVZWRFkwM2ZTelZnSW5vMXpZQUJXN3c2WkljVUhwa2VIUFBMS3E2RjMydnllSm1zRnJlb2trNFJJQmVvdi1kek43RzZz?oc=5"
   },
   {
-   "title": "“7천피 밑도는데, 무조건 더 오른다”…횡보하는 코스피에 레버리지 베팅",
-   "source": "매일경제",
-   "time": "2026-09-18T11:39:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12VW0yLU9IN0h6ZGpxbEljVV8ySVpqMXdKajRUaXF2T19wWjY3MUNVZldScDRMcFZtcWxKYXhHS2JEZTdOQWZRaURaakVoekJxTUE?oc=5"
-  },
-  {
-   "title": "원/달러 환율, 1.1원 오른 1,383.3원…7거래일 연속 상승",
-   "source": "연합뉴스",
-   "time": "2026-09-18T16:05:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2RDRsMUVUd0s2a2tBQWdKSkpPZ3ZJemJEUlFNRU91OFp5WGtzTHllT044cFlweVUwOFJkanJMLTdrSG9qVGFOSmVsSTRXSHF0RFZMNzd0OTNqdmNHbElxaNIBYEFVX3lxTFB2RDRsMUVUd0s2a2tBQWdKSkpPZ3ZJemJEUlFNRU91OFp5WGtzTHllT044cFlweVUwOFJkanJMLTdrSG9qVGFOSmVsSTRXSHF0RFZMNzd0OTNqdmNHbElxaA?oc=5"
-  },
-  {
-   "title": "환율, 순식간에 46.1원 급등…다시 1400원 갈까",
+   "title": "‘AI속도 조절론’에도…증권가 “코스피 7500까지 간다” 긍정 평가",
    "source": "v.daum.net",
-   "time": "2026-09-19T07:20:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zUXJNYk1kMDJTY1Q2bW9DQ1BnXzJZazhjYnBqei1BY3MyZmFoaDJxVXZBVXl5cEREREJsbkZaMmZKS0Q5WnN3RmRqVTRwXzQ?oc=5"
-  },
-  {
-   "title": "집값·유가·환율 ‘쌓이는 명분’…한은, 3연속 금리 인상 문 열었다",
-   "source": "중앙일보",
-   "time": "2026-09-18T00:30:39+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KaVgydjl2emlkTWhnVHptNmtYQlY4cHdXR2FzbENIaUJjeDFsUWFHRHhuaXJhV1dRSWFIdzZ0YzAtXzJwVHlGcXZYQ2hKRmlSRG1rSVd3?oc=5"
-  },
-  {
-   "title": "[외환] 1,390원 상향 돌파 후 BOJ '레이트 체크'에 상승폭 축소…1,385.50원",
-   "source": "KB Think",
-   "time": "2026-09-19T06:20:24+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGdkVkLUtUaVI1TFc4RGN5NTJaVzg0R0FPZkRqWElUQUxCSlV1bW5Rb196cmFfdFZCb1c5aXBILTBxSUxfV0JfXzYxWHdxb1NsRGRTeExqano5eDZhcWs4VWluZ2cySV8xdy1CQ0NSQUpQUQ?oc=5"
-  },
-  {
-   "title": "개미들 \"환율 떨어질 때 더 고민\"…주목해야할 종목 찾아보니",
-   "source": "한국경제",
-   "time": "2026-09-19T08:00:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LYnoxZHcwRE82SHlwaGZlYWQxcWpKQ2NuM184NFZJSXBsRzFKZFQ4eFVTekJzOWhkZGRkR1BtWERYNjdrcmh5VzFCY25WN3VmeEE3UEFJek1Wdw?oc=5"
+   "time": "2026-09-19T09:00:42+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFOVB2eE9wRkJjZW50OWozLVIzSmN1cnV6U2l4MDdqWDVBcUtZMHpuUVpfNXRDRjYtdF9XbEx5cVFkLTk2NTNTMnhJSTNyNG8?oc=5"
   },
   {
    "title": "인메드 파마슈티컬스, 나스닥 최소 자기자본 요건 미달 통보",
@@ -1168,14 +1102,44 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOdl9aYzB4MGtSUlVIRGFpVnJkNHlUU05xUzJoYm0yMzZ5MkdQeGZFelZkLVZvMk51Rzc3aVBqM2NzbEwySDRLU3RxcllRanB0V3c?oc=5"
   },
   {
+   "title": "원/달러 환율, 1.1원 오른 1,383.3원…7거래일 연속 상승",
+   "source": "연합뉴스",
+   "time": "2026-09-18T16:05:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2RDRsMUVUd0s2a2tBQWdKSkpPZ3ZJemJEUlFNRU91OFp5WGtzTHllT044cFlweVUwOFJkanJMLTdrSG9qVGFOSmVsSTRXSHF0RFZMNzd0OTNqdmNHbElxaNIBYEFVX3lxTFB2RDRsMUVUd0s2a2tBQWdKSkpPZ3ZJemJEUlFNRU91OFp5WGtzTHllT044cFlweVUwOFJkanJMLTdrSG9qVGFOSmVsSTRXSHF0RFZMNzd0OTNqdmNHbElxaA?oc=5"
+  },
+  {
+   "title": "비트코인 8만 달러 돌파에 스트래티지 16%·코인베이스 11% 급등",
+   "source": "글로벌이코노믹",
+   "time": "2026-09-19T06:21:20+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNU9MQ2RRRm9CQmlTTHRWRHhLWWlNdmdRYmF4X1FOVkZncTlxdDZyMmcxTlJxRnViYURZNTNqOUJ1bjk2Tk1CVDVDakJhZ0FadmFJNV9oLVZqb1dQZmJGS2tQV3Rud2JXWGZ5bFlwc0lwYVhHVXdRc2pDQVVLUWg2bXBUN05KZ1dH?oc=5"
+  },
+  {
+   "title": "[해외시황] 뉴욕증시, 美 금리 상승 부담에도 '혼조 마감'…나스닥 0.39%↑",
+   "source": "프라임경제",
+   "time": "2026-09-19T09:53:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9adXoxU1BnRUxoby11eVBza2JORzZNSFk1SjRKZHU5YlJUT2NsdlBqaEVDN2FBMXJOMTZXRWt4c3FRTTRvdmUzeU8xR2FRMzI1LVY3Q0o0TW8yNnVIejlYNg?oc=5"
+  },
+  {
+   "title": "개미들 \"환율 떨어질 때 더 고민\"…주목해야할 종목 찾아보니",
+   "source": "한국경제",
+   "time": "2026-09-19T08:00:03+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LYnoxZHcwRE82SHlwaGZlYWQxcWpKQ2NuM184NFZJSXBsRzFKZFQ4eFVTekJzOWhkZGRkR1BtWERYNjdrcmh5VzFCY25WN3VmeEE3UEFJek1Wdw?oc=5"
+  },
+  {
    "title": "UBS, 코스피지수 목표치 약 10% 하향 조정…고금리 환경 반영",
    "source": "Investing.com 한국어",
    "time": "2026-09-18T21:46:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rdFZia3JRNV9JVzdjTmxZY2RISTdsZ2NIR05QVlJsY1FxMUZoRzQtNWp3T0hfeTBJSHdKQWdtcGY5anZ6dDRNWS1CckZxUU1EVmIxbDFXeDlHc0QxNC1EUmFwQTNIdm1CQXprQjNzcUU?oc=5"
   },
   {
+   "title": "“호재는 모른 척, 악재엔 곱절로 반응하더니”…코스피, 요즘 달라졌습니다",
+   "source": "매일경제",
+   "time": "2026-09-19T05:42:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FV05Ma2ZLWmdpODBOeHl2eXFiRDFXWUVQemw2ZlJ1b3lGN2IybGJEZFJ1emh2ZG4wTW9PcFpSSjdxc2gxX3lMWlF1VWZYS29XWmc?oc=5"
+  },
+  {
    "title": "[증시-마감] FOMC 안도랠리에 코스피 2.66% 상승·6,900선 바짝",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "time": "2026-09-18T16:02:38+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRnJ6NXdjanM2WDRiVHBJU1U4WF9CQ2RCWEFBZlRXTFNhQlBqZENzMjBPYkVSSlZJWjdUU2FRLUJpOHlOQURZdUhKd2lCYThKSFJPbUVEQXJpdEdDWjYwUVhDbi05X0l0dFFTVGJ0X3c?oc=5"
   },
