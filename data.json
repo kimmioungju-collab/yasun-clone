@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T08:31:12.880544+09:00",
+ "updated": "2026-09-20T10:31:36.505560+09:00",
  "quotes": {
   "k200": {
    "price": 1090.23,
@@ -738,95 +738,55 @@
    ]
   },
   "btc": {
-   "price": 81279.17,
-   "prev": 80877.27,
+   "price": 81077.57,
+   "prev": 81226.62,
    "spark": [
-    81310.1484,
-    81237.0234,
-    81228.2812,
-    81251.7812,
-    81271.6172,
-    81194.8984,
-    81096.4688,
-    81129.9766,
-    81163.1016,
-    81060.0,
-    80978.2891,
-    80971.3125,
-    80999.0703,
-    81036.1094,
-    80976.0,
-    81035.9531,
-    80997.4922,
-    81095.5391,
-    81107.0938,
-    81063.7422,
-    80957.9219,
-    81020.5938,
-    80975.9922,
-    81026.7969,
-    81038.9766,
-    81059.9922,
-    81082.8203,
-    81189.4297,
-    81209.75,
-    81183.8594,
-    81237.5391,
-    81232.4688,
-    81228.9922,
-    81209.0469,
-    81258.2812,
-    81245.3984,
-    81211.4531,
-    81279.1797,
-    81279.1719,
-    81279.1719
+    81185.7188,
+    81206.9922,
+    81258.9609,
+    81230.7109,
+    81219.4062,
+    81279.5469,
+    81294.7578,
+    81242.0625,
+    81300.7109,
+    81257.0703,
+    81267.3203,
+    81277.4922,
+    81235.2109,
+    81201.5391,
+    81106.0703,
+    81164.7266,
+    81132.4062,
+    81088.7891,
+    81082.2812,
+    81077.5703
    ]
   },
   "eth": {
-   "price": 2631.44,
-   "prev": 2611.1133,
+   "price": 2619.48,
+   "prev": 2631.7798,
    "spark": [
-    2638.1299,
-    2634.6799,
-    2635.0,
-    2638.96,
-    2639.8501,
-    2637.6201,
-    2633.95,
-    2635.3799,
-    2636.23,
-    2631.4299,
-    2624.3601,
-    2623.1399,
-    2625.75,
-    2626.95,
-    2624.5,
-    2624.9199,
-    2623.4199,
+    2627.3101,
     2627.0601,
-    2627.71,
-    2627.5601,
-    2621.47,
-    2624.3101,
-    2619.21,
-    2620.26,
-    2621.0,
-    2621.8,
-    2622.5,
-    2628.8,
-    2628.8601,
-    2628.6899,
-    2630.3999,
-    2630.1101,
-    2630.48,
-    2630.5801,
-    2635.24,
-    2633.8799,
-    2629.74,
-    2631.8301,
-    2631.46,
-    2631.4399
+    2629.22,
+    2628.8301,
+    2626.76,
+    2628.3899,
+    2629.9199,
+    2629.6899,
+    2630.0,
+    2627.24,
+    2627.3899,
+    2626.73,
+    2623.6101,
+    2622.9099,
+    2620.3101,
+    2623.78,
+    2623.1399,
+    2620.0701,
+    2619.6299,
+    2619.48
    ]
   },
   "eurkrw": {
@@ -1114,14 +1074,8 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWduMW1DZ3I5SUprSUlqWVlucHM5NEprYW93TWhZLWV1S0ZvOGliM2dxdDlZb0pnNTJLOC1YbEsteXExekxMc0FaQWRnYkhMZUM5cF9UM3lJLVBCNlBXaWFqOXRrZHY5V1FrdFdyTzJGUnB0UTZZcUZ1TnNUdEhzZEFGQWVsLWE1bGVQVjIyWGZLNHVtNE5v?oc=5"
   },
   {
-   "title": "스페이스X, 분기 리밸런싱으로 나스닥 100 비중 2.82%로 급등",
-   "source": "Investing.com 한국어",
-   "time": "2026-09-20T03:56:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qSWtUOGVOajNiLUhTcGwzNXZyTEtCaU9WV2lBREtUU1ZSYk14NTdUQW83REttZ2ZqM1dmTWJKYzBVcEtFcjdmSnh4WUxJdFlHYnJ5OUZrNnhpTzZFRWNRc0FKdGNGNGRzSkpTWU5ORVo?oc=5"
-  },
-  {
    "title": "(주간증시전망)FOMC 넘긴 코스피…다음 고비는 유가·연준",
-   "source": "newstomato.com",
+   "source": "뉴스토마토",
    "time": "2026-09-20T06:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fYWcybWQxRjhMdTJXRGNlWDFXSkVjTE01TmVTMzZmQ1dSbDc1dnJPY1JhdjdkZEVhNTF4NVBIYkZMTzRPc2ZZNDc5TWtYcjJjSjY2Qy16RnpvcTJsQjZ5eQ?oc=5"
   },
@@ -1130,6 +1084,18 @@
    "source": "연합인포맥스",
    "time": "2026-09-20T07:25:01+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95a0ZZMlQ4blkwR0kzMy1NX0s5NTJwcHpael9pVlRNQTI5OTNVeGV2T0szM3A5TUxDWVk3M2VabFJRMkJ2MzVUR2p6QW54d01fUDgycW1QcHlTNmdJVmJyNFU0U3J1eWtNS2RpRWFtc0Y?oc=5"
+  },
+  {
+   "title": "스페이스X, 분기 리밸런싱으로 나스닥 100 비중 2.82%로 급등",
+   "source": "Investing.com 한국어",
+   "time": "2026-09-20T03:56:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qSWtUOGVOajNiLUhTcGwzNXZyTEtCaU9WV2lBREtUU1ZSYk14NTdUQW83REttZ2ZqM1dmTWJKYzBVcEtFcjdmSnh4WUxJdFlHYnJ5OUZrNnhpTzZFRWNRc0FKdGNGNGRzSkpTWU5ORVo?oc=5"
+  },
+  {
+   "title": "“팔 사람은 다 팔았다” 비트코인, 이젠 오를 때?…‘매도 피로’ 신호 떴다 [재테크+]",
+   "source": "서울신문",
+   "time": "2026-09-20T07:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFTV9uV2ZPUzBic2xBcnRrY3ZjY0R3c3lDQVJONzB5bkVsWG9DbTY0ZjFuOVpQOUZkdi1hb01CcG5vdkk5d0ZqMjE3ZTIyS0hFYVRWS1F6MDE4Q2RSekRsMURqNWlvYk8zT1puZ2JSUQ?oc=5"
   },
   {
    "title": "美 증시로 눈 돌리는 운용사…하반기 출시 ETF 40%는 해외",
@@ -1144,6 +1110,12 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSHJrMmp4bTRxZHVYakkyMlc5VlhOUlVoVERoUjZWUnNWVWhmakZBRXBKcTJXbzR4cDZNbkFXUjVyM0FmWHFmd0M5YV8xWTk3NXZFUEdEUlNqQQ?oc=5"
   },
   {
+   "title": "스페이스X 나스닥100 비중 2.82% 확정…21일부터 적용",
+   "source": "글로벌이코노믹",
+   "time": "2026-09-20T08:34:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeU9KemktVmRJX3NhNkR5OTRVcWxEY0U2OFlZZ2VHYnhzb1hadzlUSlBaaUpjU2w4WjBVSF9zcTUxQnc3RTJFS2tMN1pGT1BMdVE0QUR1WXRpRGpROEg2S0pHb1Ftb0Q2cEwwUWVRTFQySzBrY0tWanRVUkExVUNKcnl1M24wOTN5?oc=5"
+  },
+  {
    "title": "'돌아온 외국인' 코스피 7000선 재도전…추석이 걸림돌?",
    "source": "뉴스1",
    "time": "2026-09-20T06:00:00+09:00",
@@ -1156,34 +1128,22 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1c092NURhWGhUandReUIxbFVSakpOeFozNkdyWWFRR3k0aUprakowMnhjaFZvbW81WGlkX3AxTU5kR1dNRkR2TldsVG5qdExtcWQ1TVdldGxzbmJWcVhtbWxjaFpBbnptNld5OGcyWnlvLWFSRmfSAWZBVV95cUxNWlpaZ3hLbUQ2U2tKdjJIR19XeHdPTGoycGRvb0U5NTFGc21tdUp3WEpHX0p1cTh4VHdhdEF2QklsX09zMTlfcHJKRkpnemlDNEE2ZVNYTkJfM2lQbUNTR0ZKS0ZKSnc?oc=5"
   },
   {
+   "title": "스페이스X, 나스닥100 비중 2배로… ETF 매수 확대 전망",
+   "source": "it.chosun.com",
+   "time": "2026-09-20T10:14:44+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzWmtBbFpMR2dMeXRrZFliaEdGRFlJQTdkb0JZcUpSOWVCWDNlQjlNb21RY3VObXlHWXdWaFFFVzJ4Tk00MFpVSnBNZTROSzl2OV9NY0ZlN1k4eFNiN2tQSlp0MGVOOVdzZ2o3ME91VljSAXRBVV95cUxQODl0WlZ6OUo0c2Y4bXZWQVdBZTR4bUw5YmFWT2g2MXM2VTBDTXlpVGNxaU44OUpwT2UxUTA5VjdzOWFDUkV3eVg2REZzbEpQV09GTXc2YVdlY1FTVExhQU42Tl9DX3VreUo5WjNseUxGTktWdA?oc=5"
+  },
+  {
    "title": "집값·유가·환율 ‘쌓이는 명분’…한은, 3연속 금리 인상 문 열었다",
    "source": "중앙일보",
    "time": "2026-09-18T00:30:39+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KaVgydjl2emlkTWhnVHptNmtYQlY4cHdXR2FzbENIaUJjeDFsUWFHRHhuaXJhV1dRSWFIdzZ0YzAtXzJwVHlGcXZYQ2hKRmlSRG1rSVd3?oc=5"
   },
   {
-   "title": "“팔 사람은 다 팔았다” 비트코인, 이젠 오를 때?…‘매도 피로’ 신호 떴다 [재테크+]",
-   "source": "seoul.co.kr",
-   "time": "2026-09-20T07:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFTV9uV2ZPUzBic2xBcnRrY3ZjY0R3c3lDQVJONzB5bkVsWG9DbTY0ZjFuOVpQOUZkdi1hb01CcG5vdkk5d0ZqMjE3ZTIyS0hFYVRWS1F6MDE4Q2RSekRsMURqNWlvYk8zT1puZ2JSUQ?oc=5"
-  },
-  {
-   "title": "한 주 새 37원 뛴 환율…1380원대서 추가 상승하나[주간외환전망]",
-   "source": "이데일리TV",
-   "time": "2026-09-20T07:47:20+09:00",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZSWhRYmhvNkRHVFRDN3lhbzJMdzFRLWV0Z1pyYmlCUmNGWEE5alNobnVDSTV1VlBwR3N6dEo3M3hEWFFydFNfdDd4QnRyelBBLXR3OEk5YmtiOFZhTXk3Zzk2ekpudC1ZMUtCQk5yYVJsbkdGMldId0ZSMA?oc=5"
-  },
-  {
-   "title": "추석 앞둔 코스피 방향성 탐색… ‘고금리·미중 회담’ 변수 [주간증시전망]",
-   "source": "IT조선",
-   "time": "2026-09-20T06:10:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uQV9WRVljYmpxQWstTXRGRDY2VHdrYVpOWDEyV0FhYVRtTzJ1X0JMRjJEeVI2aGRVeFdlNkV6bXdzd3hxNzJpazBLUGZjeFpCMEdkZ2dqWWZvdl81QlRxX25VUmhWa05vVTVJR0psanDSAXRBVV95cUxPdFZqOVFZLUptb1N3TXVJTkc2czA3Vlk4SkJzOFg5dUUwWUhHN3JpT2dFa29kWl9hZTFsSGVnNDY0V0RCMkh2a3loVEhWRWJKeDRoLWJDY3FCVlFjVG4wWXV5bFNsSWxNOV82TDJDaFZ1NzNYNQ?oc=5"
-  },
-  {
-   "title": "\"비트코인, 차익실현에도 가격 버텨…매수세 유지\"",
-   "source": "블루밍비트",
-   "time": "2026-09-19T20:37:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NM0VmTTBqaFVnbzFXcU1hTlFuRWg4eGtSWURpTldwTm91Nk5SLU94Q202Nnp1ZEJkMnBVTlY4bUxibEFzRWdzeVJIVHFSdm03?oc=5"
+   "title": "[이번주 환율] 美 금리 인상에 1380원대까지 급등…1400원선 넘보나",
+   "source": "opinionnews.co.kr",
+   "time": "2026-09-20T09:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Fc3lLYXkwb2NzX1dsT1VXMkF4a3lRUmUtNlcxaER3ZHdmajFDeFhRRzI0Wl9yYWF6UXJ5UVNld0EtZFdMcWY3SDhVQ0R5V2xRTnpDb0tWS1BMSDAyMEFyelpPSVNvNnFySDdUVlhGWnU?oc=5"
   },
   {
    "title": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로",
