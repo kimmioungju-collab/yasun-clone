@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T02:43:00.813704+09:00",
+ "updated": "2026-09-27T05:09:18.786975+09:00",
  "quotes": {
   "k200": {
    "price": 1126.12,
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 84069.77,
+   "price": 84000.01,
    "prev": 84081.914,
    "spark": [
-    83987.6484,
-    83998.5312,
-    84006.4062,
-    84016.3516,
-    84020.25,
-    84014.5625,
-    84031.9766,
-    84012.0469,
-    84010.6719,
-    84028.3984,
-    84047.6797,
-    84047.6016,
-    84130.7578,
-    84121.0312,
-    84122.8594,
-    84066.0469,
-    84143.7266,
-    84146.8594,
-    84133.0938,
-    84133.0,
-    84113.5781,
-    84117.0938,
-    84095.5938,
-    84101.8281,
-    84149.9922,
-    84141.3828,
-    84138.6328,
-    84140.0234,
-    84150.3281,
     84104.2969,
     84081.7188,
     84078.4062,
-    84076.3203,
-    84054.2734,
-    84047.0234,
+    84076.3125,
+    84054.2578,
+    84055.2969,
     84044.3516,
     84025.1094,
     84078.7109,
-    84059.9922,
-    84069.7734
+    84095.0938,
+    84093.9766,
+    84097.9688,
+    84126.6406,
+    84152.6328,
+    84095.0312,
+    84089.7578,
+    84063.6406,
+    84082.6016,
+    84058.5,
+    84049.25,
+    84029.8281,
+    83996.4062,
+    84009.6172,
+    83990.0,
+    83994.6094,
+    84023.9375,
+    83995.6406,
+    84022.2969,
+    84018.0703,
+    84024.4922,
+    84011.9531,
+    84020.4062,
+    83957.9922,
+    83997.6484,
+    84007.75,
+    83998.4219,
+    84000.6562,
+    84022.2422,
+    84022.2422,
+    84000.0078
    ]
   },
   "eth": {
-   "price": 2687.89,
+   "price": 2681.76,
    "prev": 2691.2156,
    "spark": [
-    2688.1201,
-    2687.1101,
-    2687.9099,
-    2687.5801,
-    2688.4099,
-    2688.54,
-    2689.1799,
-    2689.1699,
-    2689.03,
-    2689.45,
-    2689.8999,
-    2690.48,
-    2693.46,
-    2692.6599,
-    2692.8301,
-    2689.22,
-    2692.5701,
-    2692.5,
-    2690.9399,
-    2691.6201,
-    2691.1599,
-    2691.21,
-    2689.8101,
-    2690.48,
-    2693.3301,
-    2692.79,
-    2691.6599,
-    2691.49,
-    2690.1399,
     2691.01,
     2689.24,
     2688.28,
     2687.5601,
     2686.9299,
-    2687.55,
+    2687.29,
     2687.5601,
-    2686.99,
+    2686.98,
     2688.76,
-    2686.9199,
-    2687.8899
+    2689.22,
+    2689.0,
+    2688.8101,
+    2690.0,
+    2690.3999,
+    2688.54,
+    2687.46,
+    2686.9299,
+    2687.52,
+    2687.5701,
+    2687.22,
+    2685.6799,
+    2683.95,
+    2683.95,
+    2684.8401,
+    2684.6201,
+    2685.3401,
+    2685.0701,
+    2685.3601,
+    2684.6599,
+    2683.9299,
+    2682.1599,
+    2682.9399,
+    2682.0601,
+    2682.3301,
+    2683.49,
+    2683.47,
+    2683.8101,
+    2683.45,
+    2683.02,
+    2681.76
    ]
   },
   "eurkrw": {
@@ -1109,7 +1109,7 @@
  "news": [
   {
    "title": "10년 전 1억원, 엔비디아에 넣었다면 138억원…비트코인도 제쳤다",
-   "source": "경기일보",
+   "source": "kyeonggi.com",
    "time": "2026-09-26T16:48:19+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56d3kzdnVUNWgtXzZYN3JRS0FNRGxmWEs1RzJWdUZJNkpyM3l2STJ5MHZFQ0g0dXlaV2phX09icU9Wbk1Tbm5PUG5rY3E5WkxSbVJkY1JoWkx3VUE?oc=5"
   },
@@ -1132,28 +1132,22 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yWEpYX2ljRi1RUnk0aG5lUE5QaE1oaEZjV1hfNmdWTU82QnF6cUNPWEoxUDJkSmM2MkVGdENqSEFIdUtIYlRtb2hNaWhfZ2szRkJzVXlCMVdkZkJCQUtRNk9Bblk4MG9YUE5yanhTZXJKdjQ?oc=5"
   },
   {
-   "title": "'고공행진' 건설공사비, 환율·유가 엇갈려도 오름세 유지될까",
-   "source": "연합인포맥스",
-   "time": "2026-09-26T10:00:15+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aUFRXQ0xDRmhuVFZnTW9lVVU4Q1loNXFYRmVWdnFRWVFiQU9xcl9FdERWSmhfTFROd1VYMVh4YXNMZ0V2UHBRVERaUXVKdklzSWg2WEZUcmRoeV9GR3RUb2dRTGw4a2VPYXoyOS1lbWs?oc=5"
-  },
-  {
-   "title": "1억1000만원대 회복한 비트코인…고금리에도 상승세 이어갈까",
-   "source": "한국경제",
-   "time": "2026-09-26T10:56:12+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icUNva2U2dDlRX1pYTW1PZ1NSS0RoWlZoYlBacDloUXNLYmo4b184TmpDZ1lBeENmMnZFUktTSnZVWmsweUdQNmY5Q09yeU5YSGdQZjhrWG01QQ?oc=5"
+   "title": "[분석] \"비트코인, 미실현 수익률 20개월래 최고 수준…조정 위험\"",
+   "source": "블루밍비트",
+   "time": "2026-09-26T19:11:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4bTBoVkN6YWRBdjlQSndrVEpMZTZudWxBdjJkVUlCREllZzdnZjBiSWNqaFhpUXY1SWduNGI2a2ZlQVV4ZW1CMzBmYWV4MjRs?oc=5"
   },
   {
    "title": "[9월 넷째 주 세계경제동향 브리핑] 코스피 7,000선 회복…한미 증시 동반 상승",
-   "source": "kihoilbo.co.kr",
+   "source": "기호일보",
    "time": "2026-09-26T09:50:57+09:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85X0JIS3RjSVJLaTcwbThXMDdjSEt0Z3Y1UXZHakV0bkM5aTUtcjVCM1NrM3Y3V0ZqRTgtbHJGMnBYbWp6eXFXX0p3OTZvekFMVmtpX21rUDZpYWVZTjJfbWtybzFDQnZwdlo1NUN6OA?oc=5"
   },
   {
-   "title": "[D-BIZ 암호화폐 뉴스] 비트코인, 네트워크 손대지 않고 프라이버시 강화…Zcash 방식 '실디드 비트코인' 제안",
-   "source": "데일리비즈온",
-   "time": "2026-09-26T15:25:18+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GaDlyd0xiT0REdWN3UjY5Q0tPVkNFRFFzRXA1dDJpZzhsRG9qYV85X25wclpJRTFUV2F2aHlFbzI0NUpKOVRlTU00djlFS3JzbWhqZkFvQkxLMExCa2JqWnJOR0V0aUlsQjA0cg?oc=5"
+   "title": "'고공행진' 건설공사비, 환율·유가 엇갈려도 오름세 유지될까",
+   "source": "연합인포맥스",
+   "time": "2026-09-26T10:00:15+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aUFRXQ0xDRmhuVFZnTW9lVVU4Q1loNXFYRmVWdnFRWVFiQU9xcl9FdERWSmhfTFROd1VYMVh4YXNMZ0V2UHBRVERaUXVKdklzSWg2WEZUcmRoeV9GR3RUb2dRTGw4a2VPYXoyOS1lbWs?oc=5"
   },
   {
    "title": "\"나스닥 신고가인데 신저가 종목 속출…확실한 주도주로 좁혀야\"",
@@ -1162,34 +1156,40 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sZGxQREc1OW9fSUY0UFh5bDAybHFOUm5lOVQwektKNlNZbzY3Q2FtcjdEM2o2RkItRWJQdU0zVS04WXYwU1BVdDRMMGNkTjZKdktET0RfSlFWS3NSSVZwM9IBeEFVX3lxTE1HOXdiYU1TbXNXOUNwU0JaTDFwTmxQeV9DdjlsQ1g1alBvVVhJRV9MWHNYRjRnQlpGVHlGZm1Ed05fd1FLTURoZE1tM3FrdE1Fb2JwN0hHWm1GUDBfV0E4NVQ4QWlzQXkxTUpjR3hycURkdk9BdnpibQ?oc=5"
   },
   {
-   "title": "[분석] \"비트코인, 미실현 수익률 20개월래 최고 수준…조정 위험\"",
-   "source": "블루밍비트",
-   "time": "2026-09-26T19:11:06+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4bTBoVkN6YWRBdjlQSndrVEpMZTZudWxBdjJkVUlCREllZzdnZjBiSWNqaFhpUXY1SWduNGI2a2ZlQVV4ZW1CMzBmYWV4MjRs?oc=5"
-  },
-  {
    "title": "코스피 7000선 웃돌아도…52주 신저가 종목, 신고가의 3.6배",
    "source": "경북매일",
    "time": "2026-09-26T16:33:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45eFZYc0s1R2NzR19hLXdPbTFvWGxnTGM4dDZQUUczV2ZVN1NEUlpqM3pmN2Rpc09GQ2YwNDV5dmhEaWNGNHBEZExMbk1HSmwxR1NlNWx1aXBLZw?oc=5"
   },
   {
-   "title": "코스피 7000선인데…상한가 종목 ‘반토막’·신저가는 속출",
-   "source": "아시아투데이",
-   "time": "2026-09-26T16:22:51+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HWkkwVVBhRi1mT3dETngyN0Y0MWQtTmVJbHl1Z1BRaFBvWFFkelhLZXMxaTl4VWc1aTY3b2ZIWk1VT0dzb3J0RzMtWVgwaUItWjNibnh3Uzh1Z25zd1JsS0poY0JKdTl6d0ctRTFR?oc=5"
+   "title": "1억1000만원대 회복한 비트코인…고금리에도 상승세 이어갈까",
+   "source": "한국경제",
+   "time": "2026-09-26T10:56:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icUNva2U2dDlRX1pYTW1PZ1NSS0RoWlZoYlBacDloUXNLYmo4b184TmpDZ1lBeENmMnZFUktTSnZVWmsweUdQNmY5Q09yeU5YSGdQZjhrWG01QQ?oc=5"
   },
   {
-   "title": "S&P500·나스닥…美 대표지수 ETF로 몰리는 자금",
-   "source": "ebn.co.kr",
-   "time": "2026-09-26T11:29:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKeHYxMEE4MkxGY210SUR2elhTSzdRVXJSemFPV0JLelZTT2tDbllveFRmZUJVTG5wTFlCSjZpRjhLNUNDZHBGc0ZjcXJReFNsVHJraGhiVWlqMTROSU5fVXVCSGVOWHU2?oc=5"
+   "title": "[베트남 증시] 대외 요인에 투자 심리 위축, 혼조...日 SMBC 지분 확대 소식에 VPB 강세",
+   "source": "뉴스핌",
+   "time": "2026-09-25T20:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aU0kwVzlhOXNYaFhhMDJiU25uUlhZQTE4MU9FdUhIYlZzSHhOc25uSmZnZkdtdVVWTC1SbElWX05kR1RKUUlnUDBTYnZTZ3dMTGJvYnJla0d6Snpp?oc=5"
+  },
+  {
+   "title": "[추석 이후 증시] 장문수 센터장 \"10월까진 투심 부진, 코스피 연말 8400 목표\"",
+   "source": "팍스경제TV",
+   "time": "2026-09-25T09:10:08+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53ZVNCMm52STUwVng0NC1vbTFGd25jLTJTcFZnWjFCZkZWSVhhckZINkppYWpzaDVaZzNjQTcxVWpXS0tfX0V5eTRLaW9hbnNfdUhiRjU1ZjFzNnhVci15VE93MTVYbmpH?oc=5"
   },
   {
    "title": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
    "source": "v.daum.net",
    "time": "2026-09-26T15:39:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aenQyVUJSdVYyTXprY3pTZUx2N19XTnhrVlFITUE2R1lkRXJwaXgwa0NOYWc5SkNjRFlLWWg4NmJRa3NmTmJRZFBiVFpsQWs?oc=5"
+  },
+  {
+   "title": "[분석] \"비트코인 장기 보유자 매도세 진정…이성 되찾는 중\"",
+   "source": "블루밍비트",
+   "time": "2026-09-26T19:07:15+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oS1BkTEJGaTV4Z0lZX3ZrMXNNdEczOElFcF9RWjFERGVBcm5WOThLYURvVkYwT0tKdDcydVpLeXFpZ0JNcElkdFdydEl5eW9s?oc=5"
   }
  ]
 }
