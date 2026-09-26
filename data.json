@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T06:58:23.585200+09:00",
+ "updated": "2026-09-26T09:25:20.670900+09:00",
  "quotes": {
   "k200": {
    "price": 1126.12,
@@ -738,101 +738,34 @@
    ]
   },
   "btc": {
-   "price": 83838.1,
-   "prev": 84378.125,
+   "price": 84036.87,
+   "prev": 84081.914,
    "spark": [
-    83937.5234,
-    83959.2812,
-    83949.9922,
-    83919.2969,
-    83909.7734,
-    84028.9219,
-    83965.5078,
-    84003.1719,
-    83992.0078,
-    84000.0,
-    83980.4922,
-    83965.6484,
-    83995.0234,
-    83998.9688,
-    84005.8125,
-    83943.4609,
-    83960.0234,
-    83955.0938,
-    83989.5703,
-    84085.0391,
-    84045.6719,
-    84071.3438,
-    84138.8203,
-    84118.0234,
-    84022.0078,
-    83920.3125,
-    83867.6328,
-    83826.4062,
-    83716.5312,
-    83682.0078,
-    83628.6172,
-    83726.1719,
-    83762.4297,
-    83784.8594,
-    83796.7734,
-    83808.6406,
-    83853.5,
-    83831.4219,
-    83829.9062,
-    83838.1016
+    84038.1484,
+    84065.3672,
+    84059.4609,
+    84022.1172,
+    84031.6328,
+    84036.8672
    ]
   },
   "eth": {
-   "price": 2680.29,
-   "prev": 2687.3306,
+   "price": 2689.47,
+   "prev": 2691.2156,
    "spark": [
-    2693.0901,
-    2693.29,
-    2692.98,
-    2690.6399,
-    2690.5801,
-    2695.4299,
-    2692.75,
-    2693.1499,
-    2692.8401,
-    2690.6599,
-    2691.6299,
-    2691.1699,
-    2694.6499,
-    2693.01,
-    2692.95,
+    2688.9099,
+    2691.46,
+    2691.1101,
+    2689.0901,
     2689.8999,
-    2692.05,
-    2689.6799,
-    2691.74,
-    2694.8401,
-    2693.26,
-    2693.96,
-    2693.71,
-    2692.1499,
-    2689.3601,
-    2685.8999,
-    2683.8401,
-    2682.8601,
-    2678.7,
-    2678.74,
-    2676.6899,
-    2678.79,
-    2680.3899,
-    2679.46,
-    2679.52,
-    2681.3899,
-    2682.4299,
-    2680.6101,
-    2680.8701,
-    2680.29
+    2689.47
    ]
   },
   "eurkrw": {
    "price": 1543.2,
    "prev": 1553.2,
    "spark": [
+    1543.8,
     1543.9,
     1544.0,
     1543.6,
@@ -871,7 +804,6 @@
     1543.2,
     1543.2,
     1543.2,
-    1543.2,
     1543.2
    ]
   },
@@ -879,6 +811,7 @@
    "price": 8.597,
    "prev": 8.578,
    "spark": [
+    8.598,
     8.598,
     8.599,
     8.597,
@@ -917,14 +850,14 @@
     8.597,
     8.597,
     8.597,
-    8.597,
     8.597
    ]
   },
   "cnykrw": {
-   "price": 201.814,
+   "price": 201.964,
    "prev": 203.359,
    "spark": [
+    202.225,
     202.244,
     202.264,
     202.244,
@@ -963,7 +896,6 @@
     201.814,
     201.814,
     201.814,
-    201.814,
     201.814
    ]
   },
@@ -971,6 +903,7 @@
    "price": 157.185,
    "prev": 158.774,
    "spark": [
+    157.261,
     157.226,
     157.247,
     157.291,
@@ -1009,7 +942,6 @@
     157.313,
     157.315,
     157.258,
-    157.185,
     157.185
    ]
   },
@@ -1017,6 +949,7 @@
    "price": 1.1392,
    "prev": 1.138,
    "spark": [
+    1.1395,
     1.1396,
     1.1396,
     1.1397,
@@ -1050,7 +983,6 @@
     1.1397,
     1.1395,
     1.1395,
-    1.1392,
     1.1392,
     1.1392,
     1.1392,
@@ -1108,10 +1040,28 @@
  },
  "news": [
   {
-   "title": "日 증시, 일부 AI·반도체 매수세에 상승 출발",
-   "source": "news.einfomax.co.kr",
-   "time": "2026-09-25T12:12:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84SG5NanFrTkdxTDhva3VjME1DQ2dJN3JZdU8zTzZDNFk1X0xsaWE5MnB2Umdmb1FxcTVhbGN2c2p6d3lFMzZkNmJWSHE5Ry0xR3R6NDZFNHdIX1NmR1JJU2VPd0RHcjNDYV9RaGllZkE?oc=5"
+   "title": "환율 끌어내린 조선사 선물환…'미래 달러' 추가 매도 여력은",
+   "source": "연합인포맥스",
+   "time": "2026-09-26T07:05:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40VzR5ZndlMTh3a2Jrd1VzVDNFOXlBVmZ2cElsRWpqanItUkJsTFNZelo2TlNmSXVSTENwYlY4TktfMEdSai1QMWhBblpIaHBIX3VScG1ZZGpRV05SelU1Qmo3M282S2NLcm1qU3J2Y0c?oc=5"
+  },
+  {
+   "title": "\"코스피 시즌2 오나요?\"…증시 반등에 투자자예탁금 100조원 재돌파",
+   "source": "v.daum.net",
+   "time": "2026-09-26T07:32:12+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEZ21kQlF5VDB1TkNnYW9wQjlRRE91WTBHSTRNMlB0VzNMNFg4V1F5Z3U0WU93S29GQS1uZVdtSU1GVmhwUG83LV9rY0FFZ3M?oc=5"
+  },
+  {
+   "title": "10년 전 1억원 투자했다면…엔비디아 138억·비트코인 135억원 - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-09-26T08:42:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sbnA4Y1RyVFlHVm9HN1g5a2swSEtzUHVSa25QQzZPMGFncnVtOW5lbHlZZkVsbDg2aGl6T1ZrdXBUNkZXNDY3U3pLUWhzc1ZuWGRpMldwVm1YLU9sUW1LWDV3N3Y0VGF00gFuQVVfeXFMTV9adWZUM1VMZ21wTHZFNU9qejFIRmhEa1dCV0N4VEhTT0dFcHRhbDNTWXlGaUw3UV9WdEJQbzc5cmRFM0I0bnZPbDR2LVJBN3h5NXo3U292dllsMkJ6RzFUV2JGbkxfRFBIM3duUlE?oc=5"
+  },
+  {
+   "title": "[베트남 증시] 대외 요인에 투자 심리 위축, 혼조...日 SMBC 지분 확대 소식에 VPB 강세",
+   "source": "뉴스핌",
+   "time": "2026-09-25T20:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aU0kwVzlhOXNYaFhhMDJiU25uUlhZQTE4MU9FdUhIYlZzSHhOc25uSmZnZkdtdVVWTC1SbElWX05kR1RKUUlnUDBTYnZTZ3dMTGJvYnJla0d6Snpp?oc=5"
   },
   {
    "title": "RegenLab, 나스닥 상장 추진…매출 2,900만 달러 돌파",
@@ -1120,16 +1070,10 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUYk1KbzNSS3J1RW9KZ0FEOEd5cUJ5aGtIY3pLeVFjZHNrTGVyTm0tQ2tTNUJma09RbVpUTXhRTFFoY0ZLejR3OFBoUlFENlpUeUxpME9YaEZRWjVrdGNSYjZ2NThndHgzUjY4UXZlcDE?oc=5"
   },
   {
-   "title": "[인도증시] 저가 매수세 유입에 소폭 상승...주간으로는 6년래 최장인 7주 연속 하락",
-   "source": "뉴스핌",
-   "time": "2026-09-25T20:53:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUVXZkdE01MWZPc0pDLUlyUExza0lNVUZfcjhfa3hOQXlmWVMtOGFFZEdVVWU5MHp4YnpibWJCWEZaZEcyX0J2VnBKQ1JfVlN1Q0Rtem5WMUVYMlot?oc=5"
-  },
-  {
-   "title": "코스피 상승 돕던 삼전닉스 자사주 매입, 다음 달 종료…수급 부담 커지나",
-   "source": "더구루",
-   "time": "2026-09-26T00:00:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vVFVvUDZ0a1BmR3ZkZ1ZicnlUZE8tYWx2bDEtak55X003RkRGVUowRTRCRExJeUp6YlQ1dmdudnBFX0VfcXgybFZpMFJlQXBBSmFYa1FqUTZWVDJ1cEM3WUhQWQ?oc=5"
+   "title": "비트코인 1.1억 회복… ‘업토버’ 기대 확산 [주간코인시황]",
+   "source": "IT조선",
+   "time": "2026-09-26T06:20:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NVHU3dnktYkRjOGtKMEN4Um14bGhoUXRuajZiT0FtR1JwRUdQbU0tNUhYZE4tY1ZIX1FMSVVYRmxwU3ExNzZzLVlheEw3WWZ1QjV1dE9OUDRGMGJLcVJMQjl0M0FVX3ltc1lJNS1wbnnSAXRBVV95cUxOZGJ3bTAtRGgxb1pwWHhLaUNtVmxLUVUtRGxYRVEyRDViOTN3UFk0X1ladFpfODdleFg0WERXM0lBOExZLUxfdU9ZZzl2YjlDekVjVlIxY3JURXo1VzVib21RZF9mOWU3aG92MFFocmVDYzhsVw?oc=5"
   },
   {
    "title": "뉴욕증시, 호르무즈 협상 기대·유가 하락에 상승 마감",
@@ -1138,58 +1082,46 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3OW16VS1xLWRuaWgxaGdyWXJMeF9YN2hTYS12Xy1CdkdQUGdNQjExcS1wb0VDbGRIa05iWWI0WFNkdVR5RkdyYWdiYkFlT2UtRFE?oc=5"
   },
   {
+   "title": "박스권에 갇힌 국내 증시…상한가·신고가 종목도 급감",
+   "source": "ebn.co.kr",
+   "time": "2026-09-26T08:35:15+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VQ3RNbHhQVXN2b3FaYzdYRE94RnIyemtBSlNCQ29YRkQtM3JjMWF0bkhmc25oa3Q2OUpVWmktTmJWT2RsZmwyWUd3RDVoTDVia0N5eTg4NXJtNTFFQmRnRjRnVHgtOHBp?oc=5"
+  },
+  {
+   "title": "코스피 상승 돕던 삼전닉스 자사주 매입, 다음 달 종료…수급 부담 커지나",
+   "source": "더구루",
+   "time": "2026-09-26T00:00:03+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vVFVvUDZ0a1BmR3ZkZ1ZicnlUZE8tYWx2bDEtak55X003RkRGVUowRTRCRExJeUp6YlQ1dmdudnBFX0VfcXgybFZpMFJlQXBBSmFYa1FqUTZWVDJ1cEM3WUhQWQ?oc=5"
+  },
+  {
    "title": "코스피 상승세 ‘지지부진한 이유’ 있었다…서학개미 미장 보유액 2천억 재진입",
-   "source": "munhwa.com",
+   "source": "문화일보",
    "time": "2026-09-26T00:48:42+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OZ0pZdm9ranJ2X0RFVUtoZXNqc2FlbWlfTjNReXoybWFNRHYxRFVSSlZCVTdRTzdjUl9Nb0FKb0dxNy13TjZwRXJQbzJhNkQ1?oc=5"
   },
   {
-   "title": "美채권금리 19년만 최고에도…이란 협상 기대에 증시 숨통[뉴욕마감] - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-09-26T05:53:18+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JenFOLUtfMWxja082MXNPOVR0RlpJc1MwV3g1MFN4YmQ1QWdOVEw1VXhyTW9zLW9VZ3p4RHJmRVdEOXgtX3VqbFNYTzJxc3ZYTFRKblhRZUlmQVlDY0tFV212U2VoOVky0gFuQVVfeXFMTzRoampRSDhvc2FvRS1aWUpIRUMyei1ETVBZMlRmb0R1dlE0NDFSUFFiTkYxaXpMNko1QmVQR0dwVkx0TkthTWlBM1dRVDE3NHdOUTRNdFhxeFlPMmhkdmVWWllFbEVqaF9CTGJLV3c?oc=5"
+   "title": "뉴욕증시 3대 지수 동반 상승…호르무즈 재개방 기대에 유가 하락",
+   "source": "경북매일",
+   "time": "2026-09-26T05:41:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhenR1bjdveVRFX0JvY1ZXeEd4Zm1vaTh3SHZXNWNKTC00Q2VlNHgxcW51U2RrM2x0eEpreTFaS2RDZDFtMGI4bzRIUmI1cHQxSjljRlJNNmdidw?oc=5"
   },
   {
    "title": "[뉴욕마감]국채금리 급등에도 AI주 랠리…나스닥 0.48%↑",
-   "source": "news1.kr",
+   "source": "뉴스1",
    "time": "2026-09-26T05:32:08+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSzVabmo3RmJsRmNGT29qVmo0akhNM1AyYzJMQjdYSTZTMXl1MG13VnN3UzRESlBSS3F4NFpBQl9CVWZVNXpISW5MUFAwb1V1M1BzbGprQ183eFFHZW9KYlhsNVpqOU3SAWxBVV95cUxOMHM4Tno5eGd6S3cyaTlWcDNFSGNpcnNWMXJxVXpnNXNfbjFxV3hqU0x1T0lFVEdtejJVSzZKY1plQVQyS1ZXdE9ZNDNMU3hoYUE4Z3I2U1puUWlZaWlFVV91bFlYRjBMX2Y3cDU?oc=5"
   },
   {
-   "title": "코스피 7000인데 개미는 울었다…27년 만에 최악의 투자 성적",
+   "title": "\"코스피 7,000인데 내 종목은 왜\"…상한가 줄고 52주 신저가 속출",
    "source": "v.daum.net",
-   "time": "2026-09-24T06:01:35+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAteDRmbUVuRmVuREZyZjFQN29oSExhN3JZeTY2S0VCdDhoSkdEQV82ZmtHVWk1SGFLa19KUGhvZVVvdnZaRXc?oc=5"
+   "time": "2026-09-26T07:46:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fNlFDazNtbWlRM0p5OWpxXzdUTjRsUkJIeDctWHJRMGVuN3lmM0g5eWZNYk5fclpVZjJIV1JVRTVPbWdRcDctbzBuWW9ISU0?oc=5"
   },
   {
-   "title": "[추석 이후 증시] 신중호 센터장 \"박스권 전망. 주요 이벤트는 미국 중간선거\"",
-   "source": "팍스경제TV",
-   "time": "2026-09-26T01:18:24+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PYjJYUjdGMFpZc3NNdVpRV3dWdjNXXzlDV2tKeld3dEFvSEMtM2VaV0twYWJkNmVLalB6WXotb01TNVdobWRacnJZN2JwZnh2b25tUTFyMlQzOC0tNE9PZDNWODY3cjVL?oc=5"
-  },
-  {
-   "title": "비트코인 1.1억 회복… ‘업토버’ 기대 확산 [주간코인시황]",
-   "source": "IT조선",
-   "time": "2026-09-26T06:20:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NVHU3dnktYkRjOGtKMEN4Um14bGhoUXRuajZiT0FtR1JwRUdQbU0tNUhYZE4tY1ZIX1FMSVVYRmxwU3ExNzZzLVlheEw3WWZ1QjV1dE9OUDRGMGJLcVJMQjl0M0FVX3ltc1lJNS1wbnnSAXRBVV95cUxOZGJ3bTAtRGgxb1pwWHhLaUNtVmxLUVUtRGxYRVEyRDViOTN3UFk0X1ladFpfODdleFg0WERXM0lBOExZLUxfdU9ZZzl2YjlDekVjVlIxY3JURXo1VzVib21RZF9mOWU3aG92MFFocmVDYzhsVw?oc=5"
-  },
-  {
-   "title": "[도쿄증시-마감] '배당권 확보' 위한 매수세 속 상승",
-   "source": "news.einfomax.co.kr",
-   "time": "2026-09-25T17:50:13+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iZFVCU0U4UlE1SXBvZWV5aFY4NTFENHB2VXRoZEhhWHRXMXpNNU85NWxMTXFzS3BqU1NOZGxCVjEwNVNGMFdkVnNNNHg3SU84YkRFd3A1bVJ6MkJqMmZPeUxUVlpNT1ZXTko5c3VpSHU?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 유가 하락에 3대 지수 상승…다우 0.93%↑",
-   "source": "뉴스핌",
-   "time": "2026-09-26T05:27:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtZVNma2NIbk5ZaXpCaEo0OGJpQ3dQbldZUjl2TEtrSFF1amphMHk0S1ZCU0lvRDZyQUhqcVRrTjN5MW4xQkZXdWQ5aTV1VEpzQWNaSVR0VlE2VEd2?oc=5"
-  },
-  {
-   "title": "나스닥, 퓨처 머니 어퀴지션에 상장 규정 위반 통보",
-   "source": "Investing.com 한국어",
-   "time": "2026-09-26T06:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Rbm1JWmFwUU1fak9pODk5YnpIaTNySnF2TlR0ZDNxNmNfUmluWnRnSXBlREJHLUE0U0dPNVBVR0tFekxFQnliZVZFUF9LX01rUEhoQnJDeHNNbDlGc3VlVjJfS2hBT3E4Nldab3FRZTU?oc=5"
+   "title": "日 증시, 일부 AI·반도체 매수세에 상승 출발",
+   "source": "연합인포맥스",
+   "time": "2026-09-25T12:12:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84SG5NanFrTkdxTDhva3VjME1DQ2dJN3JZdU8zTzZDNFk1X0xsaWE5MnB2Umdmb1FxcTVhbGN2c2p6d3lFMzZkNmJWSHE5Ry0xR3R6NDZFNHdIX1NmR1JJU2VPd0RHcjNDYV9RaGllZkE?oc=5"
   }
  ]
 }
