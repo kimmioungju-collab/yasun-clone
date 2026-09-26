@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T23:01:32.764721+09:00",
+ "updated": "2026-09-27T02:43:00.813704+09:00",
  "quotes": {
   "k200": {
    "price": 1126.12,
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 83907.95,
+   "price": 84069.77,
    "prev": 84081.914,
    "spark": [
-    84125.9922,
-    84171.5625,
-    84143.8281,
-    84152.6484,
-    84152.6406,
-    84178.9219,
-    84161.0234,
-    84146.3906,
-    84160.6484,
-    84194.8594,
-    84158.2109,
-    84160.2109,
-    84167.8984,
-    84155.1328,
-    84091.0391,
-    84134.0,
-    84125.8281,
-    84173.0,
-    84091.0391,
-    84084.7969,
-    84110.3828,
-    84080.0625,
-    84035.7422,
-    84058.9922,
-    84036.1484,
-    84053.7812,
-    84057.4922,
-    84059.9219,
-    84000.2266,
-    83986.7188,
-    83934.3984,
-    83920.25,
-    83887.8828,
-    83917.6797,
-    83909.3594,
-    83931.1719,
-    83942.6328,
-    83935.1016,
-    83907.9531,
-    83907.9531
+    83987.6484,
+    83998.5312,
+    84006.4062,
+    84016.3516,
+    84020.25,
+    84014.5625,
+    84031.9766,
+    84012.0469,
+    84010.6719,
+    84028.3984,
+    84047.6797,
+    84047.6016,
+    84130.7578,
+    84121.0312,
+    84122.8594,
+    84066.0469,
+    84143.7266,
+    84146.8594,
+    84133.0938,
+    84133.0,
+    84113.5781,
+    84117.0938,
+    84095.5938,
+    84101.8281,
+    84149.9922,
+    84141.3828,
+    84138.6328,
+    84140.0234,
+    84150.3281,
+    84104.2969,
+    84081.7188,
+    84078.4062,
+    84076.3203,
+    84054.2734,
+    84047.0234,
+    84044.3516,
+    84025.1094,
+    84078.7109,
+    84059.9922,
+    84069.7734
    ]
   },
   "eth": {
-   "price": 2685.01,
+   "price": 2687.89,
    "prev": 2691.2156,
    "spark": [
-    2686.3999,
-    2686.9199,
-    2686.1201,
-    2686.24,
-    2687.1399,
-    2689.28,
-    2688.25,
-    2687.8501,
-    2688.6499,
-    2689.8,
-    2689.6001,
-    2689.6299,
-    2689.0601,
-    2688.95,
-    2687.1599,
-    2688.97,
-    2688.8999,
-    2689.3601,
-    2689.71,
-    2690.1799,
-    2689.8301,
-    2686.6399,
-    2686.51,
-    2688.3101,
+    2688.1201,
+    2687.1101,
     2687.9099,
-    2688.55,
-    2688.6201,
-    2688.77,
-    2687.52,
-    2686.3501,
-    2684.6599,
-    2684.45,
-    2682.71,
-    2683.02,
-    2683.05,
-    2684.5701,
-    2685.8899,
-    2686.23,
-    2685.3501,
-    2685.01
+    2687.5801,
+    2688.4099,
+    2688.54,
+    2689.1799,
+    2689.1699,
+    2689.03,
+    2689.45,
+    2689.8999,
+    2690.48,
+    2693.46,
+    2692.6599,
+    2692.8301,
+    2689.22,
+    2692.5701,
+    2692.5,
+    2690.9399,
+    2691.6201,
+    2691.1599,
+    2691.21,
+    2689.8101,
+    2690.48,
+    2693.3301,
+    2692.79,
+    2691.6599,
+    2691.49,
+    2690.1399,
+    2691.01,
+    2689.24,
+    2688.28,
+    2687.5601,
+    2686.9299,
+    2687.55,
+    2687.5601,
+    2686.99,
+    2688.76,
+    2686.9199,
+    2687.8899
    ]
   },
   "eurkrw": {
@@ -1114,34 +1114,22 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56d3kzdnVUNWgtXzZYN3JRS0FNRGxmWEs1RzJWdUZJNkpyM3l2STJ5MHZFQ0g0dXlaV2phX09icU9Wbk1Tbm5PUG5rY3E5WkxSbVJkY1JoWkx3VUE?oc=5"
   },
   {
+   "title": "“석달후 10만달러 간다고?”…3대 변수만 맞으면 비트코인 시세 급등한다",
+   "source": "문화일보",
+   "time": "2026-09-27T02:19:59+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nd01hdG0ybDNTYnN5NVlQRHNxb3hfOU5FYUt6NnZQR1ZMdkVuQ3dhVUd4R2FHQjRVU0ptbS1WQW4wMDFySlF1cVJXVHJkMmxr?oc=5"
+  },
+  {
    "title": "“NYSE·나스닥 러브콜 받아도 한국 먼저”…딥엑스, 내년 IPO 준비 검토",
    "source": "매일경제 마켓",
    "time": "2026-09-26T21:27:35+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwRlZKbVFaTmxlaWdmaXVNUEg1bkVVczFPa0VtSUtGTldSczJ2VnJiYk5LOVU3Q2VtcEZpOUZ2QTNUUEx3MHlVdzBZR3BrY0JVTFE?oc=5"
   },
   {
-   "title": "비트코인 84,000달러 선 유지, 채권 수익률 상승이 규제 진전 효과 상쇄",
+   "title": "채권 금리 상승이 규제 진전을 상쇄하며 비트코인 8만4천 달러 선 유지",
    "source": "Investing.com 한국어",
    "time": "2026-09-26T13:54:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yWEpYX2ljRi1RUnk0aG5lUE5QaE1oaEZjV1hfNmdWTU82QnF6cUNPWEoxUDJkSmM2MkVGdENqSEFIdUtIYlRtb2hNaWhfZ2szRkJzVXlCMVdkZkJCQUtRNk9Bblk4MG9YUE5yanhTZXJKdjQ?oc=5"
-  },
-  {
-   "title": "주식 계좌 개설 건수 2배 이상 늘었다... 상반기 코스피 급등 영향 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-09-26T06:18:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmxra3hyTjBqaExna2ZCMzVRZ1lHX18wZjJSc0p1cVVwemJob01yY2hCdzd0eThPQUJkMnJFeTdjaUU3UnNGVkxtZFRFTno2QUpWRFFjQ3IxTU9jUDRYQ21SNWo1OVZXeF9mVzJHS1ZQMlNZSDZ2c0p0WEthUjFBWHpRWWtORTU20gGcAUFVX3lxTE1IV0hfMkV1MDY2U1BEa1FjZlJSRkNoMVlFQ1JTbUg0U3RYaXR4UnpGbThIeV8xNTBZLVlzYS1UdGdxdWVlSE5INjZIY2huSGVvY1JSTWpwSFNDMkhYZ0huZ05pd3RUUEgwSTJOMmM2M19wcXAwYVNFMHoxd1hXcEdsQk1tc2lVemY1Z3M4WlhiUEVMTG9aZ3p1RnJYeQ?oc=5"
-  },
-  {
-   "title": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
-   "source": "v.daum.net",
-   "time": "2026-09-26T15:39:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aenQyVUJSdVYyTXprY3pTZUx2N19XTnhrVlFITUE2R1lkRXJwaXgwa0NOYWc5SkNjRFlLWWg4NmJRa3NmTmJRZFBiVFpsQWs?oc=5"
-  },
-  {
-   "title": "[9월 넷째 주 세계경제동향 브리핑] 코스피 7,000선 회복…한미 증시 동반 상승",
-   "source": "기호일보",
-   "time": "2026-09-26T09:50:57+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85X0JIS3RjSVJLaTcwbThXMDdjSEt0Z3Y1UXZHakV0bkM5aTUtcjVCM1NrM3Y3V0ZqRTgtbHJGMnBYbWp6eXFXX0p3OTZvekFMVmtpX21rUDZpYWVZTjJfbWtybzFDQnZwdlo1NUN6OA?oc=5"
   },
   {
    "title": "'고공행진' 건설공사비, 환율·유가 엇갈려도 오름세 유지될까",
@@ -1150,16 +1138,34 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aUFRXQ0xDRmhuVFZnTW9lVVU4Q1loNXFYRmVWdnFRWVFiQU9xcl9FdERWSmhfTFROd1VYMVh4YXNMZ0V2UHBRVERaUXVKdklzSWg2WEZUcmRoeV9GR3RUb2dRTGw4a2VPYXoyOS1lbWs?oc=5"
   },
   {
-   "title": "[분석] \"비트코인, 온체인 지표상 '강세장' 진입\"",
-   "source": "bloomingbit.io",
-   "time": "2026-09-26T16:43:29+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zRHUwaTl4cUdyNUZncDE3V21jTENmMHdRM0tIS2pYZjhGWFctbTlLRzViREZKb3R2RXByT0lic0szSk5qelRieDE4S2QzRUJ3?oc=5"
-  },
-  {
    "title": "1억1000만원대 회복한 비트코인…고금리에도 상승세 이어갈까",
    "source": "한국경제",
    "time": "2026-09-26T10:56:12+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icUNva2U2dDlRX1pYTW1PZ1NSS0RoWlZoYlBacDloUXNLYmo4b184TmpDZ1lBeENmMnZFUktTSnZVWmsweUdQNmY5Q09yeU5YSGdQZjhrWG01QQ?oc=5"
+  },
+  {
+   "title": "[9월 넷째 주 세계경제동향 브리핑] 코스피 7,000선 회복…한미 증시 동반 상승",
+   "source": "kihoilbo.co.kr",
+   "time": "2026-09-26T09:50:57+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85X0JIS3RjSVJLaTcwbThXMDdjSEt0Z3Y1UXZHakV0bkM5aTUtcjVCM1NrM3Y3V0ZqRTgtbHJGMnBYbWp6eXFXX0p3OTZvekFMVmtpX21rUDZpYWVZTjJfbWtybzFDQnZwdlo1NUN6OA?oc=5"
+  },
+  {
+   "title": "[D-BIZ 암호화폐 뉴스] 비트코인, 네트워크 손대지 않고 프라이버시 강화…Zcash 방식 '실디드 비트코인' 제안",
+   "source": "데일리비즈온",
+   "time": "2026-09-26T15:25:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GaDlyd0xiT0REdWN3UjY5Q0tPVkNFRFFzRXA1dDJpZzhsRG9qYV85X25wclpJRTFUV2F2aHlFbzI0NUpKOVRlTU00djlFS3JzbWhqZkFvQkxLMExCa2JqWnJOR0V0aUlsQjA0cg?oc=5"
+  },
+  {
+   "title": "\"나스닥 신고가인데 신저가 종목 속출…확실한 주도주로 좁혀야\"",
+   "source": "뉴시스",
+   "time": "2026-09-27T00:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sZGxQREc1OW9fSUY0UFh5bDAybHFOUm5lOVQwektKNlNZbzY3Q2FtcjdEM2o2RkItRWJQdU0zVS04WXYwU1BVdDRMMGNkTjZKdktET0RfSlFWS3NSSVZwM9IBeEFVX3lxTE1HOXdiYU1TbXNXOUNwU0JaTDFwTmxQeV9DdjlsQ1g1alBvVVhJRV9MWHNYRjRnQlpGVHlGZm1Ed05fd1FLTURoZE1tM3FrdE1Fb2JwN0hHWm1GUDBfV0E4NVQ4QWlzQXkxTUpjR3hycURkdk9BdnpibQ?oc=5"
+  },
+  {
+   "title": "[분석] \"비트코인, 미실현 수익률 20개월래 최고 수준…조정 위험\"",
+   "source": "블루밍비트",
+   "time": "2026-09-26T19:11:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4bTBoVkN6YWRBdjlQSndrVEpMZTZudWxBdjJkVUlCREllZzdnZjBiSWNqaFhpUXY1SWduNGI2a2ZlQVV4ZW1CMzBmYWV4MjRs?oc=5"
   },
   {
    "title": "코스피 7000선 웃돌아도…52주 신저가 종목, 신고가의 3.6배",
@@ -1168,28 +1174,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45eFZYc0s1R2NzR19hLXdPbTFvWGxnTGM4dDZQUUczV2ZVN1NEUlpqM3pmN2Rpc09GQ2YwNDV5dmhEaWNGNHBEZExMbk1HSmwxR1NlNWx1aXBLZw?oc=5"
   },
   {
+   "title": "코스피 7000선인데…상한가 종목 ‘반토막’·신저가는 속출",
+   "source": "아시아투데이",
+   "time": "2026-09-26T16:22:51+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HWkkwVVBhRi1mT3dETngyN0Y0MWQtTmVJbHl1Z1BRaFBvWFFkelhLZXMxaTl4VWc1aTY3b2ZIWk1VT0dzb3J0RzMtWVgwaUItWjNibnh3Uzh1Z25zd1JsS0poY0JKdTl6d0ctRTFR?oc=5"
+  },
+  {
    "title": "S&P500·나스닥…美 대표지수 ETF로 몰리는 자금",
    "source": "ebn.co.kr",
    "time": "2026-09-26T11:29:03+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKeHYxMEE4MkxGY210SUR2elhTSzdRVXJSemFPV0JLelZTT2tDbllveFRmZUJVTG5wTFlCSjZpRjhLNUNDZHBGc0ZjcXJReFNsVHJraGhiVWlqMTROSU5fVXVCSGVOWHU2?oc=5"
   },
   {
-   "title": "환율 끌어내린 조선사 선물환…'미래 달러' 추가 매도 여력은",
-   "source": "연합인포맥스",
-   "time": "2026-09-26T07:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40VzR5ZndlMTh3a2Jrd1VzVDNFOXlBVmZ2cElsRWpqanItUkJsTFNZelo2TlNmSXVSTENwYlY4TktfMEdSai1QMWhBblpIaHBIX3VScG1ZZGpRV05SelU1Qmo3M282S2NLcm1qU3J2Y0c?oc=5"
-  },
-  {
-   "title": "[분석] \"비트코인 장기 보유자 매도세 진정…이성 되찾는 중\"",
-   "source": "bloomingbit.io",
-   "time": "2026-09-26T19:07:15+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oS1BkTEJGaTV4Z0lZX3ZrMXNNdEczOElFcF9RWjFERGVBcm5WOThLYURvVkYwT0tKdDcydVpLeXFpZ0JNcElkdFdydEl5eW9s?oc=5"
-  },
-  {
-   "title": "환율 하락에 항공주 수혜…식음료는 딜레마",
+   "title": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
    "source": "v.daum.net",
-   "time": "2026-09-26T10:18:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3cUxScWY2WnlsZUFuelJZay1VU3BLVVFWQk9EZHdndzNoRjdGWVlWZFY3LURGQldMX21ZbTRLRW96Tnk5TWlVVV9OVDlkLW8?oc=5"
+   "time": "2026-09-26T15:39:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aenQyVUJSdVYyTXprY3pTZUx2N19XTnhrVlFITUE2R1lkRXJwaXgwa0NOYWc5SkNjRFlLWWg4NmJRa3NmTmJRZFBiVFpsQWs?oc=5"
   }
  ]
 }
