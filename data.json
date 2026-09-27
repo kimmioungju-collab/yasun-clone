@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T01:48:39.291409+09:00",
+ "updated": "2026-09-28T04:53:24.103433+09:00",
  "quotes": {
   "k200": {
    "price": 1126.12,
@@ -187,17 +187,17 @@
   },
   "nq": {
    "price": 30889.25,
-   "prev": 30766.75,
+   "prev": 30889.25,
    "spark": []
   },
   "es": {
    "price": 7803.75,
-   "prev": 7767.0,
+   "prev": 7803.75,
    "spark": []
   },
   "ndx": {
    "price": 27068.717,
-   "prev": 26939.373,
+   "prev": 26939.4,
    "spark": [
     27066.8965,
     27075.2578,
@@ -243,7 +243,7 @@
   },
   "sox": {
    "price": 12668.929,
-   "prev": 12492.536,
+   "prev": 12492.5,
    "spark": [
     12702.3516,
     12701.9141,
@@ -289,7 +289,7 @@
   },
   "nikkei": {
    "price": 66364.2,
-   "prev": 65513.99,
+   "prev": 65514.0,
    "spark": [
     66316.4297,
     66318.1406,
@@ -335,27 +335,27 @@
   },
   "wti": {
    "price": 92.41,
-   "prev": 94.61,
+   "prev": 92.41,
    "spark": []
   },
   "brent": {
    "price": 97.44,
-   "prev": 100.22,
+   "prev": 97.44,
    "spark": []
   },
   "gold": {
    "price": 4321.2,
-   "prev": 4298.0,
+   "prev": 4321.2,
    "spark": []
   },
   "silver": {
    "price": 64.801,
-   "prev": 64.002,
+   "prev": 64.801,
    "spark": []
   },
   "gas": {
    "price": 3.225,
-   "prev": 3.37,
+   "prev": 3.225,
    "spark": []
   },
   "vix": {
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1355.28,
+   "price": 1353.42,
    "prev": 1365.59,
    "spark": [
     1355.98,
@@ -451,99 +451,99 @@
    ]
   },
   "btc": {
-   "price": 84403.66,
+   "price": 84754.57,
    "prev": 84429.016,
    "spark": [
-    84880.8828,
-    84780.1328,
-    84905.5312,
-    84881.6562,
-    85029.3438,
-    84907.3984,
-    85033.4531,
-    84986.2734,
-    84934.0781,
-    84819.1562,
-    84695.7969,
-    84747.0703,
-    84723.0,
-    84718.4688,
-    84519.4688,
-    84621.8906,
-    84520.0,
-    84453.4375,
-    84499.4609,
-    84480.3906,
-    84552.0391,
-    84558.6875,
-    84605.3516,
-    84501.5703,
-    84467.3203,
-    84417.7031,
-    84487.2422,
-    84437.75,
-    84449.4766,
-    84530.0312,
-    84581.9609,
-    84552.8125,
-    84575.0312,
-    84571.7422,
-    84556.4062,
-    84506.8438,
-    84457.8281,
-    84369.4375,
-    84402.7734,
-    84403.6562
+    84367.9375,
+    84408.5078,
+    84393.7578,
+    84410.6875,
+    84451.2188,
+    84371.3203,
+    84370.9375,
+    84433.0078,
+    84447.0781,
+    84416.4297,
+    84478.6172,
+    84484.5234,
+    84467.7578,
+    84559.9922,
+    84542.3516,
+    84559.7422,
+    84544.3594,
+    84564.0078,
+    84593.0,
+    84626.2188,
+    84675.7969,
+    84732.8828,
+    84706.7266,
+    84717.6719,
+    84751.6875,
+    84740.6328,
+    84737.9297,
+    84798.7266,
+    84725.7891,
+    84775.6719,
+    84775.0078,
+    84826.4219,
+    84759.7812,
+    84689.5,
+    84684.7188,
+    84760.8281,
+    84762.3516,
+    84780.5312,
+    84757.4766,
+    84754.5703
    ]
   },
   "eth": {
-   "price": 2686.8,
+   "price": 2692.47,
    "prev": 2695.67,
    "spark": [
-    2704.24,
-    2702.8701,
-    2706.6001,
-    2705.5,
-    2709.3701,
-    2704.74,
-    2709.79,
-    2706.29,
-    2703.6799,
-    2697.25,
-    2689.95,
-    2693.3401,
-    2688.5801,
-    2690.25,
-    2687.6799,
-    2689.24,
-    2687.3999,
-    2683.3201,
-    2688.05,
-    2687.3201,
-    2689.8,
-    2689.5901,
-    2689.8,
-    2687.22,
-    2688.04,
-    2687.02,
-    2690.6101,
-    2689.98,
-    2689.5,
-    2691.77,
-    2693.1599,
-    2692.5,
-    2693.1899,
-    2692.3201,
-    2690.3601,
-    2688.8799,
-    2687.01,
-    2685.03,
-    2687.0,
-    2686.8
+    2685.04,
+    2686.5701,
+    2686.0801,
+    2685.8999,
+    2689.0,
+    2687.03,
+    2687.6499,
+    2688.1699,
+    2687.5801,
+    2685.6699,
+    2688.51,
+    2687.76,
+    2687.3799,
+    2690.8999,
+    2690.0601,
+    2690.5901,
+    2689.3899,
+    2689.75,
+    2691.73,
+    2694.3999,
+    2695.01,
+    2697.1001,
+    2695.6499,
+    2695.3301,
+    2696.78,
+    2697.6799,
+    2696.8999,
+    2697.6399,
+    2693.72,
+    2694.6799,
+    2694.2,
+    2696.0,
+    2693.78,
+    2691.78,
+    2690.45,
+    2693.0901,
+    2692.5701,
+    2693.5901,
+    2692.5601,
+    2692.47
    ]
   },
   "eurkrw": {
-   "price": 1543.2,
+   "price": 1540.6,
    "prev": 1553.2,
    "spark": [
     1543.8,
@@ -589,7 +589,7 @@
    ]
   },
   "jpykrw": {
-   "price": 8.597,
+   "price": 8.585,
    "prev": 8.578,
    "spark": [
     8.598,
@@ -635,7 +635,7 @@
    ]
   },
   "cnykrw": {
-   "price": 201.964,
+   "price": 201.687,
    "prev": 203.359,
    "spark": [
     202.225,
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 157.185,
+   "price": 157.18,
    "prev": 158.774,
    "spark": [
     157.261,
@@ -804,8 +804,20 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15c2kzUmhFUTFEdVBwUW5MZUVyVE9kbkN5WG1yNG9WcHBMSzV6V0dveVJWTnE4RXFkbVNzVmlNRTRyUnNBN3NDMXE0VWpDVms3cEdsaS1GcWRSNVhyX2JGMjF1T19qSWtvQ1cxdjV0LXR6WDg?oc=5"
   },
   {
+   "title": "올 수익률 1위 ‘코스피200 ETF’, 정기예금의 40.6배",
+   "source": "동아일보",
+   "time": "2026-09-28T00:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ETGFFM19LQ1IwNUJqNklJNG9FbURzYUM1bTRaWEtFYmNSTUxld1VnR0w4NFdPWWxRSm9nUXZrRElnN0Vidmh2THVPMUxYNmRIOW1wVHA0dGlaWS1LVlY5OUNnamhQd1I3M3BvYk1vTVFxWWVhNEHSAWZBVV95cUxNNEk1Wk5YclV2OFJlbjNFTnNneWlwLU1jbWwydENZeWpWTExzaXR2R3ZaNjlFYjRVUkZtX0paYlVBYzVCbHhjTDJzR2dCN0x0S0UtckNXZlAzdHlqb0pvSThfTC1vSnc?oc=5"
+  },
+  {
+   "title": "올해 재테크 수익률 1위는? 코스피200 ETF",
+   "source": "inews24.com",
+   "time": "2026-09-27T20:25:47+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CN1laa0lLSm93d2huYTRkMVJORGlmc0hVb1FlWkc0TGwxWktULUFpWWRSOG5CejlJMF9UTEV4OTdWMl9nLTZOOFdtTQ?oc=5"
+  },
+  {
    "title": "수출호조·환율안정에 제조업 경기전망 개선…반도체 역대 최대",
-   "source": "yna.co.kr",
+   "source": "연합뉴스",
    "time": "2026-09-27T12:00:01+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ORDdQSTVaTDQyVnVxUE80dnhYRkJhV3RQWl9yeG1VMUxXRThOOUlJQ0tPVWxMRkRXY3RaSFpNVjdHcG5KanY0M2tpWlM5MjFCS0hGSFNGdE52N0HSAWBBVV95cUxOUXFXRmdGYWxWNk5XQTdfU3BrelFlaFdPa2otczVmWkdod1JldFZ0czVYR1hzRHkteXlDZFFjWEFFU2R1aXQ3aTZUUEl6ZVNrNGJKUXJrNHZYN1Y0N3FvNXE?oc=5"
   },
@@ -814,12 +826,6 @@
    "source": "연합뉴스TV",
    "time": "2026-09-27T08:48:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QTFFNMkt1NlZPQ0E1ckZLVUxsYjFTVU9DWFBiQjFqaVlKYWFtRGN0N2ZjRHZhZ2VRbmFZQnZYQ3FHdnp5NkFqQVJmYzFab1lnQ0ZlMVltRWJvSW9jZUswRTFZdWl2NVk?oc=5"
-  },
-  {
-   "title": "올해 재테크 수익률 1위는? 코스피200 ETF",
-   "source": "아이뉴스24",
-   "time": "2026-09-27T20:25:47+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CN1laa0lLSm93d2huYTRkMVJORGlmc0hVb1FlWkc0TGwxWktULUFpWWRSOG5CejlJMF9UTEV4OTdWMl9nLTZOOFdtTQ?oc=5"
   },
   {
    "title": "8만3000달러 갈림길 선 비트코인… 코웬 \"가짜 돌파 경계\"",
@@ -834,18 +840,6 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUFhEUERoeG1rNUFvV3MycG9yMmlobm85SVhUemtKZUJnQW4yaldua0FaMExoTjNud2ZPQjZxdWVXemxWQ0xuQXVhcTE0VDA0TTF3RkI5aUEyR2pwQm9tempiTXdBZF9wZ0Faa2sxd0vSAXRBVV95cUxPc3Uwd2ZzTWNIWmlaSnA4WVJTWWwwN0JtSFk0NEczRVI5T2xTa0JnUnQ0MUN3QU5hd2t1LU9XV0FnaDJaYU1SN095ekt5QklYOXd1dU9zT2lBLTlVVXV1STdtSnBSd2VlZTlocFZOejAyVUd1Yw?oc=5"
   },
   {
-   "title": "올 수익률 1위 ‘코스피200 ETF’, 정기예금의 40.6배",
-   "source": "동아일보",
-   "time": "2026-09-28T00:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ETGFFM19LQ1IwNUJqNklJNG9FbURzYUM1bTRaWEtFYmNSTUxld1VnR0w4NFdPWWxRSm9nUXZrRElnN0Vidmh2THVPMUxYNmRIOW1wVHA0dGlaWS1LVlY5OUNnamhQd1I3M3BvYk1vTVFxWWVhNEHSAWZBVV95cUxNNEk1Wk5YclV2OFJlbjNFTnNneWlwLU1jbWwydENZeWpWTExzaXR2R3ZaNjlFYjRVUkZtX0paYlVBYzVCbHhjTDJzR2dCN0x0S0UtckNXZlAzdHlqb0pvSThfTC1vSnc?oc=5"
-  },
-  {
-   "title": "\"코스피 4분기 7700 예상…국내보다 미국 주식 유망\"",
-   "source": "한국경제",
-   "time": "2026-09-27T17:06:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UDFCejdxR2M4WUxhbkp3MXFrT2VZaEcwZGRPM1VNY2x2OG9tWktEbWQ2d05pOUNSZXBxNVIzamZCaGxWV1ZkVHZqSEtxZkNCeFR4MzdXeWFlZw?oc=5"
-  },
-  {
    "title": "유가·환율에 엇갈린 3분기 실적 … 정유·항공 ↑ 석화·전기 ↓",
    "source": "매일경제 마켓",
    "time": "2026-09-27T16:39:09+09:00",
@@ -856,6 +850,12 @@
    "source": "Chosunbiz",
    "time": "2026-09-27T17:55:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXdxckN4bl80bXozSkU0MlUtS0wxVTZsTHl4X0tfQk1QYXZvVHRHYkk4UkNPMzV2V0NfSFBScFhZV1JnbjFvb1V3MVk2N2pTTVR1ekN2WGxqNFlnd0xFdlR5TU8wcmQ4XzNKUnd1YmNHMXpHb0hSMVF3Q25seXhKRNIBlAFBVV95cUxOc19PWGZFbVRuYmhpY0lsSVZfV1FrLU4taFQyTmxBRWhjLS1Ld3NIVE4wT1pCV3NRS2gxc2pTSUFtakMyaWo3SXNibGEzd2tHN3pLZFQ0cG5VaG5hdTV0QVFsTkVJbmM2bWxKWFFKZlo5d1dCVlAxMFV1QnIwVlpsQWJWY2xCeW9ObDBCdWtLRkFMYzU5?oc=5"
+  },
+  {
+   "title": "[김한진의 마켓 나우] 좋은 금리 인상은 증시도 살린다",
+   "source": "중앙일보",
+   "time": "2026-09-28T00:04:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85UlU5Mkl2YjdqRGJ0M3FsSnpnTmxpVmpyV3I3alBrZG9FWnVDc05aNURXdHg3Q2ExdWVQYzVFdmN6Q1AyYmQwRWhlazBWYmNHQy1nVnJR?oc=5"
   },
   {
    "title": "7,000선 사수 코스피, 연휴 이후 변수는?",
