@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T04:53:24.103433+09:00",
+ "updated": "2026-09-28T07:39:50.830733+09:00",
  "quotes": {
   "k200": {
    "price": 1126.12,
@@ -186,14 +186,26 @@
    ]
   },
   "nq": {
-   "price": 30889.25,
+   "price": 30826.25,
    "prev": 30889.25,
-   "spark": []
+   "spark": [
+    30821.25,
+    30820.25,
+    30822.25,
+    30823.75,
+    30826.25
+   ]
   },
   "es": {
-   "price": 7803.75,
+   "price": 7785.75,
    "prev": 7803.75,
-   "spark": []
+   "spark": [
+    7786.25,
+    7786.0,
+    7786.75,
+    7785.75,
+    7785.75
+   ]
   },
   "ndx": {
    "price": 27068.717,
@@ -334,29 +346,59 @@
    ]
   },
   "wti": {
-   "price": 92.41,
+   "price": 93.28,
    "prev": 92.41,
-   "spark": []
+   "spark": [
+    93.27,
+    93.19,
+    93.27,
+    93.29,
+    93.28
+   ]
   },
   "brent": {
-   "price": 97.44,
+   "price": 98.57,
    "prev": 97.44,
-   "spark": []
+   "spark": [
+    98.73,
+    98.57,
+    98.58,
+    98.58,
+    98.57
+   ]
   },
   "gold": {
-   "price": 4321.2,
+   "price": 4304.0,
    "prev": 4321.2,
-   "spark": []
+   "spark": [
+    4301.1001,
+    4303.1001,
+    4303.5,
+    4303.5,
+    4304.0
+   ]
   },
   "silver": {
-   "price": 64.801,
+   "price": 64.38,
    "prev": 64.801,
-   "spark": []
+   "spark": [
+    64.345,
+    64.34,
+    64.355,
+    64.38,
+    64.38
+   ]
   },
   "gas": {
-   "price": 3.225,
+   "price": 3.114,
    "prev": 3.225,
-   "spark": []
+   "spark": [
+    3.109,
+    3.115,
+    3.12,
+    3.114,
+    3.114
+   ]
   },
   "vix": {
    "price": 14.87,
@@ -405,7 +447,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1353.42,
+   "price": 1354.92,
    "prev": 1365.59,
    "spark": [
     1355.98,
@@ -451,99 +493,99 @@
    ]
   },
   "btc": {
-   "price": 84754.57,
+   "price": 84226.88,
    "prev": 84429.016,
    "spark": [
-    84367.9375,
-    84408.5078,
-    84393.7578,
-    84410.6875,
-    84451.2188,
-    84371.3203,
-    84370.9375,
-    84433.0078,
-    84447.0781,
-    84416.4297,
-    84478.6172,
-    84484.5234,
-    84467.7578,
-    84559.9922,
-    84542.3516,
-    84559.7422,
-    84544.3594,
-    84564.0078,
-    84593.0,
-    84626.2188,
-    84675.7969,
-    84732.8828,
-    84706.7266,
-    84717.6719,
-    84751.6875,
-    84740.6328,
-    84737.9297,
-    84798.7266,
-    84725.7891,
-    84775.6719,
-    84775.0078,
-    84826.4219,
-    84759.7812,
     84689.5,
     84684.7188,
     84760.8281,
     84762.3516,
     84780.5312,
-    84757.4766,
-    84754.5703
+    84727.8203,
+    84717.8125,
+    84754.9766,
+    84765.1172,
+    84800.2031,
+    84758.3516,
+    84629.25,
+    84604.8281,
+    84577.1562,
+    84601.6406,
+    84626.9297,
+    84552.5391,
+    84533.8125,
+    84532.2031,
+    84604.4297,
+    84613.1719,
+    84674.1719,
+    84667.9766,
+    84671.0,
+    84594.3984,
+    84587.1094,
+    84513.9219,
+    84544.3125,
+    84663.5469,
+    84670.25,
+    84663.4297,
+    84457.6797,
+    84386.7812,
+    84320.2031,
+    84437.4062,
+    84506.4922,
+    84538.4062,
+    84259.0,
+    84209.8125,
+    84226.8828
    ]
   },
   "eth": {
-   "price": 2692.47,
+   "price": 2672.74,
    "prev": 2695.67,
    "spark": [
-    2685.04,
-    2686.5701,
-    2686.0801,
-    2685.8999,
-    2689.0,
-    2687.03,
-    2687.6499,
-    2688.1699,
-    2687.5801,
-    2685.6699,
-    2688.51,
-    2687.76,
-    2687.3799,
-    2690.8999,
-    2690.0601,
-    2690.5901,
-    2689.3899,
-    2689.75,
-    2691.73,
-    2694.3999,
-    2695.01,
-    2697.1001,
-    2695.6499,
-    2695.3301,
-    2696.78,
-    2697.6799,
-    2696.8999,
-    2697.6399,
-    2693.72,
-    2694.6799,
-    2694.2,
-    2696.0,
-    2693.78,
     2691.78,
     2690.45,
     2693.0901,
     2692.5701,
     2693.5901,
-    2692.5601,
-    2692.47
+    2691.97,
+    2690.9299,
+    2693.4099,
+    2693.95,
+    2695.6799,
+    2694.45,
+    2689.98,
+    2688.3101,
+    2689.5701,
+    2689.74,
+    2691.1001,
+    2686.8899,
+    2685.6599,
+    2685.53,
+    2687.8601,
+    2688.0601,
+    2691.1799,
+    2689.54,
+    2689.99,
+    2686.71,
+    2686.45,
+    2680.8601,
+    2681.9099,
+    2683.8401,
+    2683.8601,
+    2684.0701,
+    2676.95,
+    2676.0901,
+    2672.75,
+    2678.3,
+    2681.99,
+    2683.05,
+    2672.51,
+    2672.78,
+    2672.74
    ]
   },
   "eurkrw": {
-   "price": 1540.6,
+   "price": 1541.2,
    "prev": 1553.2,
    "spark": [
     1543.8,
@@ -589,7 +631,7 @@
    ]
   },
   "jpykrw": {
-   "price": 8.585,
+   "price": 8.574,
    "prev": 8.578,
    "spark": [
     8.598,
@@ -635,7 +677,7 @@
    ]
   },
   "cnykrw": {
-   "price": 201.687,
+   "price": 201.653,
    "prev": 203.359,
    "spark": [
     202.225,
@@ -681,7 +723,7 @@
    ]
   },
   "usdjpy": {
-   "price": 157.18,
+   "price": 157.607,
    "prev": 158.774,
    "spark": [
     157.261,
@@ -727,9 +769,10 @@
    ]
   },
   "eurusd": {
-   "price": 1.1401,
+   "price": 1.1383,
    "prev": 1.138,
    "spark": [
+    1.1395,
     1.1396,
     1.1396,
     1.1397,
@@ -768,8 +811,7 @@
     1.1392,
     1.1392,
     1.1392,
-    1.1392,
-    1.1401
+    1.1392
    ]
   },
   "dxy": {
@@ -781,9 +823,15 @@
  "news": [
   {
    "title": "7천선 안착 코스피...미 국채 금리·마이크론 실적 주목",
-   "source": "YTN",
+   "source": "ytn.co.kr",
    "time": "2026-09-27T18:50:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ac2hDUHlrT09rbC1tUnNta3Rjc1dDa3dtbnJjbG8yeDNCZ0Y5SXI4WVZndG1rMXhwYWwtLXFDZHpSdW5IZ3gtdGNhUl9reVlyQ3MwdnJKN1JsRmpvQ0E?oc=5"
+  },
+  {
+   "title": "\"금도 비트코인도 아니었다\"…올해 재테크 수익률 1위는 코스피200",
+   "source": "v.daum.net",
+   "time": "2026-09-28T04:21:29+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tdjlWV1ZBZDEtNWhhM2xwQllJbGYtazN4STc1NjFDM3VRQXBJOFZxY2tjSGZWYldwOEp3eFJYTDZOZ2hrUUFTNVRKeEpLaHM?oc=5"
   },
   {
    "title": "반도체·증시 호조에 세수 ‘껑충’…올해 50조 더 걷힌다",
@@ -792,10 +840,10 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NM2NkMHRQUWxSaEI2WFladG93WGxfaktlVnNqS3FjZlphSW1UWVpsRzBRQ0VCMmRKWHBnLU9KblRqeEptTWJydUFfcDlUTEVJV2JHQw?oc=5"
   },
   {
-   "title": "폭락장 겪었어도… 올 최고 수익 자산은‘코스피200 ETF’",
-   "source": "v.daum.net",
-   "time": "2026-09-28T00:26:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFUFRjbm5TbzNjQ29CMXNsRldSZ3VvRkU4X3p6dWJiZENuODVrQjdvQ25obDFiemh3Ym5Nd3RYa0ZxX05HRHpnRWFLNXRZd3c?oc=5"
+   "title": "연 5% 美 국채·마이크론·외국인…증시 향방 가를 3대 변수",
+   "source": "한국경제",
+   "time": "2026-09-28T07:00:05+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwYTl5a3gyakFVcGZVNFNNTGs2ejV1WHRPRzd1VUZmNERFRUh2Y3I2T1RCUGswUzVEN0tBY3c4bkpuNi1Jb3dWWExoYnRVOEUwUk14aEcwSG0wUQ?oc=5"
   },
   {
    "title": "비트코인, 역대 두 번째 최강 3분기 마무리 앞두고 $84,000 위 안정",
@@ -804,28 +852,16 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15c2kzUmhFUTFEdVBwUW5MZUVyVE9kbkN5WG1yNG9WcHBMSzV6V0dveVJWTnE4RXFkbVNzVmlNRTRyUnNBN3NDMXE0VWpDVms3cEdsaS1GcWRSNVhyX2JGMjF1T19qSWtvQ1cxdjV0LXR6WDg?oc=5"
   },
   {
+   "title": "[김한진의 마켓 나우] 좋은 금리 인상은 증시도 살린다",
+   "source": "중앙일보",
+   "time": "2026-09-28T00:04:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85UlU5Mkl2YjdqRGJ0M3FsSnpnTmxpVmpyV3I3alBrZG9FWnVDc05aNURXdHg3Q2ExdWVQYzVFdmN6Q1AyYmQwRWhlazBWYmNHQy1nVnJR?oc=5"
+  },
+  {
    "title": "올 수익률 1위 ‘코스피200 ETF’, 정기예금의 40.6배",
-   "source": "동아일보",
+   "source": "donga.com",
    "time": "2026-09-28T00:30:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ETGFFM19LQ1IwNUJqNklJNG9FbURzYUM1bTRaWEtFYmNSTUxld1VnR0w4NFdPWWxRSm9nUXZrRElnN0Vidmh2THVPMUxYNmRIOW1wVHA0dGlaWS1LVlY5OUNnamhQd1I3M3BvYk1vTVFxWWVhNEHSAWZBVV95cUxNNEk1Wk5YclV2OFJlbjNFTnNneWlwLU1jbWwydENZeWpWTExzaXR2R3ZaNjlFYjRVUkZtX0paYlVBYzVCbHhjTDJzR2dCN0x0S0UtckNXZlAzdHlqb0pvSThfTC1vSnc?oc=5"
-  },
-  {
-   "title": "올해 재테크 수익률 1위는? 코스피200 ETF",
-   "source": "inews24.com",
-   "time": "2026-09-27T20:25:47+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CN1laa0lLSm93d2huYTRkMVJORGlmc0hVb1FlWkc0TGwxWktULUFpWWRSOG5CejlJMF9UTEV4OTdWMl9nLTZOOFdtTQ?oc=5"
-  },
-  {
-   "title": "수출호조·환율안정에 제조업 경기전망 개선…반도체 역대 최대",
-   "source": "연합뉴스",
-   "time": "2026-09-27T12:00:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ORDdQSTVaTDQyVnVxUE80dnhYRkJhV3RQWl9yeG1VMUxXRThOOUlJQ0tPVWxMRkRXY3RaSFpNVjdHcG5KanY0M2tpWlM5MjFCS0hGSFNGdE52N0HSAWBBVV95cUxOUXFXRmdGYWxWNk5XQTdfU3BrelFlaFdPa2otczVmWkdod1JldFZ0czVYR1hzRHkteXlDZFFjWEFFU2R1aXQ3aTZUUEl6ZVNrNGJKUXJrNHZYN1Y0N3FvNXE?oc=5"
-  },
-  {
-   "title": "눈높이 낮춘 증권가…추석 이후 코스피 향방은",
-   "source": "연합뉴스TV",
-   "time": "2026-09-27T08:48:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QTFFNMkt1NlZPQ0E1ckZLVUxsYjFTVU9DWFBiQjFqaVlKYWFtRGN0N2ZjRHZhZ2VRbmFZQnZYQ3FHdnp5NkFqQVJmYzFab1lnQ0ZlMVltRWJvSW9jZUswRTFZdWl2NVk?oc=5"
   },
   {
    "title": "8만3000달러 갈림길 선 비트코인… 코웬 \"가짜 돌파 경계\"",
@@ -834,34 +870,40 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHVUSllRc3pncFlKNEp6MklQbXZ3OW1RVWRWZmF2eHlsRUxoX1d1NkVMSVliblZodnNVWVNhZnVfdEhVRHEzNWVPVHIzaUR5QXdLbGxKWkNnUlE2N1BhcTdkdWFTUDhpSXh1c3Y0ek1BdVUxcXNkRl9sczhtUm9hUzVlNG9Sc3c?oc=5"
   },
   {
-   "title": "AI는 1,400원대 환율 봤는데…'9월은 환율 뛰는 달' 공식 맞을까",
-   "source": "연합인포맥스",
-   "time": "2026-09-27T08:55:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUFhEUERoeG1rNUFvV3MycG9yMmlobm85SVhUemtKZUJnQW4yaldua0FaMExoTjNud2ZPQjZxdWVXemxWQ0xuQXVhcTE0VDA0TTF3RkI5aUEyR2pwQm9tempiTXdBZF9wZ0Faa2sxd0vSAXRBVV95cUxPc3Uwd2ZzTWNIWmlaSnA4WVJTWWwwN0JtSFk0NEczRVI5T2xTa0JnUnQ0MUN3QU5hd2t1LU9XV0FnaDJaYU1SN095ekt5QklYOXd1dU9zT2lBLTlVVXV1STdtSnBSd2VlZTlocFZOejAyVUd1Yw?oc=5"
+   "title": "올해 재테크 수익률 1위는? 코스피200 ETF",
+   "source": "아이뉴스24",
+   "time": "2026-09-27T20:25:47+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CN1laa0lLSm93d2huYTRkMVJORGlmc0hVb1FlWkc0TGwxWktULUFpWWRSOG5CejlJMF9UTEV4OTdWMl9nLTZOOFdtTQ?oc=5"
   },
   {
-   "title": "유가·환율에 엇갈린 3분기 실적 … 정유·항공 ↑ 석화·전기 ↓",
-   "source": "매일경제 마켓",
-   "time": "2026-09-27T16:39:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mUVZRNjJFaC10cVBWRzl3TEpmOUNOTVV4UlpMUEVPaWVnZGd0WHpQUm1sTm5fX2dFOTFKaW5JUjlTUmtqUlZEOURnRVhQQmtKU2c?oc=5"
+   "title": "이번주 뉴욕증시 고용·물가 '빅위크'…연준 추가 인상 가늠한다[월가프리뷰]",
+   "source": "news1.kr",
+   "time": "2026-09-28T07:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MU2Vlb0RrZ3VnaXN5aUxxR2hYVzRFdlhXQ3JFdnpRWGh1aE9QLXhWVHkwc2VrMGNQYmh1d3c4Vzd4bk9LT21GU01SbncxakFyRXhiRVdJTjB0bE5tLXZ3LTlBYkJNNEnSAWxBVV95cUxPam5PVkE1NFVfVXBHR3g0b3hjYUlCRDUyYU9QUlZJU1Z2Q1hPTzdxUkdQVlI5Xy1yNUJBVEdObTFrRUdzR183WHNOejhKcklCV3Q1TUdCWmdFZUdpSkhQNjdZbFphX0E4eGhGVXg?oc=5"
   },
   {
-   "title": "환율보다 비싸게 산 엔화 스테이블코인… 2만명 손실봤다 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-09-27T17:55:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXdxckN4bl80bXozSkU0MlUtS0wxVTZsTHl4X0tfQk1QYXZvVHRHYkk4UkNPMzV2V0NfSFBScFhZV1JnbjFvb1V3MVk2N2pTTVR1ekN2WGxqNFlnd0xFdlR5TU8wcmQ4XzNKUnd1YmNHMXpHb0hSMVF3Q25seXhKRNIBlAFBVV95cUxOc19PWGZFbVRuYmhpY0lsSVZfV1FrLU4taFQyTmxBRWhjLS1Ld3NIVE4wT1pCV3NRS2gxc2pTSUFtakMyaWo3SXNibGEzd2tHN3pLZFQ0cG5VaG5hdTV0QVFsTkVJbmM2bWxKWFFKZlo5d1dCVlAxMFV1QnIwVlpsQWJWY2xCeW9ObDBCdWtLRkFMYzU5?oc=5"
+   "title": "수출호조·환율안정에 제조업 경기전망 개선…반도체 역대 최대",
+   "source": "연합뉴스",
+   "time": "2026-09-27T12:00:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ORDdQSTVaTDQyVnVxUE80dnhYRkJhV3RQWl9yeG1VMUxXRThOOUlJQ0tPVWxMRkRXY3RaSFpNVjdHcG5KanY0M2tpWlM5MjFCS0hGSFNGdE52N0HSAWBBVV95cUxOUXFXRmdGYWxWNk5XQTdfU3BrelFlaFdPa2otczVmWkdod1JldFZ0czVYR1hzRHkteXlDZFFjWEFFU2R1aXQ3aTZUUEl6ZVNrNGJKUXJrNHZYN1Y0N3FvNXE?oc=5"
   },
   {
-   "title": "[김한진의 마켓 나우] 좋은 금리 인상은 증시도 살린다",
-   "source": "중앙일보",
-   "time": "2026-09-28T00:04:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85UlU5Mkl2YjdqRGJ0M3FsSnpnTmxpVmpyV3I3alBrZG9FWnVDc05aNURXdHg3Q2ExdWVQYzVFdmN6Q1AyYmQwRWhlazBWYmNHQy1nVnJR?oc=5"
+   "title": "“추석 끝나면 무조건 오른다?”…코스피 통계 뜯어 보니 [잇슈 머니]",
+   "source": "v.daum.net",
+   "time": "2026-09-28T07:07:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlMDd1RFdhenNFc3lWaVE5cGlPd3ZGdFJTTEJKU2hzVTU2ZmN0V3hVSXZRd1kzV3RLTVhBeWNqcmdwN0tGMk9FR3R1WHdoa3M?oc=5"
   },
   {
    "title": "7,000선 사수 코스피, 연휴 이후 변수는?",
-   "source": "YTN",
+   "source": "ytn.co.kr",
    "time": "2026-09-27T16:44:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CS3htMWRLX01UMjR0NzRZY3FWbTQ4YVNkWkozNmFGYWdrTjB1VThpOTRFVW42TDhpeXZYcTBfZ2dJcm9DbFNUc0hKLXFXWEtXM09NNUduWDVWdllrT1E?oc=5"
+  },
+  {
+   "title": "1500원대→1370원…삼성·SK 실적에 '환율 역풍'",
+   "source": "v.daum.net",
+   "time": "2026-09-28T07:01:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91dDNfVl9HdmhYc0tRZ2VLMTNqWm95N1JQcXNmUzgxekdFWXUwdnFnQVJLaTdRN0hEeEhOcG96dHlSY3dWYVZsQ3hYRnkzWEk?oc=5"
   }
  ]
 }
