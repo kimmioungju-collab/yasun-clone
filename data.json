@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T22:22:03.512248+09:00",
+ "updated": "2026-10-04T02:26:53.995409+09:00",
  "quotes": {
   "k200": {
    "price": 1109.05,
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 84778.41,
+   "price": 84898.17,
    "prev": 84506.336,
    "spark": [
-    84568.9062,
-    84560.0,
-    84560.3828,
-    84599.9922,
-    84594.3438,
-    84594.3516,
-    84593.9375,
-    84608.5625,
-    84622.2969,
-    84621.0469,
-    84653.0312,
-    84635.5625,
-    84619.9062,
-    84636.6719,
-    84630.5781,
-    84639.0312,
-    84648.6406,
-    84644.9922,
-    84649.9766,
-    84650.9766,
-    84675.7891,
-    84661.8516,
-    84684.0,
-    84663.2812,
-    84683.8125,
-    84778.0,
-    84843.6406,
-    84831.6172,
-    84842.6406,
-    84882.8672,
-    84801.0078,
-    84817.3984,
-    84876.9922,
-    84864.7734,
-    84836.5234,
-    84857.9688,
-    84845.3203,
-    84794.1094,
-    84787.4609,
-    84778.4062
+    84792.3281,
+    84815.7188,
+    84811.8906,
+    84780.7031,
+    84751.9219,
+    84747.0469,
+    84838.0,
+    84821.6797,
+    84842.9922,
+    84788.9922,
+    84803.4219,
+    84824.5078,
+    84825.8281,
+    84836.8203,
+    84816.6719,
+    84801.0,
+    84814.6875,
+    84847.7266,
+    84854.9688,
+    84853.5703,
+    84862.1562,
+    84846.5469,
+    84833.0391,
+    84821.1406,
+    84803.6094,
+    84776.7969,
+    84803.8125,
+    84811.0234,
+    84828.8516,
+    84819.3594,
+    84839.3516,
+    84844.1172,
+    84853.1328,
+    84863.4219,
+    84867.8828,
+    84871.5703,
+    84907.9922,
+    84935.3594,
+    84915.4297,
+    84898.1719
    ]
   },
   "eth": {
-   "price": 2677.69,
+   "price": 2684.1,
    "prev": 2668.2031,
    "spark": [
-    2681.6399,
-    2680.21,
-    2679.8701,
-    2682.6399,
-    2683.0901,
-    2683.26,
-    2682.8701,
-    2681.99,
-    2683.03,
+    2679.7,
+    2680.3601,
+    2680.5701,
+    2680.6001,
+    2679.3401,
+    2680.8,
+    2683.6799,
+    2682.04,
     2683.05,
-    2682.26,
-    2683.22,
-    2681.49,
-    2682.74,
-    2681.6201,
-    2683.3301,
-    2684.3701,
-    2685.29,
-    2684.6699,
-    2685.04,
-    2685.1001,
-    2684.01,
-    2684.05,
-    2683.01,
-    2683.4399,
-    2685.4199,
-    2686.0,
-    2682.4299,
-    2681.5701,
-    2682.72,
-    2680.8899,
-    2681.0,
-    2682.6299,
-    2682.21,
+    2680.24,
+    2680.46,
+    2681.8,
+    2680.4199,
+    2680.24,
+    2680.3601,
+    2679.74,
+    2679.9199,
     2680.8101,
-    2681.2,
-    2680.73,
-    2679.1499,
-    2678.75,
-    2677.6899
+    2681.79,
+    2681.25,
+    2681.22,
+    2679.95,
+    2679.3799,
+    2679.3999,
+    2678.4199,
+    2678.6201,
+    2680.0,
+    2681.1499,
+    2681.6599,
+    2681.54,
+    2681.01,
+    2680.6799,
+    2681.04,
+    2682.02,
+    2683.45,
+    2684.6599,
+    2684.6799,
+    2685.27,
+    2684.4099,
+    2684.1001
    ]
   },
   "eurkrw": {
@@ -1114,22 +1114,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5LXVIUnFFNnJNc2wtb3NWYkVUNldQQmp4OHZBcnJGUTU0cGwtdzZNZVV6czJLU1VwdnJnMXRHMmppbERYTk1neXBNQmFZeTdYeGg3OVU5S29FdTdyYzJUMFE0N2RteGthNDl4dVRCX2w?oc=5"
   },
   {
-   "title": "美고용 부진에 금리인상 우려 완화…나스닥 1.2%↑(종합)",
-   "source": "연합뉴스",
-   "time": "2026-10-03T06:49:40+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VN25GNzhMY2ZQLTQtMmRkR3NjNXJnaTBZZFRibW9WUEx3V0xJYjhUeHhDTmxzTW4wVWY5YkI3aVRhbi1CWE8tQkRyR3pGTjIxRmdpLU5mMWU3d0HSAWBBVV95cUxON2NQblgyWmxwZF96TVR4bXB5Z3h3V3M1UmJVc3ExLWFNdjZCWHJUSGs4cmI5SEw5cGlpOV9memk1aWhoa2x5ZVYwS1k0N1VtTWQxeEJEbW5Ya1Q4QTVpMkw?oc=5"
-  },
-  {
    "title": "[10월 첫째 주 세계경제동향 브리핑] 코스피 7,000선 회복…코스닥 5%대 강세",
    "source": "v.daum.net",
    "time": "2026-10-03T11:07:21+09:00",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taHNOVXc1RXdYenpZOFFKVjhWSzlSYUs1enM0RmJvaE12djVBY1lieVhiMDB4dzljdDROcGJORllKX25TbmQzdkktZ2xpUUk?oc=5"
   },
   {
-   "title": "\"8만 7,000달러 뚫나 했더니\"…비트코인, 8만 4,000달러 위협받는 이유는?",
-   "source": "코인리더스",
-   "time": "2026-10-03T19:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZU1hDY2NucG80Q3E1YlR2RHp1cGZ4OVM1SHd2Q1NCTndvWlZfUkVOZDRlc3dNSHdMTTBWTExRWUdrQmpaM3VTWGJn?oc=5"
+   "title": "美고용 부진에 금리인상 우려 완화…나스닥 1.2%↑(종합)",
+   "source": "연합뉴스",
+   "time": "2026-10-03T06:49:40+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VN25GNzhMY2ZQLTQtMmRkR3NjNXJnaTBZZFRibW9WUEx3V0xJYjhUeHhDTmxzTW4wVWY5YkI3aVRhbi1CWE8tQkRyR3pGTjIxRmdpLU5mMWU3d0HSAWBBVV95cUxON2NQblgyWmxwZF96TVR4bXB5Z3h3V3M1UmJVc3ExLWFNdjZCWHJUSGs4cmI5SEw5cGlpOV9memk1aWhoa2x5ZVYwS1k0N1VtTWQxeEJEbW5Ya1Q4QTVpMkw?oc=5"
   },
   {
    "title": "반도체 팔던 외국인, 코스피를 팔기 시작했다",
@@ -1144,28 +1138,10 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lUi1IR2tkRTFCa25oU1lOcGdJUzk5em01TVFCSmtEMTdrVjVLNExzZjM4NFl5YjljbEU4eGk4QkVUZ0ZMSkNqYWkxRFNxb1BJVjhveGR4eS1MWDJZNVAzUWNkVXR6dm9m0gFuQVVfeXFMTzJFTEVtSVVLemdBSmZyb0xQX0NaTGdIbzBZMDhBbXFJLXp1Y3IwbXZSLTlGVEJkb3pMR2h6WW4yNV9VTFhOUkdnNGJMR19iVDA3bktoTTFmSDBQTkZqQ3ZCbmlIV3c0MG1rWEFyWEE?oc=5"
   },
   {
-   "title": "美 고용 부진에 금리인상 우려 완화‥나스닥 1.2%↑",
-   "source": "MBC 뉴스",
-   "time": "2026-10-03T05:48:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EY3VCMGZXRHBVTkNnR3Y3Y2dEcnA1VDdFbmRRQnpZYWZOaGVld1JNUXVWejlsaDR2SXl4Y0FCZ1lTcWtWOFE4cS1mRlhVT2FPWDdSSFB4anV4aTUzb01OeUhqenZHUldwVUplOVBHWVlia1Z50gF0QVVfeXFMTktWaGl4LVo1bjVqMWFYaEpKeGU3Z0xoNnVlc0lwMko0WHJuYmlHRC16SE1QX2lwaGw0ek5lTzlmQUV4RlFoeEJrNUpFRE1mTnYxLTlUZURGQXJHbThnLXM3aVF6R0pkaEpsaUlSeTRNcTU4VnM?oc=5"
-  },
-  {
-   "title": "뉴욕증시 나스닥 1.2% 상승...미 고용 부진에 금리인상 우려 완화",
-   "source": "BBS불교방송",
-   "time": "2026-10-03T10:21:40+09:00",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GcGNQaTVzLURJeDB6NmZROGJqRUpGN24wVmhhSXg5dTdhV3pvWVRPWXdZbGV4d3NVcm9KMjlrN0t0XzAyZktZTEtydUlmWlhkcDlRME9id3VjVC0wOU5GSzl1N0ZFeno1MU13?oc=5"
-  },
-  {
    "title": "[분석] 비트코인, 매도세로 돌아섰나…\"고점 매수자 중심 손절 지속\"",
    "source": "블루밍비트",
    "time": "2026-10-03T20:03:46+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fR25JaTZOeDdXRFRocWowaG5iYWRuZl9oQUJ6dWFtLW9lY1NBck5iZ0dyc1dsblRBM092bmpzNkdKNTFEY2lub294QWJRSGdY?oc=5"
-  },
-  {
-   "title": "나스닥 1%, 美반도체지수 2% 상승…연휴 뒤 韓증시도 따라 웃을까",
-   "source": "매일경제",
-   "time": "2026-10-03T10:05:07+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XaUF1VjJUc3lKdExTTzhpRmZEa1dFeFRvSG9FamI0SmdTYm5EN0J3Znl0ZFdsaktuY1FTR2VraE51OXFJR2ZUeHRVRlphTk5wZnc?oc=5"
   },
   {
    "title": "나스닥 상장 멈춘 토스, 상장 시계 '제자리'...커지는 코스피行 가능성",
@@ -1174,10 +1150,28 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzN2LVNWbnVBTzh4QjNHR1J6eU52SDhQQlB6X3dBWnB5UXVsVDhpTFBYT24yT3JsbklxVXFYOWlRY0lITnlndkhaMlFmMVQ2YnRZTVYyZU9MTDZ5UEZWZllueU1jQW9FYWk2N0R5RGZzUWcyZDl6OUpFVkFWQ21aSHEwVQ?oc=5"
   },
   {
-   "title": "美증시 23시간 체제로…서학개미 '주간거래' 판 커진다",
-   "source": "ebn.co.kr",
-   "time": "2026-10-03T14:23:18+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oUXVaQXBmQUJxX3FBTmc3alBKeldGcFlKVTdpSEsyYlVuTWhVRDRJU2dDcWstSHl3dklLejItbnR2MHgxRlFHb1l3X1pOU0xOOFFSN2lXUzJSQWdVYVFYMWtxcXY4MUU4?oc=5"
+   "title": "뉴욕증시 나스닥 1.2% 상승...미 고용 부진에 금리인상 우려 완화",
+   "source": "BBS불교방송",
+   "time": "2026-10-03T10:21:40+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GcGNQaTVzLURJeDB6NmZROGJqRUpGN24wVmhhSXg5dTdhV3pvWVRPWXdZbGV4d3NVcm9KMjlrN0t0XzAyZktZTEtydUlmWlhkcDlRME9id3VjVC0wOU5GSzl1N0ZFeno1MU13?oc=5"
+  },
+  {
+   "title": "나스닥 1%, 美반도체지수 2% 상승…연휴 뒤 韓증시도 따라 웃을까",
+   "source": "매일경제",
+   "time": "2026-10-03T10:05:07+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XaUF1VjJUc3lKdExTTzhpRmZEa1dFeFRvSG9FamI0SmdTYm5EN0J3Znl0ZFdsaktuY1FTR2VraE51OXFJR2ZUeHRVRlphTk5wZnc?oc=5"
+  },
+  {
+   "title": "美 고용 부진에 금리인상 우려 완화‥나스닥 1.2%↑",
+   "source": "MBC 뉴스",
+   "time": "2026-10-03T05:48:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EY3VCMGZXRHBVTkNnR3Y3Y2dEcnA1VDdFbmRRQnpZYWZOaGVld1JNUXVWejlsaDR2SXl4Y0FCZ1lTcWtWOFE4cS1mRlhVT2FPWDdSSFB4anV4aTUzb01OeUhqenZHUldwVUplOVBHWVlia1Z50gF0QVVfeXFMTktWaGl4LVo1bjVqMWFYaEpKeGU3Z0xoNnVlc0lwMko0WHJuYmlHRC16SE1QX2lwaGw0ek5lTzlmQUV4RlFoeEJrNUpFRE1mTnYxLTlUZURGQXJHbThnLXM3aVF6R0pkaEpsaUlSeTRNcTU4VnM?oc=5"
+  },
+  {
+   "title": "[환율 전망] 밸런스 게임, 美고금리 대 韓무역흑자",
+   "source": "KB Think",
+   "time": "2026-10-01T07:53:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRFhzekY0cVd5T1lLUGJsYXV2cWJaXzlySXc1RkVUWHE4YUhGNkFMdHdCa3NyZnIwNGxiWmNZVVk4YU1VTU5ZalV0ZV9tN2xpeFNySFdVb3lHV2xDQ3BMQg?oc=5"
   },
   {
    "title": "美고용 부진에 금리인상 우려 완화…나스닥 1.2%↑",
@@ -1186,10 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92dWFWVUZJQlZCckVWckxyVjRkeFR3ZW92OGxMWVk3TjBqUXhzYnpBZnhUTXlBeWFHZmdZLVdHdVJEcjdxRTFGNVB2UnZmbmVRSkd0eDBWc2NlUEHSAWBBVV95cUxOZ2M4a3BhQVBPS2FzVjZjbWhUQVFlSmd6THFJMFFWaGNKcXdLZ3RQaTZhTkdDd0c2WFE3Rm9PWmd0S0U4RDJxQm9wU0VHQUlmOE5KNS0wWW5Ka2ROd2RKS3M?oc=5"
   },
   {
-   "title": "최하단이 11만 5,355달러…비트코인, 8만 4,000달러 선서 심각한 저평가",
-   "source": "코인리더스",
-   "time": "2026-10-03T20:08:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zaWpLMjdfUk9RMzE3T1M2dDNmZ2xZMF82OVNsWEdEMXo5MFJCSEl1aWRkV2tYTW1qdHZldENhekdBRTAwaGRfTHdn?oc=5"
+   "title": "코스피 팔아치운 외국인…9개월 내내 담은 종목도 있다는데",
+   "source": "한국경제",
+   "time": "2026-10-02T08:48:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zQkdPNnNrcHcycUtJQ0xjUmhFYUhKWGQ2LVF3QllOS2dBZEdNY0h4cFhPMEhncFJtYTZzLUE5YjJOVlJQQjZnNF9QdmxvN2lxV0pfZmdHMHBJUQ?oc=5"
+  },
+  {
+   "title": "반에크 \"비트코인, 강세장 초기…목표가 50만달러\"",
+   "source": "블루밍비트",
+   "time": "2026-10-03T18:54:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xZFBZemJMcXIxeGk5aTQzM2phemV4TUlOVFJLNGxTVk05Vm9kN3M4S0lvZVBiT3dBS0VrQXRwZkR5YkVHcFJ3djJIWXVfM0hV?oc=5"
   }
  ]
 }
