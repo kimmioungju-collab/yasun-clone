@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T11:14:33.614174+09:00",
+ "updated": "2026-10-03T17:10:40.138228+09:00",
  "quotes": {
   "k200": {
    "price": 1109.05,
@@ -186,9 +186,10 @@
    ]
   },
   "nq": {
-   "price": 31049.0,
+   "price": 31061.75,
    "prev": 30760.5,
    "spark": [
+    31030.5,
     31048.25,
     31057.75,
     31047.75,
@@ -227,14 +228,14 @@
     31058.25,
     31049.75,
     31052.75,
-    31049.0,
     31049.0
    ]
   },
   "es": {
-   "price": 7776.5,
+   "price": 7777.25,
    "prev": 7724.0,
    "spark": [
+    7772.0,
     7774.25,
     7776.75,
     7774.5,
@@ -272,7 +273,6 @@
     7779.5,
     7779.0,
     7776.75,
-    7776.5,
     7776.5,
     7776.5
    ]
@@ -416,9 +416,10 @@
    ]
   },
   "wti": {
-   "price": 91.26,
+   "price": 91.11,
    "prev": 92.87,
    "spark": [
+    91.56,
     91.33,
     91.42,
     91.43,
@@ -457,14 +458,14 @@
     91.36,
     91.29,
     91.19,
-    91.26,
     91.26
    ]
   },
   "brent": {
-   "price": 102.7,
+   "price": 102.25,
    "prev": 102.31,
    "spark": [
+    102.44,
     102.28,
     102.29,
     102.46,
@@ -503,14 +504,14 @@
     102.86,
     102.78,
     102.68,
-    102.7,
     102.7
    ]
   },
   "gold": {
-   "price": 4172.1,
+   "price": 4162.3,
    "prev": 4202.3,
    "spark": [
+    4166.6001,
     4167.6001,
     4169.2002,
     4166.5,
@@ -549,14 +550,14 @@
     4167.1001,
     4166.6001,
     4168.0,
-    4172.1001,
     4172.1001
    ]
   },
   "silver": {
-   "price": 60.71,
+   "price": 60.415,
    "prev": 61.175,
    "spark": [
+    60.525,
     60.53,
     60.545,
     60.525,
@@ -595,14 +596,14 @@
     60.66,
     60.665,
     60.7,
-    60.71,
     60.71
    ]
   },
   "gas": {
-   "price": 3.039,
+   "price": 3.035,
    "prev": 2.967,
    "spark": [
+    3.015,
     3.018,
     3.015,
     3.026,
@@ -640,7 +641,6 @@
     3.047,
     3.045,
     3.046,
-    3.039,
     3.039,
     3.039
    ]
@@ -738,71 +738,95 @@
    ]
   },
   "btc": {
-   "price": 84604.67,
+   "price": 84621.95,
    "prev": 84506.336,
    "spark": [
-    84461.0,
-    84433.1875,
-    84509.2109,
-    84521.8438,
-    84527.1406,
-    84541.8828,
-    84611.7266,
-    84609.9922,
-    84621.0,
-    84642.7266,
-    84662.0078,
-    84638.7188,
-    84636.8438,
-    84664.6719,
-    84643.1797,
-    84614.5625,
-    84601.7266,
-    84603.8906,
-    84618.5703,
-    84641.0312,
-    84617.7188,
-    84626.4531,
-    84602.4531,
-    84628.1484,
+    84573.8438,
+    84559.2031,
+    84561.2109,
+    84551.5938,
+    84585.1172,
+    84599.4297,
+    84612.0625,
+    84628.9766,
+    84628.9766,
+    84615.9922,
+    84638.3984,
+    84610.8281,
     84629.2188,
-    84593.6719,
-    84604.6797,
-    84604.6719
+    84630.4922,
+    84640.3984,
+    84614.0,
+    84637.0469,
+    84625.8125,
+    84628.4922,
+    84632.6406,
+    84639.6016,
+    84628.4531,
+    84547.2578,
+    84562.9531,
+    84572.2734,
+    84557.6094,
+    84575.4922,
+    84598.7188,
+    84595.1719,
+    84586.1094,
+    84626.3281,
+    84626.3281,
+    84614.9375,
+    84557.6094,
+    84590.3594,
+    84566.6719,
+    84552.1484,
+    84588.3281,
+    84621.9531,
+    84621.9531
    ]
   },
   "eth": {
-   "price": 2677.36,
+   "price": 2682.86,
    "prev": 2668.2031,
    "spark": [
-    2665.6399,
-    2665.1599,
-    2668.25,
-    2668.8401,
-    2670.4299,
-    2672.1799,
-    2675.3701,
-    2674.3799,
-    2674.79,
+    2675.53,
+    2674.04,
+    2675.05,
+    2674.8601,
+    2676.48,
+    2676.02,
+    2676.96,
+    2677.6101,
+    2676.8899,
+    2676.3501,
     2676.5601,
-    2677.3201,
-    2675.95,
-    2677.3,
-    2677.9199,
-    2679.49,
-    2678.4099,
-    2678.1599,
-    2678.6201,
-    2680.3899,
-    2682.21,
-    2680.0801,
-    2680.21,
-    2677.77,
-    2678.97,
-    2678.77,
-    2676.52,
-    2677.0701,
-    2677.3601
+    2676.27,
+    2676.99,
+    2676.9399,
+    2676.01,
+    2675.49,
+    2676.55,
+    2676.3101,
+    2677.1799,
+    2678.46,
+    2679.0901,
+    2677.95,
+    2677.28,
+    2679.3301,
+    2679.7,
+    2679.1599,
+    2677.8999,
+    2680.95,
+    2681.26,
+    2679.5901,
+    2680.1499,
+    2681.3401,
+    2682.01,
+    2680.1399,
+    2681.1299,
+    2681.6699,
+    2681.6101,
+    2681.1799,
+    2682.4099,
+    2682.8601
    ]
   },
   "eurkrw": {
@@ -1039,6 +1063,7 @@
    "price": 101.924,
    "prev": 101.932,
    "spark": [
+    101.918,
     101.923,
     101.919,
     101.918,
@@ -1077,7 +1102,6 @@
     101.934,
     101.942,
     101.942,
-    101.924,
     101.924
    ]
   }
@@ -1085,21 +1109,15 @@
  "news": [
   {
    "title": "美고용 부진에 금리인상 우려 완화…나스닥 1.2%↑",
-   "source": "연합뉴스",
+   "source": "yna.co.kr",
    "time": "2026-10-03T05:42:26+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92dWFWVUZJQlZCckVWckxyVjRkeFR3ZW92OGxMWVk3TjBqUXhzYnpBZnhUTXlBeWFHZmdZLVdHdVJEcjdxRTFGNVB2UnZmbmVRSkd0eDBWc2NlUEHSAWBBVV95cUxOZ2M4a3BhQVBPS2FzVjZjbWhUQVFlSmd6THFJMFFWaGNKcXdLZ3RQaTZhTkdDd0c2WFE3Rm9PWmd0S0U4RDJxQm9wU0VHQUlmOE5KNS0wWW5Ka2ROd2RKS3M?oc=5"
   },
   {
    "title": "[10월 첫째 주 세계경제동향 브리핑] 코스피 7,000선 회복…코스닥 5%대 강세",
-   "source": "기호일보",
+   "source": "v.daum.net",
    "time": "2026-10-03T11:07:21+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwcG92NFJtakhib0RKRjJKYm51NUpISVROdzg2bnRFazFvM2M2LTVxUl85ODVmT2V6RFVFVUZQU0VUODFoNjg0S2RYQTZTamcyb1ZMU085cWlIM3NTeGJYLS10VzFaeE10dk9mc1hPNA?oc=5"
-  },
-  {
-   "title": "반도체 팔던 외국인, 코스피를 팔기 시작했다",
-   "source": "한국경제",
-   "time": "2026-10-02T16:45:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzQ1U3cGxjTWFXMG5RTnFqeDlVdzZHbFJDYU16RHF1MUZHNU1jR2Nseko4N2lubk1YdW03UEU2YWc3Rm9DaWFuSXhkaUxDdmg1eWxfZFpWYWVMZw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taHNOVXc1RXdYenpZOFFKVjhWSzlSYUs1enM0RmJvaE12djVBY1lieVhiMDB4dzljdDROcGJORllKX25TbmQzdkktZ2xpUUk?oc=5"
   },
   {
    "title": "\"악재는 끝났다\"…환율 하락에도 끄떡없는 4분기 바이오 최선호주는",
@@ -1114,34 +1132,10 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lUi1IR2tkRTFCa25oU1lOcGdJUzk5em01TVFCSmtEMTdrVjVLNExzZjM4NFl5YjljbEU4eGk4QkVUZ0ZMSkNqYWkxRFNxb1BJVjhveGR4eS1MWDJZNVAzUWNkVXR6dm9m0gFuQVVfeXFMTzJFTEVtSVVLemdBSmZyb0xQX0NaTGdIbzBZMDhBbXFJLXp1Y3IwbXZSLTlGVEJkb3pMR2h6WW4yNV9VTFhOUkdnNGJMR19iVDA3bktoTTFmSDBQTkZqQ3ZCbmlIV3c0MG1rWEFyWEE?oc=5"
   },
   {
-   "title": "나스닥 1%, 美반도체지수 2% 상승…연휴 뒤 韓증시도 따라 웃을까",
-   "source": "v.daum.net",
-   "time": "2026-10-03T10:06:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jMWRHNlVSVTZjd1E5TkRIelZmd1dzb2ZZa0cxbjlpNVh6cFAtZElycDVaWmlkQWlqLThtRVJ6MUowT1hyTVpwcEx4OExCa00?oc=5"
-  },
-  {
-   "title": "삼전닉스 '458조' 움직인다…거꾸로가는 환율 뒤에 '반도체 달러'",
-   "source": "전자신문",
-   "time": "2026-10-02T21:05:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15NFBHT0JJMG9xMFlpVnVWaE9nbzg1RkJ2U2Rrb0phWW1ZbmdZN3lEYkVyeTdha2dBNDJxdG5TdktqNEt3bFdReFNCLURjUQ?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 10월 금리 인상 기대 후퇴에 상승 마감",
-   "source": "뉴스핌",
-   "time": "2026-10-03T05:26:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aM3lSMmlSTDBYSjFxSWZhdHRqV3lGZTRuaUFYeEl6TXFGSlpkb25kcWZFR256OV9zMExWVWdGR1lMMVhqQzZGSDNUNnY1YUhoeUFWdEIyQ2JjeElk?oc=5"
-  },
-  {
    "title": "美 고용 부진에 금리인상 우려 완화‥나스닥 1.2%↑",
    "source": "MBC 뉴스",
    "time": "2026-10-03T05:48:49+09:00",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EY3VCMGZXRHBVTkNnR3Y3Y2dEcnA1VDdFbmRRQnpZYWZOaGVld1JNUXVWejlsaDR2SXl4Y0FCZ1lTcWtWOFE4cS1mRlhVT2FPWDdSSFB4anV4aTUzb01OeUhqenZHUldwVUplOVBHWVlia1Z50gF0QVVfeXFMTktWaGl4LVo1bjVqMWFYaEpKeGU3Z0xoNnVlc0lwMko0WHJuYmlHRC16SE1QX2lwaGw0ek5lTzlmQUV4RlFoeEJrNUpFRE1mTnYxLTlUZURGQXJHbThnLXM3aVF6R0pkaEpsaUlSeTRNcTU4VnM?oc=5"
-  },
-  {
-   "title": "[마감] 코스피, 기관·기타법인 매수에 0.46% 상승…5거래일 만에 7000선 회복 By 알파경제 alphabiz",
-   "source": "kr.investing.com",
-   "time": "2026-10-02T23:33:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fX211Z0VFRU9BanZ5WGsxQXFMY3ZOb2VOTHRpQllFZVllRUtFMHMxM0RaZTh4SVVGLWU1SFRxXzNpenFrVkZQRjNrdk4yZGhpYzJMdjZUeGVNSG5mVmZSUTJYVnNJTWxsRzlYZGxPWUY?oc=5"
   },
   {
    "title": "뉴욕증시 나스닥 1.2% 상승...미 고용 부진에 금리인상 우려 완화",
@@ -1150,22 +1144,52 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GcGNQaTVzLURJeDB6NmZROGJqRUpGN24wVmhhSXg5dTdhV3pvWVRPWXdZbGV4d3NVcm9KMjlrN0t0XzAyZktZTEtydUlmWlhkcDlRME9id3VjVC0wOU5GSzl1N0ZFeno1MU13?oc=5"
   },
   {
-   "title": "미국 고용 악재가 미 국채·뉴욕 증시엔 호재...힘 받는 금리 동결론",
-   "source": "YTN",
-   "time": "2026-10-03T06:22:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CY3ZRSFZDZkFYSENCM3JQbzV0blM2STkxemstUnpLYXdGeHQtSmwwdkZmclRZLURZdHpJMExvVDYxS0M4WXZ6anVSWHdrUGVXd3ZRZnFUM3JjOHpOS3c?oc=5"
+   "title": "삼전닉스 '458조' 움직인다…거꾸로가는 환율 뒤에 '반도체 달러'",
+   "source": "etnews.com",
+   "time": "2026-10-02T21:05:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15NFBHT0JJMG9xMFlpVnVWaE9nbzg1RkJ2U2Rrb0phWW1ZbmdZN3lEYkVyeTdha2dBNDJxdG5TdktqNEt3bFdReFNCLURjUQ?oc=5"
   },
   {
    "title": "[해외시황] 뉴욕증시, 부진한 고용·금리인상 우려 완화에 '상승'…나스닥 1.19%↑",
    "source": "프라임경제",
    "time": "2026-10-03T10:19:11+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VS1FET29kS1VHSU1jYXk3OWZGckR5dE0tUXYzek5JZUlKQU9ROThxOWFTTy1vRU52UlZNR1FzZFVQOXZhMkZUWld0a0dmSFl4WFNEVFY2MDFzRXhkdXBkOA?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84dngtbXN4S054SGlJRTFJRTBnNFhsV1hZRllhSVJGY2pYSnlHQVdUQ3d0dGZDa2NHOVZHZTRjajJ6ZGRtYmxFTnphWjlmVXdrMG9YbThiUFNBWV9vYmdfcmdteGp3ZGdzZ2g5dQ?oc=5"
   },
   {
-   "title": "[뉴욕증시] 금리 동결 기대에 나스닥 급등...엔비디아 등 기술주 폭발적 매수세",
-   "source": "글로벌이코노믹",
-   "time": "2026-10-03T05:30:10+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXc1M0M5Sy01VTJRVDJ4QnFsS0I3MEFuSWI4VkNKYjRXS3NabGxYN1ZoTU9xeEtIUWNLR2dQX2JEdVJaay1QUjN2aDRZS1Exc3FMWjBmXzBjU0ZvMmlhZnFlV0JGR09IT3F3bkFkeUdoX0ZGczc2RWFxaTUwakVBZHNlX0dJdEQz?oc=5"
+   "title": "\"다시 대세 상승기?\" 꿈틀대는 비트코인의 현 시점 투자전략",
+   "source": "한국경제",
+   "time": "2026-10-03T08:00:08+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DRlV2QTNHQjBRYmt2Y0VlZXNENFlBNGR5QVhuWUI4RHY1WjRmS1BUbjREaGJXNmdfNGg0ek5FNmh0MU91aW1zNGc0cDZZYXg3MEpicjVmLThjUQ?oc=5"
+  },
+  {
+   "title": "[마감] 코스피, 기관·기타법인 매수에 0.46% 상승…5거래일 만에 7000선 회복 By 알파경제 alphabiz",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-02T23:33:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fX211Z0VFRU9BanZ5WGsxQXFMY3ZOb2VOTHRpQllFZVllRUtFMHMxM0RaZTh4SVVGLWU1SFRxXzNpenFrVkZQRjNrdk4yZGhpYzJMdjZUeGVNSG5mVmZSUTJYVnNJTWxsRzlYZGxPWUY?oc=5"
+  },
+  {
+   "title": "美증시 23시간 체제로…서학개미 '주간거래' 판 커진다",
+   "source": "ebn.co.kr",
+   "time": "2026-10-03T14:23:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oUXVaQXBmQUJxX3FBTmc3alBKeldGcFlKVTdpSEsyYlVuTWhVRDRJU2dDcWstSHl3dklLejItbnR2MHgxRlFHb1l3X1pOU0xOOFFSN2lXUzJSQWdVYVFYMWtxcXY4MUU4?oc=5"
+  },
+  {
+   "title": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승",
+   "source": "뉴스핌",
+   "time": "2026-10-03T02:16:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbzY0T0JmcExyYXFQVkRHUTB6M21Xb3B6S3FCcG5kUmhWWFZxbm8xOGNPQ2J0ckxWbEVBSFFCcV9kdk5SYmVQaFJidTF2cDJkNVEzRktfWXliWjhL?oc=5"
+  },
+  {
+   "title": "뉴욕증시, 고용 둔화에 일제히 상승…나스닥 1.2%↑",
+   "source": "koreareport.co.kr",
+   "time": "2026-10-03T09:18:32+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yRWR5U3RoRU80N3Z2OG9xX0xXYWRiNjdkcy1LdmJYd0E5U3ZhUnhMd2F1Zmt4b3IyOUlLX3hsOWF1ckE4cXNaYy1ZWG94c0UyejBuYVRCRURKVzhZNkZaT0xBUUtwT3VEQ2ZKWHZZU3U?oc=5"
+  },
+  {
+   "title": "미국 고용 악재가 미 국채·뉴욕 증시엔 호재...힘 받는 금리 동결론",
+   "source": "YTN",
+   "time": "2026-10-03T06:22:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CY3ZRSFZDZkFYSENCM3JQbzV0blM2STkxemstUnpLYXdGeHQtSmwwdkZmclRZLURZdHpJMExvVDYxS0M4WXZ6anVSWHdrUGVXd3ZRZnFUM3JjOHpOS3c?oc=5"
   }
  ]
 }
