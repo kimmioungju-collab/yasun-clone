@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T03:08:29.518907+09:00",
+ "updated": "2026-10-05T06:19:19.684927+09:00",
  "quotes": {
   "k200": {
    "price": 1109.05,
@@ -187,12 +187,12 @@
   },
   "nq": {
    "price": 31061.75,
-   "prev": 30760.5,
+   "prev": 31061.75,
    "spark": []
   },
   "es": {
    "price": 7777.25,
-   "prev": 7724.0,
+   "prev": 7777.25,
    "spark": []
   },
   "ndx": {
@@ -335,27 +335,27 @@
   },
   "wti": {
    "price": 91.11,
-   "prev": 92.87,
+   "prev": 91.11,
    "spark": []
   },
   "brent": {
    "price": 102.25,
-   "prev": 102.31,
+   "prev": 102.25,
    "spark": []
   },
   "gold": {
    "price": 4162.3,
-   "prev": 4202.3,
+   "prev": 4162.3,
    "spark": []
   },
   "silver": {
    "price": 60.415,
-   "prev": 61.175,
+   "prev": 60.415,
    "spark": []
   },
   "gas": {
    "price": 3.035,
-   "prev": 2.967,
+   "prev": 3.035,
    "spark": []
   },
   "vix": {
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1342.51,
+   "price": 1343.34,
    "prev": 1359.84,
    "spark": [
     1346.13,
@@ -451,99 +451,99 @@
    ]
   },
   "btc": {
-   "price": 85306.0,
+   "price": 86014.56,
    "prev": 84742.47,
    "spark": [
-    85276.3594,
-    85325.5625,
-    85248.9531,
-    85331.1797,
-    85452.0469,
-    85341.0312,
-    85305.5625,
-    85290.25,
-    85303.2969,
-    85333.4297,
-    85332.5078,
-    85314.5703,
-    85244.9766,
-    85175.0078,
-    85254.9766,
-    85292.9766,
-    85257.5625,
-    85230.7578,
-    85238.8984,
-    85293.3125,
-    85314.2734,
-    85334.4062,
-    85431.8438,
-    85352.7422,
-    85358.3125,
-    85383.9922,
-    85332.1719,
-    85307.9688,
-    85322.3281,
-    85343.7891,
-    85375.5312,
-    85357.0703,
-    85323.2422,
-    85418.0078,
-    85375.2031,
-    85326.3594,
-    85302.8906,
-    85322.5625,
-    85306.0,
-    85306.0
+    85295.5469,
+    85317.2031,
+    85317.5078,
+    85310.0,
+    85318.6719,
+    85313.3594,
+    85309.9609,
+    85338.0781,
+    85331.3672,
+    85344.9766,
+    85325.0703,
+    85379.0,
+    85373.0391,
+    85373.0391,
+    85380.3516,
+    85385.0078,
+    85447.6094,
+    85534.3281,
+    85466.4062,
+    85422.8984,
+    85457.0391,
+    85422.2266,
+    85417.4688,
+    85411.3203,
+    85382.0,
+    85427.1875,
+    85474.0703,
+    85451.9609,
+    85453.0,
+    85554.9688,
+    85592.5703,
+    85744.0234,
+    85812.2812,
+    85796.0703,
+    85812.0312,
+    85826.0,
+    85870.8594,
+    86011.0234,
+    86022.1875,
+    86014.5625
    ]
   },
   "eth": {
-   "price": 2700.34,
+   "price": 2707.7,
    "prev": 2686.836,
    "spark": [
-    2697.4399,
-    2698.4299,
-    2697.03,
-    2698.49,
-    2702.1699,
-    2700.0801,
-    2698.8701,
-    2699.3,
-    2697.6799,
-    2698.45,
-    2699.45,
-    2699.3201,
-    2698.6101,
-    2696.1899,
-    2698.24,
-    2700.1001,
-    2698.54,
-    2697.5901,
-    2698.0901,
-    2701.26,
-    2703.0,
-    2703.6299,
-    2706.0601,
-    2704.8899,
-    2702.98,
-    2703.27,
-    2702.1399,
+    2700.45,
+    2700.8,
+    2701.1699,
+    2700.28,
+    2700.6599,
+    2700.6699,
+    2700.8999,
+    2701.4099,
+    2700.6101,
+    2701.0,
+    2700.52,
+    2702.22,
+    2700.76,
+    2701.1699,
     2702.21,
-    2702.3,
-    2703.4299,
-    2702.8201,
-    2702.2,
-    2701.6399,
-    2704.6899,
-    2703.98,
-    2702.0701,
-    2701.71,
-    2701.0801,
+    2701.8701,
+    2702.98,
+    2702.8101,
+    2703.04,
+    2702.6101,
+    2703.55,
+    2701.8201,
+    2701.1299,
     2700.6799,
-    2700.3401
+    2699.1799,
+    2700.1699,
+    2702.3899,
+    2701.96,
+    2701.5901,
+    2703.0,
+    2702.23,
+    2702.23,
+    2704.27,
+    2705.0701,
+    2705.5,
+    2705.77,
+    2706.52,
+    2707.05,
+    2707.79,
+    2707.7
    ]
   },
   "eurkrw": {
-   "price": 1510.0,
+   "price": 1512.0,
    "prev": 1527.9,
    "spark": [
     1513.4,
@@ -589,7 +589,7 @@
    ]
   },
   "jpykrw": {
-   "price": 8.481,
+   "price": 8.495,
    "prev": 8.581,
    "spark": [
     8.504,
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 157.83,
+   "price": 157.68,
    "prev": 158.054,
    "spark": [
     157.831,
@@ -727,7 +727,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1257,
+   "price": 1.1263,
    "prev": 1.1245,
    "spark": [
     1.1256,
@@ -781,7 +781,7 @@
  "news": [
   {
    "title": "\"악재는 끝났다\"…환율 하락에도 끄떡없는 4분기 바이오 최선호주는",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "time": "2026-10-03T09:05:12+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5LXVIUnFFNnJNc2wtb3NWYkVUNldQQmp4OHZBcnJGUTU0cGwtdzZNZVV6czJLU1VwdnJnMXRHMmppbERYTk1neXBNQmFZeTdYeGg3OVU5S29FdTdyYzJUMFE0N2RteGthNDl4dVRCX2w?oc=5"
   },
@@ -792,8 +792,20 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOcWx0ZFd2LUQxbUJTN3pHVlQ0UmtUUUd0TXRCZTNJZEN0alowVXBXNGZTbFJaVEtObThVRmlnbUFKcUJNY1NtcjBBeUI4QzhCdFE?oc=5"
   },
   {
+   "title": "캐시 우드, 비트코인 '1665% 폭등론' 주장...허풍인가 진심인가",
+   "source": "글로벌이코노믹",
+   "time": "2026-10-05T06:05:58+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkFsWDFHVjlIdzdLRXZaVzdlcTRVaXpRYklYeW95TlVvZy1vaFU4WEhEanpBYWJob1ltWEcyZ3hENkE4UnlESGRhT2kwZ2h6MmhIRlBSM0JJZmVnTUtOSDJwRVo1LXRpbmpDbWt5aVZCRVh3cEZYN1cxTkhxY0hKTldMb0NiUHdM?oc=5"
+  },
+  {
+   "title": "(주간증시전망)반도체 실적 기대 속 '금리·유가' 변수",
+   "source": "뉴스토마토",
+   "time": "2026-10-05T06:00:04+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTeF9kX0ljR3JrbHBnTEdWUDFiWXMtTnR2OHJYdmVfRFZ5U2pGQWJlQ1N4eWFXWUdYMXpuUThycHM5N3FabFZjanJJOUMtd20yZEV6OVBKb2tXR2V0OHdJ?oc=5"
+  },
+  {
    "title": "반도체 팔던 외국인, 코스피를 팔기 시작했다",
-   "source": "한국경제",
+   "source": "hankyung.com",
    "time": "2026-10-02T16:45:08+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzQ1U3cGxjTWFXMG5RTnFqeDlVdzZHbFJDYU16RHF1MUZHNU1jR2Nseko4N2lubk1YdW03UEU2YWc3Rm9DaWFuSXhkaUxDdmg1eWxfZFpWYWVMZw?oc=5"
   },
@@ -804,10 +816,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmYzNmVDVwbGkxbHoxZmhSMTJwQnZGVmRPMnBnR0lPaVViOTk1LWhVQVJDZXJPMHVHMHJtb3JVZ19LOXNDS0U1THhhVkRyd0xHWWU1WWR0cFV2R28?oc=5"
   },
   {
-   "title": "역대급 폭락에 국민연금도 울상...'롤러코스피' 리스크",
-   "source": "YTN",
-   "time": "2026-10-04T05:24:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aWNRZ05aWHI2LXRlVTJvWHNtODhEMElZVHJEVURfVWJ1V2V5OXpxTE94akxpM1o3LUNfMU1TcHJ3NGE2S29VMGkxNGdKUUFVbncxUG5FTGFZRHNqaXJpbktZMl9BWFhRdHkyV1Q5VQ?oc=5"
+   "title": "[중국증시 주간 포인트] 中 9월 외환보유액, 美 9월 비제조업지수, G7 비축유 방출, 세계 AI 서밋, 美 국채 입찰, 中 LLM 신모델, 중제욱창 현금배당 등",
+   "source": "네이버 프리미엄콘텐츠",
+   "time": "2026-10-04T22:43:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWSVV0YWVkcWIxWnBTdHpNRW5odnFqaUtacUtpWFVBZkk1cldaUmV4UFB3a0JpUFRROGYxQUlDMGlNMzBnYzhZaENra29MTE85Um91M21WUDEtUW5VZ1RrUEdDdEFMN041anc2eGp3X18wOXFXaDFMb05nbw?oc=5"
   },
   {
    "title": "[시황] 비트코인 8만5000달러 상회…김치프리미엄 0.70%",
@@ -822,10 +834,16 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90bmNDUjFmWnJoRk8ycnJPNG91cUFReUdPTndSQmRwdjlna3NnaFNJeVFIeDFYYVdvRjZHXzNvQjBPM25Mdk5nSFNyZy1oc3JHeHVSblJWV2ZEV2NLR3Z4WQ?oc=5"
   },
   {
-   "title": "[김대호 인물] 마크 잔디... 뉴욕증시 곧 거품붕괴 \"무디스 무서운 경고\"",
-   "source": "글로벌이코노믹",
-   "time": "2026-10-03T23:55:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXp0clN1Nm5pU1A4Q0lKZzhBVklCY3dObWVERG9rQmd4Q2czaERyNGFCNHdEaXFKdTB2Z0xKMW9RY0VBUHhFZ1k2N1JUYmxYSmd0OVNhcU1DazZwbm04MlhCMHpKM1hrbFlLYUR6Z0Yxczd3bTZmQ0t4S3NMUHVmV3BkalVBU1h0?oc=5"
+   "title": "역대급 폭락에 국민연금도 울상...'롤러코스피' 리스크",
+   "source": "YTN",
+   "time": "2026-10-04T05:24:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aWNRZ05aWHI2LXRlVTJvWHNtODhEMElZVHJEVURfVWJ1V2V5OXpxTE94akxpM1o3LUNfMU1TcHJ3NGE2S29VMGkxNGdKUUFVbncxUG5FTGFZRHNqaXJpbktZMl9BWFhRdHkyV1Q5VQ?oc=5"
+  },
+  {
+   "title": "역대 미국 중간선거 전후 코스피 향방 어땠나?",
+   "source": "MTN 머니투데이방송",
+   "time": "2026-10-05T06:04:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PSEFXZlFHSkJTSkpYS0ZHTDlieEhjVmViemVZcTJrMzFHc2ZOTVEyUGFNY1FBc2Z3YnBvRHhDTVlnX0tNdlNfODZ3cm9OUmtjYzR3YmlLYjZSdmx3MFFxX0xHVEI?oc=5"
   },
   {
    "title": "‘9월 코스피 맥못춘 이유 있었네…’ 한달 간 외국인 20조 팔아치워, 10월엔 돌아올까",
@@ -834,34 +852,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvS2xOV2ZqNVhfVEFBX3J4cEYxMG5VelplMFdDN3RsTU1FMHFXZHY1LUZiTUNzTDdJQVAwZEFFTExvRWpQRzNIRklRdk5TMmdS?oc=5"
   },
   {
-   "title": "외국인, 한 달 새 코스피 20조 팔아…매도 1위 종목은",
-   "source": "에너지경제신문",
-   "time": "2026-10-04T07:54:31+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WbUdiNnZ4T2s0RUpkbFZSWklwVXA3M0JhWDNTa0RjZk00aFRUc092LVNqbmI0T1VMU0FCS0ltMWFRaUFlNGhwRDE0dWZNT1Y3bzFGVktfdlUycWprRXc?oc=5"
-  },
-  {
-   "title": "한 달간 코스피서 20조 판 외인…삼전·하이닉스 보유율 하락",
-   "source": "ikbc.co.kr",
-   "time": "2026-10-04T07:13:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83NFFSTlRiYnpvUy1zYnBLdWk1RnltRTlMWW94WmVPWG9TNkxRNHl6VFFrWUQ5a0hVQUtMdFBoLWNEYnp2NVRhcXRoeXB4TU5HcnpGMmszeWR1NXB6RWo5Yg?oc=5"
-  },
-  {
-   "title": "[중국증시 주간 포인트] 中 9월 외환보유액, 美 9월 비제조업지수, G7 비축유 방출, 세계 AI 서밋, 美 국채 입찰, 中 LLM 신모델, 중제욱창 현금배당 등",
-   "source": "뉴스핌",
-   "time": "2026-10-04T22:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZaXNhT25qeWxxSnkyY0Yxc3FkaHVhNTZHLUlYSmx1Y2tMa25kWDFvdjRmWERDWThld2x2YXFUNDlDSDBGaTN0N3VPbXdDTjliTFo5X2N1cmI3Ny1D?oc=5"
-  },
-  {
-   "title": "외국인 한달새 코스피 20조 팔아…삼전닉스에 매도 집중",
-   "source": "한국경제",
-   "time": "2026-10-04T10:49:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yVk9PZ0NweXdVZGFKOVpWejBuc0xWR05qSkdLdVlPVmJZYjQ3ZjN3ZWt3c1loX2ZQSEdldFRjRkNFRm5hRXNHdEV2T3EyQl9vcmp6aUNPYzBfdw?oc=5"
-  },
-  {
-   "title": "미국 증시 100년 부를 일군 46개 종목의 비밀… '핵심 투자 후 탐색'이 월가를 바꿨다",
+   "title": "[뉴욕증시 주간전망] 기대치 높아진 어닝시즌...증시 반등 분수령",
    "source": "글로벌이코노믹",
-   "time": "2026-10-04T07:45:40+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGt2TmpTQnRackxHU1YwX0dNdzBOMUhCMkY2SUpUcU91ODhoQ3JQZ2w1OUszN1lQNlpOaC1vYkVzOUxYN0JsNTNReUtuZ29zbzg1X3BrT0NNcnRQaEVvSjVIVTc4bzJSREtQOUpZMDNKeVlSNG9IanprUVFpN1RIUzJSYzhtMm5m?oc=5"
+   "time": "2026-10-05T05:28:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGx1cU9WS0xDVk9sSnVkcXdyaUltVmlSeGt4TjE1UmZNek1oeU81aklFVEMyNW9DZy1jbURyOFB2OGExWHYyN1Nnc1hVY2pOY0U4Zjlmdmo4UktBWFlFU0FhbFpJSU5aQ1U0U0xwSFRyWE5lbWpQRDZoZFNvVjZWMlpqb18yektG?oc=5"
+  },
+  {
+   "title": "코스피 팔아치운 외국인…9개월 내내 담은 종목도 있다는데",
+   "source": "hankyung.com",
+   "time": "2026-10-02T08:48:41+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zQkdPNnNrcHcycUtJQ0xjUmhFYUhKWGQ2LVF3QllOS2dBZEdNY0h4cFhPMEhncFJtYTZzLUE5YjJOVlJQQjZnNF9QdmxvN2lxV0pfZmdHMHBJUQ?oc=5"
   }
  ]
 }
