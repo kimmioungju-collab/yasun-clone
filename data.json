@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T07:49:42.122095+09:00",
+ "updated": "2026-10-04T11:02:57.188145+09:00",
  "quotes": {
   "k200": {
    "price": 1109.05,
@@ -738,95 +738,67 @@
    ]
   },
   "btc": {
-   "price": 84793.42,
-   "prev": 84506.336,
+   "price": 84802.57,
+   "prev": 84742.47,
    "spark": [
-    84779.3594,
-    84792.8516,
-    84755.3906,
-    84840.2734,
-    84836.9922,
-    84851.0078,
-    84871.4922,
-    84874.0938,
-    84889.9922,
-    84873.5625,
-    84881.1406,
-    84879.2969,
-    84861.0469,
-    84844.5781,
-    84739.2969,
-    84744.9609,
-    84739.2031,
-    84699.9531,
-    84591.3828,
-    84677.2578,
-    84697.0625,
-    84708.2891,
-    84700.2266,
-    84707.7266,
-    84699.0703,
-    84687.1172,
-    84718.5391,
-    84698.0078,
-    84708.5703,
-    84731.2734,
-    84746.0469,
-    84778.6328,
-    84756.9531,
-    84762.5469,
-    84763.4375,
-    84769.3438,
-    84783.9766,
-    84783.1328,
-    84793.4219,
-    84793.4219
+    84801.9531,
+    84790.2969,
+    84803.7812,
+    84834.6406,
+    84847.1172,
+    84793.6719,
+    84817.9062,
+    84805.9375,
+    84787.2969,
+    84824.1016,
+    84806.7266,
+    84786.4688,
+    84758.9062,
+    84765.7734,
+    84758.3203,
+    84705.4609,
+    84724.6172,
+    84734.4922,
+    84768.8516,
+    84772.1016,
+    84767.3984,
+    84765.4531,
+    84792.0078,
+    84794.7031,
+    84816.8203,
+    84802.5703
    ]
   },
   "eth": {
-   "price": 2687.02,
-   "prev": 2668.2031,
+   "price": 2694.38,
+   "prev": 2686.836,
    "spark": [
-    2682.6899,
-    2682.25,
-    2682.28,
-    2685.0,
-    2685.1899,
-    2687.23,
-    2687.02,
-    2687.45,
-    2688.3999,
-    2687.3401,
-    2687.6201,
-    2687.3701,
-    2686.8101,
-    2686.8101,
-    2686.95,
-    2686.75,
-    2686.45,
-    2686.0,
-    2683.99,
-    2686.6299,
-    2686.95,
-    2687.28,
-    2685.49,
-    2685.55,
-    2684.96,
-    2685.4199,
-    2685.6101,
-    2684.97,
-    2685.03,
-    2685.98,
-    2686.5801,
-    2688.3,
-    2687.73,
-    2687.78,
-    2687.3101,
-    2687.3401,
-    2687.78,
-    2687.5801,
-    2687.0901,
-    2687.02
+    2686.9399,
+    2686.6899,
+    2687.1001,
+    2689.1899,
+    2691.6899,
+    2690.48,
+    2692.1499,
+    2691.46,
+    2690.4199,
+    2690.8799,
+    2691.8401,
+    2692.8401,
+    2692.03,
+    2693.01,
+    2693.1499,
+    2689.76,
+    2690.51,
+    2689.8799,
+    2691.1201,
+    2691.5701,
+    2692.0,
+    2692.6001,
+    2694.05,
+    2694.3201,
+    2694.3701,
+    2694.3799
    ]
   },
   "eurkrw": {
@@ -971,7 +943,6 @@
    "price": 157.83,
    "prev": 158.054,
    "spark": [
-    157.831,
     157.817,
     157.81,
     157.801,
@@ -1010,6 +981,7 @@
     157.859,
     157.841,
     157.779,
+    157.83,
     157.83
    ]
   },
@@ -1108,16 +1080,16 @@
  },
  "news": [
   {
-   "title": "역대급 폭락에 국민연금도 울상...'롤러코스피' 리스크",
-   "source": "ytn.co.kr",
-   "time": "2026-10-04T05:24:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aWNRZ05aWHI2LXRlVTJvWHNtODhEMElZVHJEVURfVWJ1V2V5OXpxTE94akxpM1o3LUNfMU1TcHJ3NGE2S29VMGkxNGdKUUFVbncxUG5FTGFZRHNqaXJpbktZMl9BWFhRdHkyV1Q5VQ?oc=5"
-  },
-  {
    "title": "\"악재는 끝났다\"…환율 하락에도 끄떡없는 4분기 바이오 최선호주는",
    "source": "연합인포맥스",
    "time": "2026-10-03T09:05:12+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5LXVIUnFFNnJNc2wtb3NWYkVUNldQQmp4OHZBcnJGUTU0cGwtdzZNZVV6czJLU1VwdnJnMXRHMmppbERYTk1neXBNQmFZeTdYeGg3OVU5S29FdTdyYzJUMFE0N2RteGthNDl4dVRCX2w?oc=5"
+  },
+  {
+   "title": "외국인, 한 달 새 코스피 20조 팔아…매도 1위 종목은",
+   "source": "ekn.kr",
+   "time": "2026-10-04T07:54:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WbUdiNnZ4T2s0RUpkbFZSWklwVXA3M0JhWDNTa0RjZk00aFRUc092LVNqbmI0T1VMU0FCS0ltMWFRaUFlNGhwRDE0dWZNT1Y3bzFGVktfdlUycWprRXc?oc=5"
   },
   {
    "title": "[마켓인사이트] 삼전 실적발표 앞둔 韓증시…'7천피' 지켜낼까",
@@ -1132,10 +1104,16 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0S1NMWFFCbDdPYWtqWHZHRUFZeTB5MHR2Y1IxeTVLb3pOSm85Z0ZXNmVjWFdZdjJ1MVN0NTk1ZjlXQlRhQVhockZyLTJMSHc?oc=5"
   },
   {
-   "title": "한 달간 코스피서 20조 판 외인…삼전·하이닉스 보유율 하락",
-   "source": "KBC광주방송",
-   "time": "2026-10-04T07:13:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83NFFSTlRiYnpvUy1zYnBLdWk1RnltRTlMWW94WmVPWG9TNkxRNHl6VFFrWUQ5a0hVQUtMdFBoLWNEYnp2NVRhcXRoeXB4TU5HcnpGMmszeWR1NXB6RWo5Yg?oc=5"
+   "title": "‘9월 코스피 맥못춘 이유 있었네…’ 한달 간 외국인 20조 팔아치워, 10월엔 돌아올까",
+   "source": "문화일보",
+   "time": "2026-10-04T10:37:53+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvS2xOV2ZqNVhfVEFBX3J4cEYxMG5VelplMFdDN3RsTU1FMHFXZHY1LUZiTUNzTDdJQVAwZEFFTExvRWpQRzNIRklRdk5TMmdS?oc=5"
+  },
+  {
+   "title": "외국인, 한달 사이 코스피 20조 ‘팔자’… 삼성전자·SK하이닉스 순매도 1위 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-10-04T08:52:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkE2TmZIUXk1NkxPZUczNlhhUjZfbjFrOFpGVzZzUkRxeWFNOUVlQTRpemRVNDFEV2tpaUVuc0JiS0NaZDRtMXNKTWMxXzkwOUd2YVNtdlUwQkFnaVBaTVFqS1o4NkM3YVE3czl6aDFld0ttalZJYWx2SkdHY2FHclo5ZlZhcmg20gGcAUFVX3lxTE1fRDEzN0FCZy1XN2RkRmdLSl8tWkZVZGx3ckpFZk8zRzVmVC1lS1g4dk56eEl0N2Z0ZUtFTVZMaEZKWVRabWZnUzVDajZucVJWOU42VmZqb2FkQW1TanVwUVNlRmp2WXdudEFGUFNXMnZvTWhrOUFuLTlFTTBjR3dkZHB4U0RGV3lJRXVTMTFlVlEzWmxGd1hXNmRPRw?oc=5"
   },
   {
    "title": "미국 증시 100년 부를 일군 46개 종목의 비밀… '핵심 투자 후 탐색'이 월가를 바꿨다",
@@ -1144,52 +1122,46 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGt2TmpTQnRackxHU1YwX0dNdzBOMUhCMkY2SUpUcU91ODhoQ3JQZ2w1OUszN1lQNlpOaC1vYkVzOUxYN0JsNTNReUtuZ29zbzg1X3BrT0NNcnRQaEVvSjVIVTc4bzJSREtQOUpZMDNKeVlSNG9IanprUVFpN1RIUzJSYzhtMm5m?oc=5"
   },
   {
-   "title": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
-   "source": "연합뉴스",
-   "time": "2026-10-04T06:20:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QQ2JnM0VfaDBVY0VHS0RaTzhERHkwRlJNbEtaUWZ3U2hfVDA4cjJYU1hpMGZQamU5MElZVjBfaHlINEZGeW5RX3ctVzBTU0NlMm4zS0pKTTdTVFnSAWBBVV95cUxOOTRXZWhiUVQ5aTJqdnRDUERPTF9MZmF1OG8xOXp2N2tIYjgxMDE1UDIxTG1janQ5VUpnenNVX1hkbXVKZEV0YXZ5THFwRFFoc19ZNTdBWnhaMHEwNHZLZDc?oc=5"
+   "title": "한 달간 코스피서 20조 판 외인…삼전·하이닉스 보유율 하락",
+   "source": "KBC광주방송",
+   "time": "2026-10-04T07:13:23+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83NFFSTlRiYnpvUy1zYnBLdWk1RnltRTlMWW94WmVPWG9TNkxRNHl6VFFrWUQ5a0hVQUtMdFBoLWNEYnp2NVRhcXRoeXB4TU5HcnpGMmszeWR1NXB6RWo5Yg?oc=5"
   },
   {
    "title": "반도체 팔던 외국인, 코스피를 팔기 시작했다",
-   "source": "hankyung.com",
+   "source": "한국경제",
    "time": "2026-10-02T16:45:08+09:00",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzQ1U3cGxjTWFXMG5RTnFqeDlVdzZHbFJDYU16RHF1MUZHNU1jR2Nseko4N2lubk1YdW03UEU2YWc3Rm9DaWFuSXhkaUxDdmg1eWxfZFpWYWVMZw?oc=5"
   },
   {
-   "title": "나스닥 상장 멈춘 토스, 상장 시계 '제자리'...커지는 코스피行 가능성",
-   "source": "인베스트조선",
-   "time": "2026-09-28T07:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzN2LVNWbnVBTzh4QjNHR1J6eU52SDhQQlB6X3dBWnB5UXVsVDhpTFBYT24yT3JsbklxVXFYOWlRY0lITnlndkhaMlFmMVQ2YnRZTVYyZU9MTDZ5UEZWZllueU1jQW9FYWk2N0R5RGZzUWcyZDl6OUpFVkFWQ21aSHEwVQ?oc=5"
+   "title": "역대급 폭락에 국민연금도 울상...'롤러코스피' 리스크",
+   "source": "YTN",
+   "time": "2026-10-04T05:24:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aWNRZ05aWHI2LXRlVTJvWHNtODhEMElZVHJEVURfVWJ1V2V5OXpxTE94akxpM1o3LUNfMU1TcHJ3NGE2S29VMGkxNGdKUUFVbncxUG5FTGFZRHNqaXJpbktZMl9BWFhRdHkyV1Q5VQ?oc=5"
   },
   {
-   "title": "반에크 \"비트코인, 강세장 초기…목표가 50만달러\"",
-   "source": "블루밍비트",
-   "time": "2026-10-03T18:54:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xZFBZemJMcXIxeGk5aTQzM2phemV4TUlOVFJLNGxTVk05Vm9kN3M4S0lvZVBiT3dBS0VrQXRwZkR5YkVHcFJ3djJIWXVfM0hV?oc=5"
+   "title": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
+   "source": "yna.co.kr",
+   "time": "2026-10-04T06:20:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QQ2JnM0VfaDBVY0VHS0RaTzhERHkwRlJNbEtaUWZ3U2hfVDA4cjJYU1hpMGZQamU5MElZVjBfaHlINEZGeW5RX3ctVzBTU0NlMm4zS0pKTTdTVFnSAWBBVV95cUxOOTRXZWhiUVQ5aTJqdnRDUERPTF9MZmF1OG8xOXp2N2tIYjgxMDE1UDIxTG1janQ5VUpnenNVX1hkbXVKZEV0YXZ5THFwRFFoc19ZNTdBWnhaMHEwNHZLZDc?oc=5"
   },
   {
-   "title": "올해 주가 '쑥' 오른 종목들…코스피·코스닥 상승률 상위권 보니",
+   "title": "美국채금리 5.3% 시대…비트코인, 하방 다지며 연말 랠리 시험대[금리 쇼크②]",
+   "source": "newsis.com",
+   "time": "2026-10-04T08:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIby1xclIyZjZCZ0gwUXdRemNXcEN4dkVkNlBXaUtoUno3Yy1zVEJJWEFuNFlRaHJKVTlrMTc1R1ZkYXBqTjYxV1FjTFRWOGkyX0JqYWd2U1QzV0xPRjl5aw?oc=5"
+  },
+  {
+   "title": "[뉴욕증시-주간전망] '좀 말려봐'…고금리의 목에 누가 방울을 채울까",
+   "source": "매일경제 마켓",
+   "time": "2026-10-04T07:00:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9weXpHVWluTDlKa0FLd0hkUGxGUDJnMFI1Ri1lU2NCVGFiRXNHX2xCdWJsNHFVcDhxLUFDV0dENWpWTTk1cHpKQXVCMG5ubWhMVXc?oc=5"
+  },
+  {
+   "title": "“원·달러 환율 다시 오르나” 1400원 대 넘어설 전망",
    "source": "v.daum.net",
-   "time": "2026-10-04T06:00:18+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1reGN0bkhzREphWFNqUXRNeFkxZVB5Zk5kSXlYMTk3aDR6SWNhV2tXdXZPX3UwN0xiU2J6bWFyMm9nX0dFcWpVWmFkVUQxek0?oc=5"
-  },
-  {
-   "title": "코스피 팔아치운 외국인…9개월 내내 담은 종목도 있다는데",
-   "source": "hankyung.com",
-   "time": "2026-10-02T08:48:41+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zQkdPNnNrcHcycUtJQ0xjUmhFYUhKWGQ2LVF3QllOS2dBZEdNY0h4cFhPMEhncFJtYTZzLUE5YjJOVlJQQjZnNF9QdmxvN2lxV0pfZmdHMHBJUQ?oc=5"
-  },
-  {
-   "title": "환율, 강달러에 1,366원 찍은 뒤 수출업체 매도에 1,340원대로",
-   "source": "연합뉴스",
-   "time": "2026-10-02T16:11:58+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wei1HemtkNDNMSW93ajFiR2dkYk1Cell0SzFhM2xyWHhuZWhuU0Z2VnpETjJIQm9ocTlOYklLX3BCakEzY3FEYjRSdWN1Xzh6cTF1OVZvS1YxYUt6NklzUNIBYEFVX3lxTE8wei1HemtkNDNMSW93ajFiR2dkYk1Cell0SzFhM2xyWHhuZWhuU0Z2VnpETjJIQm9ocTlOYklLX3BCakEzY3FEYjRSdWN1Xzh6cTF1OVZvS1YxYUt6NklzUA?oc=5"
-  },
-  {
-   "title": "[분석 \"비트코인, 8만7000달러서 또 저항…8만2500달러가 매수 기회\"",
-   "source": "블루밍비트",
-   "time": "2026-10-03T17:45:55+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxUWk1OHlhMGZNY3JJRnF2UmxjZEFlLTdWUjF0LUk4OFM0dFBkN042MGpNUTFYWW5Ra2ZaZnpIeF8zMEFXcjZQbkdvdUxSVk01?oc=5"
+   "time": "2026-10-04T10:30:11+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QTRXWlFtUGpDZEZUT1VRZHVwbm9JS3licFVfS0hVTlBBU1lBOWpXZWJieG5VWXEwZF9hUndRRUNheDh3ekdCVEVFTkVLNnc?oc=5"
   }
  ]
 }
