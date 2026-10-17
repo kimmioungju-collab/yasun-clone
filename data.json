@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:22:11.973988+09:00",
+ "updated": "2026-10-17T14:42:48.859349+09:00",
  "quotes": {
   "k200": {
    "price": 878.16,
@@ -186,9 +186,10 @@
    ]
   },
   "nq": {
-   "price": 29391.25,
+   "price": 29391.5,
    "prev": 30143.75,
    "spark": [
+    29532.25,
     29493.25,
     29471.5,
     29452.5,
@@ -227,14 +228,14 @@
     29397.25,
     29382.5,
     29387.0,
-    29391.25,
     29391.25
    ]
   },
   "es": {
-   "price": 7703.0,
+   "price": 7704.25,
    "prev": 7791.0,
    "spark": [
+    7722.0,
     7714.5,
     7707.25,
     7703.25,
@@ -272,7 +273,6 @@
     7700.75,
     7703.25,
     7702.75,
-    7703.0,
     7703.0,
     7703.0
    ]
@@ -416,9 +416,10 @@
    ]
   },
   "wti": {
-   "price": 99.04,
+   "price": 99.02,
    "prev": 96.5,
    "spark": [
+    98.52,
     98.67,
     98.78,
     98.62,
@@ -457,14 +458,14 @@
     98.99,
     98.98,
     99.01,
-    99.04,
     99.04
    ]
   },
   "brent": {
-   "price": 109.69,
+   "price": 109.86,
    "prev": 105.92,
    "spark": [
+    108.98,
     109.13,
     109.38,
     109.27,
@@ -503,14 +504,14 @@
     109.83,
     109.83,
     109.75,
-    109.69,
     109.69
    ]
   },
   "gold": {
-   "price": 4186.7,
+   "price": 4181.1,
    "prev": 4170.1,
    "spark": [
+    4185.7002,
     4182.5,
     4182.5,
     4184.1001,
@@ -549,14 +550,14 @@
     4189.2998,
     4187.8999,
     4185.3999,
-    4186.7002,
-    4186.7002
+    4181.1001
    ]
   },
   "silver": {
-   "price": 57.135,
+   "price": 57.305,
    "prev": 57.156,
    "spark": [
+    57.4,
     57.345,
     57.265,
     57.28,
@@ -595,14 +596,14 @@
     57.16,
     57.115,
     57.115,
-    57.135,
-    57.135
+    57.305
    ]
   },
   "gas": {
-   "price": 3.117,
+   "price": 3.116,
    "prev": 3.236,
    "spark": [
+    3.139,
     3.132,
     3.133,
     3.134,
@@ -641,7 +642,6 @@
     3.122,
     3.119,
     3.118,
-    3.117,
     3.117
    ]
   },
@@ -692,7 +692,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1334.2,
+   "price": 1329.6,
    "prev": 1341.19,
    "spark": [
     1334.37,
@@ -738,51 +738,95 @@
    ]
   },
   "btc": {
-   "price": 81396.98,
+   "price": 81453.25,
    "prev": 81501.61,
    "spark": [
-    81487.4297,
-    81477.1172,
-    81518.2969,
+    81289.5312,
+    81314.3203,
+    81340.2891,
+    81342.9609,
+    81359.1719,
+    81380.7578,
+    81318.2812,
+    81310.8125,
+    81344.9062,
+    81342.4375,
+    81429.9609,
+    81469.8906,
+    81454.0703,
+    81470.8828,
+    81479.1719,
+    81469.1719,
+    81445.6484,
+    81450.7422,
+    81387.4531,
+    81438.6172,
+    81435.1016,
+    81410.1328,
+    81417.4062,
+    81404.1172,
+    81430.4375,
+    81440.6797,
+    81452.5,
+    81448.2422,
+    81408.1484,
+    81416.3516,
+    81489.5234,
+    81521.6172,
+    81517.5938,
+    81497.7031,
+    81482.1719,
+    81484.9688,
+    81482.2188,
+    81491.2578,
     81467.1094,
-    81465.6328,
-    81457.0781,
-    81541.6562,
-    81514.3828,
-    81448.6406,
-    81358.8828,
-    81448.5391,
-    81446.5,
-    81416.7969,
-    81405.2109,
-    81436.2031,
-    81426.7578,
-    81394.4375,
-    81396.9766
+    81453.25
    ]
   },
   "eth": {
-   "price": 2416.62,
+   "price": 2423.42,
    "prev": 2419.9055,
    "spark": [
-    2418.29,
-    2417.8701,
-    2418.8601,
-    2417.6599,
-    2417.53,
-    2418.1799,
-    2420.72,
-    2419.3999,
-    2417.97,
-    2414.27,
-    2418.0,
-    2419.6899,
-    2418.7,
-    2417.8799,
-    2418.99,
-    2417.98,
-    2416.6299,
-    2416.6201
+    2415.49,
+    2415.72,
+    2417.47,
+    2417.29,
+    2418.54,
+    2419.1499,
+    2416.76,
+    2417.5901,
+    2418.3899,
+    2419.3401,
+    2422.71,
+    2424.8601,
+    2424.3101,
+    2425.21,
+    2426.0,
+    2424.5901,
+    2423.8999,
+    2424.26,
+    2422.0701,
+    2423.6599,
+    2423.7,
+    2422.5601,
+    2423.76,
+    2424.05,
+    2425.1201,
+    2424.6699,
+    2425.3999,
+    2424.6201,
+    2422.1499,
+    2422.46,
+    2425.75,
+    2426.0901,
+    2425.2,
+    2424.1799,
+    2425.6899,
+    2424.9099,
+    2423.9299,
+    2425.3301,
+    2423.95,
+    2423.4199
    ]
   },
   "eurkrw": {
@@ -878,7 +922,7 @@
    ]
   },
   "cnykrw": {
-   "price": 199.618,
+   "price": 198.896,
    "prev": 200.52,
    "spark": [
     199.566,
@@ -1017,8 +1061,9 @@
   },
   "dxy": {
    "price": 101.779,
-   "prev": 102.055,
+   "prev": 101.837,
    "spark": [
+    101.876,
     101.874,
     101.884,
     101.89,
@@ -1057,17 +1102,22 @@
     101.782,
     101.791,
     101.781,
-    101.779,
     101.779
    ]
   }
  },
  "news": [
   {
-   "title": "폭락장에 반대매매 속출...완충재 없는 코스피",
-   "source": "YTN",
-   "time": "2026-10-17T05:28:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIX0I0ZWpIdlNCQklqbzhFdFI2OHU0dy1FbFI4MkJ6MDVoZmhGcWVmQ2xMVVdoeEVmaXJXMGJnOWdPYmcyVXk5TURNMWZEbkNGLTBVeEQ5Yzl5MTVuX0E?oc=5"
+   "title": "AI 투자 우려에 뉴욕증시 일제히 하락…나스닥 2.15%↓",
+   "source": "경향신문",
+   "time": "2026-10-17T10:58:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vQTRqMVFTaVZGTTdaWGhSSGRuTkRMWk5kMWlDWVAtNmgzamFZTWQtRGFqZWhLcFVzT3BRZ1JpRlJQUWV4cF8yQkNob2FiQ2ozTzl4aWxlYmR5Z9IBX0FVX3lxTE5RSmgwTDhFbTFrckVabTNqdVgza2dNUnVwT1dKblRNdUN3Mm1hQjdoVkJKVnhuLXkxMW1EamRUYUdWQVpsU1hyQlRaRWFpWUNXTldCcE0waUVGbXFTaFZN?oc=5"
+  },
+  {
+   "title": "코스피 연속 하락에 한 주간 반대매매 3천억원 규모 집계 By EBN",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-17T09:42:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jTlJvSDFacnZORmdhUmxVRnV4THRkbTBBWC1vZG12QWxuZTc3T2tNUUtGVkRBV09adU5POXdWQnJxZndLYmRwcGxkX3NCOUt1LW1XMDVRZHRMcXowV2U2eWJoUm5Zbi1YTUl4U19MeEE?oc=5"
   },
   {
    "title": "[뉴욕증시-1보] 기술주 본격 하강 국면 진입하나…나스닥 2.1%↓",
@@ -1076,10 +1126,34 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMW9acE12eWRsYVlIcnJyRnM5NWRPQWk0ajYwX0o3SWtiYTFRc0lDWklsb3ctSzEtaDdUTG5NT0xHOHpPMV90dG5RYnZpM1VDZkp1bXphOUpXcTV0NHFoVHY4NE9TYW5kcXI5M2xUVFfSAXRBVV95cUxPbE0wb3FqOWJRSk5JbTY1R2hVVDloLVpjREQ2cW5weVpBS1c2T0xXeEM2ZlpIcXBNZDRJbjhvWWh3RjhmMVcyaVdkVGJnekV5Q3M1aGVBMmg3Wm5aNm5LcFBqNS1NQ1JsMDloRkpaRUpOblRXZg?oc=5"
   },
   {
-   "title": "코스피 급락에 반대매매 3000억원 육박…채권엔 매수세",
-   "source": "경향신문",
-   "time": "2026-10-17T08:29:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MVzNIVmlRSjJMQVRMVmZiT0hWSE9VRThfdkZmRy1kcHNKenZCV2dVSkhwUUwtTVFhbmxNUTFtTTYwQ2EzNVo0VzUtSkM5dEllT05lZVE1d0ZIQdIBX0FVX3lxTE5JZV9qeXpaeWlOZmZlc0VyRTlseUkyNnItbFlhS2lEaGFscW9DcnBNQ0kzRlVkbVM5c2x3YjJ6SFRpeFpoQmtMRzB5enk5eHAxUThpdDNHbEJUTGpmMmJj?oc=5"
+   "title": "AI 경고등에 유가 급등까지…반도체 급락, 나스닥 2.2%↓(종합)",
+   "source": "연합뉴스",
+   "time": "2026-10-17T06:26:05+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TSXk3TExaRFBaOWZkdGZzMTJSRjA5ZVZscVBBVXZJZVhEeUh2SmtyMzFCY0JfZWE4VDA1LU5ZRzlFY2w5WWZ2QkY1eGpyaGxxQlpCUTA0eGpzWHfSAWBBVV95cUxOeTBuNE5ma1Jxb0dYSjB1MlVfMm5nUnloME04RVkyaXV2NHRrSG1XOVFfY1hXRjdJX3hLM3VlSU5NdjVEQkV2MUVoWldzcHhuUVdQc0pnZzhPQ1l6Nko3cWM?oc=5"
+  },
+  {
+   "title": "폭락장에 반대매매 속출...완충재 없는 코스피",
+   "source": "YTN",
+   "time": "2026-10-17T05:28:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIX0I0ZWpIdlNCQklqbzhFdFI2OHU0dy1FbFI4MkJ6MDVoZmhGcWVmQ2xMVVdoeEVmaXJXMGJnOWdPYmcyVXk5TURNMWZEbkNGLTBVeEQ5Yzl5MTVuX0E?oc=5"
+  },
+  {
+   "title": "코스피 7거래일 하락에 ‘빚투’ 직격탄…반대매매 3000억 육박",
+   "source": "조선일보",
+   "time": "2026-10-17T09:37:17+09:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2xDMW9hQWxJSlRlZVdOTVRyMURZMU9wUUJxaUlkMGlDejlxaTVnSlJwdnIzanlJd1FpNFB2aWRrdzVwZk90a0NPSXdaeEdCelUxbHRzaGMwQUhsbld3RGxicHlra2hOOWhMcXNCT0Q3YW11UVlLaFN1ZTdVR0RkaVhLeHRPMEN6TU0zMVhR?oc=5"
+  },
+  {
+   "title": "“환율보다 고운임”…HMM·팬오션, 3Q 실적 기대감↑",
+   "source": "에너지경제신문",
+   "time": "2026-10-17T11:04:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nakhUM0tnM2tiWUJfVllGVWt0TDZBV2tGa3ZtcWc2M3poWFlxN3BFT1R3bWpOMHFndnpPTU5aNnFqTVZaV2NGRHc5cWFhQUNXRUpmeE81WGVmbi1Tb0dqRXVMNA?oc=5"
+  },
+  {
+   "title": "[해외시황] 뉴욕증시, AI 부채 우려·유가 급등에 '하락'…나스닥 2.15%↓",
+   "source": "프라임경제",
+   "time": "2026-10-17T11:26:37+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15a0tpNlBVZXJqVHVNa2o5dy1KUFVvMXc4Z3h1a2tFNl9EUm1mYkwzQWFseTBIUFU1TEZUeTNVMzN1bDlkZDBZMjg2Wm55a25zbWtmT2RHakJKT3hPSUZQTWVub3BrUTRvQkMtOA?oc=5"
   },
   {
    "title": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
@@ -1088,10 +1162,16 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0akE0TktQTnU5VFFyRE9QVWFfVzFQaXdZWUJ0aVRyMFZzRU14X3RtWTVvbHJ5ai16SkVXMDV2dlEtc1I5cGVvekhBZGFCMEZCdzd5b0g2VERMTlo1TXMxQ2JSWVVwRldFUGd6bw?oc=5"
   },
   {
-   "title": "“지금 팔아? 좀 더 버텨?”…급락 뒤 반등한 코스피, 전문가 의견 보니",
-   "source": "매일경제",
-   "time": "2026-10-16T15:48:54+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsOElUU29YUlBVZEhBWjJlR0ktZnZxaUdHS2VZeDVqNFRtU2tDbmdyODl2Uy1BNlRUdW9iRHpZemVyek1ob01uNGt3Q3EtVUVmRlE?oc=5"
+   "title": "비트코인, 美 물가·국채금리 등 악재 겹쳐…ETF 자금도 이탈",
+   "source": "비즈워치",
+   "time": "2026-10-17T11:00:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zYV9VbktaX1BEU1NxdTFjYjNKM2o3eFNsVDZMVGpzUEdwMU1QM0NQVXg4WGJuc1I1cEJhTGx5akJoa1dHc2FBdDFOOUctQXZNVlNWQ1BpTnZGZGFVSXdDSUEzZV9nUUpEUmc?oc=5"
+  },
+  {
+   "title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
+   "source": "KBS 뉴스",
+   "time": "2026-10-15T12:42:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYS3hROUpwLWZuY1dCeUN1aUlHQVhQUktXWWVoeEMxTjEyazRhSXhMSmRsZGMxYTVEMGVzdFlfWk9yRVNiNk1sREhBalB4Q2tUbkpSZXhkdXpjMTg?oc=5"
   },
   {
    "title": "20% 폭락에도 \"코스피 지금 사라\"…월가 강력 추천한 까닭",
@@ -1100,52 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OdF9EdXlLR1IxdUZ0cklXWGRtTmFsaXZ6QjFIQVV5cE9JNFJ2ZGlVT2wwamN3SzBqcjZBXzNycmpuOTJoYmdzb0RJTzJPZzhWb3lQWlQ1ZGR3dw?oc=5"
   },
   {
-   "title": "코스피 7거래일 연속 하락에 반대매매 3000억원 육박 - 조선비즈",
-   "source": "Chosunbiz",
-   "time": "2026-10-17T09:43:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGFQbVMzSGNQeUZjaVp6V3lRTU9oaDhBeTZKbmJIZjJYckxfUV9QRDJsdXFkd3I4T3hpSTY2MmRLTmo5NEExVkU4Y3NieEZNR1dQb21seUlydUZMRTZaVWZLTDBFODQyZWZDamdZRXJqWkw4S2Y4U0pkSGp6MUNPdDV2emlEd1Yy0gGcAUFVX3lxTE5wUC04dEtFVWVfZTk2UGdnZXhZOVFNVHJhQ2pzTDB2R3FOb2VsNGtyUW5BWWFiZGQtcXNzemZ3YVBzV0F2cG1sRkJtWnBzTlU4UE9IZjBjcGE2NGVLbmI5U1BKVE9RYjZ3ZVQxUk11RFlXVWtYTWFlRjdkWDJGYnhaSVUyblZYQmJ3Y1kwbmh6R1FFSjloemFWRDBRTQ?oc=5"
+   "title": "“지금 팔아? 좀 더 버텨?”…급락 뒤 반등한 코스피, 전문가 의견 보니",
+   "source": "매일경제",
+   "time": "2026-10-16T15:48:54+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsOElUU29YUlBVZEhBWjJlR0ktZnZxaUdHS2VZeDVqNFRtU2tDbmdyODl2Uy1BNlRUdW9iRHpZemVyek1ob01uNGt3Q3EtVUVmRlE?oc=5"
   },
   {
-   "title": "코스피 14% 폭락 속 13% 솟구쳤다…불기둥 세운 종목[김근희의 증시 랩업] - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-10-17T09:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VX0J0R01ua2EtWjZLZ0pnRFpPZnJkVW10dDVER2Vuekd1M1JxN3NtRmkzQjBTMTVzb0dOQVNUSFVISzJsTTc0Ujc0VGhZX2lVcVVLdnUzREtnOHhFRDJ6UU56TExhZWFj0gFuQVVfeXFMTWZKZjNUTHI3TWpTZ2NqemsyVEl1ZGlmSkpMSzQ0b2p5VENQSzRfZi0wUUN5R0s3ZU1Vd1FMTG5wMjZyUVdsdHdBSmNGRkJWaTE2dXpsQkRqMWhJX2VKemZ3eXotaEJ1dm5CaG9BbEE?oc=5"
-  },
-  {
-   "title": "‘AI 경고등’에 국제유가 급등까지…나스닥 2.2%↓",
-   "source": "KBS 뉴스",
-   "time": "2026-10-17T06:51:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42M2RwSW0xeTVQNFJieTRpSlhvYWV3NF9OYnV0VXRVd0tHcHVfYThKNk9aRHlsMERNcGVHWk1xa2dVZTZLSjFVeHdzcUREY1JQVUNNakxzVndjWTA?oc=5"
-  },
-  {
-   "title": "환율, 1,331원 또 연저점 …2년 만에 최저",
-   "source": "연합뉴스",
-   "time": "2026-10-16T16:46:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zcEJmUjJOZ2lRLXlLWHNBaWFYTjl2V09Nd0wxejNOaFBZYWxzaWdiZ2ZQNVdvQlQ0emRMZktRTjRBSktjLVVCY2VSaXBBZjVLY3BiNndzQXItaVhWZXRMZNIBYEFVX3lxTE8zcEJmUjJOZ2lRLXlLWHNBaWFYTjl2V09Nd0wxejNOaFBZYWxzaWdiZ2ZQNVdvQlQ0emRMZktRTjRBSktjLVVCY2VSaXBBZjVLY3BiNndzQXItaVhWZXRMZA?oc=5"
-  },
-  {
-   "title": "AI 투자 불안에 유가 급등까지…뉴욕증시 급락, 나스닥 2.15%↓",
-   "source": "BBS불교방송",
-   "time": "2026-10-17T09:15:06+09:00",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91UVF0bEZaOUttQzA2cFhnUld5eEZmcG0zemoweVpiV1JFX1prMnNiMXk0ajBQcnBPcTlGOEZYY3RsSmE0bzRfV3RNdVd0SVpCZi04ZWloNmF3YjZQTGpvWnB5aHY2c2lsdzln?oc=5"
-  },
-  {
-   "title": "유니크웰스, 비트코인 보유액 1040만달러 공시",
-   "source": "블루밍비트",
-   "time": "2026-10-17T01:32:20+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PbEtSUldiNmw2ZDhpaFVlRFpIRnB3N1ZnUjY2VmtFRExEdXVORGttaHNoS0cyalp6bDB5cXFiN2tnenR6OFBPSzZIMWZNY2Fu?oc=5"
-  },
-  {
-   "title": "저가 매수 유입됐나...코스피 2%·코스닥 4%대 ↑",
-   "source": "YTN",
-   "time": "2026-10-16T18:34:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzVGh4enVJV083MkZ2UXFBTFF4UGlpN2NqRlYybnoyanhRMEFnWDFETmJHakZpZG9xY1lzY0owQTR0Q3Rjc050MDkwRDdzS1ludlYwaTh3RjhrYm9wNU1rcnJjVFVteE1rTEdtcEdCdw?oc=5"
-  },
-  {
-   "title": "[뉴욕증시] AI 테마 뒤흔든 코어위브 쇼크…나스닥 1.88%↓",
-   "source": "연합인포맥스",
-   "time": "2026-10-15T06:01:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ud2x2TnZqcDY5Q3ZxbEE1clZWclMzSzk1MC1JTmxpQ1hoZ3kzSFQyc0VINmhld1VOR1hIWW1ndjRrdklicFJyWVFnaWtQMjQwaHRWYVlNSTdMZkRtWWp4Rm5JRnR5NXV5c3VCXy1URWU?oc=5"
+   "title": "코스피 5% 급락 출발…이틀 만에 매도 사이드카 발동",
+   "source": "한겨레",
+   "time": "2026-10-15T14:31:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14QVhoUnU2Ul9lbHdYVFItV0NBMUdoZmpQZTc1eVQybUFNT3F5S24zbmFfZm84ODRuWk9Ta3pYcDNkd193dDVqVmhnRXBndTgyRzQ5Y29TaHctakxDaUVSaHNjbDIwTjg?oc=5"
   }
  ]
 }
