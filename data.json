@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T01:25:14.089737+09:00",
+ "updated": "2026-10-18T03:40:39.663187+09:00",
  "quotes": {
   "k200": {
    "price": 878.16,
@@ -738,36 +738,9 @@
    ]
   },
   "btc": {
-   "price": 81182.17,
+   "price": 81440.48,
    "prev": 81501.61,
    "spark": [
-    81386.5391,
-    81389.8203,
-    81394.3828,
-    81419.6797,
-    81396.5469,
-    81370.9531,
-    81374.9922,
-    81385.2188,
-    81399.9922,
-    81381.7891,
-    81386.3594,
-    81397.4297,
-    81371.3516,
-    81373.7734,
-    81414.9922,
-    81446.8203,
-    81491.5703,
-    81467.7812,
-    81464.0469,
-    81450.7188,
-    81471.9922,
-    81480.3203,
-    81447.3594,
-    81450.0938,
-    81482.0703,
-    81402.7031,
-    81386.9375,
     81399.9766,
     81425.0625,
     81383.1094,
@@ -780,40 +753,40 @@
     81271.5391,
     81183.0781,
     81182.1719,
-    81182.1719
+    81213.4609,
+    81193.3672,
+    81157.3125,
+    81193.75,
+    81211.0234,
+    81113.8125,
+    81150.4688,
+    81077.2734,
+    81165.6172,
+    81170.3984,
+    81137.4531,
+    81178.4219,
+    81163.5469,
+    81166.6875,
+    81216.1172,
+    81182.8828,
+    81214.0703,
+    81266.2109,
+    81269.5938,
+    81399.4609,
+    81380.0,
+    81397.9922,
+    81424.6094,
+    81428.7969,
+    81445.7188,
+    81434.8906,
+    81460.2031,
+    81440.4766
    ]
   },
   "eth": {
-   "price": 2404.9,
+   "price": 2414.78,
    "prev": 2419.9055,
    "spark": [
-    2419.8,
-    2420.9399,
-    2422.1299,
-    2423.52,
-    2422.3601,
-    2419.7,
-    2419.9399,
-    2421.24,
-    2422.0801,
-    2420.26,
-    2421.0601,
-    2421.8999,
-    2419.9199,
-    2419.1799,
-    2421.1599,
-    2422.3601,
-    2424.6799,
-    2424.3601,
-    2423.73,
-    2423.28,
-    2425.21,
-    2424.5,
-    2422.0701,
-    2421.01,
-    2421.3601,
-    2414.1001,
-    2414.1101,
     2412.78,
     2415.3501,
     2412.25,
@@ -826,7 +799,34 @@
     2409.6499,
     2404.46,
     2405.3799,
-    2404.8999
+    2405.6201,
+    2405.3401,
+    2402.1101,
+    2403.97,
+    2404.77,
+    2399.3601,
+    2400.6599,
+    2397.8799,
+    2402.51,
+    2402.5,
+    2401.3601,
+    2403.4299,
+    2402.8,
+    2403.8501,
+    2405.9299,
+    2403.5901,
+    2405.74,
+    2408.46,
+    2408.73,
+    2413.54,
+    2412.72,
+    2414.0,
+    2414.21,
+    2415.8201,
+    2416.02,
+    2414.9399,
+    2415.5901,
+    2414.78
    ]
   },
   "eurkrw": {
@@ -1108,12 +1108,6 @@
  },
  "news": [
   {
-   "title": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목",
-   "source": "AI타임스",
-   "time": "2026-10-17T15:17:31+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YNVF2aTRRRF9zTS15cndOckJyc0Zsc0RQVEtOd2QxQ2pqQ1E1S3lFSWdFcHM3ZmNtb2NFMWwxSWhIeEVGRGoyaHNlWmpfeFZoY2sxNXRBNlY5aVVROFNSRWszTi1RU2JteGc?oc=5"
-  },
-  {
    "title": "[뉴욕증시] AI 테마 뒤흔든 코어위브 쇼크…나스닥 1.88%↓",
    "source": "연합인포맥스",
    "time": "2026-10-15T06:01:19+09:00",
@@ -1126,16 +1120,22 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LTDNtTklkS0dGSTVMZVFpLXF4NGM4UUROaUdIVTFERFhZaTY0U1RYYVVfOG5XWWhSYzBxRDRUS0haYW9JYUdZR09VUGFCZFhZVjdLVFVRTnpWZw?oc=5"
   },
   {
+   "title": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목",
+   "source": "AI타임스",
+   "time": "2026-10-17T15:17:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YNVF2aTRRRF9zTS15cndOckJyc0Zsc0RQVEtOd2QxQ2pqQ1E1S3lFSWdFcHM3ZmNtb2NFMWwxSWhIeEVGRGoyaHNlWmpfeFZoY2sxNXRBNlY5aVVROFNSRWszTi1RU2JteGc?oc=5"
+  },
+  {
    "title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
    "source": "KBS 뉴스",
    "time": "2026-10-15T12:42:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYS3hROUpwLWZuY1dCeUN1aUlHQVhQUktXWWVoeEMxTjEyazRhSXhMSmRsZGMxYTVEMGVzdFlfWk9yRVNiNk1sREhBalB4Q2tUbkpSZXhkdXpjMTg?oc=5"
   },
   {
-   "title": "코스피 연속 하락에 한 주간 반대매매 3천억원 규모 집계 By EBN",
+   "title": "비트코인, ETF 자금 유출에 투자심리 위축…8만1,000달러선 유지",
    "source": "Investing.com 한국어",
-   "time": "2026-10-17T09:42:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jTlJvSDFacnZORmdhUmxVRnV4THRkbTBBWC1vZG12QWxuZTc3T2tNUUtGVkRBV09adU5POXdWQnJxZndLYmRwcGxkX3NCOUt1LW1XMDVRZHRMcXowV2U2eWJoUm5Zbi1YTUl4U19MeEE?oc=5"
+   "time": "2026-10-17T14:48:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00cEZBMHVJX182aUJYdkVBZS00LTJXZlRvd01wcUY4d044U3JicUtzUzFycElyWmhGcjA3Y0s3ZDVfcWswUTZ3alkyUWJnVEdHT1Y1N1VGVTZZWklGOGphd3QwTFZobGZDSXd4NzFpek1mOWc?oc=5"
   },
   {
    "title": "코스피 6000 붕괴한 날 나온 전망…“내년엔 1만2000까지 간다”",
@@ -1144,34 +1144,16 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZNDhiMC1DZVB6OHRQTFdqajNnWjNraVRQWmFWMk11UDNtWGxRVFN6bHVhWGVVVlVkd2t4X1hVbjVWakRlMHpEVFVtbzF2X1ZoV0x6dkpaRTF6b0dTRGV4ay0xLU05c1hsS3fSAW5BVV95cUxPNkNpOHc1MXNxY2xTOVJZY0c4V0RseUlaOUJBOGFhUFhDaUw0T1lKTkl0R19oTUVvSXlMV2gyNVJiTHRmeXlETDhtczBQblplQzl6MFFncGxJbFRKbUR4YVJRcGZZTnpOb1VjQkt1dw?oc=5"
   },
   {
-   "title": "코스피 급락에 반대매매 3000억원 육박…채권엔 매수세",
-   "source": "경향신문",
-   "time": "2026-10-17T08:29:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MVzNIVmlRSjJMQVRMVmZiT0hWSE9VRThfdkZmRy1kcHNKenZCV2dVSkhwUUwtTVFhbmxNUTFtTTYwQ2EzNVo0VzUtSkM5dEllT05lZVE1d0ZIQdIBX0FVX3lxTE5JZV9qeXpaeWlOZmZlc0VyRTlseUkyNnItbFlhS2lEaGFscW9DcnBNQ0kzRlVkbVM5c2x3YjJ6SFRpeFpoQmtMRzB5enk5eHAxUThpdDNHbEJUTGpmMmJj?oc=5"
-  },
-  {
-   "title": "폭락장에 반대매매 속출...완충재 없는 코스피",
-   "source": "YTN",
-   "time": "2026-10-17T05:28:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIX0I0ZWpIdlNCQklqbzhFdFI2OHU0dy1FbFI4MkJ6MDVoZmhGcWVmQ2xMVVdoeEVmaXJXMGJnOWdPYmcyVXk5TURNMWZEbkNGLTBVeEQ5Yzl5MTVuX0E?oc=5"
-  },
-  {
    "title": "아서 헤이즈 \"오픈AI·앤트로픽 가치 없어…AI 버블 커질수록 비트코인 오른다\"",
    "source": "블루밍비트",
    "time": "2026-10-17T20:19:49+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KMGlkMlp5NkhzV1BsWTdTNXVLNEJnUzVxTk05U3l3TzF3YUg0UGYxR3A1dHhqNnMyV3lpVUxsMzlsSHFZcXVlVjJqUnl3Wm9T?oc=5"
   },
   {
-   "title": "AI 경고등에 유가 급등까지…반도체 급락, 나스닥 2.2%↓(종합)",
-   "source": "연합뉴스",
-   "time": "2026-10-17T06:26:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TSXk3TExaRFBaOWZkdGZzMTJSRjA5ZVZscVBBVXZJZVhEeUh2SmtyMzFCY0JfZWE4VDA1LU5ZRzlFY2w5WWZ2QkY1eGpyaGxxQlpCUTA0eGpzWHfSAWBBVV95cUxOeTBuNE5ma1Jxb0dYSjB1MlVfMm5nUnloME04RVkyaXV2NHRrSG1XOVFfY1hXRjdJX3hLM3VlSU5NdjVEQkV2MUVoWldzcHhuUVdQc0pnZzhPQ1l6Nko3cWM?oc=5"
-  },
-  {
-   "title": "[해외시황] 뉴욕증시, AI 부채 우려·유가 급등에 '하락'…나스닥 2.15%↓",
-   "source": "프라임경제",
-   "time": "2026-10-17T11:26:37+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15a0tpNlBVZXJqVHVNa2o5dy1KUFVvMXc4Z3h1a2tFNl9EUm1mYkwzQWFseTBIUFU1TEZUeTNVMzN1bDlkZDBZMjg2Wm55a25zbWtmT2RHakJKT3hPSUZQTWVub3BrUTRvQkMtOA?oc=5"
+   "title": "코스피 급락에 반대매매 3000억원 육박…채권엔 매수세",
+   "source": "경향신문",
+   "time": "2026-10-17T08:29:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MVzNIVmlRSjJMQVRMVmZiT0hWSE9VRThfdkZmRy1kcHNKenZCV2dVSkhwUUwtTVFhbmxNUTFtTTYwQ2EzNVo0VzUtSkM5dEllT05lZVE1d0ZIQdIBX0FVX3lxTE5JZV9qeXpaeWlOZmZlc0VyRTlseUkyNnItbFlhS2lEaGFscW9DcnBNQ0kzRlVkbVM5c2x3YjJ6SFRpeFpoQmtMRzB5enk5eHAxUThpdDNHbEJUTGpmMmJj?oc=5"
   },
   {
    "title": "코스피 5% 급락 출발…이틀 만에 매도 사이드카 발동",
@@ -1180,16 +1162,34 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14QVhoUnU2Ul9lbHdYVFItV0NBMUdoZmpQZTc1eVQybUFNT3F5S24zbmFfZm84ODRuWk9Ta3pYcDNkd193dDVqVmhnRXBndTgyRzQ5Y29TaHctakxDaUVSaHNjbDIwTjg?oc=5"
   },
   {
+   "title": "폭락장에 반대매매 속출...완충재 없는 코스피",
+   "source": "YTN",
+   "time": "2026-10-17T05:28:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIX0I0ZWpIdlNCQklqbzhFdFI2OHU0dy1FbFI4MkJ6MDVoZmhGcWVmQ2xMVVdoeEVmaXJXMGJnOWdPYmcyVXk5TURNMWZEbkNGLTBVeEQ5Yzl5MTVuX0E?oc=5"
+  },
+  {
    "title": "“지금 팔아? 좀 더 버텨?”…급락 뒤 반등한 코스피, 전문가 의견 보니",
    "source": "매일경제",
    "time": "2026-10-16T15:48:54+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsOElUU29YUlBVZEhBWjJlR0ktZnZxaUdHS2VZeDVqNFRtU2tDbmdyODl2Uy1BNlRUdW9iRHpZemVyek1ob01uNGt3Q3EtVUVmRlE?oc=5"
   },
   {
-   "title": "[뉴욕증시-1보] 기술주 본격 하강 국면 진입하나…나스닥 2.1%↓",
-   "source": "연합인포맥스",
-   "time": "2026-10-17T05:14:41+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMW9acE12eWRsYVlIcnJyRnM5NWRPQWk0ajYwX0o3SWtiYTFRc0lDWklsb3ctSzEtaDdUTG5NT0xHOHpPMV90dG5RYnZpM1VDZkp1bXphOUpXcTV0NHFoVHY4NE9TYW5kcXI5M2xUVFfSAXRBVV95cUxPbE0wb3FqOWJRSk5JbTY1R2hVVDloLVpjREQ2cW5weVpBS1c2T0xXeEM2ZlpIcXBNZDRJbjhvWWh3RjhmMVcyaVdkVGJnekV5Q3M1aGVBMmg3Wm5aNm5LcFBqNS1NQ1JsMDloRkpaRUpOblRXZg?oc=5"
+   "title": "[해외시황] 뉴욕증시, AI 부채 우려·유가 급등에 '하락'…나스닥 2.15%↓",
+   "source": "프라임경제",
+   "time": "2026-10-17T11:26:37+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15a0tpNlBVZXJqVHVNa2o5dy1KUFVvMXc4Z3h1a2tFNl9EUm1mYkwzQWFseTBIUFU1TEZUeTNVMzN1bDlkZDBZMjg2Wm55a25zbWtmT2RHakJKT3hPSUZQTWVub3BrUTRvQkMtOA?oc=5"
+  },
+  {
+   "title": "AI 경고등에 유가 급등까지…반도체 급락, 나스닥 2.2%↓(종합)",
+   "source": "연합뉴스",
+   "time": "2026-10-17T06:26:05+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TSXk3TExaRFBaOWZkdGZzMTJSRjA5ZVZscVBBVXZJZVhEeUh2SmtyMzFCY0JfZWE4VDA1LU5ZRzlFY2w5WWZ2QkY1eGpyaGxxQlpCUTA0eGpzWHfSAWBBVV95cUxOeTBuNE5ma1Jxb0dYSjB1MlVfMm5nUnloME04RVkyaXV2NHRrSG1XOVFfY1hXRjdJX3hLM3VlSU5NdjVEQkV2MUVoWldzcHhuUVdQc0pnZzhPQ1l6Nko3cWM?oc=5"
+  },
+  {
+   "title": "코스피 연속 하락에 한 주간 반대매매 3천억원 규모 집계 By EBN",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-17T09:42:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jTlJvSDFacnZORmdhUmxVRnV4THRkbTBBWC1vZG12QWxuZTc3T2tNUUtGVkRBV09adU5POXdWQnJxZndLYmRwcGxkX3NCOUt1LW1XMDVRZHRMcXowV2U2eWJoUm5Zbi1YTUl4U19MeEE?oc=5"
   }
  ]
 }
