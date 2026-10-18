@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T22:28:32.725847+09:00",
+ "updated": "2026-10-19T01:44:02.854377+09:00",
  "quotes": {
   "k200": {
    "price": 878.16,
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1329.6,
+   "price": 1334.2,
    "prev": 1341.19,
    "spark": [
     1334.37,
@@ -451,95 +451,95 @@
    ]
   },
   "btc": {
-   "price": 81469.23,
+   "price": 81048.92,
    "prev": 81383.29,
    "spark": [
-    82078.3594,
-    82108.8125,
-    82131.3516,
-    82102.1172,
-    82073.5234,
-    82074.5938,
-    82013.7812,
-    82017.3281,
-    81982.0625,
-    81994.1719,
-    82005.4688,
-    81990.4531,
-    81999.8438,
-    81987.7188,
-    81987.7266,
-    81919.6719,
-    81945.3906,
-    81914.1094,
-    81902.0,
-    81908.8984,
-    81957.1172,
-    81968.3594,
-    81990.0078,
-    81945.5312,
-    81936.7578,
-    81936.8672,
-    81918.4375,
-    81869.2266,
-    81863.4922,
-    81828.5781,
-    81871.1875,
-    81882.9297,
-    81872.5,
-    81854.2109,
-    81841.3672,
-    81804.7188,
-    81836.2109,
-    81701.0469,
-    81502.1719,
-    81469.2266
+    81253.3984,
+    81338.6328,
+    81337.6719,
+    81416.2422,
+    81376.7578,
+    81431.8438,
+    81177.1719,
+    81302.9375,
+    81147.8516,
+    81218.2891,
+    81305.25,
+    81171.2578,
+    81065.6328,
+    81052.5312,
+    81036.6797,
+    81010.4688,
+    80991.2422,
+    81003.0625,
+    81116.0,
+    81090.9766,
+    81058.0938,
+    81093.5234,
+    81112.4375,
+    81060.0078,
+    81034.5781,
+    80962.5,
+    80945.2109,
+    81048.5938,
+    81027.8672,
+    81074.1797,
+    81018.2266,
+    81008.2578,
+    81072.4688,
+    81031.0234,
+    81111.0,
+    81025.6562,
+    81093.8438,
+    80970.1875,
+    81024.7578,
+    81048.9219
    ]
   },
   "eth": {
-   "price": 2397.87,
+   "price": 2364.75,
    "prev": 2399.7751,
    "spark": [
-    2419.9299,
-    2421.3301,
-    2421.79,
-    2422.2,
-    2419.4099,
-    2419.4199,
-    2416.5601,
-    2417.54,
-    2415.98,
-    2416.3,
-    2414.7,
-    2415.9399,
-    2416.8101,
-    2416.49,
-    2417.1899,
-    2413.3501,
-    2413.8899,
-    2411.6201,
-    2411.9099,
-    2412.77,
-    2415.1399,
-    2416.51,
-    2416.1899,
-    2415.03,
-    2414.1599,
-    2414.23,
-    2414.26,
-    2410.8401,
-    2411.8799,
-    2412.25,
-    2413.95,
-    2415.1001,
-    2415.0,
-    2412.8201,
-    2411.7,
-    2411.0901,
-    2411.6299,
-    2407.3601,
-    2398.8301,
-    2397.8701
+    2382.27,
+    2391.3,
+    2390.3999,
+    2393.4299,
+    2394.47,
+    2393.0,
+    2382.8799,
+    2389.3201,
+    2384.8,
+    2386.1599,
+    2389.3401,
+    2384.3501,
+    2375.26,
+    2374.1101,
+    2374.9199,
+    2374.6899,
+    2373.1799,
+    2374.21,
+    2379.95,
+    2378.6499,
+    2375.8799,
+    2377.8301,
+    2378.52,
+    2376.01,
+    2375.3301,
+    2371.8,
+    2371.3301,
+    2375.4299,
+    2375.7,
+    2376.54,
+    2369.53,
+    2369.1101,
+    2371.3501,
+    2365.2,
+    2368.22,
+    2362.3501,
+    2365.0,
+    2361.3301,
+    2363.3401,
+    2364.75
    ]
   },
   "eurkrw": {
@@ -635,7 +635,7 @@
    ]
   },
   "cnykrw": {
-   "price": 198.896,
+   "price": 199.476,
    "prev": 200.52,
    "spark": [
     199.566,
@@ -782,8 +782,20 @@
   {
    "title": "원·달러 환율 2년 만에 최저...반도체 훈풍 영향",
    "source": "YTN",
-   "time": "2026-10-18T18:55:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBycEdqWWYtVWVrRWE4dnBrdE0taFhTSEMwTTJHWEt6QmtZSlNkNzBHQ0pqLVB3RW5ZRkl2UFFlY0tNWUxjdVhfeXVHa1B4SmxCOXo2NDlzM0dldnlaalE?oc=5"
+   "time": "2026-10-18T23:22:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNDlmcUxtbTNvOW5kR0tnbVp2WXZLaXotdUh0U1lFZDRDdlY0RHRRTUtLbGNSQjdaMnZOWFhpS01aTW9VbTlzV1I0RXFVQmdfSWdodGdzUXFZeTFxTEN1VFE1anJUTHlUWFhMMmc3OA?oc=5"
+  },
+  {
+   "title": "[주간증시전망] \"폭락장에 주식 팔지 마라\"…코스피 반등 이끌 ’세 가지 변수’는 By EBN",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-18T12:41:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nYVlOaEx1TE45VDFTczRINS1GWU1BQlBqYzNGMVl1WmRlQ2xUazlRaDdYVDVXUm5UTk9yRDQ0X1JtMktIT3hwZ21xeW1kVDZiRU1zZjVaaWxuYUtWN1hJdjdFN1hLeTk1ZGF4RkRTRzc?oc=5"
+  },
+  {
+   "title": "“코스피 하단 5100선”…‘초단기 빚투’ 나흘 새 2563억원 강제청산",
+   "source": "한겨레",
+   "time": "2026-10-19T00:34:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vejg3MGlYdG1hVU43aWtlRVJEVXJyTk96LVFQN2ZQY2NRd2dkd3ZlX0RHT1VnQ2l6SEFCX1NHa1I2NmZHM2FOUFJrU0pLS2hLYkpVSWNETFU5V1BxYmV3RGwzWlNVaW8?oc=5"
   },
   {
    "title": "[외환-주간] 증시, 외국인 그리고 금통위…연저점 이후 어디로",
@@ -804,34 +816,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93VmVZNGxjVkdwRmxoMkdSYW5oaEF5UlZTOG1RZWw2U0NSY2lKZXZaLTV5RFczVmZ1UWwtWWQ3VkNaeXVrcWhzTnk4WVV2dmZyb3lnVy0tUkdkc3Ax?oc=5"
   },
   {
-   "title": "기업이익 못따라가는 코스피… '닷컴버블' 판박이",
-   "source": "매일경제 마켓",
-   "time": "2026-10-18T17:16:20+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xT2NqdVp4TFZpNEhqZ19FQTBDb0Z1c1Z5dWVwNHlrRnR5b2pGSXM2T0dTbE9oSjZMZlowdWpic2l6dUEzWFlPU1NRUl9tQWlFaWc?oc=5"
-  },
-  {
-   "title": "“코스피 하단 5100선”…‘초단기 빚투’ 나흘 새 2563억원 강제청산",
-   "source": "한겨레",
-   "time": "2026-10-18T20:16:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vejg3MGlYdG1hVU43aWtlRVJEVXJyTk96LVFQN2ZQY2NRd2dkd3ZlX0RHT1VnQ2l6SEFCX1NHa1I2NmZHM2FOUFJrU0pLS2hLYkpVSWNETFU5V1BxYmV3RGwzWlNVaW8?oc=5"
-  },
-  {
-   "title": "환율 떨어지자 “일단 사두자”…개인 달러·엔화예금 수년 만에 최대",
+   "title": "환율 떨어지자 “일단 사두자”…수년 만에 최대 불어난 이 예금",
    "source": "중앙일보",
    "time": "2026-10-18T17:19:11+09:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80M0d6YkpTNWFoTHM3SzY0eUU0Y0hZY2Robkw0RlBoaVh1cXdqeTIxQ3pMUVhEQmFSYjlSd1VfcXo3ZkdvaWphODhKNkc0LWh4RzBSc3Vn?oc=5"
   },
   {
-   "title": "[주간증시전망] \"폭락장에 주식 팔지 마라\"…코스피 반등 이끌 ’세 가지 변수’는 By EBN",
-   "source": "Investing.com 한국어",
-   "time": "2026-10-18T12:41:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nYVlOaEx1TE45VDFTczRINS1GWU1BQlBqYzNGMVl1WmRlQ2xUazlRaDdYVDVXUm5UTk9yRDQ0X1JtMktIT3hwZ21xeW1kVDZiRU1zZjVaaWxuYUtWN1hJdjdFN1hLeTk1ZGF4RkRTRzc?oc=5"
-  },
-  {
-   "title": "[그래픽] 월평균 달러·엔 환율 추이",
-   "source": "연합뉴스",
-   "time": "2026-10-18T14:21:28+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zN2twU09IUVVjMEQ4SnR5VVg3ZVlhZHJFZ05Pb1VTbUlQakY1Ym5kV3M2VEFCNGhBa3c2MUlHN01UUFQzM3lQdEFzSEdjcHg3d0ZrWmJ2MzMyMDhoa3NIStIBYEFVX3lxTE4zN2twU09IUVVjMEQ4SnR5VVg3ZVlhZHJFZ05Pb1VTbUlQakY1Ym5kV3M2VEFCNGhBa3c2MUlHN01UUFQzM3lQdEFzSEdjcHg3d0ZrWmJ2MzMyMDhoa3NISg?oc=5"
+   "title": "코스피 급락에 한 주간 3000억원 강제 청산… ‘빚투’ 비명 - 조선비즈",
+   "source": "Chosunbiz",
+   "time": "2026-10-19T00:32:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHFKOGt4bFF4cVExWGd0SWVTSl9vV0hWRkNjd0lacTI0eUhtclNuS0FtQklxMzIxaHItNEV1cVR5M0dhNEQ3Z2dCUTc2TDJTVTljeWRWWlJJT28xeGN0SmVwSnNYdXBpcHlkb1R3em9vbktIT2ZMZDJTZndsWlk0b1hidHYydVlu0gGcAUFVX3lxTE9jVU1NOHB6T3lPN2x3RmFCZmRVOHdGVlJBM0NHOFBDbGdNVlktejNqbF9TUm5ZT2l3Q2poWFFEaGhaZ3RwcVd5M2lsdDJxVmxEY3dZUWxOVWo4V2N3SURXUDJpNHlzTWJONlNJZVpqNDNydmdCaHBhM0RmbjFwT2JwVmlLUUFnTE8wUFJvYlJoNEtZWXdDd1R0OG5SQw?oc=5"
   },
   {
    "title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
@@ -840,28 +834,34 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYS3hROUpwLWZuY1dCeUN1aUlHQVhQUktXWWVoeEMxTjEyazRhSXhMSmRsZGMxYTVEMGVzdFlfWk9yRVNiNk1sREhBalB4Q2tUbkpSZXhkdXpjMTg?oc=5"
   },
   {
-   "title": "일주일 새 -15% 코스피, V자 반등보다 방향성 모색…외국인 수급 관건 - 머니투데이",
+   "title": "코스피 급락장 속 주주환원 호재 예상한 리포트 - 머니투데이",
    "source": "머니투데이",
-   "time": "2026-10-18T14:03:48+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rMGd0UDBDNnNhVHE5T0tEenVXWVdab0JWN0gxeDhxLXNWR3doLXdKRmhJNWN5NjNTdTNyeFBKYkxrRjFhbkdwNkJGak1JU0ZzcU9FRWExNjVON012Zms0bE85X2dQZUtS0gFuQVVfeXFMTXJKMDhHMExTdTBxRTJVQXVVOHdoZGRkMjRBcFBoX29mdWh0U3R1OGVKNDRrRWJqWHBZNkhkZWlaS1FJUTktWGxLc2M4TWYxQjVTQ2tHNDRCbWFlNkpVNmFvQW1FdGE4bDhVWHN5RkE?oc=5"
+   "time": "2026-10-18T16:22:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Jc2p6SDZuX0VLaThvaUdkY01zUVhjOWthME5MOExVYXF2T1ZIMl9FV3F2b0c3YXFRZml6OTRhX21tYkF2eEp2bHhiNkltaVJmNU9MY0x0VFVicFgyZmNiSGZVckJBSWRw0gFuQVVfeXFMTWdka3pUVmt1M2FNcWxtZ2pndG1RNk01TFJLQ1NtcnVTWEJseHdHX3g5Y3VrSTJyNWE2TXk4MW00Y0p0TWUzcXRtSGQxeXVaVmU4RXRxbERMWTk0TloxY3VnUTgtcENHX0R4UEFmalE?oc=5"
   },
   {
-   "title": "코스피 6000 붕괴한 날 나온 전망…“내년엔 1만2000까지 간다”",
-   "source": "주간조선",
-   "time": "2026-10-13T14:59:34+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZNDhiMC1DZVB6OHRQTFdqajNnWjNraVRQWmFWMk11UDNtWGxRVFN6bHVhWGVVVlVkd2t4X1hVbjVWakRlMHpEVFVtbzF2X1ZoV0x6dkpaRTF6b0dTRGV4ay0xLU05c1hsS3fSAW5BVV95cUxPNkNpOHc1MXNxY2xTOVJZY0c4V0RseUlaOUJBOGFhUFhDaUw0T1lKTkl0R19oTUVvSXlMV2gyNVJiTHRmeXlETDhtczBQblplQzl6MFFncGxJbFRKbUR4YVJRcGZZTnpOb1VjQkt1dw?oc=5"
+   "title": "[표] 외국환율고시표",
+   "source": "매일경제 마켓",
+   "time": "2026-10-18T17:21:38+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1RDBHTE1UUHRzSGlpQnd6a0JCZ3VfYlVSV28wU084NUFuOFhRa2tpRWpXSVJoLVl2RHpEVGZrb2RuTGh6UnFrYktJRW1vRV9pVFE?oc=5"
+  },
+  {
+   "title": "[그래픽] 월평균 달러·엔 환율 추이",
+   "source": "연합뉴스",
+   "time": "2026-10-18T14:21:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zN2twU09IUVVjMEQ4SnR5VVg3ZVlhZHJFZ05Pb1VTbUlQakY1Ym5kV3M2VEFCNGhBa3c2MUlHN01UUFQzM3lQdEFzSEdjcHg3d0ZrWmJ2MzMyMDhoa3NIStIBYEFVX3lxTE4zN2twU09IUVVjMEQ4SnR5VVg3ZVlhZHJFZ05Pb1VTbUlQakY1Ym5kV3M2VEFCNGhBa3c2MUlHN01UUFQzM3lQdEFzSEdjcHg3d0ZrWmJ2MzMyMDhoa3NISg?oc=5"
+  },
+  {
+   "title": "리밸런싱 원칙 깬 국민연금…7분기 만에 마이너스",
+   "source": "연합뉴스TV",
+   "time": "2026-10-18T18:23:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QRWI3em5iTmkybngteDBPZHN3TmF5MnhuRHJ6WDdBblFHU3lqS3JsblUwc3ZfcGlhbDNqdUU0bnZzMFFTNHl5aXE4U2dhR29xZGsycmhiWTFZbjMzUTVpeGVJYWZfTkU?oc=5"
   },
   {
    "title": "“국민연금 240조 증발, 고갈 10년 빨라진다”?…코스피 폭락 후 퍼진 글 사실일까",
    "source": "주간경향",
    "time": "2026-10-15T19:26:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OcW4teEY0b1B2QmVXVlZRTVJjWk9aU0JGT3ktcGpTUUVDUlV4UzR2bjFQV3poQW00bmRlZHZrTV9zazVvazdOSUJYckxZMzlaNkFycVR1OG5XME5MM0E?oc=5"
-  },
-  {
-   "title": "[뉴욕증시] AI 테마 뒤흔든 코어위브 쇼크…나스닥 1.88%↓",
-   "source": "연합인포맥스",
-   "time": "2026-10-15T06:01:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ud2x2TnZqcDY5Q3ZxbEE1clZWclMzSzk1MC1JTmxpQ1hoZ3kzSFQyc0VINmhld1VOR1hIWW1ndjRrdklicFJyWVFnaWtQMjQwaHRWYVlNSTdMZkRtWWp4Rm5JRnR5NXV5c3VCXy1URWU?oc=5"
   }
  ]
 }
