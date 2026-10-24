@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:22:46.120981+09:00",
+ "updated": "2026-10-24T23:40:43.941093+09:00",
  "quotes": {
   "k200": {
    "price": 862.77,
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 80510.41,
+   "price": 80112.04,
    "prev": 81079.98,
    "spark": [
-    80686.7031,
-    80660.5312,
-    80686.2188,
-    80698.4062,
-    80715.5312,
-    80584.3594,
-    80530.5703,
-    80562.2109,
-    80622.9219,
-    80603.9922,
-    80529.3125,
-    80497.8281,
-    80535.2734,
-    80483.6484,
-    80485.8828,
-    80483.8672,
-    80457.2812,
-    80418.2891,
-    80373.1797,
-    80435.3906,
-    80508.6172,
-    80516.0078,
-    80552.7812,
-    80504.6016,
-    80499.9219,
-    80459.1094,
-    80458.8906,
-    80510.7109,
-    80601.6094,
-    80588.6094,
-    80568.7031,
-    80565.9922,
-    80518.6406,
-    80557.9297,
-    80589.3516,
-    80568.1719,
-    80557.0,
-    80543.5938,
-    80525.9062,
-    80510.4062
+    80469.9219,
+    80484.2188,
+    80516.6562,
+    80513.5469,
+    80518.5234,
+    80514.0391,
+    80487.7734,
+    80503.0703,
+    80494.75,
+    80523.5391,
+    80602.7578,
+    80654.1797,
+    80672.5703,
+    80694.5234,
+    80717.4297,
+    80676.2969,
+    80707.4609,
+    80717.2266,
+    80678.4688,
+    80727.7734,
+    80675.9375,
+    80668.8828,
+    80629.9531,
+    80661.0625,
+    80666.4062,
+    80628.0625,
+    80575.8594,
+    80601.5703,
+    80585.3672,
+    80616.7031,
+    80581.8203,
+    80630.3906,
+    80619.5625,
+    80432.6094,
+    80112.4375,
+    80040.3984,
+    80175.9062,
+    80274.4219,
+    80199.7734,
+    80112.0391
    ]
   },
   "eth": {
-   "price": 2364.47,
+   "price": 2340.41,
    "prev": 2384.4502,
    "spark": [
-    2372.6101,
-    2369.3,
-    2370.3201,
-    2369.9399,
-    2370.49,
-    2367.3201,
-    2364.5,
-    2365.5701,
-    2367.9299,
-    2366.02,
-    2363.0701,
-    2361.6201,
-    2362.22,
-    2360.1001,
-    2360.78,
-    2359.6499,
-    2358.1299,
-    2356.79,
-    2356.47,
-    2359.3301,
-    2363.47,
-    2364.21,
-    2365.1499,
-    2363.76,
-    2362.8101,
-    2362.6201,
-    2361.9099,
-    2364.8701,
-    2368.96,
-    2368.8,
-    2368.5801,
+    2362.6001,
+    2362.3301,
+    2362.8401,
+    2362.73,
+    2363.3,
+    2363.46,
+    2362.4299,
+    2362.28,
+    2361.55,
+    2362.3101,
+    2365.2,
+    2366.97,
+    2367.3501,
+    2367.01,
+    2368.0801,
+    2366.51,
+    2368.54,
+    2368.1499,
+    2366.1899,
     2368.27,
-    2365.3501,
-    2367.0801,
-    2368.6001,
-    2367.1201,
-    2367.1299,
-    2365.3201,
-    2364.79,
-    2364.47
+    2366.2,
+    2366.2,
+    2363.9199,
+    2365.75,
+    2365.9399,
+    2364.52,
+    2362.48,
+    2364.5701,
+    2365.1001,
+    2366.3601,
+    2365.1399,
+    2365.72,
+    2364.51,
+    2356.77,
+    2342.1899,
+    2338.8601,
+    2346.75,
+    2349.05,
+    2344.3999,
+    2340.4099
    ]
   },
   "eurkrw": {
@@ -1108,34 +1108,46 @@
  },
  "news": [
   {
-   "title": "코스피 빠질 때 혼자 37% '불기둥'…실적 두 배 터진 이 회사 [종목+]",
-   "source": "한국경제",
-   "time": "2026-10-24T15:52:49+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NRElSSkEtQmdSZHpLbUs5dGJVaWhFdTZMRUxZbkstVUlDc0RlVUVoczRVYW5YTnhqN2MzTWhPZGFNbGpvMk1GSEsySVg4eUJ3bl9Hb3FWazRKUQ?oc=5"
-  },
-  {
    "title": "코스피 장중 5500선까지 무너졌는데…與 대변인 “내년엔 1만 간다”",
    "source": "주간조선",
    "time": "2026-10-22T23:45:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FUy01aE5OXzJRd3E5MUs3WWVkd3o2V1g1bldrdElfWmxEYUk2c1pmaElyNk4wT05CVGtfOXpzYWJjUFMzekhjZUY5SzJXWVJ5bV9ob0VIeVhjREdWOGVSZlUwd29mWDRTbVHSAW5BVV95cUxON0RraUhfbnp5Yk5hVnpHTHhDQ1BXclktSDJNM3ZaTTB1MlYxbHE5XzRtaEV1V1g1aFBFYWtYeFVzcGN5Zkc3QU5FUThjamVVb0RfRkJQNnJwNWs2SWtMdHZCZk1BTUZzUXFST2g5dw?oc=5"
   },
   {
-   "title": "비트코인, 고래 출금 급증·기관 활동 확대 속 $84,000 목표",
-   "source": "Investing.com 한국어",
-   "time": "2026-10-24T14:15:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oV3lOM0h6UVFIU1JQaGt3RzYwd0dJcVRVMUVFRVZ2REVJYUJiOHZVZlhmaXNNSWx2NnRxcjB2Y3M2S2VsS1lEWUYzdHZ4ZV9mSVRQcjJPU1dmMFVod0lNa00xNmZGaEttdElENVJkM2psX0E?oc=5"
+   "title": "코스피 빠질 때 혼자 37% '불기둥'…실적 두 배 터진 이 회사 [종목+]",
+   "source": "한국경제",
+   "time": "2026-10-24T15:52:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NRElSSkEtQmdSZHpLbUs5dGJVaWhFdTZMRUxZbkstVUlDc0RlVUVoczRVYW5YTnhqN2MzTWhPZGFNbGpvMk1GSEsySVg4eUJ3bl9Hb3FWazRKUQ?oc=5"
   },
   {
-   "title": "9100→5500까지 하락한 코스피…“11월은 W자 반등에 주목”",
+   "title": "[마감] 코스피, SK하이닉스 반등에 0.30% 상승…장중 4% 급락 딛고 5550선 By 알파경제 alphabiz",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-24T18:50:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZQXJRMk1VWGRRUVJzSXFDOERDdW1UaGNTRWt2RkFtVzZSWU04TUVYT2E0aW12akRfU1ZuZjBjRkRIU0g5WW9XRURnaHB1djZBWDJENVl2djloZ2lTQVdZRFFPUzVQRWhGYXp0ako0dzA?oc=5"
+  },
+  {
+   "title": "증시 큰 변동성에도 버티는 보험주…배당·방어주로 부각된다는데",
    "source": "매일경제 마켓",
-   "time": "2026-10-24T17:06:17+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sNTVZeVFHT3ZRb3FWcjQ1RHdTY29uOHpEdlc5UjdjblFQWEdtUnFNNVI0Y00wSjhycWdvclhweEp5ODl2Z1BJbjNxZ2ZDMWpNbmc?oc=5"
+   "time": "2026-10-24T23:11:45+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xMkFKeXpxaW1td3o5YWQ1elhfTzJMNVpqWjQtVk0wdkljNzlncHZxZFBxQWlmaXZCYWNKamg4XzhmbDhuZ3JPa19mSzctMVVNQ3c?oc=5"
   },
   {
    "title": "코스피 5500선 추락했는데…與대변인 “내년 1만피 갈것”",
    "source": "동아일보",
    "time": "2026-10-22T21:35:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5weGJ0cUNQb1hpdlB0MHBLRkpKS0g3Mm1xQ1dyZjdjbTVfV1BUdnRXSEt2eFhLUlBRQk1BSW5TTjRNMG5naXpBdHVlaWpOUDBwRmI0S1JycVlQN2Z1X2w5ZDQ0dVAwUVJ4VGU0SWJCU2g5dW1iNjNj?oc=5"
+  },
+  {
+   "title": "CMCC 글로벌, 테더·비트파이넥스와 비트코인 펀드 토큰화 추진",
+   "source": "블루밍비트",
+   "time": "2026-10-24T21:40:18+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02WXcwYUhQTEdnbVV4S2J3bE1CYXhaSjFDaUpuNS0zc2pZdmVXOS1Dek4xaF94OVhGQVVXczM0YUtRTDFvOU9yOWpHZDV5bkpK?oc=5"
+  },
+  {
+   "title": "AI 투자 불안에 나스닥 2.6% 급락, 6월 이후 최대 낙폭",
+   "source": "네이버페이 머니스토리",
+   "time": "2026-10-24T21:16:43+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuaHFFeS1IRVkzanFLM2dHWlVGbktjXzRDVWlIMUhsbE51bDI1SHpubWJNeVNkdy1uMnRKb0lHYnpNUGUtTmZnYi1NMG5KODc0UmJCdlpaWG4?oc=5"
   },
   {
    "title": "[해외시황] 뉴욕증시, 중동 긴장·국제유가 급등에 '하락'…나스닥 0.21%↓",
@@ -1156,40 +1168,28 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4Wm9BeHFiZWxhSzhQNE1LbFJtWEg3bWhudkotTkhvTzM3V29EYVhTR2ZvMWt6d0VvWmhCbHhRMjNFQTdITlNoMkRuclM5MWlSMGtrYVJCN2pOdTQ4ZVJ5S0VyOVZROUVNTFJISjZiVQ?oc=5"
   },
   {
-   "title": "비트코인, 박스권 탈출할까…美 선거·연준에 쏠린 눈",
-   "source": "블루밍비트",
-   "time": "2026-10-24T08:16:26+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CUkxLcml4SmpzcGdNbzRaM2MwV3cwdmkwNUxQTEZSdWJTOE83NFllRGJNdlJNUTJENmVjcU1acHdXZjFGSWlJZ1lmdXA3ZGNW?oc=5"
-  },
-  {
-   "title": "\"코스피 과매도 국면\"…AI 투자 불안에도 월가선 저가매수 주목",
-   "source": "www.ebn.co.kr",
-   "time": "2026-10-24T14:25:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16QmQ2b0p1UElXYzd5bHRQYTVzVWlLWVZNSHpaOWxyS1FQUlJHTFpkbnVpLUpKQk94eGNaTVNVUGxILWFIQXpUdTdfUUdxRktpZG1HS2lXTHBkNkhLa2pMaW9WUXhTWlpn?oc=5"
-  },
-  {
-   "title": "코스피 2% 떨어질 때 두 자릿수 수익률… 무슨 종목 담았는지 보니 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-10-24T05:59:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiYzZOUzRDODVvM2RsMTZIdlJkdHlTdWdrcTV3amdfX0J4aGw2eW9lWHhKMkxEd3ZPOUtVTVZnWUxCeUZ5eDd3QlcxTWctU21tNGVvU0c3cjh6ZjFINWhQamdzcFhmWURz0gFuQVVfeXFMTkQ1RUMtTjktblJxZ2xkem4xVDlUcHhOMHdaTm9qT0dyQXN3a2RkSjVRMzFkZmxZTVdRYTRjMzJtS3ZUVzh4ZlVQTE1sRDdxOV9QUkR4NHpsc1NxNUlJNFFoLVZ0MEJRZnFVcHZha2c?oc=5"
-  },
-  {
-   "title": "볼래틸리티셰어즈 BITH·ETHK, 비트코인 3배 상품이 선물시장 운전대를 잡는다",
-   "source": "네이버 프리미엄콘텐츠",
-   "time": "2026-10-24T11:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEJPNFdHSVRFM3NmQldWeGVEOUtRLTNEZ0FSd1pUbF9rSkFvS2hZaEEyeGNLOGlVNE5oSXdId291VXNlWU1qYmg3V08wSDRoVVk3NWNLMTJxTHZGeGdBRnM2NUQxaEs4NldNbXpjdFdqM1c4SjlhNmhmanFwalRseGdoY2NfaDdkVF9BVA?oc=5"
-  },
-  {
-   "title": "\"코스피 올랐다는데 내 주식만 왜?\"…개미 10명 중 8명이 폭망 한 기막힌 이유 [머니 시그널]",
-   "source": "파이낸셜뉴스",
-   "time": "2026-10-24T19:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQVRRSmZVQWNpbVlqQXUwVDVJQWluOTVNNk1fTFJEUjgxd0VjZkhUb1R0QjlwMVN0bTZZbktiUDQ3QmQydlRfOGhZY0xSZUJNUWFfTkpDQVZLdw?oc=5"
+   "title": "[속보] 코스피 0.30% 오른 5,550.30 종료",
+   "source": "연합뉴스TV",
+   "time": "2026-10-23T16:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wazMxWUV4czFuWFJ2ZjAzNDVMd0tyU0NRWUdZUUlNTUxFUXYtNzF1OHUzQUw4YlhtS0pYT2dXS1VLRXdLNi1GS3FWMjZ0OFhPYk1iMkN2Y1pzU2NGbDBoS1JwTXI3MTA?oc=5"
   },
   {
    "title": "정부 ‘코스피 8000’ 띄우기… “세계 어느 나라도 안 해”",
    "source": "조선일보",
    "time": "2026-10-23T03:00:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3pFVFNmMGtiTnQ0cFpBVXl3RHd2Q3ZVTW12NkFEMEwxb1c2eVJrMnV3QnQ5OV9tRGxvS2VkcUEtdU1OLVZQZXhEY1R1SmxibExaZHBDVVlFWGlWNU1UWFZmaDNKWW81S3huc3NEZ1B2eTA4UWZ1QkxjVWQ4MC10Q3YzN19Rdw?oc=5"
+  },
+  {
+   "title": "비트코인, 고래 지갑 출금 급증·기관 활동에 $84,000 회복 주목",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-24T14:15:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oV3lOM0h6UVFIU1JQaGt3RzYwd0dJcVRVMUVFRVZ2REVJYUJiOHZVZlhmaXNNSWx2NnRxcjB2Y3M2S2VsS1lEWUYzdHZ4ZV9mSVRQcjJPU1dmMFVod0lNa00xNmZGaEttdElENVJkM2psX0E?oc=5"
+  },
+  {
+   "title": "비트코인 과세, 이번에는 정말 할까? [고인선의 택스인사이트]",
+   "source": "한국경제",
+   "time": "2026-10-24T16:00:03+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TblpsVzhkak5BWVBFcDU1MVRXUlJhdFdYTk0tZ3E4LURWYnpldWJ1aHNSNTB2S08xeWRjTk1MVUZDaHhnbVJrMTl0TEpDVlFUMlFzVXUtWWNVQQ?oc=5"
   }
  ]
 }
