@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:25:37.066745+09:00",
+ "updated": "2026-10-24T20:22:46.120981+09:00",
  "quotes": {
   "k200": {
    "price": 862.77,
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 80665.24,
+   "price": 80510.41,
    "prev": 81079.98,
    "spark": [
-    80874.6016,
-    80869.2109,
-    80874.4688,
-    80859.9062,
-    80886.9766,
-    80842.6797,
-    80846.0781,
-    80780.5703,
-    80779.9922,
-    80864.6016,
-    80963.3203,
-    80827.1719,
-    80796.4062,
-    80771.5938,
-    80768.1484,
-    80759.6484,
-    80742.9297,
-    80776.7188,
-    80782.7812,
-    80787.2734,
-    80809.8828,
-    80782.0391,
-    80742.9219,
-    80739.8125,
-    80742.7734,
-    80730.3203,
-    80634.2734,
-    80661.2812,
-    80656.3984,
-    80648.7266,
-    80657.9922,
-    80641.5312,
-    80648.9531,
-    80654.9375,
-    80621.6719,
-    80651.1172,
-    80658.0938,
-    80671.4219,
-    80656.3672,
-    80665.2422
+    80686.7031,
+    80660.5312,
+    80686.2188,
+    80698.4062,
+    80715.5312,
+    80584.3594,
+    80530.5703,
+    80562.2109,
+    80622.9219,
+    80603.9922,
+    80529.3125,
+    80497.8281,
+    80535.2734,
+    80483.6484,
+    80485.8828,
+    80483.8672,
+    80457.2812,
+    80418.2891,
+    80373.1797,
+    80435.3906,
+    80508.6172,
+    80516.0078,
+    80552.7812,
+    80504.6016,
+    80499.9219,
+    80459.1094,
+    80458.8906,
+    80510.7109,
+    80601.6094,
+    80588.6094,
+    80568.7031,
+    80565.9922,
+    80518.6406,
+    80557.9297,
+    80589.3516,
+    80568.1719,
+    80557.0,
+    80543.5938,
+    80525.9062,
+    80510.4062
    ]
   },
   "eth": {
-   "price": 2375.18,
+   "price": 2364.47,
    "prev": 2384.4502,
    "spark": [
-    2382.5901,
-    2382.5901,
-    2383.1299,
-    2382.46,
-    2382.95,
-    2381.23,
-    2381.25,
-    2378.4099,
-    2377.75,
-    2379.6399,
-    2382.49,
-    2378.76,
-    2378.0601,
-    2377.54,
-    2379.0,
-    2377.49,
-    2377.71,
-    2379.8799,
-    2380.0801,
-    2380.1799,
-    2380.77,
-    2379.6299,
-    2377.6399,
-    2377.48,
-    2377.7,
-    2376.24,
-    2373.1201,
-    2374.5801,
-    2374.74,
-    2375.27,
-    2374.6599,
-    2374.54,
-    2374.3301,
-    2374.8701,
-    2373.8,
-    2375.05,
-    2375.1001,
-    2375.75,
-    2374.6899,
-    2375.1799
+    2372.6101,
+    2369.3,
+    2370.3201,
+    2369.9399,
+    2370.49,
+    2367.3201,
+    2364.5,
+    2365.5701,
+    2367.9299,
+    2366.02,
+    2363.0701,
+    2361.6201,
+    2362.22,
+    2360.1001,
+    2360.78,
+    2359.6499,
+    2358.1299,
+    2356.79,
+    2356.47,
+    2359.3301,
+    2363.47,
+    2364.21,
+    2365.1499,
+    2363.76,
+    2362.8101,
+    2362.6201,
+    2361.9099,
+    2364.8701,
+    2368.96,
+    2368.8,
+    2368.5801,
+    2368.27,
+    2365.3501,
+    2367.0801,
+    2368.6001,
+    2367.1201,
+    2367.1299,
+    2365.3201,
+    2364.79,
+    2364.47
    ]
   },
   "eurkrw": {
@@ -1108,6 +1108,12 @@
  },
  "news": [
   {
+   "title": "코스피 빠질 때 혼자 37% '불기둥'…실적 두 배 터진 이 회사 [종목+]",
+   "source": "한국경제",
+   "time": "2026-10-24T15:52:49+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NRElSSkEtQmdSZHpLbUs5dGJVaWhFdTZMRUxZbkstVUlDc0RlVUVoczRVYW5YTnhqN2MzTWhPZGFNbGpvMk1GSEsySVg4eUJ3bl9Hb3FWazRKUQ?oc=5"
+  },
+  {
    "title": "코스피 장중 5500선까지 무너졌는데…與 대변인 “내년엔 1만 간다”",
    "source": "주간조선",
    "time": "2026-10-22T23:45:00+09:00",
@@ -1120,10 +1126,16 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oV3lOM0h6UVFIU1JQaGt3RzYwd0dJcVRVMUVFRVZ2REVJYUJiOHZVZlhmaXNNSWx2NnRxcjB2Y3M2S2VsS1lEWUYzdHZ4ZV9mSVRQcjJPU1dmMFVod0lNa00xNmZGaEttdElENVJkM2psX0E?oc=5"
   },
   {
+   "title": "9100→5500까지 하락한 코스피…“11월은 W자 반등에 주목”",
+   "source": "매일경제 마켓",
+   "time": "2026-10-24T17:06:17+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sNTVZeVFHT3ZRb3FWcjQ1RHdTY29uOHpEdlc5UjdjblFQWEdtUnFNNVI0Y00wSjhycWdvclhweEp5ODl2Z1BJbjNxZ2ZDMWpNbmc?oc=5"
+  },
+  {
    "title": "코스피 5500선 추락했는데…與대변인 “내년 1만피 갈것”",
    "source": "동아일보",
    "time": "2026-10-22T21:35:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5weGJ0cUNQb1hpdlB0MHBLRkpKS0g3Mm1xQ1dyZjdjbTVfV1BUdnRXSEt2eFhLUlBRQk1BSW5TTjRNMG5naXpBdHVlaWpOUDBwRmI0S1JycVlQN2Z1X2w5ZDQ0dVAwUVJ4VGU0SWJCU2g5dW1iNjNj0gFmQVVfeXFMTjFCMWR4MmVGYVBVYmJjWUt5emcwUVhuTDBPU1RERnNQV2RtTlZENTJvRW5DSTVwRXhSOTJaVy1YSHhVOHpwRXY2blZiVjhxUktsTmpWVkV6aTBsMmhocldZX245Y2lB?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5weGJ0cUNQb1hpdlB0MHBLRkpKS0g3Mm1xQ1dyZjdjbTVfV1BUdnRXSEt2eFhLUlBRQk1BSW5TTjRNMG5naXpBdHVlaWpOUDBwRmI0S1JycVlQN2Z1X2w5ZDQ0dVAwUVJ4VGU0SWJCU2g5dW1iNjNj?oc=5"
   },
   {
    "title": "[해외시황] 뉴욕증시, 중동 긴장·국제유가 급등에 '하락'…나스닥 0.21%↓",
@@ -1132,10 +1144,10 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sQUhkdzNkejlhQUFWTTFERGptNmpRREl4cmh4QUtlY05fX256TDhNWEExak9EblQtWHNLYlM0WExQdVJWcjlyaGgzbXE2WlJlUm5ZLWVBN3lEQXVWaEJDdHdrYl9wWDI0Q2ZGVQ?oc=5"
   },
   {
-   "title": "비트코인, 박스권 탈출할까…美 선거·연준에 쏠린 눈",
-   "source": "블루밍비트",
-   "time": "2026-10-24T08:16:26+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CUkxLcml4SmpzcGdNbzRaM2MwV3cwdmkwNUxQTEZSdWJTOE83NFllRGJNdlJNUTJENmVjcU1acHdXZjFGSWlJZ1lmdXA3ZGNW?oc=5"
+   "title": "서학개미 달러 수요 급증했는데…두터운 네고에 환율 요지부동",
+   "source": "연합인포맥스",
+   "time": "2026-10-24T07:40:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xNnBQdWpHQnVldWx5eHZ4eGdyYVpaR1VSN2RiOEVNUkpYQlh6OG9fZzdBV2l3NmV4Zk4wLW5aM2RlRFJOelZBMlR2U1lvWWZvUmVRXzEyMVpuY294clhTR19LbFR6X1lwS3ZKMFB2aEM?oc=5"
   },
   {
    "title": "[10월 넷째 주 세계경제동향 브리핑] 한미 금리 내려도 증시는 약세…유가 급등에 물가 부담 재부상",
@@ -1144,22 +1156,22 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4Wm9BeHFiZWxhSzhQNE1LbFJtWEg3bWhudkotTkhvTzM3V29EYVhTR2ZvMWt6d0VvWmhCbHhRMjNFQTdITlNoMkRuclM5MWlSMGtrYVJCN2pOdTQ4ZVJ5S0VyOVZROUVNTFJISjZiVQ?oc=5"
   },
   {
+   "title": "비트코인, 박스권 탈출할까…美 선거·연준에 쏠린 눈",
+   "source": "블루밍비트",
+   "time": "2026-10-24T08:16:26+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CUkxLcml4SmpzcGdNbzRaM2MwV3cwdmkwNUxQTEZSdWJTOE83NFllRGJNdlJNUTJENmVjcU1acHdXZjFGSWlJZ1lmdXA3ZGNW?oc=5"
+  },
+  {
+   "title": "\"코스피 과매도 국면\"…AI 투자 불안에도 월가선 저가매수 주목",
+   "source": "www.ebn.co.kr",
+   "time": "2026-10-24T14:25:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16QmQ2b0p1UElXYzd5bHRQYTVzVWlLWVZNSHpaOWxyS1FQUlJHTFpkbnVpLUpKQk94eGNaTVNVUGxILWFIQXpUdTdfUUdxRktpZG1HS2lXTHBkNkhLa2pMaW9WUXhTWlpn?oc=5"
+  },
+  {
    "title": "코스피 2% 떨어질 때 두 자릿수 수익률… 무슨 종목 담았는지 보니 - 머니투데이",
    "source": "머니투데이",
    "time": "2026-10-24T05:59:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiYzZOUzRDODVvM2RsMTZIdlJkdHlTdWdrcTV3amdfX0J4aGw2eW9lWHhKMkxEd3ZPOUtVTVZnWUxCeUZ5eDd3QlcxTWctU21tNGVvU0c3cjh6ZjFINWhQamdzcFhmWURz0gFuQVVfeXFMTkQ1RUMtTjktblJxZ2xkem4xVDlUcHhOMHdaTm9qT0dyQXN3a2RkSjVRMzFkZmxZTVdRYTRjMzJtS3ZUVzh4ZlVQTE1sRDdxOV9QUkR4NHpsc1NxNUlJNFFoLVZ0MEJRZnFVcHZha2c?oc=5"
-  },
-  {
-   "title": "\"인니 증시 반값 됐다\"…상반기 1위서 '최저가'로, 코스피 바닥 논쟁",
-   "source": "한국경제",
-   "time": "2026-10-24T10:00:06+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kWEtuLWhKMHFsVVBTUFRDSkVEa2hlaHdndUcwSUFZRkN1dHRvSlVucEtYcHdQejVoc2Q1Rm4tSjF4YjFqQkdRRFdjSTRtYTJiNmZfck9KYzEzUQ?oc=5"
-  },
-  {
-   "title": "[속보] 코스피 0.30% 오른 5,550.30 종료",
-   "source": "연합뉴스TV",
-   "time": "2026-10-23T16:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wazMxWUV4czFuWFJ2ZjAzNDVMd0tyU0NRWUdZUUlNTUxFUXYtNzF1OHUzQUw4YlhtS0pYT2dXS1VLRXdLNi1GS3FWMjZ0OFhPYk1iMkN2Y1pzU2NGbDBoS1JwTXI3MTA?oc=5"
   },
   {
    "title": "볼래틸리티셰어즈 BITH·ETHK, 비트코인 3배 상품이 선물시장 운전대를 잡는다",
@@ -1168,28 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEJPNFdHSVRFM3NmQldWeGVEOUtRLTNEZ0FSd1pUbF9rSkFvS2hZaEEyeGNLOGlVNE5oSXdId291VXNlWU1qYmg3V08wSDRoVVk3NWNLMTJxTHZGeGdBRnM2NUQxaEs4NldNbXpjdFdqM1c4SjlhNmhmanFwalRseGdoY2NfaDdkVF9BVA?oc=5"
   },
   {
-   "title": "[차트분석] 비트코인, 급락 후 향배는?...2023년엔 횡보 지속",
-   "source": "디지털애셋",
-   "time": "2026-10-24T12:30:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83aFFQcnBxdmlUSVk3VkRoblM4ejloZWF1SExqb2RkV3RhOWhZOHBmd0d4UDZHNGE0X2NRWmpQSnpqQjhfM2RaejlSSkYzYnBVTmoycm1RS2ZTWDhjOUF6aERFSDNnVDYzT0owN0RKNEkxQQ?oc=5"
+   "title": "\"코스피 올랐다는데 내 주식만 왜?\"…개미 10명 중 8명이 폭망 한 기막힌 이유 [머니 시그널]",
+   "source": "파이낸셜뉴스",
+   "time": "2026-10-24T19:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQVRRSmZVQWNpbVlqQXUwVDVJQWluOTVNNk1fTFJEUjgxd0VjZkhUb1R0QjlwMVN0bTZZbktiUDQ3QmQydlRfOGhZY0xSZUJNUWFfTkpDQVZLdw?oc=5"
   },
   {
-   "title": "외국인 38조 던졌는데도 내리는 환율, 여기까지 떨어진다고?[주末머니]",
-   "source": "아시아경제",
-   "time": "2026-10-24T08:49:44+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HTm9KZ1Z3T25nYlREQ3RraDZvLVlVcXRUQjFJUTVFZVBlZHBmOVFjUUI2eFdybElDV3p4d0R6YTJNNHZaOVRxS3hIUHhwdWVHZFFiU1pUR0otV1A4NFlQLVVn?oc=5"
-  },
-  {
-   "title": "실적 좋은데도 미장보다 더 크게 빠지는 국장…전문가 원인 분석은",
-   "source": "매일경제 마켓",
-   "time": "2026-10-24T06:47:06+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sNmpSbS1XMFNVN1ZkUFJhTjZUZkV1TVNkdHlYdWR1a20tUzd6UzRjY2JzSVZhSHdCNVZmWTU2VnpYaHVycktCdEFMQ1ltRWpjZXc?oc=5"
-  },
-  {
-   "title": "원/달러 환율 소폭 반등…1,320원대 중반",
-   "source": "연합뉴스",
-   "time": "2026-10-23T16:40:34+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtbGZkLS1FaTJ2MWw3eGxqczB4UlBoVVZETldNSFhHRjhPdDRuY2NpODFVeTZNeTF6MjEwNGZpYnI4aTdpVTFhYlJJemtXZTdVcDlKMHRFQWhiTkXSAWBBVV95cUxPajQ4UkItRlBXM2Y3ZDBjUURuWE1FYzRQWnQ4NWh6ZG1rYVFkTXJCSzJZc0E1WGJMUWlQdGtrRy11UVRFdFZZUGhmbF9LYTdXQ1hST2IxN3ZNdU44RkVMck0?oc=5"
+   "title": "정부 ‘코스피 8000’ 띄우기… “세계 어느 나라도 안 해”",
+   "source": "조선일보",
+   "time": "2026-10-23T03:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3pFVFNmMGtiTnQ0cFpBVXl3RHd2Q3ZVTW12NkFEMEwxb1c2eVJrMnV3QnQ5OV9tRGxvS2VkcUEtdU1OLVZQZXhEY1R1SmxibExaZHBDVVlFWGlWNU1UWFZmaDNKWW81S3huc3NEZ1B2eTA4UWZ1QkxjVWQ4MC10Q3YzN19Rdw?oc=5"
   }
  ]
 }
