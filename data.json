@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:06:44.741981+09:00",
+ "updated": "2026-10-26T04:33:51.626038+09:00",
  "quotes": {
   "k200": {
    "price": 862.77,
@@ -187,12 +187,12 @@
   },
   "nq": {
    "price": 29117.75,
-   "prev": 29142.0,
+   "prev": 29117.75,
    "spark": []
   },
   "es": {
    "price": 7659.75,
-   "prev": 7704.5,
+   "prev": 7659.75,
    "spark": []
   },
   "ndx": {
@@ -289,7 +289,7 @@
   },
   "nikkei": {
    "price": 62693.16,
-   "prev": 62907.84,
+   "prev": 62907.8,
    "spark": [
     61767.1602,
     61825.2617,
@@ -335,27 +335,27 @@
   },
   "wti": {
    "price": 103.27,
-   "prev": 99.47,
+   "prev": 103.27,
    "spark": []
   },
   "brent": {
    "price": 111.7,
-   "prev": 108.66,
+   "prev": 111.7,
    "spark": []
   },
   "gold": {
    "price": 4007.9,
-   "prev": 4060.4,
+   "prev": 4007.9,
    "spark": []
   },
   "silver": {
    "price": 53.949,
-   "prev": 55.007,
+   "prev": 53.949,
    "spark": []
   },
   "gas": {
    "price": 3.05,
-   "prev": 3.156,
+   "prev": 3.05,
    "spark": []
   },
   "vix": {
@@ -451,38 +451,9 @@
    ]
   },
   "btc": {
-   "price": 80708.52,
+   "price": 80499.99,
    "prev": 80770.71,
    "spark": [
-    80266.0625,
-    80228.0625,
-    80241.8438,
-    80304.5312,
-    80198.9375,
-    80245.7812,
-    80228.9922,
-    80243.2188,
-    80262.5312,
-    80314.7734,
-    80340.9766,
-    80440.5312,
-    80547.3594,
-    80595.6562,
-    80593.2188,
-    80583.9375,
-    80533.4531,
-    80438.6875,
-    80470.2969,
-    80535.5469,
-    80585.4922,
-    80559.4922,
-    80584.6562,
-    80543.2188,
-    80527.7422,
-    80463.1406,
-    80510.3203,
-    80495.5,
-    80498.6094,
     80441.0625,
     80472.8594,
     80516.5234,
@@ -492,43 +463,43 @@
     80606.3594,
     80704.4766,
     80677.4922,
-    80714.9922,
-    80708.5234
+    80675.3984,
+    80675.2578,
+    80726.7266,
+    80686.8516,
+    80670.6094,
+    80631.9531,
+    80641.9375,
+    80712.25,
+    80697.9922,
+    80727.7812,
+    80681.0078,
+    80697.8984,
+    80601.6328,
+    80594.5391,
+    80633.9531,
+    80587.3672,
+    80555.5,
+    80567.3828,
+    80584.6172,
+    80567.7266,
+    80578.3125,
+    80560.9297,
+    80564.3984,
+    80574.2188,
+    80462.5625,
+    80497.8281,
+    80513.1719,
+    80447.9922,
+    80433.9922,
+    80478.0,
+    80499.9922
    ]
   },
   "eth": {
-   "price": 2353.11,
+   "price": 2349.32,
    "prev": 2355.7437,
    "spark": [
-    2331.25,
-    2329.78,
-    2329.9299,
-    2333.4299,
-    2328.78,
-    2329.0601,
-    2328.5901,
-    2329.4099,
-    2330.4299,
-    2333.1899,
-    2334.29,
-    2337.8999,
-    2340.47,
-    2339.54,
-    2341.9199,
-    2340.03,
-    2337.6899,
-    2333.6599,
-    2335.4199,
-    2339.3,
-    2346.3799,
-    2343.6399,
-    2343.26,
-    2341.5801,
-    2341.3201,
-    2338.8701,
-    2343.03,
-    2343.74,
-    2343.1899,
     2340.46,
     2341.3799,
     2343.4199,
@@ -538,8 +509,37 @@
     2346.73,
     2353.52,
     2351.6001,
-    2353.0901,
-    2353.1101
+    2352.02,
+    2350.75,
+    2354.1299,
+    2357.25,
+    2356.04,
+    2354.03,
+    2353.6599,
+    2355.9199,
+    2353.8501,
+    2354.96,
+    2355.5,
+    2354.1599,
+    2352.0801,
+    2352.27,
+    2353.5701,
+    2352.48,
+    2351.8999,
+    2352.6799,
+    2353.01,
+    2353.1299,
+    2353.7,
+    2352.6499,
+    2352.3899,
+    2352.3899,
+    2348.5,
+    2350.5701,
+    2352.46,
+    2348.4099,
+    2347.1001,
+    2348.5601,
+    2349.3201
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 156.814,
+   "price": 156.813,
    "prev": 156.775,
    "spark": [
     156.902,
@@ -727,7 +727,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.1204,
+   "price": 1.1218,
    "prev": 1.1222,
    "spark": [
     1.1194,
@@ -774,7 +774,7 @@
   },
   "dxy": {
    "price": 101.752,
-   "prev": 101.81,
+   "prev": 101.607,
    "spark": []
   }
  },
@@ -792,22 +792,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QYjJmSmtzZFlDZmNPZklJTVJqY1JjV3NiZjBXX1paRlZCNHZNVWM1SUJqZWRic2JMQWRnOHJNa1dqa0RXQllyQWZoWmRqeXRlVU05eTYtYVZsVW5MdWFfdjRtaWNSVWxBdWc3Yzg1a1k?oc=5"
   },
   {
-   "title": "“코스피 목표 25% 낮췄는데 상승 여력 60%?”…골드만삭스의 반전 전망",
-   "source": "매일경제 마켓",
-   "time": "2026-10-25T21:09:09+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52SEJsTVM4Z092Yl8wRVdfeC16VjdwSl9WZVIxMzFweUk0S0MzVmRyTHpnMm9QNlRLX3Z0bFpJVTBCRG1TYnVyY3owREpXcGlXNUE?oc=5"
-  },
-  {
    "title": "55조원 매수 끝낸 삼전·닉스…코스피 다음 '수급 방파제' 누구",
    "source": "연합인포맥스",
    "time": "2026-10-24T08:10:16+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MdUFDVmJ3LXlZMXcxbUtualRzWnBpWDkteTZoenoxejQtRnVqdUFxdG9mNWx4cldRLS04S093YzR4SlIwUWY3cnpxSk9XSHJCZXpycFNzUGZkMWoxcnR2VllLSEM2QXlZSGFXNVNyRVQ?oc=5"
   },
   {
-   "title": "골드만삭스, 코스피 목표 1만2000→9000으로 하향",
-   "source": "글로벌이코노믹",
-   "time": "2026-10-26T01:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjJEWG9aM2FaRWZMd056V3dCTE8xTXlDNVJLakhvQWJwLVZsZHdsS2xSbzJVdEo1MDUzTFlKdTh2bGZUZzNWMnB3LUFPNmNBZnRlOFBqUkwtRGxLYVBqUHo0QWY4NlQ1YktrUGktU3NtNmVUaXZXdGxQTlE2eTJGSUw4Q21zOXBr?oc=5"
+   "title": "“코스피 목표 25% 낮췄는데 상승 여력 60%?”…골드만삭스의 반전 전망",
+   "source": "매일경제 마켓",
+   "time": "2026-10-25T21:09:09+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52SEJsTVM4Z092Yl8wRVdfeC16VjdwSl9WZVIxMzFweUk0S0MzVmRyTHpnMm9QNlRLX3Z0bFpJVTBCRG1TYnVyY3owREpXcGlXNUE?oc=5"
   },
   {
    "title": "골드만, 코스피 목표 1만2천→9천‥\"그래도 60% 이상 상승 여력\"",
@@ -816,10 +810,22 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByMktDY3dSQ2VBUDloYTljNHc0TGFfNGxoUGpmMzNTb01ieFQwNTE2WHN4dGphMWd3LUh5cXVRS1ZrSGxyN2NzeUdlOVNuWHVNeWZ0TWtWUjJuY1VOeWVsdE5lTk90Q0xMSUQ0dnRpcE1ZZ2Ry0gF0QVVfeXFMT1JtaklScEp1NjRycFdKVjdrVHpRaWZuUVVLS2Jkd1R1dTV5SUNJWVZDTFBBcUxoQzlhRlZsN1BFY1E3WnQ2VTEyNDJWZldNV2ZsUW9ubFlOSnA2YUhEMUI3YlVEcUV4X0pqcmFkM2VyOHpGYko?oc=5"
   },
   {
+   "title": "골드만삭스, 코스피 목표 1만2000→9000으로 하향",
+   "source": "글로벌이코노믹",
+   "time": "2026-10-26T01:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjJEWG9aM2FaRWZMd056V3dCTE8xTXlDNVJLakhvQWJwLVZsZHdsS2xSbzJVdEo1MDUzTFlKdTh2bGZUZzNWMnB3LUFPNmNBZnRlOFBqUkwtRGxLYVBqUHo0QWY4NlQ1YktrUGktU3NtNmVUaXZXdGxQTlE2eTJGSUw4Q21zOXBr?oc=5"
+  },
+  {
    "title": "골드만, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
    "source": "연합뉴스",
    "time": "2026-10-25T20:10:21+09:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQV90SXg2V3dxYXNMd2tiMWVHZ19XN0hpbzFOUnBaazN5UElwYTYyQkkyQ25iTUhVUzJjbVlGWUF4TFViTG5zQ1hETVNIT1VQVjBrb1lBYTV2d1lNY0RDWtIBYEFVX3lxTE5uQV90SXg2V3dxYXNMd2tiMWVHZ19XN0hpbzFOUnBaazN5UElwYTYyQkkyQ25iTUhVUzJjbVlGWUF4TFViTG5zQ1hETVNIT1VQVjBrb1lBYTV2d1lNY0RDWg?oc=5"
+  },
+  {
+   "title": "[중국증시 주간 포인트] 美 금리결정과 3Q 경제지표, 中 10월 PMI 발표, 中 5중전회, 국내외 기술 빅테크 실적발표와 이벤트, 상하이 위성인터넷 산업 계획",
+   "source": "뉴스핌",
+   "time": "2026-10-26T00:02:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jV2xCcTBmSmRkZkc1WU5DS250cFY3TVctUDFVYmZHSmF5Ulo4UGpUSlBDNXJfeEhINlVDLVhYNjBWMjVMNGlyR2ZYV1FVaFEtQ3hfVXljUkR2cnBC?oc=5"
   },
   {
    "title": "골드만삭스, 코스피 목표치 1만2천→9천 하향… \"그래도 60% 상승 여력\"",
@@ -834,22 +840,16 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RekotalBUSWtVZUw5UjBNYTFIQUNwVDMxS3JOM2lQbVhEd0dxWGtILVpWMkhiVExpdW1tMmVURkVlbnBHSGk4dGl4NmFPU09tR1FWanA2QTI1cWhMREI0UA?oc=5"
   },
   {
-   "title": "[중국증시 주간 포인트] 美 금리결정과 3Q 경제지표, 中 10월 PMI 발표, 中 5중전회, 국내외 기술 빅테크 실적발표와 이벤트, 상하이 위성인터넷 산업 계획",
-   "source": "뉴스핌",
-   "time": "2026-10-26T00:02:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jV2xCcTBmSmRkZkc1WU5DS250cFY3TVctUDFVYmZHSmF5Ulo4UGpUSlBDNXJfeEhINlVDLVhYNjBWMjVMNGlyR2ZYV1FVaFEtQ3hfVXljUkR2cnBC?oc=5"
-  },
-  {
-   "title": "美 플러스AI, 내년 자율주행 트럭 출시 목표로 나스닥 상장 한 걸음 더",
-   "source": "로봇신문",
-   "time": "2026-10-25T19:50:23+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMV8yWE52cjljTjVqVzVnc2syMTJGWVVRUlc2YV9nN2JnbGVVdjdnckViVHVzeld1TzNyOVBlZUdyR1JmYzVwZEtLQ0R5SUdVX1hIelJXU1JveVREVjh5eVJXZ0Y1TW5fenBlbQ?oc=5"
-  },
-  {
    "title": "증시 부진에도 ETF는 '사자'...개인·외인 90조 매입",
    "source": "YTN",
    "time": "2026-10-25T12:28:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41RzExRE1SWk9EMzVidHZtTklsYktUbWxoRlM5VXFJUGItZGdTMkdtR2JXTU1Jc29NVl9OMlFPZWtHZWtrQndlM3J3anF0d251UFhXVTNGd2tTQzRXMUE?oc=5"
+  },
+  {
+   "title": "\"고금리 버티면 내년 코스피 8500\"…믿어도 될까?",
+   "source": "한국경제",
+   "time": "2026-10-22T13:01:44+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVlpSSlExckJXMTF1MTJjVDMyMUt4MFlyNDJwWEtQUmpCX2xlbjZOVWcxNjVXNFVXU3FybzFDTldybnVpLWp1c29RdWxTWUNSZ3YwNzFwcGFEdw?oc=5"
   },
   {
    "title": "골드만, 코스피 목표 1만2000→9000으로 낮췄지만…\"상승 여력 60%\"",
@@ -858,10 +858,10 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zV2JqMGphZnVtbXN6S1Q5elg5RHBwd3hQLXpkTkVqNnJyNmFTZmpKTjR2RFpqWl9acE8zUUZidFQtZ3plbGFsaW5DSmFLMGNaR1lhM1ZTXzFtZmo1aFQ1TNIBeEFVX3lxTE1WNTRRU05McE9WUDhzUVF2MTVpeXQ4ZENvaVgwcWljQ3h6dXFuQVpiUGktZHF4bld6emlYamZmMXJFeDNGU0RjNzQzX0VOVW5mZnpZZ3JENlMzQ29LNG96NUI1UmhRcExESzZuNTB6OC1IdkI3LVpCeA?oc=5"
   },
   {
-   "title": "피터 쉬프 \"비트코인 8만달러 붕괴 시…7만5000달러까지 하락 가능\"",
-   "source": "블루밍비트",
-   "time": "2026-10-25T12:20:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDSnl0SmZkeG1SaGZKU253dlAza19WVzdEdEVxTWJmWllFRGR5dEp6MHlsZGxEMmlYek14Z2NsM1c2d3JmcEdGSmd0Smk5SGtq?oc=5"
+   "title": "美 플러스AI, 내년 자율주행 트럭 출시 목표로 나스닥 상장 한 걸음 더",
+   "source": "로봇신문",
+   "time": "2026-10-25T19:50:23+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMV8yWE52cjljTjVqVzVnc2syMTJGWVVRUlc2YV9nN2JnbGVVdjdnckViVHVzeld1TzNyOVBlZUdyR1JmYzVwZEtLQ0R5SUdVX1hIelJXU1JveVREVjh5eVJXZ0Y1TW5fenBlbQ?oc=5"
   }
  ]
 }
