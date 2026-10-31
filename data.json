@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T08:45:36.571986+09:00",
+ "updated": "2026-10-31T11:45:24.205060+09:00",
  "quotes": {
   "k200": {
    "price": 899.78,
@@ -141,7 +141,7 @@
   },
   "kosdaq": {
    "price": 724.38,
-   "prev": 771.28,
+   "prev": 753.23,
    "spark": [
     719.86,
     719.62,
@@ -695,6 +695,7 @@
    "price": 1333.44,
    "prev": 1338.99,
    "spark": [
+    1334.1801,
     1334.12,
     1334.47,
     1334.51,
@@ -733,106 +734,94 @@
     1333.33,
     1332.9399,
     1333.4399,
-    1333.4399,
     1333.4399
    ]
   },
   "btc": {
-   "price": 77198.46,
-   "prev": 77791.375,
+   "price": 77295.07,
+   "prev": 77202.4,
    "spark": [
-    76866.25,
-    76816.2578,
-    76893.6016,
-    76826.8828,
-    76787.7109,
-    76755.1875,
-    76773.1875,
-    76479.1484,
-    76521.6797,
-    76599.25,
-    76767.6719,
-    76688.8203,
-    76698.5312,
-    76682.2188,
-    76675.8281,
-    76600.0078,
-    76553.6172,
-    76537.9766,
-    76700.3281,
-    76743.4219,
-    76716.5391,
-    76575.8516,
-    76674.6094,
-    76722.9766,
-    76832.0469,
-    76818.3125,
-    76845.1094,
-    76808.2891,
-    76794.4219,
-    76786.2109,
-    76872.5234,
-    76974.8281,
-    76903.0938,
-    76889.7109,
-    77024.7812,
-    77008.7266,
-    77136.9609,
-    77164.5781,
-    77198.4922,
-    77198.4609
+    77152.1172,
+    77129.4922,
+    77171.6875,
+    77250.6172,
+    77202.5703,
+    77144.2812,
+    77173.4375,
+    77231.3516,
+    77264.6328,
+    77353.0703,
+    77324.5938,
+    77389.7891,
+    77408.0312,
+    77349.1484,
+    77360.3438,
+    77359.1016,
+    77322.3281,
+    77246.3984,
+    77289.9219,
+    77313.8281,
+    77298.0,
+    77260.0,
+    77251.9219,
+    77241.3281,
+    77225.7969,
+    77217.8516,
+    77259.7188,
+    77238.7734,
+    77263.6562,
+    77240.0,
+    77176.8125,
+    77296.9609,
+    77283.1172,
+    77295.0703
    ]
   },
   "eth": {
-   "price": 2241.77,
-   "prev": 2248.7473,
+   "price": 2243.42,
+   "prev": 2241.1812,
    "spark": [
-    2238.22,
-    2235.3101,
-    2237.7,
-    2236.98,
-    2235.74,
-    2235.3999,
-    2238.0601,
-    2232.4099,
-    2235.4199,
-    2238.01,
-    2241.5901,
-    2238.01,
-    2236.6001,
-    2237.8201,
-    2237.03,
-    2234.3401,
-    2234.3601,
-    2234.3,
-    2238.4299,
-    2238.5,
-    2236.6399,
-    2230.27,
-    2231.3301,
-    2232.5801,
-    2236.8,
-    2234.96,
-    2233.8999,
-    2233.6499,
-    2232.8899,
-    2231.9399,
-    2234.0801,
-    2236.0,
-    2234.8,
-    2234.97,
-    2239.26,
-    2238.98,
-    2241.78,
-    2242.99,
-    2242.48,
-    2241.77
+    2241.3601,
+    2241.4299,
+    2242.8201,
+    2244.5601,
+    2243.8301,
+    2242.54,
+    2243.2,
+    2244.27,
+    2245.6299,
+    2246.49,
+    2244.8501,
+    2245.99,
+    2246.3899,
+    2244.5701,
+    2243.73,
+    2242.1499,
+    2242.04,
+    2239.6799,
+    2241.95,
+    2243.8,
+    2242.8999,
+    2241.29,
+    2240.5701,
+    2240.54,
+    2240.3301,
+    2241.01,
+    2242.79,
+    2241.55,
+    2242.3999,
+    2241.3999,
+    2239.3101,
+    2243.1499,
+    2242.75,
+    2243.4199
    ]
   },
   "eurkrw": {
    "price": 1487.3,
    "prev": 1495.6,
    "spark": [
+    1487.9,
     1488.1,
     1488.3,
     1488.4,
@@ -871,7 +860,6 @@
     1487.3,
     1487.3,
     1487.3,
-    1487.3,
     1487.3
    ]
   },
@@ -879,6 +867,7 @@
    "price": 8.441,
    "prev": 8.468,
    "spark": [
+    8.454,
     8.454,
     8.452,
     8.453,
@@ -917,7 +906,6 @@
     8.441,
     8.441,
     8.441,
-    8.441,
     8.441
    ]
   },
@@ -925,6 +913,7 @@
    "price": 200.473,
    "prev": 201.059,
    "spark": [
+    200.492,
     200.474,
     200.465,
     200.468,
@@ -963,7 +952,6 @@
     200.473,
     200.473,
     200.473,
-    200.473,
     200.473
    ]
   },
@@ -971,6 +959,7 @@
    "price": 157.519,
    "prev": 157.649,
    "spark": [
+    157.466,
     157.482,
     157.428,
     157.444,
@@ -1009,7 +998,6 @@
     157.618,
     157.592,
     157.525,
-    157.519,
     157.519
    ]
   },
@@ -1017,6 +1005,7 @@
    "price": 1.1166,
    "prev": 1.1181,
    "spark": [
+    1.1162,
     1.1164,
     1.1166,
     1.1167,
@@ -1055,13 +1044,12 @@
     1.1166,
     1.1166,
     1.1166,
-    1.1166,
     1.1166
    ]
   },
   "dxy": {
    "price": 101.964,
-   "prev": 102.037,
+   "prev": 101.879,
    "spark": [
     101.987,
     101.976,
@@ -1108,10 +1096,28 @@
  },
  "news": [
   {
+   "title": "코스피 ‘알파벳 쇼크’...삼성전자 6%대↓, SK하이닉스 8%대↓",
+   "source": "한겨레",
+   "time": "2026-10-31T07:14:45+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11REUyMndMTTI0ZXA4dVlyMjFXZXlxNC1XRWhPR1Q5bWlDd2RlUk9nb2tTWkFJaFdWeDNVYTBwUV9ZSEJZQ0RTZ3NkaU1ncGc3NEw1bXhjMnc1bWRBbzdpQXFmWGlHVTJSMl9CWndpVFR2Zw?oc=5"
+  },
+  {
    "title": "AI 투자 우려에 뉴욕증시 털썩…인텔 29% 급락에 나스닥 2.9%↓(종합)",
    "source": "연합뉴스",
    "time": "2026-10-31T06:32:37+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PRlZwUXBMUGVHclo2UXBiWURuS0FaU2UtVzhaTGhoTi1DQnJOeHU3NW9qNlBGVm9NT2QzVEZHZ0xtUzJvaUJxZl9PQWV4RUJpZm1UanRESG1SZlXSAWBBVV95cUxQQ1ZyQWNtSVNHRzFKdFk2NjZ6WElOdUswZTN5SXBELVpKRm9RTzg0N01wZzNXS2FnQ2ROY1RaMmFlWlRZM19BWmRRTU9idDY2RWNmWUd2YUdBTGRNR2k4Rnk?oc=5"
+  },
+  {
+   "title": "나스닥 2.9%↓…AI 투자 우려에 기술주 급락",
+   "source": "연합뉴스TV",
+   "time": "2026-10-31T08:50:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoVmptdU5LTkdTalVsZU5oWmRfSzhWZWRDdGNkUjVva2phUEE4Y1owNldjRGdqY0lBQ3hRV3FVTmRqckZZcU9DWElkRkMtaVl4NWF4WjFBRWFuQzl1bEYtY2phcjkyVzg?oc=5"
+  },
+  {
+   "title": "인텔 52년 만에 최악의 폭락…나스닥 2.86% 급락, AI 거품 공포 확산",
+   "source": "주간조선",
+   "time": "2026-10-31T09:45:56+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54eFRUWVNIS2FRQ3pvNkxWUWgxdXREOFM3TW4zalB2UXFZQmhoWENhVWlDZE5iZTl0a0luTVNpVC05VTZJYnJ0TEpIN3pLRGhSRHJOVDN0XzNGRkRaekxscU5DdWdPVUhXZHfSAW5BVV95cUxQMWxFcGcyRzJnaWczRVhZckE5TkR0bmQ3Y1dTRkZJZ2NtNWZhYnNRNWgyQ2VBUzNRWjZtV2hHYjl6V242RmNHQ0hTQ1d3cWFKMnBzcnhnWWdWUk90MWxQeVFSbE9GbWNMTG5aT2ZpZw?oc=5"
   },
   {
    "title": "iShares 비트코인 Trust ETF, 오늘 왜 하락하나?",
@@ -1127,15 +1133,9 @@
   },
   {
    "title": "“상장 첫날 던지라는 말이 맞나요”…한국증시 암울하게 하는 새내기주",
-   "source": "매일경제 마켓",
+   "source": "매일경제",
    "time": "2026-10-31T08:24:45+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IZnJSR2ZDZHdTeUk2NXRzcC1zUEpNQ25kMk1GN3dWUGo1THhlaVdvUFZVN3M0TEw0cVhTckE3dnBjTm91WDVnRmpTcW1mWDhTYlE?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 기술주 매도 확대…나스닥 2.9% 하락",
-   "source": "Chosunbiz",
-   "time": "2026-10-31T06:45:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTG41bDQta3lKRWJKbjdaQU9nNlpUUFVQUDlYNkFzZDV6V0Q2SUtHTjBxdVdZNWZDQzI1bW4zSTh5eXR1UlFSbmFLMTBlZzhYdEFUY2gwVEhzdUdRSE5wdkVGSWh4SUx3ZDd3RnhMMjhMZkZ3T1VwUkM3MW0tQWJQMVZ0MURwUkM0VWdWajkxaGYteG44c25BdGpDbnItUdIBsgFBVV95cUxQbkJHTzROWDJKUnk1b0R4WkdRakJISm96RV9RbVpwc3ZsYUZVX0M0eVlFLVZUMl9lTjdFTkU4M3dublAybWtFLWZzNzJlQnFaZEFwVkxCWmMyb2JlazlZZlBjZ3dtMVFramtMVlZOR0RqTGtlQnpsZG01am5CZE9UY0tIUnFPSXp6Wlllc1M0SnpSUjd3SGx2NFlxa09BdURuT0JYNmZEV0hpdFMyaUUzMHpR?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SNEVXY0toNDc0bDdscUZkWnlKV0RiMTJJV3FQLWRxVk1NY0VVUUpFODhwX3pCMWV5cVRBMXJ0RDJhMUJaR2pOcHYzTjBVZFEta1E?oc=5"
   },
   {
    "title": "[외환-마감] '코스피 3%대 약세·네고 우위'에 하락…1,330원대 초중반",
@@ -1150,34 +1150,16 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wZlFjZW9JQ24zZjBDSnB2My1KLWZNTEoyR2VfdUN0S20weDNwaXUwbmU2a1EyRFI0WU95UjB2bVlqTWxta3lpVVlvMThiMnhTRHEzbDFiQVpVenIyNVhzMkVQTnRiVC1oSVVtTFlEbjd6LXM4WVFISnJB0gF6QVVfeXFMUGlHeHVjTWNmRmFONkJwUHdwZVNON2VfTC1vNUpac1l4cjZOZWxsRGFZa3FCS0N3UFQ1VW5nRnU5WnlIT3VTU25CbzAyS1RNazVhZXlZamVlanBnNU5YbGtWVmEzcFZjX1FPY2Nlb19GSFlHSF93Vi1ENlE?oc=5"
   },
   {
-   "title": "코스피 ‘알파벳 쇼크’...삼성전자 6%대↓, SK하이닉스 8%대↓",
-   "source": "한겨레",
-   "time": "2026-10-30T18:04:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11REUyMndMTTI0ZXA4dVlyMjFXZXlxNC1XRWhPR1Q5bWlDd2RlUk9nb2tTWkFJaFdWeDNVYTBwUV9ZSEJZQ0RTZ3NkaU1ncGc3NEw1bXhjMnc1bWRBbzdpQXFmWGlHVTJSMl9CWndpVFR2Zw?oc=5"
+   "title": "미국 뉴욕증시 기술주 매도 확대…나스닥 2.9%↓·인텔 29%↓ 큰폭 하락",
+   "source": "KBS 뉴스",
+   "time": "2026-10-31T06:36:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtckluX1NmTTkyajZBNHI4X2VrZVVFTmQ5SjZHQkU1YW11SDk1WkZmV3ctNVJFLTJjbHlVMzkwd1RaY1NPTFRsNE1JUk1HMGw0cVd5ZnE4WE1uZFU?oc=5"
   },
   {
-   "title": "[경제읽기] 알파벳 시총 하루 새 669조 증발…코스피도 급락",
-   "source": "연합뉴스TV",
-   "time": "2026-10-30T13:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMZEhEZE4xT1oyYzhKQ2VSdFVDcXpLZzR2VEZMWXd3bVE0R3JqdmVjN1drazNxY0JjWWw1d0NmN3dUaXM5b1FyZ05rd2ZiN3k4dVUyRlJBSzZScFU3cjFwRHFrdndoNEU?oc=5"
-  },
-  {
-   "title": "“S&P500보다 수익률 높았다”…비트코인, 美 중간선거 끝나면 54% 올랐다는데",
-   "source": "전자신문",
-   "time": "2026-10-30T18:40:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LZTB0VGJiNzVBU3ZCUkM1M0hReUlKNHdTMEFxeDBVemNSQ0xoR3JEaVBZNDBONEVOMHRnWEpIdFNOeWdpMW1OcFR2UDJNQQ?oc=5"
-  },
-  {
-   "title": "아마존·인텔 부진에 나스닥 2.86% 급락",
-   "source": "진일보 | 전남일보",
-   "time": "2026-10-31T06:36:55+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JY1Nudk02MGdCbXNxcFFTWUxoRW55QTc5b3h1bl9pb01BZ1VrVTAzY2xYeTlnUlh3NC1Cb3loSm5MbjUyN0NyLW40VFhPV2tjRm5Xa3BHSmNETEFfcVhEbjVxd2Y1d0NpWklUMG44VQ?oc=5"
-  },
-  {
-   "title": "[정책 바로보기] 증시 하락에 '4대 기금' 3.8조 손실? - 정책뉴스 | 뉴스",
-   "source": "대한민국 정책브리핑",
-   "time": "2026-10-30T14:47:31+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjRnBvZ1N2LVRBcGFtY1pTdzVSVG1lZlItYlRkem9Ed05tLU5WN2tPeU9tV25jOWZNRFo0LTQwbl9CUWJIczZiekVnckxzQm9aWHI3YXZ3bEVaTjE1OHROcnkyYWgxUGtWcDh3eA?oc=5"
+   "title": "비트코인 7만7000달러 붕괴…바이낸스 63억 달러 해킹 충격",
+   "source": "뉴스핌",
+   "time": "2026-10-31T04:16:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zVFltY1hTLW1zU2VDczV0aE92bGREbHpDZnBTVjFKX0EtTlJKZkpGZkF5UFlIXzhVNXFWSWF4WUxTN19UdkhLQ3A0VXZWV2Jic1E3TWp3RFYyYzhv?oc=5"
   },
   {
    "title": "\"원화 강세에 실적 악화 우려\"…글로벌 IB, 코스피 목표치 하향 조정",
@@ -1190,6 +1172,12 @@
    "source": "연합뉴스",
    "time": "2026-10-31T05:27:59+09:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxMEg4UEdnMEcxekpKalgzR1RJTHRiRVBWd2dHRWFtSmwyLXNxYkFUWWNhamhvcnBtcTNQQXd5R3BBSkU0WkVLb3MxeUxpS3JpaGxpSWJzMEZNbWc?oc=5"
+  },
+  {
+   "title": "10월 증시를 마감하며 : 역대급 하락을 만든 한 달",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-31T09:30:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zN29pRUlrMWhuQzFoMTAzMHg5S1JhRF9tV0NEcG5OR2I5WGJ6OFFXdEtuZ1hGX05xaC1iNzJaMjEtLVJPRm0wZnB1TE9Sek9CVDI3TWV3QkhTdHVyc1BlVw?oc=5"
   }
  ]
 }
