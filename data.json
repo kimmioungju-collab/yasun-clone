@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T17:55:39.119036+09:00",
+ "updated": "2026-10-31T23:57:32.724444+09:00",
  "quotes": {
   "k200": {
    "price": 899.78,
@@ -189,7 +189,6 @@
    "price": 28534.0,
    "prev": 29562.0,
    "spark": [
-    28451.5,
     28466.5,
     28435.75,
     28398.25,
@@ -228,6 +227,7 @@
     28549.25,
     28539.75,
     28527.0,
+    28534.0,
     28534.0
    ]
   },
@@ -235,7 +235,6 @@
    "price": 7614.0,
    "prev": 7754.25,
    "spark": [
-    7606.5,
     7609.0,
     7601.75,
     7595.0,
@@ -274,6 +273,7 @@
     7617.5,
     7615.25,
     7613.0,
+    7614.0,
     7614.0
    ]
   },
@@ -550,7 +550,7 @@
     3882.5,
     3883.3,
     3886.2,
-    3884.8999
+    3898.8999
    ]
   },
   "silver": {
@@ -596,7 +596,7 @@
     49.09,
     49.1,
     49.115,
-    49.135
+    49.276
    ]
   },
   "gas": {
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 77205.92,
+   "price": 77327.17,
    "prev": 77202.4,
    "spark": [
-    77170.7969,
-    77105.6406,
-    77105.2578,
-    77119.4297,
-    77220.5234,
-    77124.3438,
-    77134.7891,
-    77131.5469,
-    77144.2031,
-    77129.0078,
-    77135.25,
-    77160.8516,
-    77189.9922,
-    77225.6484,
-    77246.9219,
-    77239.3984,
-    77256.0,
-    77271.1016,
-    77285.1484,
-    77291.0703,
-    77265.1172,
-    77277.5078,
-    77209.9219,
-    77193.5078,
-    77184.2969,
-    77192.9766,
-    77209.9062,
-    77205.8281,
-    77146.4922,
-    77209.9219,
-    77270.3516,
-    77375.5781,
-    77246.3984,
-    77222.8281,
-    77142.6875,
-    77150.8984,
-    77148.8203,
-    77193.1797,
-    77205.9219,
-    77205.9219
+    77450.3906,
+    77474.0078,
+    77465.0,
+    77417.7031,
+    77476.3438,
+    77458.7266,
+    77441.7422,
+    77465.6484,
+    77434.7578,
+    77462.9375,
+    77511.8125,
+    77422.7578,
+    77409.7812,
+    77413.6406,
+    77395.7188,
+    77392.3125,
+    77362.0625,
+    77336.7266,
+    77373.2109,
+    77371.2109,
+    77329.0938,
+    77297.0469,
+    77317.3438,
+    77392.3125,
+    77440.8516,
+    77374.6562,
+    77365.6328,
+    77390.5703,
+    77374.1719,
+    77340.0,
+    77329.7109,
+    77337.3984,
+    77307.5703,
+    77355.8281,
+    77371.8516,
+    77380.25,
+    77409.8516,
+    77332.6328,
+    77317.4609,
+    77327.1719
    ]
   },
   "eth": {
-   "price": 2238.19,
+   "price": 2245.93,
    "prev": 2241.1812,
    "spark": [
-    2239.6599,
-    2238.4299,
-    2238.3201,
-    2239.05,
-    2242.1001,
-    2239.6799,
-    2239.5701,
-    2239.8401,
-    2240.4199,
-    2240.6899,
-    2240.23,
-    2240.75,
-    2242.23,
-    2242.3799,
-    2242.4199,
-    2242.4199,
-    2242.0701,
-    2240.47,
-    2241.52,
-    2242.55,
-    2242.0801,
-    2242.45,
-    2239.6001,
-    2239.3899,
-    2239.3601,
-    2239.27,
-    2239.8,
-    2240.6699,
-    2238.72,
-    2240.3601,
-    2241.8899,
-    2242.99,
-    2239.02,
-    2238.8101,
-    2236.27,
-    2237.02,
-    2236.5701,
-    2238.49,
-    2238.1799,
-    2238.1899
+    2245.8799,
+    2246.98,
+    2245.0601,
+    2244.01,
+    2244.75,
+    2245.0601,
+    2244.7,
+    2245.96,
+    2246.0601,
+    2247.3799,
+    2251.54,
+    2249.3,
+    2249.2,
+    2249.24,
+    2249.6001,
+    2247.5701,
+    2245.03,
+    2244.3201,
+    2245.3701,
+    2245.9099,
+    2245.9399,
+    2245.8201,
+    2246.5,
+    2248.1899,
+    2249.78,
+    2249.1201,
+    2248.3799,
+    2248.8401,
+    2247.6799,
+    2246.25,
+    2247.1499,
+    2246.8,
+    2246.4099,
+    2249.25,
+    2248.97,
+    2249.79,
+    2249.1201,
+    2244.8701,
+    2245.6101,
+    2245.9299
    ]
   },
   "eurkrw": {
@@ -1106,5 +1106,90 @@
    ]
   }
  },
- "news": []
+ "news": [
+  {
+   "title": "[신간] 비트코인 200개를 모았던 제자, 스승은 무엇을 놓쳤나",
+   "source": "주간경향",
+   "time": "2026-10-31T14:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12NVBPQW9OZjZJSV9CMG5WaXh1cEVwMm5IcnpmaXBjMzBWclBXUXJMTVctTGlGVkh4dmtMY0laWVFOWTZWenlONmxXa280eExiVnRkZkdXbkFJQzl4RUE?oc=5"
+  },
+  {
+   "title": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓",
+   "source": "KBS 뉴스",
+   "time": "2026-10-31T21:04:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5"
+  },
+  {
+   "title": "비트코인, Binance 해킹 피해 복구 움직임 속 7만7,000달러 상회",
+   "source": "Investing.com 한국어",
+   "time": "2026-10-31T14:35:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JSnQzUVEwXy1VSjRackRXUWZoYXdySllMRm5LTU14TFhoZkxYT2RmbU43VThpS3cwcjZPRk1WRHdZYVRyUUNXOTNabzlnTnRwS3psNnItTVp3UTd2eUJmQi1SZ2p4Y0RWRDFsTXhyaWhvQ0E?oc=5"
+  },
+  {
+   "title": "\"이러다 환율 1200원대\" … 달러 강세·유가 급등도 못 꺾은 '원화 기세'",
+   "source": "뉴데일리",
+   "time": "2026-10-26T15:48:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RT0l2cGVEM05tUnVsWUdaM2hieTFaajRrS3pGSFhEbGN2SnpKLWZMS1E4MFlBcThqUVhoZWFmbndpbHRRT3NxaFZQcHVnYmZOcjBSUWEtUmlVdnU4NV9OdU9KdzBlSTdZU1d4ekw1VGI4dUc0NzRxVXVxRdIBgAFBVV95cUxQME9FUDI1aE8xT3ZFeGQ4VGN6Wlo0bTQ5Y0NZLVFzSkI2R1U3aE9oNEgtbXYyQ2hTbW1zUVhxUDlhdk5lcUNZM3NBb1pibkdUZmFLcERGZnM5WmdPQ3YwSnJ2ak8xUjhQX1FGa1ZfcjkzNlJBcjdBcDhmUjhGeEw3cA?oc=5"
+  },
+  {
+   "title": "“휴머노이드도 나스닥 간다”…애질리티 로보틱스, 4억6500만달러 조달 전망하며 상장 초읽기",
+   "source": "인공지능신문",
+   "time": "2026-10-31T17:28:56+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaVDZ6VHNDRncxSXhFVFlBcHdCZzZPdGRtMUFtV0JnaWtFS29URjV0cV9WaGNmcXhObUtrVko0ZDQ4M21mWGxNdEFTNlZxR1VQN1RoYTBvc1ViT2NiY3dhby1VbzhBTGc?oc=5"
+  },
+  {
+   "title": "코스피 ‘알파벳 쇼크’...삼성전자 6%대↓, SK하이닉스 8%대↓",
+   "source": "한겨레",
+   "time": "2026-10-31T11:38:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11REUyMndMTTI0ZXA4dVlyMjFXZXlxNC1XRWhPR1Q5bWlDd2RlUk9nb2tTWkFJaFdWeDNVYTBwUV9ZSEJZQ0RTZ3NkaU1ncGc3NEw1bXhjMnc1bWRBbzdpQXFmWGlHVTJSMl9CWndpVFR2Zw?oc=5"
+  },
+  {
+   "title": "나스닥 2.9%↓…AI 투자 우려에 기술주 급락",
+   "source": "연합뉴스TV",
+   "time": "2026-10-31T08:50:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoVmptdU5LTkdTalVsZU5oWmRfSzhWZWRDdGNkUjVva2phUEE4Y1owNldjRGdqY0lBQ3hRV3FVTmRqckZZcU9DWElkRkMtaVl4NWF4WjFBRWFuQzl1bEYtY2phcjkyVzg?oc=5"
+  },
+  {
+   "title": "회복되지 않는 美 비트코인 수요…코인베이스 프리미엄, 38일 연속 음수 기록",
+   "source": "블루밍비트",
+   "time": "2026-10-31T18:49:32+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pQjNnd0pPVFdHQlRCT2VCMTN6M0FEV19YY0dmR0hfYXFMUVlKYU14cGZhcVZSOGpldEU5MmFfSE1jbFdWU0I4WXVSVjRtSy0w?oc=5"
+  },
+  {
+   "title": "AI 투자 우려에 뉴욕증시 털썩…인텔 29% 급락에 나스닥 2.9%↓(종합)",
+   "source": "연합뉴스",
+   "time": "2026-10-31T06:32:37+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PRlZwUXBMUGVHclo2UXBiWURuS0FaU2UtVzhaTGhoTi1DQnJOeHU3NW9qNlBGVm9NT2QzVEZHZ0xtUzJvaUJxZl9PQWV4RUJpZm1UanRESG1SZlXSAWBBVV95cUxQQ1ZyQWNtSVNHRzFKdFk2NjZ6WElOdUswZTN5SXBELVpKRm9RTzg0N01wZzNXS2FnQ2ROY1RaMmFlWlRZM19BWmRRTU9idDY2RWNmWUd2YUdBTGRNR2k4Rnk?oc=5"
+  },
+  {
+   "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목",
+   "source": "AI타임스",
+   "time": "2026-10-31T12:26:43+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tNHVDcl81R05nWnppTGxidG54SmV0T2FkWWd1dVpQLWdxdklJUWgtaXlNSTdwNno3NVlRdkJ5Um1haGlHWFpienlzLWN4alNNZ3BXZnpTeGNUdTQ2VHNKNnZzQlFiVVNRelE?oc=5"
+  },
+  {
+   "title": "코스피 급등락에…레버리지 '음의 복리' 평년 9배 뛰었다",
+   "source": "전자신문",
+   "time": "2026-10-31T13:28:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WT05EVExBMjJjU2kwNmttZXVWSFRDMkN2aDR0R1l5X2V4NnN5YWtQWXVKQVBxLVpCQ3p0M1BCbTFyVUZNQUJHbjJCYzQ1dw?oc=5"
+  },
+  {
+   "title": "증시 변동성에도 환율은 1320원대…명목실효환율 2년만 최고",
+   "source": "중앙일보",
+   "time": "2026-10-26T16:46:20+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxY082X3dKbHRTUkF0a2xDczY0ODFmX2lMNXhYNEE3eVpKbU5ZTlZ4NkZOOUFtUF9xRGxBc2R4VUJKQ2RLdFZlYTYwSjFnYzVlZGF2RkFR?oc=5"
+  },
+  {
+   "title": "“블랙 먼데이 또 올까 무서워”…나스닥100 한달 새 2700조 증발",
+   "source": "매일경제",
+   "time": "2026-10-31T18:13:26+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mekZkODlrZWdnRDZxU3lrWk1qRV9hWFZVUXhFOGRUdUhld0UwbklLS2JqcEJ3UWpVRXJTaFZScWRWSHJyY0wtWXpKWm1XQmpnVlE?oc=5"
+  },
+  {
+   "title": "코스피 6000 찍자 레버리지로…서학개미는 '美 기술주' 집중",
+   "source": "www.ebn.co.kr",
+   "time": "2026-10-31T14:35:32+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d3VTSHVBQ3R5ZkFKMEM5OTdJajYzanhqZzN2VHk2dFZ3dlNQTndyekwwdmtwOEdyZ1J5ZS0zR3VGSkFMVDNOakZ2anN6VHMyTm05bmRXTHowbVc5enFhMGRtRGNZSi1s?oc=5"
+  }
+ ]
 }
