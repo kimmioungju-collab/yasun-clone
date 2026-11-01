@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T16:39:43.643624+09:00",
+ "updated": "2026-11-01T23:30:20.480928+09:00",
  "quotes": {
   "k200": {
    "price": 899.78,
@@ -405,9 +405,10 @@
    ]
   },
   "usdkrw": {
-   "price": 1335.1,
+   "price": 1333.44,
    "prev": 1338.99,
    "spark": [
+    1334.1801,
     1334.12,
     1334.47,
     1334.51,
@@ -446,100 +447,99 @@
     1333.33,
     1332.9399,
     1333.4399,
-    1333.4399,
-    1335.1
+    1333.4399
    ]
   },
   "btc": {
-   "price": 77740.81,
+   "price": 77892.98,
    "prev": 77440.93,
    "spark": [
-    77681.2578,
-    77671.5234,
-    77676.9922,
-    77702.3906,
-    77694.1562,
-    77707.0,
-    77664.3672,
-    77715.0,
-    77702.5234,
-    77699.5391,
-    77686.1797,
-    77686.1797,
-    77695.9375,
-    77725.0469,
-    77684.6406,
-    77666.0703,
-    77729.9766,
-    77745.0234,
-    77764.9922,
-    77756.0781,
-    77846.0938,
-    77870.8594,
-    77787.6328,
-    77843.8672,
-    77811.1328,
-    77811.1328,
-    77779.2812,
-    77766.2266,
-    77819.6328,
-    77856.6797,
-    77860.5938,
-    77823.8594,
-    77805.6719,
-    77757.1328,
-    77712.8125,
-    77714.5,
-    77743.1562,
-    77750.9219,
-    77740.7969,
-    77740.8125
+    77849.2188,
+    77859.1875,
+    77861.0703,
+    77786.8984,
+    77807.6172,
+    77810.7812,
+    77781.4297,
+    77812.3438,
+    77812.7891,
+    77844.1797,
+    77833.4531,
+    77812.0234,
+    77655.8516,
+    77709.9766,
+    77722.5625,
+    77702.5938,
+    77753.7188,
+    77774.0469,
+    77746.5781,
+    77749.3203,
+    77748.4375,
+    77847.5469,
+    77860.7969,
+    77860.7891,
+    77866.2188,
+    77832.4688,
+    77844.0,
+    77886.7188,
+    77802.4219,
+    77829.8125,
+    77826.6328,
+    77794.4062,
+    77893.0781,
+    77829.0,
+    77831.8828,
+    77930.3984,
+    77945.7188,
+    77927.1172,
+    77893.2188,
+    77892.9766
    ]
   },
   "eth": {
-   "price": 2264.72,
+   "price": 2265.97,
    "prev": 2252.5913,
    "spark": [
-    2266.01,
-    2263.8999,
-    2263.98,
-    2264.8999,
-    2264.77,
-    2265.02,
-    2263.3701,
-    2265.8999,
-    2265.79,
-    2265.24,
-    2264.21,
-    2264.1899,
-    2265.0,
-    2266.1101,
+    2266.8,
+    2266.0901,
+    2265.95,
+    2264.6001,
+    2265.1599,
+    2265.98,
+    2265.8101,
+    2266.6001,
+    2266.5801,
+    2265.8,
+    2264.79,
+    2265.74,
+    2256.73,
+    2257.24,
+    2257.51,
+    2256.96,
+    2259.6001,
+    2260.48,
+    2258.8999,
+    2258.45,
+    2258.71,
+    2261.26,
+    2261.8601,
+    2261.8899,
+    2262.6599,
+    2261.98,
+    2262.6899,
+    2264.71,
+    2262.73,
     2263.6899,
-    2262.9199,
-    2264.4199,
-    2264.8899,
-    2266.9099,
-    2266.79,
-    2270.1499,
-    2270.1499,
-    2266.97,
-    2267.79,
-    2266.8501,
-    2266.0,
-    2264.0,
-    2264.54,
-    2266.72,
-    2267.5901,
-    2266.4299,
-    2265.48,
-    2265.25,
-    2263.7,
-    2262.6101,
-    2262.8301,
-    2264.5701,
-    2264.8401,
-    2264.6899,
-    2264.72
+    2264.24,
+    2263.0701,
+    2264.72,
+    2263.4099,
+    2264.6799,
+    2266.6599,
+    2267.6399,
+    2267.1599,
+    2265.79,
+    2265.97
    ]
   },
   "eurkrw": {
@@ -635,9 +635,10 @@
    ]
   },
   "cnykrw": {
-   "price": 200.652,
+   "price": 200.473,
    "prev": 201.059,
    "spark": [
+    200.492,
     200.474,
     200.465,
     200.468,
@@ -676,8 +677,7 @@
     200.473,
     200.473,
     200.473,
-    200.473,
-    200.652
+    200.473
    ]
   },
   "usdjpy": {
@@ -792,28 +792,16 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55TWw4VlFjdl90RXF0a2dBbElCWTh6RVlhd2c2NFdMVXJiSVpveElFX2cxaUtHd3FXTWpBZGt4VEpGeU13TmdQMnYzZXVReEJFbnZtZlZHNktiMkk?oc=5"
   },
   {
-   "title": "[채권-주간] 증시 패닉에 연동된 채권시장…추가 강세 나올까",
-   "source": "연합인포맥스",
-   "time": "2026-11-01T13:00:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1veXFTZWxIRlVvWml5M3FtaHRjN05RNXBmSzBUY2VnLUZVZEZyaTdMUGJRcU16TDlrenQwb1Z5bFIzcXdORFBrNEhjcDV4eGpFV0d2a3lISVdnYThEclNfRFltYzU4NVVCaGg1VGFZUzI?oc=5"
+   "title": "美 빅테크發 찬바람…코스피 다시 출렁",
+   "source": "인천일보",
+   "time": "2026-11-01T17:29:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93OEt0dGpndmJiUlNVTUNETHBYQVpzR2lUZ2JnR1FTQ2RUckxFN1RMb3ZUOHVMdXpGMW00cU5lenphbEZDRkxUbWMwLXZsa1psM0p0XzJKY1dQTXRjSjNxWEtJaE9IbWdtUThhM0pIU3Y?oc=5"
   },
   {
-   "title": "비트코인이 미국 주택담보대출에 '뒷문'으로 들어갔다 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-11-01T06:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JLTRMR0JvRDBtSUYxenp0dzYwVXRudzllTG1yQURwRGh4MW1aVWJtQnhMckItd1lxNEhfakU1SUtqRjRSUFplWERsLU1YVXhvcmRvYnllUHBqOFF3dUpza0xhVG1aMTNX0gFuQVVfeXFMTWxYQVBNd0NUcGx6eF9ldmZncjZUWEQxNkZ5UE1pU0ZIUHc4SGR5eWJUMEVqWW53Y1lyRUF4ZGptMHQzMlM1S1RnTlRKODVlTkpBOVNCUV9mMU5IMTF1OHpkQVVuMDRGRDJqb0RES2c?oc=5"
-  },
-  {
-   "title": "“흔들리는 비트코인”…알트코인을 주목해야 하는 이유 [경제한방]",
-   "source": "KBS 뉴스",
-   "time": "2026-11-01T09:06:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FT2JUWGVjd19Zb2hzQXVqdU1CSExhLXlHbzhEWTljcUsxOXdIcjRZNlV2UUZJd0tIU2xYYlRnb0lab1lkSVRwZ0hPMDREc3NoSUVjYlpnYUg5aEk?oc=5"
-  },
-  {
-   "title": "코스피 한달 16%폭락…AI고점론에 中추격까지 덮쳤다",
-   "source": "문화일보",
-   "time": "2026-11-01T11:56:20+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iTkJPc1NWMGRuMFVPb25ZN2JGZVFlcmNKelAyX3JCdWFsaTZDQnU5YkRQWGVXT0E2VlpFR0lybndMUzdyRmMtRXl2ajA4dGZ2?oc=5"
+   "title": "코스피, 지난달 하락률 역대 일곱번째",
+   "source": "조선일보",
+   "time": "2026-11-01T10:58:59+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXhOYUdWY2ZDS3ZlbWVpcXZ2dzlneUl0SS1GV1ZtYnVVdEhZTmN4bmRPWG9Ec2lpYWlQcFdieUJGcWo1Vk1Md3NERWZEaUlra3BYR1ZZZHAtRml2ZkI2X0pyVUdaY3NrM1ZVeldhVWd6SkxpRGVEeXE0RUsxb3ktczYxd2U0ckhYaUZz?oc=5"
   },
   {
    "title": "\"이러다 환율 1200원대\" … 달러 강세·유가 급등도 못 꺾은 '원화 기세'",
@@ -822,46 +810,58 @@
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RT0l2cGVEM05tUnVsWUdaM2hieTFaajRrS3pGSFhEbGN2SnpKLWZMS1E4MFlBcThqUVhoZWFmbndpbHRRT3NxaFZQcHVnYmZOcjBSUWEtUmlVdnU4NV9OdU9KdzBlSTdZU1d4ekw1VGI4dUc0NzRxVXVxRdIBgAFBVV95cUxQME9FUDI1aE8xT3ZFeGQ4VGN6Wlo0bTQ5Y0NZLVFzSkI2R1U3aE9oNEgtbXYyQ2hTbW1zUVhxUDlhdk5lcUNZM3NBb1pibkdUZmFLcERGZnM5WmdPQ3YwSnJ2ak8xUjhQX1FGa1ZfcjkzNlJBcjdBcDhmUjhGeEw3cA?oc=5"
   },
   {
+   "title": "美 증시 급락 후폭풍…코스피 향방 가를 변수는? - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-11-01T17:20:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XcVd1X0k0VWxFV2VjOWIyT2VuajNxWU01OHBuYkZ1OHJlUDl4NmFvX1UydlZncU9VY3lWYlNTc3E5bDJocnlYSUdBa1djNlBua3d0QVNGSTRSM0haSjl0M1Mxci1icGp30gFuQVVfeXFMT1plRHJlUmxEUVpZTnpmYVlMS0dnTVRIUUczdnZ4cTNzZFlLcm0ySHVraFFyYUQyZ0NZaUNpRy1jdkpjd0YtU2c1cnF1MEh1QWJZcGR2YmRQMHc2SndGREx1cVFEdzhZX3RwREV5RGc?oc=5"
+  },
+  {
+   "title": "나스닥 폭락에 촉각…월요일 코스피 괜찮을까",
+   "source": "SBS 뉴스",
+   "time": "2026-11-01T20:37:28+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBENmZHd1otNTRhYjJRUnI1dkk4Q3lNNkhfa2t5cXRxamNBY2FqWkRCQkpiYmdXVzZNWlhtLXduYWhCa1ZON3k1eXBTdnhwREpwei1JdEl6U1ctRzVZOHJpLXZPR1ZlcHJXTnfSAWZBVV95cUxNdVd1S0hmS0NYZEdiQ1Bpem93dzZoVkJoMmlFUzNubVprak9hSExFaWJnVmsyeUZydHppVjE0N0NXc3ZiQ1dBUnItUnAzWGwwX0dJNnlWcXR4aTlmbVFfQnVNY0NVa0E?oc=5"
+  },
+  {
+   "title": "“흔들리는 비트코인”…알트코인을 주목해야 하는 이유 [경제한방]",
+   "source": "KBS 뉴스",
+   "time": "2026-11-01T09:06:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FT2JUWGVjd19Zb2hzQXVqdU1CSExhLXlHbzhEWTljcUsxOXdIcjRZNlV2UUZJd0tIU2xYYlRnb0lab1lkSVRwZ0hPMDREc3NoSUVjYlpnYUg5aEk?oc=5"
+  },
+  {
+   "title": "[표] 외국환율고시표",
+   "source": "매일경제 마켓",
+   "time": "2026-11-01T17:36:48+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9reXF4dXRxdnc2UjJ4ZmhYWVpjaHRWNm5STUgyQVBudzBidVd1NnN3VkV4ak5vOGRJZFBQbkQxWFlZcDdaTDg4RlZOR3lTQ3hCcVE?oc=5"
+  },
+  {
+   "title": "美 중간선거 끝나면 환율도 아래 볼까…\"1,320원 지지력 강해\"",
+   "source": "연합인포맥스",
+   "time": "2026-11-01T07:30:02+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iR1FpMUxYREtyOHllcFJBMmdUSmwxdEpQTUZlM2ttZVZ3a0I5WFdMQ2hUOUpCV19PYmk1d1hhYW9mUlpKYkktU05rc0Z4S2RUOS1FREZmbk9Mel9rcE5UZ0g0WFRaUzlTc0Q2N3FuS2k?oc=5"
+  },
+  {
+   "title": "트럼프 패배 땐…'IRA·반도체'부터 '환율·금리'까지 흔든다",
+   "source": "뉴스토마토",
+   "time": "2026-11-01T17:29:36+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTbzU4RmJ2WVVkTmxLVjUydk9xNmlwcG9lNHYwM1JISGtBX2RpbVlKUkZKcS03S3VQeHpGWkRhaWloWlFwbzdCWEg4Rm9kV0lRRkgwTnNBMHhwV1IwNjZyWQ?oc=5"
+  },
+  {
+   "title": "코스피 한달 16%폭락…AI고점론에 中추격까지 덮쳤다",
+   "source": "문화일보",
+   "time": "2026-11-01T11:56:20+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iTkJPc1NWMGRuMFVPb25ZN2JGZVFlcmNKelAyX3JCdWFsaTZDQnU5YkRQWGVXT0E2VlpFR0lybndMUzdyRmMtRXl2ajA4dGZ2?oc=5"
+  },
+  {
    "title": "코스피 한 달 만에 16% 빠졌다… 변동성 다시 확대되나",
    "source": "산경일보",
    "time": "2026-11-01T15:07:57+09:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LS2ZzMXM3Y3lDdm5CaHZQM2puZmxiTDFvcUEzaWJmSUFjaHpyb0dJWE1RVGJaSnRYUEdkNnRsUEJvRjZrOVMwc241bENFc1haU2JfeFJhZk5RU2lxRzhEcjc3NWxaZzh5QnlFUV9JcWE?oc=5"
   },
   {
-   "title": "주주환원으로 반등 불씨 살리려는 코스피…인텔 29% 급락에 AI 투자 우려 확산 [주간증시]",
-   "source": "에너지경제신문",
-   "time": "2026-11-01T09:42:03+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HREhLS1IxbG9CTklLTVJKbVNodHZwa2lRRmxFb2xDOUxLT3ZpU2dOMm5OZGZSQU5DTmVoaEE5eElRRmpzN2dBT2tOWC1DR2d2MEZNN1VmN1lVTkU?oc=5"
-  },
-  {
-   "title": "바이낸스 해커, 비트코인 1.9조원어치 분산…FBI \"북한 소행\"",
-   "source": "지디넷코리아",
-   "time": "2026-11-01T08:56:01+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SbDh2b1hWVEVYX2t3LUtBZF9LUkVfdGx6TmZwSzdoRFZMRVRKQTU2amgwZFRSdlJVQ09KN3Z4VmVRQjU5RWlmUWVONHdPcEZDNm8tNUtn?oc=5"
-  },
-  {
-   "title": "[주간증시전망] 美 중간선거에 쏠린 눈…코스피 5700선서 반등 기회 찾나",
-   "source": "www.ebn.co.kr",
-   "time": "2026-11-01T14:19:08+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04TjZjSThaeTZtbXBMQXpKT0pFMjNNQzRIb3dvNFpQWlJUc3ZBaVRBX05CME93ektlXzJIVWt2V0lZa0kzNlA4SHpianFhdU1uY1FUcG84QWlBQldzNkI4UmgyZXk3R2Ez?oc=5"
-  },
-  {
-   "title": "“발행사 없는 STO 거래소는 기업 없는 증시”…안재현 스탁키퍼 대표, 제도 개선 촉구",
-   "source": "전자신문",
-   "time": "2026-11-01T12:00:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZV2lXaGZaZ0k3QmtfZkJGUDFWNS1Sa0VYU2F6Sjc0S2s0b2NvSXVqQU5hTGhKZFQ4SDVpRU15emdfazh5YUZEWGFCZE4yZw?oc=5"
-  },
-  {
-   "title": "현대차의 위기…환율이 가린 실적 부진, 중국차는 안방까지 넘본다",
-   "source": "뉴스핌",
-   "time": "2026-11-01T08:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54YzBFcHZtNERKNGVtTjAyekZZOGFZRGY0cm0xUnhJN2dvSU43bFVTdjB1djJsa29pYndIVzlWOG1LbzRFVGV6eGg2ZWRQU3ZMMlBHSVlvTHhJTWEt?oc=5"
-  },
-  {
-   "title": "20거래일 중 상승은 고작 8일…한 달 새 코스피 시총 1022조 증발",
-   "source": "뉴시안",
-   "time": "2026-11-01T15:38:15+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FandoazNkRHhXbkZaOFdXT19mTFN2RlBqMS1TMlFTckxzNnBMMXRDcUs2dnZpMjFzWGlSWTlXY2ktd0NackVlb2FBNkY4OXQ3TzlVa2RyR3hiSDhWRUEwbW9vVy1CcGdVT3Rucw?oc=5"
+   "title": "사이버 도박장 된 증시…코스피, 지난달 16% 폭락",
+   "source": "부산일보",
+   "time": "2026-11-01T14:20:23+09:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBORXIzSjAzRExybDFJZUM4TzF3RjBETlJQWE9NZ3BhUXc4VzV2Z0RQYmt4TVdWSkdST3lYblAxNWpvUlFtd25uSXFHbHowUkxnaWlSa3dJSW02RW5YcFBCbkNPdXFaU1dqd0lYYnltdWF5SElR?oc=5"
   }
  ]
 }
