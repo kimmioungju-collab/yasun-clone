@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:54:06.719022+09:00",
+ "updated": "2026-11-08T07:26:03.992666+09:00",
  "quotes": {
   "k200": {
    "price": 783.23,
@@ -601,7 +601,7 @@
   },
   "gas": {
    "price": 2.998,
-   "prev": 2.947,
+   "prev": 3.533,
    "spark": [
     3.02,
     3.001,
@@ -738,95 +738,95 @@
    ]
   },
   "btc": {
-   "price": 75698.81,
+   "price": 75681.48,
    "prev": 75741.016,
    "spark": [
-    75714.0781,
-    75583.2109,
-    75592.9062,
-    75662.9688,
-    75657.1484,
-    75659.5391,
-    75678.0391,
-    75663.7891,
-    75676.2188,
-    75623.3125,
-    75674.3125,
-    75650.5312,
-    75671.2812,
+    75679.2109,
+    75688.4766,
+    75675.2188,
+    75681.5938,
+    75683.8281,
+    75645.3984,
+    75644.9219,
+    75659.1719,
+    75658.3438,
+    75692.2266,
+    75686.3516,
+    75674.1875,
+    75688.2734,
+    75672.7891,
+    75656.4531,
+    75647.6406,
+    75619.8672,
+    75633.3594,
+    75611.4922,
+    75554.8828,
+    75502.5312,
+    75586.4766,
+    75575.2891,
+    75549.1094,
+    75519.6797,
+    75537.5938,
+    75504.8828,
+    75526.75,
+    75554.5781,
+    75563.5781,
+    75591.3828,
+    75586.3281,
+    75599.8906,
+    75638.5078,
+    75657.0625,
     75631.9766,
-    75640.8672,
-    75638.0625,
-    75682.1094,
-    75680.0625,
-    75702.6719,
-    75683.3594,
-    75702.5703,
-    75692.5703,
-    75701.3594,
-    75759.9375,
-    75750.4688,
-    75748.6484,
-    75750.4766,
-    75735.0703,
-    75727.2188,
-    75749.7422,
-    75758.3984,
-    75773.7578,
-    75721.7812,
-    75698.3672,
-    75720.9609,
-    75707.3203,
-    75720.0078,
-    75722.4922,
-    75701.4609,
-    75698.8125
+    75627.8828,
+    75670.8516,
+    75689.0391,
+    75681.4766
    ]
   },
   "eth": {
-   "price": 2233.32,
+   "price": 2230.67,
    "prev": 2235.3296,
    "spark": [
-    2237.1599,
-    2232.0901,
-    2232.0,
-    2234.29,
-    2233.95,
-    2233.6599,
-    2234.3601,
-    2233.8601,
-    2234.3501,
-    2230.47,
-    2233.0,
-    2231.8401,
-    2231.8301,
-    2230.8601,
+    2231.23,
     2231.01,
-    2230.48,
-    2231.8899,
-    2231.6201,
-    2232.8601,
-    2232.6299,
-    2232.0701,
-    2231.5701,
-    2232.04,
-    2233.8501,
-    2233.8501,
-    2233.46,
-    2232.76,
-    2232.5,
-    2232.8799,
-    2234.28,
-    2235.4399,
-    2235.76,
-    2234.3799,
-    2233.54,
-    2233.9399,
-    2232.8899,
-    2233.3601,
-    2233.3301,
-    2233.1599,
-    2233.3201
+    2230.77,
+    2230.8401,
+    2231.1599,
+    2229.76,
+    2230.6201,
+    2231.0,
+    2231.4399,
+    2232.1399,
+    2231.3999,
+    2231.01,
+    2231.8999,
+    2230.5601,
+    2228.46,
+    2228.8301,
+    2228.5701,
+    2229.3601,
+    2228.1001,
+    2225.1499,
+    2222.3101,
+    2225.8401,
+    2224.9199,
+    2223.98,
+    2221.5601,
+    2223.79,
+    2222.6101,
+    2223.1101,
+    2224.4399,
+    2225.6899,
+    2226.3201,
+    2226.6799,
+    2226.3999,
+    2229.4399,
+    2228.6299,
+    2228.3301,
+    2228.4099,
+    2230.3601,
+    2230.5801,
+    2230.6699
    ]
   },
   "eurkrw": {
@@ -1108,16 +1108,16 @@
  },
  "news": [
   {
+   "title": "'블루 쓰나미' 증시 덮쳤지만…K콘텐츠·통신주는 웃었다",
+   "source": "연합뉴스",
+   "time": "2026-11-08T06:15:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tYzRWNnJwMHZHc0NXQWpDcE5ZT0thR1BYM3hUa1F6U1Q5cHBPVFBsTThsemVIbmFiSndYSUpTdW1qdmRzUjQ0OUJxNVFGLUQ0dm5kSFN1UWRJMFnSAWBBVV95cUxOdmJvYmJpN0l6WmZwSGtmMlZoX1BYUGtWZ3NJam1YdG5jT0c5aktXRDRhYXI0c2drVmRlc0pjckU1NE1yR2JzdmVibU1NM1RybTRCeXE4RmNDWEtTeTBOYTU?oc=5"
+  },
+  {
    "title": "코스피 시총 고점대비 ’40%·3천조’ 증발…개미들 “패닉“ 성토",
    "source": "연합뉴스TV",
    "time": "2026-11-06T11:20:00+09:00",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ySkMyUXVaT1pkZEJSYU9nT3NldmtrREtBZ1JTcXdtSkloMUxzS2h1RDZKdlRLRjh3d3A4UG5RTzc3TURoWUNjYTlaaC1SS283WWw3N0oxYkVJSzc5dm1NUF9va0s1Wnc?oc=5"
-  },
-  {
-   "title": "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입",
-   "source": "연합뉴스",
-   "time": "2026-11-06T01:50:05+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUF9wVHpjMlAwcTZnNGpfMlNQenFwX1dVSjExRm90aHlwMGduM2hKS2VBYTd3eDByeXZmLUt6V1NmRmUwZHhJZGVfUmZyME82OUN4U2t0MmhBQWfSAWBBVV95cUxONmlGcld3ZnNzRFVwdXROT05nOU1vVHp2Zk55NGllSG5yc1F6WWRrUndWMWVfdVpqY2VrLU9ybUdTVjc5MHA0el9PVlliTXozR3RPMWtBQUtWTVB1Q2dmM1Q?oc=5"
   },
   {
    "title": "비트코인 7만6,000달러 회복…ETF서 13억 달러 유출에 반등 시험대",
@@ -1126,10 +1126,16 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HaGZRY1lQa0UxRmRsRmtmSXd6UlRUclItaTNEVXpreEFpd29lY19LcXNOamx5ZW1YdzR3cGNYZXFoa1NNZHdsY0lMUmRIYXIyck1JTVFDZ29KUTlkdnZkd0dZTDJpOF84b0R5eEZUb2FzTzQ?oc=5"
   },
   {
-   "title": "“여기서 더 떨어진다고?”…코스피 최악의 시나리오",
-   "source": "한경매거진",
-   "time": "2026-11-07T07:44:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GU290VC1SUGRPV29RUnhMOU9BX2h5bU1jUk8zZ1J1aWZJNjd1WDk0a21nMzdQd3B3bWlTVmM5eWI2aG5LUmJxc0s3OVZScnNZQ1h1cThCVl9UeTdwOUVJTEcxUlk5ZjF4aHF1Sw?oc=5"
+   "title": "증시 급락에 PEF 투자기업도 주가도 '뚝'…지분 가치 하락 부담",
+   "source": "매일경제 마켓",
+   "time": "2026-11-08T06:30:01+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUNUUHZmTC13Ym9mNjMwUzVqRTA2a2RFampGdmY0RkNOanZ5ZGFiTm5wM3E3SzMybFlwekFKNlctZGswNGZOb2lKRmlibkhJV1E?oc=5"
+  },
+  {
+   "title": "코스피200 '-28%' 뚝 떨어질 때...\"그래도 잘 버텼다\" 선방한 ETF - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-11-08T06:00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ULW4wTzluTXBwOUdMa1lzWVBUbjU2ajdxVjVRTjFRdldoc3phZ0dpOC13Znp4a3RWWlp5X3o1VjgzVGgzTlRFczI3LWlkdHZRR3hJZlV0Vmw0ZjZleTVNZXNGeTlWNHRi0gFuQVVfeXFMUGRrWENXZkZ2a0wxYzFyTXktakdza3lyMzk0MjFBWWp1UDV1MHc4TFFVUGoxc3FLanpjTzI3UDhDLTNzWkxKNWhJRGJIZW1Fb2E1VzFQMG5hR0JMUzA3bXU2VFU0cUotZktqUi1Sc2c?oc=5"
   },
   {
    "title": "뉴욕증시 반등, AI 기술주 폭락 후 저가 매수세…나스닥 1.1% 상승",
@@ -1138,22 +1144,10 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUSG9JS3JVZ1MtWlBlb0dHdHdrMDVQak1GOGZhS0VnN2hvNDZ1aV9FX0p5R2U3NDkxemJJZjR2RlIxNllpZE92NXotVGYtcnktMEdYMQ?oc=5"
   },
   {
-   "title": "미 중간 선거 '블루 쓰나미' 후폭풍...흔들리는 코스피",
-   "source": "YTN",
-   "time": "2026-11-07T10:44:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81ZkRTWVB3VUl6eDdnWS1KMHFGMWNfeEJTQjJYcVJLUWhfMVhycDQ3Vmljc0JGS09QX3czeHBwQ3JPVDhueTlUOGFacG8xQWNnSW5oYkRXSkZFdnBuN0E?oc=5"
-  },
-  {
-   "title": "“1년간 증시 조정” 5천피 꺾이자 재조명된 경고",
-   "source": "문화일보",
-   "time": "2026-11-07T19:59:22+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56S0tZTXB0VnVISExaaF9oMDlQRFU5QWZiVHJCM1ktNmhlYnJIbUFEaEJUb2Z5UlJQaE9rYzAxSVVMdW5xak1Ockg2b0RIMUhH?oc=5"
-  },
-  {
-   "title": "증권사 신용융자 담보비율 의무 '3개월 면제'…증시 변동성 대응",
-   "source": "대한민국 정책브리핑",
-   "time": "2026-11-07T07:14:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01YU1jWjFWM0w3QXN0Y1pJVUNBNnU4aTJtQUkteEFULWxYM3lhWXlHYS1qbE9DdjU1eWNXYk1BUW9fQXhqcnkwTE5vMmR6ZTloOFlHaDRaa0ZudjJPMmdjaE1tVTczVHBVMXdWNA?oc=5"
+   "title": "코스피 추락에…빚투·레버리지 개미 비명",
+   "source": "메트로신문",
+   "time": "2026-11-08T05:06:30+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rNUNrMEZfSzdHcExnR0c4ejBmUUV3Q0Vvbk9xb3JaQ0Q2UnBFV1lrcDZ0ZFBwbUd1Wno4Rk5ERU1rNlQzUHl3eTFDc1RkejB0QUlHblNSa0h5cVVBZi16ZQ?oc=5"
   },
   {
    "title": "美 선거발 규제 충격에 흔들린 나스닥, 한국 메모리 공급망까지 덮쳤다",
@@ -1162,10 +1156,28 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZkRLbEx0MHBpRklYY0Ezdml5d3JlTUtxZ2JtSFU5ZlQ1M25QNzU5VEJ0emdXTThKNU5Sb1dNbXNlemE1UjhOc2g1dnNtT24xbURVYmpWYWhQUU9hLUFlS2hrT3JQYTVFTkU5bnE5UGVWZlc4Z1B5LU0zZk1MT01uVmlBV3RhZlk?oc=5"
   },
   {
-   "title": "[11월 첫째 주 세계경제동향 브리핑] 코스피·코스닥 11%대 동반 폭락…美 증시도 급락",
-   "source": "기호일보",
-   "time": "2026-11-07T10:45:31+09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qUlZmY2NFbEFiYmEwcFhFS1dqeXdsT0d0NDdtQXpSRDNsemxxYVVWNnp2cWpRdVVVZElXMW9CNHNUcXBrd3JOcUFQQWpaV2lWWUMxN1REQ0NjVUNzV1NNd3ZHNUxjdmtVbFNYaTJvbw?oc=5"
+   "title": "비트코인,NVIDIA, 2026 외식주에 밀려",
+   "source": "BeInCrypto",
+   "time": "2026-11-08T01:30:40+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qYU1YNzVhZ2xZRXFGSTY3LWxoRjNxQ0RrZVJ0VFU2Yng1UW5ueTFQZHZlTjdZVGIwSVBpR2ZoRjlVX21xVnAzMVZaZU9sUmlrdWVta2lNRFA2aWlqdUhmWF8wZ2dEcHktbmtXZg?oc=5"
+  },
+  {
+   "title": "미 중간 선거 '블루 쓰나미' 후폭풍...흔들리는 코스피",
+   "source": "YTN",
+   "time": "2026-11-07T10:44:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81ZkRTWVB3VUl6eDdnWS1KMHFGMWNfeEJTQjJYcVJLUWhfMVhycDQ3Vmljc0JGS09QX3czeHBwQ3JPVDhueTlUOGFacG8xQWNnSW5oYkRXSkZFdnBuN0E?oc=5"
+  },
+  {
+   "title": "“여기서 더 떨어진다고?”…코스피 최악의 시나리오",
+   "source": "한경매거진",
+   "time": "2026-11-07T07:44:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GU290VC1SUGRPV29RUnhMOU9BX2h5bU1jUk8zZ1J1aWZJNjd1WDk0a21nMzdQd3B3bWlTVmM5eWI2aG5LUmJxc0s3OVZScnNZQ1h1cThCVl9UeTdwOUVJTEcxUlk5ZjF4aHF1Sw?oc=5"
+  },
+  {
+   "title": "[주간 월가 레이더] 美 물가 3.9% 전망에 월가 긴장⋯나스닥 4주 연속 하락, AI주 추가 조정 시험대",
+   "source": "포커스온경제",
+   "time": "2026-11-08T04:09:36+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZRUFLaTRZYWZIRmVscnZMcWQ4VlZEOHo5WWZubE94N0NyZnRYcHlXTVVOOUNzVGZvUE1wVi1ic0NrMzN6T3FJWkMxai1oamRDUzJmVk5mNm1HamVfVUE?oc=5"
   },
   {
    "title": "\"비트코인의 다음 성장 동력은 기관투자자의 매수세\"",
@@ -1174,22 +1186,10 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNUFZ6c3c5SWpHZ1o1OVQ3U0tJQVBVY0d1YzhkdW5GNm5wR19SbjNRT1ZpRXhPYXFZTkUtUUgyWktBbWFnaEEtUkcyR0QybFN3?oc=5"
   },
   {
-   "title": "\"코스피 이 꼴인데 1만 간다니\"…日 증권사가 목표 안 낮춘 이유",
-   "source": "아시아경제",
-   "time": "2026-11-07T11:34:38+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvNHlDc2xqcU1RaTNuTkJ6dzJPVnY0RjNiU2dRSG9vR3VBSzVRb0hMajBCblNtNnNUcG5ldVE4NUJ2dnZlT1RWTmVIVVJ4ZTQyQW9YeEplazl4aW5ROFR3Yw?oc=5"
-  },
-  {
-   "title": "“코스피에 정말 질렸다”…실망한 개미들 일주일 새 2조 5000억 쓸어담은 ‘이것’",
-   "source": "매일경제",
-   "time": "2026-11-07T18:02:27+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NaUlOcnR2Qk1Cb29scTBBZ0tKRWVGVHlEbTZJWjlzeXlMSV9CQkR1dkZHQ1kzbkZOdHk1WUhYd0M4YU1fT0lOWWp1RmEwYjliNGZZVw?oc=5"
-  },
-  {
-   "title": "중간선거가 불러온 AI 규제 우려에 나스닥 사상 최대폭 하락",
-   "source": "네이버페이 머니스토리",
-   "time": "2026-11-07T13:22:17+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hU0VOMW5FVHpzUjlDcUNIOUwzODBYS2pieEVVMTJsSHZ0VW5PWGcwMnYyWXlwZFM1TEI2dVFPQUduTTB0d28zVS1CeHdJclpjcUN1WllpNGc?oc=5"
+   "title": "[11월 첫째 주 세계경제동향 브리핑] 코스피·코스닥 11%대 동반 폭락…美 증시도 급락",
+   "source": "기호일보",
+   "time": "2026-11-07T10:45:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qUlZmY2NFbEFiYmEwcFhFS1dqeXdsT0d0NDdtQXpSRDNsemxxYVVWNnp2cWpRdVVVZElXMW9CNHNUcXBrd3JOcUFQQWpaV2lWWUMxN1REQ0NjVUNzV1NNd3ZHNUxjdmtVbFNYaTJvbw?oc=5"
   }
  ]
 }
