@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:42:32.754968+09:00",
+ "updated": "2026-11-23T07:05:16.475716+09:00",
  "quotes": {
   "k200": {
    "price": 755.34,
@@ -187,12 +187,12 @@
   },
   "nq": {
    "price": 25126.5,
-   "prev": 26600.25,
+   "prev": 25126.5,
    "spark": []
   },
   "es": {
    "price": 6935.0,
-   "prev": 7197.25,
+   "prev": 6935.0,
    "spark": []
   },
   "ndx": {
@@ -335,27 +335,27 @@
   },
   "wti": {
    "price": 83.41,
-   "prev": 82.44,
+   "prev": 83.41,
    "spark": []
   },
   "brent": {
    "price": 89.95,
-   "prev": 89.44,
+   "prev": 89.95,
    "spark": []
   },
   "gold": {
    "price": 3515.4,
-   "prev": 3685.5,
+   "prev": 3515.4,
    "spark": []
   },
   "silver": {
    "price": 41.07,
-   "prev": 44.359,
+   "prev": 41.07,
    "spark": []
   },
   "gas": {
    "price": 3.748,
-   "prev": 3.681,
+   "prev": 3.748,
    "spark": []
   },
   "vix": {
@@ -405,7 +405,7 @@
    ]
   },
   "usdkrw": {
-   "price": 1346.13,
+   "price": 1345.76,
    "prev": 1333.62,
    "spark": [
     1343.6,
@@ -451,95 +451,95 @@
    ]
   },
   "btc": {
-   "price": 61296.24,
+   "price": 60795.83,
    "prev": 60093.008,
    "spark": [
-    60734.6211,
-    60800.9492,
-    60613.1406,
-    60536.0117,
-    60678.8906,
-    60647.0195,
-    60697.4414,
-    60697.4805,
-    60652.8594,
-    60620.4102,
-    60629.8789,
-    60545.1719,
-    60585.4219,
-    60653.5391,
-    60905.5586,
-    60794.0781,
-    60813.6406,
-    60836.7109,
-    60898.1992,
-    60837.2109,
-    60795.3008,
-    60732.1914,
-    60796.3906,
-    60837.7305,
-    60732.4102,
-    60735.1406,
-    60669.0781,
-    60821.3203,
-    60872.5117,
-    60799.9102,
-    60859.2812,
-    60943.7109,
-    60978.2109,
-    60904.3594,
-    61194.6797,
-    61147.1914,
-    61215.9492,
-    61194.4492,
-    61234.9414,
-    61296.2383
+    60696.7305,
+    60667.5508,
+    60669.7891,
+    60610.9609,
+    60638.4883,
+    60624.3008,
+    60610.7383,
+    60687.6484,
+    60639.6797,
+    60629.7383,
+    60645.3086,
+    60631.5391,
+    60632.0508,
+    60635.7188,
+    60663.3398,
+    60626.1211,
+    60621.2383,
+    60534.6914,
+    60494.4297,
+    60532.25,
+    60513.3984,
+    60554.4219,
+    60537.1602,
+    60702.0391,
+    60849.9688,
+    60822.3086,
+    60926.2383,
+    60838.6016,
+    60865.75,
+    60822.0,
+    60901.6289,
+    60883.1797,
+    60897.7812,
+    60889.4102,
+    60955.0,
+    60915.1016,
+    60831.6602,
+    60845.9609,
+    60772.1914,
+    60795.8281
    ]
   },
   "eth": {
-   "price": 1721.87,
+   "price": 1713.38,
    "prev": 1682.1826,
    "spark": [
-    1705.3,
-    1706.39,
-    1701.25,
-    1697.24,
-    1702.77,
-    1700.77,
-    1702.51,
-    1704.75,
-    1705.03,
-    1703.87,
-    1704.1,
-    1700.83,
-    1702.04,
-    1703.02,
-    1712.52,
-    1709.12,
-    1708.79,
-    1710.63,
-    1710.98,
-    1709.2,
-    1710.58,
-    1709.11,
-    1712.54,
-    1717.13,
-    1713.67,
-    1714.23,
-    1713.72,
-    1716.49,
-    1717.88,
-    1715.84,
-    1715.99,
-    1717.72,
-    1716.62,
-    1714.24,
-    1719.14,
-    1718.66,
-    1719.5,
-    1719.3199,
+    1713.37,
+    1712.11,
+    1713.86,
+    1712.0,
+    1712.3101,
+    1712.4,
+    1712.23,
+    1713.26,
+    1711.9399,
+    1711.49,
+    1712.58,
+    1713.12,
+    1712.7,
+    1713.0699,
+    1713.24,
+    1711.15,
+    1711.2,
+    1710.28,
+    1709.3199,
+    1710.52,
+    1710.73,
+    1713.04,
+    1712.53,
+    1715.9301,
+    1718.2,
+    1718.3,
+    1721.52,
+    1720.1899,
+    1721.4399,
+    1721.59,
+    1722.6899,
+    1722.79,
+    1721.3199,
     1720.83,
-    1721.87
+    1722.47,
+    1720.67,
+    1718.12,
+    1717.3199,
+    1712.45,
+    1713.38
    ]
   },
   "eurkrw": {
@@ -681,7 +681,7 @@
    ]
   },
   "usdjpy": {
-   "price": 158.512,
+   "price": 158.543,
    "prev": 159.601,
    "spark": [
     158.841,
@@ -727,7 +727,7 @@
    ]
   },
   "eurusd": {
-   "price": 1.0975,
+   "price": 1.0976,
    "prev": 1.0973,
    "spark": [
     1.0972,
@@ -780,10 +780,10 @@
  },
  "news": [
   {
-   "title": "코스피 희망이 보인다 9,000p 시대 다시 옵니다",
-   "source": "연합인포맥스",
-   "time": "2026-11-22T07:58:22+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45ME45ZzRwRFg4ZWpxMUZEcUdvUEljQ1RVakdncF9XN3F4X1pCWEFFZ2FVbGJrczVCd190TngtOXhtWnd6ZzVLT2tqNjRScjdwSWRKOC10WTRHa3hqbHlhZHFBSWNFQ05hYlVqdjNkN1TSAXRBVV95cUxQSTlJSjRUdHQtMXk0cjVLN2V5ZXExZGJ4MjNCTGdsaEFxZXBNT2lhUjJtWDluNWtFd21GT3pmaVYzeWVzWUN2ZThraXRUZ3NmWFUtS242OFNUb25GQ3IyckdIX1MyNzVSU0h0XzVIWlZsdnJ2cg?oc=5"
+   "title": "'검은 월요일' 될까‥증시안정펀드 가동 준비",
+   "source": "MBC 뉴스",
+   "time": "2026-11-23T06:04:35+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Kb3FCbUxBOXlnUDRtNklrT1k2ZHluTnRGM0VRMmlTOU10d2ZBWFFKaERNb1h0MEhaZkRzUTh0cklIM0R1V3NyZGxIYXVzVms5Wjd1VGpPb095U3hDMVViTTlNaERHMGRLVHM0R0ZIaGoyRWg5RG9seUNB0gF6QVVfeXFMUHFtMUdXRVBRQm5XWDFOQ0p5MlNpZS1zX0xaTHZ1QlNaSWNXTEJQZUgtSGVWbFFlcDN0ZjZTc0Y0ckRkbkl5SnY5NlBxanR4SVhlc1hJekdlb1ppSEdQcnRmUjktM1JPQ2dwS2xGR3A1ZUdMeGRpNi1WU0E?oc=5"
   },
   {
    "title": "나경원 “코스피 폭락, 정부 믿고 국장 들어온 국민 크게 다쳐”",
@@ -792,10 +792,22 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PMl9iVXNZYzVheHRGS19pdkFrdTU0aUZ4QkNBSEgzblhRNVFCamlBNjhpakFab09HVkM0b2M1eFlkaGdTSVdkbmVSWmwyQW5YRE9yc2Rn?oc=5"
   },
   {
-   "title": "\"中기술주 지수 시총, 6월말 이후 2천300조 증발\"…증시안정조치(종합2보)",
-   "source": "연합뉴스",
-   "time": "2026-11-22T21:56:19+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKMVJUeDZGdjFaMldqNTRJZllySVRfVUZRRm9MUzZqMWxjemJaa2hHUTEyLUZGbVRDYkpNQUZlOG10dHpCcU84ak44MF9tMkZaRWtOWnptTk9kQUnSAWBBVV95cUxPV1A0OEZ1RklTdVlfSzB6VkJ2MTFYTUtDalR6UGJhdThPN1RQVlo4cnVkNlFYa3NRdjZILUhzSVZCS0kteWNvQlRBN0RGWTNmbDUyMENaVlZQdGxtNDhfblg?oc=5"
+   "title": "2026년11월23일(월) 비트코인 시황",
+   "source": "네이버 프리미엄콘텐츠",
+   "time": "2026-11-23T04:34:25+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSUhrVVRjZTBaLVFWU282RzRkV1FnXzZzSXhLUHZPNUFRVE1LWGdXOXZaXzdSamRvbTA0ZVBseU9tVUhLUE9wd1dELWVfZmY5VlVyUkhZTVQ3NC15N08xcEsxWUZEVUNZaV81WTc1bkFDMTBXQ1Z6OUE2V3pNUFYwUjh3?oc=5"
+  },
+  {
+   "title": "코스피 희망이 보인다 9,000p 시대 다시 옵니다",
+   "source": "연합인포맥스",
+   "time": "2026-11-22T07:58:22+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45ME45ZzRwRFg4ZWpxMUZEcUdvUEljQ1RVakdncF9XN3F4X1pCWEFFZ2FVbGJrczVCd190TngtOXhtWnd6ZzVLT2tqNjRScjdwSWRKOC10WTRHa3hqbHlhZHFBSWNFQ05hYlVqdjNkN1TSAXRBVV95cUxQSTlJSjRUdHQtMXk0cjVLN2V5ZXExZGJ4MjNCTGdsaEFxZXBNT2lhUjJtWDluNWtFd21GT3pmaVYzeWVzWUN2ZThraXRUZ3NmWFUtS242OFNUb25GQ3IyckdIX1MyNzVSU0h0XzVIWlZsdnJ2cg?oc=5"
+  },
+  {
+   "title": "AI주 폭락에 亞증시 방어 총력…中 81조원 매수 여력 확대",
+   "source": "뉴스1",
+   "time": "2026-11-23T04:24:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iU1BvbXVYcVFmMThZYjZkYlY1QVNRUGJhX1VvZ3JBUzREaTlUbWFZUVNmQ0l0RnNIalpiT04xODZrTVR1QVppVkVMelR4TldBWDBOSVNSZzRwOWRIeVZ3OV9kWjNQdlE?oc=5"
   },
   {
    "title": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져”",
@@ -804,22 +816,34 @@
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUwyQWlOMlhMWE5YUUZVX0tqMHRnc2lPNnFUajZ6OWdzWXI3Q296c3dVQlRaRmtfbjcxVzlrc3p1MFM4TnMzM19lY2tLaUdLbWhGa1F2SFFSTElyVURlbDZDR1M5Z2M0UkxyVTJNbDhicjJOODAwZjlwT3h0YTBZc0Nn?oc=5"
   },
   {
-   "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
-   "source": "비즈워치",
-   "time": "2026-11-22T12:07:02+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTXFkelpaTUs0b0lBeTgxNlZQejRyMl9WNGgtUHdlZ0VpV2c3N0NaT29yTnZQUlUydHF3ZHBtUFpYek5QT3pBY2h6c3NRU0hCVFBhOFlNZERzTmVSU1R6bm92RlREV0tsMVE?oc=5"
-  },
-  {
    "title": "\"증시 방어 총력전\"… 불법 공매도 3개월간 특별감시",
    "source": "매일경제",
    "time": "2026-11-22T19:44:06+09:00",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OVUtLSDJRVUEzcGVrT3RPanp6bExhNGFJNWpfX0dXYlpDMWRISnRSZm9uZEo4WTU4Nk9rUVZ0dVc4VkduZC1ueW9ld0tPUXg2aEE?oc=5"
   },
   {
-   "title": "'블랙먼데이' 막는다…정부, 증시 개장 앞두고 증안펀드 가동 준비",
-   "source": "블루밍비트",
-   "time": "2026-11-22T18:56:17+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVV2Q4aFB4UVpRSDRROXlUT2poQ0p3dXR0S01abENCV1VvcDlaUVRBSUF3VEgzYUhqdzhyYUVBTk9IdDJ0bDJCTzVkQUlyWEp3?oc=5"
+   "title": "같은 4,800선인데도…코스피 ’1조클럽’ 11% 감소",
+   "source": "연합뉴스TV",
+   "time": "2026-11-23T06:01:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mNVBSeklmb3RYRzdXalZkQzRFZXNuTWdubEE1YUVOUXRUN1V2UWFiX2d2MTkyaE5wOVRmcHdibmdGUUdYaHJZTkE5dnU2blotSTl6Q1hPRTczWWY0NlhqSkhvWnc0OUE?oc=5"
+  },
+  {
+   "title": "[이번주 환율] 강달러에도 1330원대 지킨 환율…1320원대 안착할까",
+   "source": "오피니언뉴스",
+   "time": "2026-11-23T05:40:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NY1d6amtKTV9DUURHRS0zam5CUFg3N01iNUNERlk3cHBCdG1PX09NLVhMMzdFdUpUVmZtXzRDaDVPVlp0d3VFUlNSZ2VJLVI5aGpjbjJfYzJaUGJ3VUQ0VVdwYUpqRTctYmx6X0dkeUNVZw?oc=5"
+  },
+  {
+   "title": "美 증시 줄 잇는 혁신 IPO…올해 코스피 상장은 단 1건",
+   "source": "마켓인",
+   "time": "2026-11-23T05:00:07+09:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ObnppOHBZbmM3TUFNMjR6dXc0TGRGZEJPQWljTm1sbzlUejNYX1J4M3lWY0NQUGUxeEN2aThDQTFUMFdocmNYM0RxV3Ayd2V3VV9tb0VJb1dRckJfMTVSd0NRbVdNaE90bkhLMXJxclY0bnc?oc=5"
+  },
+  {
+   "title": "\"월요일이 무섭다\" 나스닥 급락에 국장 개미도 긴장…AI 수익성 우려 - 머니투데이",
+   "source": "머니투데이",
+   "time": "2026-11-23T01:29:24+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSEh5N25DSmlvejhUQUVCMjE0RWZDNnJXUnpSSzJSOTN0R0ExSG9LZmFka09uZXg0THg1LVhWeEtYSGNzQ01wSTQtUVF2UWRlSlB2SHNJdHRCVnRXS3FVUzI3MlI0VHB50gFuQVVfeXFMT1ZpMmV5Z2JRc3I2NVc3b3JPbFh6S0RReVJHT2pfemR2ZGpDUzA4Y0t3SVJ4VjBSYTM2cFhXWUF5anA1YlN1dlRVQnBmS1RaOWVzVFItdVBGWmVyTVhuY19NSWwyZGtiVE9iX1dsTUE?oc=5"
   },
   {
    "title": "AI 충격에 아시아 증시 안정화 나선 대만·중국·한국",
@@ -828,40 +852,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wTHQ3SHU2LUFhcnB1UldvM2hhOTQ4RS00NzdlMXJYd2owQ2FPcXp1dVhRS043QThUVGpPcVVXX1NlMnczTk41SGJWa3UyMWlkMUdfUlREa2tCZS1aeXkzdzYtcmI5TVcwcG9ucHFkSW4?oc=5"
   },
   {
-   "title": "비트코인 4개월 만에 6만달러 붕괴…테라·루나 사태 이후 최장 약세 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-11-22T22:10:30+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZLWlHZUtPNGt3LXVfYnpIZi1ZWnRGS1pMN2lQT1RqVFFmbkx2R3Boc3plS2NWNlZlckxobThmOUpvREpZZXh0WVhCVU5WVVZVTzZpeEJGMk05X2E2WktJQzdwdERzeG9P0gFuQVVfeXFMUHNyNHR4R2xxZTdCOGVEeXVwZHNwd3RwZjBoajJHMWI0cjlBTTBXSFJISHNYUlhLRjRjZEFtU0l5OW4xNnlHZ0ZvbDZhMk5jdGFzdm1ZN1BhRTlYb044TE1kYzJ6U3ZBWFNqdlY1U3c?oc=5"
+   "title": "\"中기술주 지수 시총, 6월말 이후 2천300조 증발\"…증시안정조치(종합2보)",
+   "source": "연합뉴스",
+   "time": "2026-11-22T21:56:19+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKMVJUeDZGdjFaMldqNTRJZllySVRfVUZRRm9MUzZqMWxjemJaa2hHUTEyLUZGbVRDYkpNQUZlOG10dHpCcU84ak44MF9tMkZaRWtOWnptTk9kQUnSAWBBVV95cUxPV1A0OEZ1RklTdVlfSzB6VkJ2MTFYTUtDalR6UGJhdThPN1RQVlo4cnVkNlFYa3NRdjZILUhzSVZCS0kteWNvQlRBN0RGWTNmbDUyMENaVlZQdGxtNDhfblg?oc=5"
   },
   {
-   "title": "코스피 5% 급락 ‘검은 금요일’... 10개월 만에 4900선 아래로",
-   "source": "조선일보",
-   "time": "2026-11-20T16:38:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkRUVWYwQ0U0Z2tueHlKMGlEeW56M25Dbno0NGozdkpXNTI5YmlHV09tMXY0aWxUMkptdzE3MS1oNEJKeTIwNllobTVlZjhLTmZPMmUxOTJsc2dUUl9mYjFvOFplVXdUUVZaZmxrazFIcF9rbmVVa1hzcFBFRnNZVg?oc=5"
-  },
-  {
-   "title": "미 증시 급락에 F4회의 소집...\"증안펀드 가동 준비\"",
-   "source": "YTN",
-   "time": "2026-11-22T23:03:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1T25TNzRxX09LWmJBbHA3S09VVGJqcENoOHZBSHl3T1p6MUQwZkxPOF9Lc28xSElkaUFVb0VPRk84b2ROdmxOY3lpYURhWkl5SVJaN0tkSXdQWEdJRVE?oc=5"
-  },
-  {
-   "title": "[Weekly Coin] 깊어지는 조정 폭···비트코인, 6만달러 붕괴",
-   "source": "시사저널e",
-   "time": "2026-11-22T14:57:37+09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wckJwOEpaZkg3c09IU1JOWnNFSGVCaTc2SU1sc3NUdE5ON0dRYTRLRVZRZG5YUXVmLVpiNUhQSm1hSDctSDhyM1dhc1JRcWFfUGg5al9pNDhQOUEtbmEyTjQxai05QzVGdnZtaHdneHEyZ9IBdkFVX3lxTFBXdUpRMUc0bjQ5OURIb2hqVzh4OUlpRGkxSWREbVNXSzFONFltV204WG5DMU1vemdFdEFvX2NOR2hZMWE3eFFNQUFsRHlnOGxtVlFpX0oyVmxra2pJZVZPQkpqOUpTekgydE5FLUlfVExPSDd3dGc?oc=5"
-  },
-  {
-   "title": "[뉴욕환시-주간] 방향타는 증시에…도전받는 '테크노달러' 내러티브",
-   "source": "연합인포맥스",
-   "time": "2026-11-22T18:10:26+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMVl0d2Z2d2Q0Q2dHcHppNUg0TjYwSE5vUnVuTmtHcDd1UDRrX2g0aHJVVnJYTDRDRkxGcjhESklNeTdCSkhoZU1URVNFOVVnWHc3eENOQVBJMzY3Vm1zNDktQ0pRM3B4NUxYZVEyeGg?oc=5"
-  },
-  {
-   "title": "젠슨 황과 비트코인 [헬로, 크립토]",
-   "source": "한겨레",
-   "time": "2026-11-22T19:27:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UeHlBWDJDUzFjbTlXYVNUSjZqX3NWS0h4ZjZRY3htXzgzUW42eXh0X0l4R0ZPelpqVENQVDBqbFF3eFQ3Q2ticTcyZWVfam9VQ1V2eVU1WkhiN1c0cFgwV3g4MGU4Zw?oc=5"
+   "title": "'블랙먼데이' 막는다…정부, 증시 개장 앞두고 증안펀드 가동 준비",
+   "source": "블루밍비트",
+   "time": "2026-11-22T18:56:17+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVV2Q4aFB4UVpRSDRROXlUT2poQ0p3dXR0S01abENCV1VvcDlaUVRBSUF3VEgzYUhqdzhyYUVBTk9IdDJ0bDJCTzVkQUlyWEp3?oc=5"
   }
  ]
 }
