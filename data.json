@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:55:34.889233+09:00",
+ "updated": "2026-11-28T12:41:05.008008+09:00",
  "quotes": {
   "k200": {
    "price": 758.51,
@@ -141,7 +141,7 @@
   },
   "kosdaq": {
    "price": 708.99,
-   "prev": 650.64,
+   "prev": 655.71,
    "spark": [
     693.24,
     694.03,
@@ -692,10 +692,9 @@
    ]
   },
   "usdkrw": {
-   "price": 1333.31,
+   "price": 1333.9,
    "prev": 1343.06,
    "spark": [
-    1332.96,
     1333.4,
     1333.5,
     1333.4,
@@ -734,112 +733,106 @@
     1333.6801,
     1333.2,
     1334.21,
-    1333.3101
+    1333.0,
+    1333.0
    ]
   },
   "btc": {
-   "price": 59741.51,
-   "prev": 60495.95,
+   "price": 59889.98,
+   "prev": 59866.066,
    "spark": [
-    59744.5703,
-    59801.8086,
-    59839.6289,
-    59843.2695,
-    59873.1016,
-    59783.3398,
-    59768.2109,
-    59901.3906,
-    59873.6211,
-    59898.8906,
-    59899.9883,
-    59962.8203,
-    59953.3086,
-    59882.0898,
-    59811.5703,
-    59834.0898,
-    59798.9805,
-    59761.3516,
-    59706.7383,
-    59713.5703,
-    59678.4688,
-    59735.6289,
-    59742.0508,
-    59673.8203,
-    59758.6406,
-    59743.0898,
-    59704.0508,
-    59733.0586,
-    59727.25,
-    59749.0898,
-    59779.0312,
-    59794.6484,
-    59781.2617,
-    59760.5586,
-    59719.5312,
-    59788.6211,
-    59753.3516,
-    59725.0508,
-    59752.4102,
-    59741.5117
+    59919.75,
+    59921.5586,
+    59900.2383,
+    59921.0586,
+    59870.3516,
+    59869.7383,
+    59833.8008,
+    59936.8789,
+    59999.8398,
+    60004.7812,
+    60127.2305,
+    60070.7617,
+    60049.0195,
+    60154.0195,
+    60138.1289,
+    60125.6016,
+    60111.3008,
+    60136.4883,
+    60119.7617,
+    60086.4609,
+    60129.3594,
+    60169.0508,
+    60145.6289,
+    60109.2109,
+    60073.7305,
+    59971.9492,
+    59950.0,
+    59908.9219,
+    59874.5117,
+    59913.2812,
+    59891.3086,
+    59908.2695,
+    59899.7109,
+    59919.6602,
+    59899.1602,
+    59879.9688,
+    59839.1797,
+    59878.4609,
+    59890.3984,
+    59889.9805
    ]
   },
   "eth": {
-   "price": 1662.73,
-   "prev": 1687.7498,
+   "price": 1662.64,
+   "prev": 1661.0398,
    "spark": [
-    1665.83,
-    1666.92,
-    1669.87,
-    1669.83,
-    1670.26,
-    1668.71,
-    1669.2,
-    1671.99,
-    1670.35,
-    1671.55,
-    1672.08,
-    1672.79,
-    1672.51,
-    1670.51,
-    1668.9,
-    1669.5,
-    1669.46,
-    1667.8,
-    1667.1801,
-    1666.63,
-    1664.01,
-    1665.4399,
+    1663.26,
+    1663.6,
+    1662.98,
+    1663.39,
+    1661.17,
+    1661.8101,
+    1659.86,
+    1663.4,
+    1664.87,
+    1664.4399,
+    1668.37,
+    1666.87,
     1666.28,
-    1664.42,
-    1664.91,
-    1665.5,
-    1664.92,
-    1665.51,
-    1665.12,
-    1665.8,
-    1665.3101,
-    1666.74,
-    1664.61,
-    1663.9301,
-    1663.6899,
-    1664.61,
-    1664.34,
-    1663.09,
-    1663.0601,
-    1662.73
+    1668.72,
+    1667.77,
+    1667.26,
+    1667.76,
+    1668.5601,
+    1667.9,
+    1666.9,
+    1668.38,
+    1669.42,
+    1669.3199,
+    1667.9399,
+    1666.96,
+    1665.0601,
+    1662.74,
+    1662.47,
+    1662.46,
+    1663.92,
+    1662.64,
+    1663.1801,
+    1662.01,
+    1663.04,
+    1662.59,
+    1661.91,
+    1660.53,
+    1662.4,
+    1662.78,
+    1662.64
    ]
   },
   "eurkrw": {
-   "price": 1456.7,
+   "price": 1457.0,
    "prev": 1473.4,
    "spark": [
-    1457.0,
-    1457.3,
-    1457.2,
-    1457.1,
-    1457.2,
-    1457.0,
-    1457.3,
     1457.4,
     1457.4,
     1457.5,
@@ -872,20 +865,20 @@
     1457.5,
     1457.2,
     1456.7,
-    1456.7
+    1456.7,
+    1458.3,
+    1457.0,
+    1457.0,
+    1457.0,
+    1457.0,
+    1457.0,
+    1457.0
    ]
   },
   "jpykrw": {
    "price": 8.333,
    "prev": 8.413,
    "spark": [
-    8.334,
-    8.336,
-    8.336,
-    8.336,
-    8.337,
-    8.335,
-    8.337,
     8.338,
     8.337,
     8.336,
@@ -918,22 +911,20 @@
     8.337,
     8.336,
     8.333,
+    8.333,
+    8.34,
+    8.333,
+    8.333,
+    8.333,
+    8.333,
+    8.333,
     8.333
    ]
   },
   "cnykrw": {
-   "price": 200.425,
+   "price": 200.485,
    "prev": 201.77,
    "spark": [
-    200.325,
-    200.351,
-    200.396,
-    200.34,
-    200.419,
-    200.441,
-    200.494,
-    200.437,
-    200.414,
     200.253,
     200.361,
     200.346,
@@ -964,14 +955,22 @@
     200.379,
     200.349,
     200.286,
-    200.425
+    200.425,
+    200.461,
+    200.255,
+    200.255,
+    200.395,
+    200.395,
+    200.395,
+    200.395,
+    200.395,
+    200.395
    ]
   },
   "usdjpy": {
-   "price": 159.55,
+   "price": 159.515,
    "prev": 159.226,
    "spark": [
-    159.531,
     159.532,
     159.521,
     159.535,
@@ -1010,21 +1009,16 @@
     159.578,
     159.57,
     159.563,
-    159.55
+    159.523,
+    159.515
    ]
   },
   "eurusd": {
-   "price": 1.0936,
+   "price": 1.0939,
    "prev": 1.0975,
    "spark": [
     1.0936,
     1.0936,
-    1.0937,
-    1.0936,
-    1.0936,
-    1.0936,
-    1.0936,
-    1.0936,
     1.0936,
     1.0936,
     1.0936,
@@ -1056,12 +1050,18 @@
     1.0935,
     1.0935,
     1.0936,
-    1.0936
+    1.0937,
+    1.0939,
+    1.0939,
+    1.0939,
+    1.0939,
+    1.0939,
+    1.0939
    ]
   },
   "dxy": {
    "price": 104.014,
-   "prev": 103.665,
+   "prev": 104.014,
    "spark": [
     103.9,
     103.897,
@@ -1106,90 +1106,5 @@
    ]
   }
  },
- "news": [
-  {
-   "title": "中 인민은행, 금안보고서 발표…\"유동성 충분히 공급·환율 안정\"",
-   "source": "연합인포맥스",
-   "time": "2026-11-28T00:49:13+09:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLbS15TUZLNGRETkZLcVVEZTlMRzlPaXZJd3RqYndCanJwenlVTjktQ1JMMDJRRlB3X0pHcVpIeXRxRmtjWjlKa29rY0RLMVVFZW0zcG9ucjl2UF9fWUlQWXFKYldLWkgtZUVnMW90VlU?oc=5"
-  },
-  {
-   "title": "뉴욕증시, 반도체주 반등에 일제히 상승…나스닥 2.3%↑",
-   "source": "KBS 뉴스",
-   "time": "2026-11-28T04:10:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaZGE3LXJwNVpRSHFiOUJvYjBXalpCc2xaRmszNHZXQW9PZEZQeEJCaDdnMS1CLVlLUlIzR0R0TmZXX2p3dVNHaTdOMUttR0lQbEVXT2V6aWhudk0?oc=5"
-  },
-  {
-   "title": "18년 만에 ‘증안펀드’ 가동하나···4700선 갇힌 코스피에 고민 깊어진 정부",
-   "source": "경향신문",
-   "time": "2026-11-27T12:48:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aYXFJWS1tTWhHc3dPWWFtX2RNMmJyUkNMS1JWaTJIbmJvS1dpTzlSbFF0cEtCMGNzMEh3ZWVBd1E1a0xSTUxNR0h5VV9SQWZfUTFyc2p0ckkwUdIBX0FVX3lxTFBvR29RQ1c2ZGhvdWxlSE9SRFVLcXY2R3dZYXhLdG1WTXI2YnpGcC1KaWl4ZHZhOW5KSzdESGFyb0VIRTU1bGZxb0hmZmU2eUVhZzZFMlF4LVlCUG9FZ1JB?oc=5"
-  },
-  {
-   "title": "중국 당국, '증시부양' 메시지에 주요지수 2년 만에 최고상승률",
-   "source": "MBC 뉴스",
-   "time": "2026-11-28T06:21:35+09:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iVGdwbElYcnhFNTREZDVhaHFMRlBKUEU3bUhLQWVTdUNtWlg1LUxJMjFPaThNX0NSVElVbkVfQ2pxVzI1ZmRqeXZ2NmNmT3BSWWQ2OS1kYzVFdXV2SjhZLUx1WEg2RkNQckp2SjgyV3lJTTR60gF0QVVfeXFMUEVteEZzYk92ZmxlQXY3cTFKQ1pBT0J2c1cxMklpMVk5ZW92cXk5NzdPTkZkOFZGWTBfS3ZJbXo2SGZxQWNudmZxWTFiWUNDbXNoYmJVWHNyNzNIWWZJcmlMQzJPNGYta2RUUUxGb2ZWLUdxc3A?oc=5"
-  },
-  {
-   "title": "\"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이",
-   "source": "머니투데이",
-   "time": "2026-11-28T02:06:35+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KYTEtcXBBUGpXdWVvVllISHQ3cmsxN3drdVZGbVNYNEpWVWdIckF5ZURCMUNFcEwwVGRLMjlQUHYtQkFiMDJUTFlxZE04ODF4S0NxSlFHU1h0c1VhN25mdHlfbUtTZmJJ0gFuQVVfeXFMT3pqTVZvX2FCMFIyUUpzbDBZdzJydGJaTDZ6QWg1RmhKcTNZbU12bV9VVHB0bWNkc1IxVDdMekRYaDYxck5Ua29GUThoR2MwY1ZNb3NoTXdJMzI3NXhleHVyZXVONnIyZW9idFZOWUE?oc=5"
-  },
-  {
-   "title": "곤두박질 코스피에 “현실감 없어요” 막막…개미 자금 80조 ‘매물벽’ 갇혀",
-   "source": "한겨레",
-   "time": "2026-11-26T09:18:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRFFpM0tuTDFlZ2FaREJjeEdYQlRLbkgzSHlodjQ5VU9RaFN3dGF2SEpZUDdJWmVuaGY5TjFNY0RUZEV5ZW40TnhLNUtmVnhrRVRxVUNIczJ0SWJ4UWp5bkJYWnZ4azQ?oc=5"
-  },
-  {
-   "title": "오를 때는 '코스피 5000', 내릴 때는 '미국 탓'?",
-   "source": "한국NGO신문",
-   "time": "2026-11-27T21:31:43+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SkhZRzA4cnkwTExtM0hfY0RjcnpNRjl4UENDN3g2YUkyaDJxSXdQUDlaWFhwUy1vZHZjLWw5OXIzTzZxanRJenMyU1JjVXJMeXg1MHNhQ0hBaEpsdzlhYUZqMkUyRkNW?oc=5"
-  },
-  {
-   "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑",
-   "source": "매일경제 마켓",
-   "time": "2026-11-28T03:12:32+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0cmxuWTZUMkJWUWtvU2VCYTZaNGhJcjRPX0xudHREQV8wQTlHeS1HYl9HSjhtZmJIcnlaX2xrUm5wT283WS1GSHVmeHlkOVFzQUE?oc=5"
-  },
-  {
-   "title": "“코스피, 3500이 적정”…버핏지수로는 지금도 ‘심각한 고평가’",
-   "source": "중앙일보",
-   "time": "2026-11-25T17:12:51+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4dnV0MTZZNEstbHVHRVI4ZFBIOXpLUmthZUdCekRhYllxZWRmNFpOaU50Q09sNEs0NURLcWV0MEhtaEVnNnNwTkxHR2JTbDlVN2FqbndB?oc=5"
-  },
-  {
-   "title": "증안펀드 투입 기대감에, 코스피 4% 코스닥 8% 올라",
-   "source": "Chosunbiz",
-   "time": "2026-11-28T00:34:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzFoR2ZxdUE4YkFRSzh1SU1jU3BoRkJXeWlwd0g1RFptdlZwSkhkSnF4YWZQZTFVZEo5ZVQ2dnRtT1RZZ1FrSlRvN1kwV0lqZnNoSU84eEpFbmJ5T0pkOFdtMm9MTlF6d3JVc2o3b0Vjc2RsOXBxMFVfSFVVN2pKT3A4T1lXcTdm0gGcAUFVX3lxTFBuM3JMb2p1TVRjdS1CaE9lRHhteURvT0hJUkZzUHBfeVdJd0FGdmdFT204WGt4V2poRUtSblVscnlKaU54dkM2RzN0V1RaNm5YQWJra3AtcmhMWFRsUFN6UDFDOWZONXlRb3FTX3lrZ1B1Qy1idS1Ta0J2RkJtQTlVcl9lOGttaXBBM205dTk1cGFQNm5LVmtpVlQzRg?oc=5"
-  },
-  {
-   "title": "코스피 4,3%↑, 4,900선 마감...코스닥 8.1%↑, 700선 회복",
-   "source": "티제이비",
-   "time": "2026-11-27T15:50:22+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JQTZwVWxkN2h1UjRFRHZxak40U0o5Y2pzZkZ6NDdYcHAzeksxdGJ2bFYxbDYwUE0ydEFsakpfbXVpVEY1YjVoQi03aFBtRjB0aEd2TmEzU3hEbTM1LTJFUGVn?oc=5"
-  },
-  {
-   "title": "AI 거품론 뚫고…\"내년에 코스피 ○○○○까지 간다\" 전망",
-   "source": "한국경제",
-   "time": "2026-11-26T13:55:04+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zd0wtTWxiTURaWk1FNTNoa1JCWGVDS0czUEIzNmpyNWl1SG54TE54NFFyWk5NWXRJSjJyMFNwUVZ1STdxanJhZU4xUGY4UG1qdENZT1ctemMxUQ?oc=5"
-  },
-  {
-   "title": "2026년11월27일(금) 비트코인 시황 및 주말 시황",
-   "source": "네이버 프리미엄콘텐츠",
-   "time": "2026-11-27T21:06:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlBMb1VaNDVaWFc4VzhXNU84UGdFd0pTbWVfNFVHNnpGeDZxbUJUSEsxakVYaDZ1blNfX3M2MDVOdkZ1TDk2NEVtSl9UcmRoN0Itajg3NEVIbVpiZGhWNkNDYXRTSS11eXc2V2tmSnZzZkNLRGxoZ1RQWUZraGtQbk9n?oc=5"
-  },
-  {
-   "title": "코스피·코스닥 동반 급등…외국인 순매수",
-   "source": "KBS 뉴스",
-   "time": "2026-11-27T17:01:00+09:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBYllXV2ZfNUJoNjFGS0JtNkc3dVlKSzRsb00ycl8zaGR5dHFWVzVMSXJlZExQZFRKeDdIVlZUcUxSRVY0UzY1OWF3SUFmWldXb1FkSWpRZkY5VmM?oc=5"
-  }
- ]
+ "news": []
 }
